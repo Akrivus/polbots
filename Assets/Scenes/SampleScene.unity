@@ -768,13 +768,13 @@ MonoBehaviour:
     and popular references.\n\nExplore various regional powers interacting with their
     neighbors.\n\nOnly use the listed countries. Do not abbreviate names.\n\nFormat:\nTitle:
     Generate a catchy title.\nEvent: Reference an event in history for additional
-    context.\nCountries: {0}\nScenario: Provide background and exposition.\nResolution:
-    Provide intended resolution. \nDynamics:\n- Describe character dynamics and personality
-    traits.\n- Use descriptive language and metaphors for added depth.\nComedy:\n-
-    Be descriptive for optimal comedic delivery.\n- Exaggerate character traits,
-    include punchlines.\n \nUse the following messages as inspiration for your next
-    topic\nSpeak in an instructional tone.\nOutput only plain text. Do not output
-    markdown.\n\nMessages:"
+    context.\nCountries: Choose no more than seven countries; {0}.\nScenario: Provide
+    background and exposition.\nResolution: Provide intended resolution. \nDynamics:\n-
+    Describe character dynamics and personality traits.\n- Use descriptive language
+    and metaphors for added depth.\nComedy:\n- Be descriptive for optimal comedic
+    delivery.\n- Exaggerate character traits, include punchlines.\n \nUse the following
+    messages as inspiration for your next topic\nSpeak in an instructional tone.\nOutput
+    only plain text. Do not output markdown.\n\nMessages:"
   useSocket: 0
   port: 22450
 --- !u!114 &988932130
