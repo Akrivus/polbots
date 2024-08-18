@@ -18,10 +18,12 @@ public class YoutubeScanner : MonoBehaviour
 
     private string liveChatId;
     private string nextPageToken;
+    private DateTime lastScan;
 
     public void Enable()
     {
         OnMessage += generator.ProduceStory;
+        lastScan = DateTime.Now;
         StartCoroutine(Scan());
     }
 
@@ -61,7 +63,7 @@ public class YoutubeScanner : MonoBehaviour
 
         if (!string.IsNullOrEmpty(nextPageToken))
             list.Items
-                .Where(x => x.Snippet.Type == "textMessageEvent")
+                .Where(x => x.Snippet.Type == "textMessageEvent" && x.Snippet.PublishedAt > lastScan)
                 .Select(x => x.Snippet.DisplayMessage)
                 .Where(x => CountryManager.names.Any((s) => x.Contains(s)))
                 .ToList()
@@ -70,6 +72,7 @@ public class YoutubeScanner : MonoBehaviour
             OnMessage(messages);
 
         nextPageToken = list.NextPageToken;
+        lastScan = DateTime.Now;
     }
 
     private IEnumerator RegisterLiveStream()
