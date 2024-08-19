@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: nl
   m_EditorClassIdentifier: 
   ISO3166: nl
-  Name: The Netherlands
+  Name: Netherlands
   Size: 1
   Language: en-US
   Voice: nl-NL-Standard-B
