@@ -765,8 +765,8 @@ MonoBehaviour:
     connotations.\n\nDescribe character dynamics and comedic strategies, using dark
     comedy, sarcasm, and edgy humor to convey historical allegories and cultural
     connections. Don't shy away from controversial topics, political incorrectness,
-    and popular references.\n\nExplore various regional powers interacting with their
-    neighbors.\n\nOnly use the listed countries. Do not abbreviate names.\n\nFormat:\nTitle:
+    and popular references.\n\nExplore the history of various regional powers interacting
+    with their neighbors.\n\nOnly use the listed countries. Do not abbreviate names.\n\nFormat:\nTitle:
     Generate a catchy title.\nEvent: Reference an event in history for additional
     context.\nCountries: Choose no more than seven countries; {0}.\nScenario: Provide
     background and exposition.\nResolution: Provide intended resolution. \nDynamics:\n-
@@ -790,7 +790,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CountryManager: {fileID: 1139745790}
-  generator: {fileID: 988932129}
 --- !u!1 &1139745784
 GameObject:
   m_ObjectHideFlags: 0
