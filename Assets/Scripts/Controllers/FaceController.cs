@@ -40,15 +40,13 @@ public class FaceController : MonoBehaviour
             faceRenderer.transform.localPosition,
             facePosition,
             Time.deltaTime * 8.0f);
-        if (target == null)
-            return;
-        LookAt(target.position);
     }
 
-    public void SetFace(Face face)
+    public void SetFace(Face face, Transform target = null)
     {
         var texture = Resources.Load<Texture>($"Faces/{face}");
         faceRenderer.material.mainTexture = texture;
+        if (target != null) LookAt(target.position);
     }
 
     public void LookAt(Vector3 target)

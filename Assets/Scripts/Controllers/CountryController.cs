@@ -26,7 +26,7 @@ public class CountryController : MonoBehaviour
     public IEnumerator Activate(ChatNode node)
     {
         foreach (var Controller in node.Reactions.Keys)
-            Controller.Face.SetFace(node.Reactions[Controller]);
+            Controller.Face.SetFace(node.Reactions[Controller], transform);
         action.text = node.Action;
         voice.clip = node.VoiceLine;
         voice.Play();
