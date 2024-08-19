@@ -57,7 +57,7 @@ public class StoryProducer : MonoBehaviour
                 "for a sitcom about geopolitics where the characters are countries. " +
                 "Focus on the humor and the relationships between the countries. " +
                 "\n\n" +
-                "Ideas:\n- " + string.Join("\n- ", Ideas))
+                "Random Idea:\n- " + Ideas[Random.Range(0, Ideas.Length)])
         }, "gpt-4o")).ContinueWith(GenerateStory);
     }
 
