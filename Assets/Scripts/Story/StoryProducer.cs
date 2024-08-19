@@ -34,6 +34,7 @@ public class StoryProducer : MonoBehaviour
     private void Awake()
     {
         if (!Youtube) return;
+        Youtube.OnMessage += ProduceStory;
         Youtube.Register();
     }
 

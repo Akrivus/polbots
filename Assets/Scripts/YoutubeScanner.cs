@@ -13,30 +13,19 @@ public class YoutubeScanner : MonoBehaviour
     [SerializeField]
     private CountryManager CountryManager;
 
-    [SerializeField]
-    private StoryProducer generator;
-
     private string liveChatId;
     private string nextPageToken;
-    private DateTime lastScan;
-
-    public void Enable()
-    {
-        OnMessage += generator.ProduceStory;
-        lastScan = DateTime.Now;
-        StartCoroutine(Scan());
-    }
-
-    public void Disable()
-    {
-        OnMessage -= generator.ProduceStory;
-    }
 
     public void Register()
     {
-        StoryQueue.Instance.OnQueueOpen += Enable;
-        StoryQueue.Instance.OnQueueClosed += Disable;
+        StoryQueue.Instance.OnQueueOpen += ScanForPrompts;
+        StoryQueue.Instance.OnQueueClosed += ScanForPrompts;
         StartCoroutine(RegisterLiveStream());
+    }
+
+    public void ScanForPrompts()
+    {
+        StartCoroutine(Scan());
     }
 
     private IEnumerator Scan()
@@ -46,11 +35,9 @@ public class YoutubeScanner : MonoBehaviour
         if (string.IsNullOrEmpty(liveChatId))
             yield break;
 
-        var url = $"https://www.googleapis.com/youtube/v3/liveChat/messages?liveChatId={liveChatId}&part=snippet&key={ApiKeys.GOOGLE}";
+        var url = $"https://www.googleapis.com/youtube/v3/liveChat/messages?liveChatId={liveChatId}&part=snippet&sort=date&key={ApiKeys.GOOGLE}";
         if (!string.IsNullOrEmpty(nextPageToken))
             url += $"&pageToken={nextPageToken}";
-
-        yield return new WaitUntil(() => OnMessage != null);
 
         var www = new WWW(url);
         yield return www;
@@ -61,23 +48,21 @@ public class YoutubeScanner : MonoBehaviour
         var list = JsonConvert.DeserializeObject<ChatMessageList>(www.text);
         var messages = "";
 
-        if (!string.IsNullOrEmpty(nextPageToken))
-            list.Items
-                .Where(x => x.Snippet.Type == "textMessageEvent" && x.Snippet.PublishedAt > lastScan)
-                .Select(x => x.Snippet.DisplayMessage)
-                .Where(x => CountryManager.names.Any((s) => x.Contains(s)))
-                .ToList()
-                .ForEach(x => messages += $"{x}\n");
+        list.Items
+            .Where(x => x.Snippet.Type == "textMessageEvent")
+            .Select(x => x.Snippet.DisplayMessage)
+            .Where(x => CountryManager.names.Any((s) => x.Contains(s)))
+            .ToList()
+            .ForEach(x => messages += $"{x}\n");
         if (!string.IsNullOrEmpty(messages))
             OnMessage(messages);
 
         nextPageToken = list.NextPageToken;
-        lastScan = DateTime.Now;
     }
 
     private IEnumerator RegisterLiveStream()
     {
-        var url = $"https://www.googleapis.com/youtube/v3/videos?part=liveStreamingDetails&id={ApiKeys.STREAM}&key={ApiKeys.GOOGLE}";
+        var url = $"https://www.googleapis.com/youtube/v3/videos?part=liveStreamingDetails&id=5NLYhTxLk0A&key={ApiKeys.GOOGLE}";
         var www = new WWW(url);
         yield return www;
 
@@ -89,6 +74,7 @@ public class YoutubeScanner : MonoBehaviour
             if (list.Items.Count == 0) yield break;
             var item = list.Items.First();
             liveChatId = item.LiveStreamingDetails.ActiveLiveChatId;
+            yield return Scan();
         }
     }
 }

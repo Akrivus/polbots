@@ -11,8 +11,8 @@ public class StoryQueue : MonoBehaviour
     public static StoryQueue Instance => _instance ??= FindObjectOfType<StoryQueue>();
     private static StoryQueue _instance;
 
-    public Action OnQueueOpen;
-    public Action OnQueueClosed;
+    public event Action OnQueueOpen;
+    public event Action OnQueueClosed;
 
     public ChatNodeTree Chat { get; private set; }
     public CountryManager CountryManager { get; private set; }
@@ -55,7 +55,7 @@ public class StoryQueue : MonoBehaviour
     {
         yield return new WaitForSeconds(1);
 
-        OnQueueOpen?.Invoke();
+        OnQueueOpen();
 
         titleCard.text = "Suggest topics in the chat.";
         stopwatch.Start();
@@ -69,7 +69,7 @@ public class StoryQueue : MonoBehaviour
         if (queue.TryDequeue(out var story))
         {
             titleCard.text = story.Title;
-            OnQueueClosed?.Invoke();
+            OnQueueClosed();
             yield return PlayStory(story);
         }
         else
