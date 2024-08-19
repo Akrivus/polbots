@@ -25,7 +25,6 @@ public class StoryQueue : MonoBehaviour
     private TextMeshProUGUI titleName;
 
     private ConcurrentQueue<Story> queue = new ConcurrentQueue<Story>();
-    private Stopwatch stopwatch = new Stopwatch();
 
     private void Awake()
     {
@@ -57,17 +56,15 @@ public class StoryQueue : MonoBehaviour
 
         OnQueueOpen();
 
-        titleCard.text = "Suggest topics in the chat.";
-        stopwatch.Start();
-
-        yield return new WaitUntil(() => queue.Count > 0
-            || stopwatch.Elapsed.TotalSeconds >= 30);
-        yield return Interstitual.Activate();
-
-        stopwatch.Reset();
+        if (queue.Count == 0)
+        {
+            titleCard.text = "Suggest topics in the chat.";
+            yield return new WaitForSeconds(30);
+        }
 
         if (queue.TryDequeue(out var story))
         {
+            yield return Interstitual.Activate();
             titleCard.text = story.Title;
             OnQueueClosed();
             yield return PlayStory(story);
@@ -76,6 +73,7 @@ public class StoryQueue : MonoBehaviour
         {
             Story.LoadOrGenerate();
         }
+        
         yield return PlayQueue();
     }
 

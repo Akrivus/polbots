@@ -18,7 +18,6 @@ public class YoutubeScanner : MonoBehaviour
 
     public void Register()
     {
-        StoryQueue.Instance.OnQueueOpen += ScanForPrompts;
         StoryQueue.Instance.OnQueueClosed += ScanForPrompts;
         StartCoroutine(RegisterLiveStream());
     }
