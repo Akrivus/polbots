@@ -41,7 +41,9 @@ public class YoutubeScanner : MonoBehaviour
         var www = new WWW(url);
         yield return www;
 
-        if (www.error != null)
+        StoryQueue.Instance.CanChatSuggestTopics = www.error == null;
+
+        if (!StoryQueue.Instance.CanChatSuggestTopics)
             yield break;
 
         var list = JsonConvert.DeserializeObject<ChatMessageList>(www.text);
@@ -61,12 +63,17 @@ public class YoutubeScanner : MonoBehaviour
 
     private IEnumerator RegisterLiveStream()
     {
-        var url = $"https://www.googleapis.com/youtube/v3/videos?part=liveStreamingDetails&id=5NLYhTxLk0A&key={ApiKeys.GOOGLE}";
+        var url = $"https://www.googleapis.com/youtube/v3/videos?part=liveStreamingDetails&id={ApiKeys.STREAM}&key={ApiKeys.GOOGLE}";
         var www = new WWW(url);
         yield return www;
 
-        if (www.error != null)
-            Debug.LogError(www.text);
+        StoryQueue.Instance.CanChatSuggestTopics = www.error == null;
+
+        if (!StoryQueue.Instance.CanChatSuggestTopics)
+        {
+            Debug.LogError(www.error);
+            yield break;
+        }
         else
         {
             var list = JsonConvert.DeserializeObject<VideoList>(www.text);

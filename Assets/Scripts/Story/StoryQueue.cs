@@ -4,6 +4,7 @@ using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.Linq;
 using TMPro;
+using UnityEditor;
 using UnityEngine;
 
 public class StoryQueue : MonoBehaviour
@@ -17,6 +18,7 @@ public class StoryQueue : MonoBehaviour
     public ChatNodeTree Chat { get; private set; }
     public CountryManager CountryManager { get; private set; }
     public StoryGenerator Generator { get; private set; }
+    public bool CanChatSuggestTopics { get; set; }
 
     [SerializeField]
     private TextMeshProUGUI titleCard;
@@ -56,10 +58,16 @@ public class StoryQueue : MonoBehaviour
 
         OnQueueOpen();
 
-        if (queue.Count == 0)
+        if (queue.Count == 0 && CanChatSuggestTopics)
         {
             titleCard.text = "Suggest topics in the chat.";
             yield return new WaitForSeconds(30);
+        }
+        else
+        {
+            titleCard.text = "Generating...";
+            Story.LoadOrGenerate();
+            yield return new WaitUntil(() => queue.Count > 0);
         }
 
         if (queue.TryDequeue(out var story))
@@ -68,10 +76,6 @@ public class StoryQueue : MonoBehaviour
             titleCard.text = story.Title;
             OnQueueClosed();
             yield return PlayStory(story);
-        }
-        else
-        {
-            Story.LoadOrGenerate();
         }
         
         yield return PlayQueue();

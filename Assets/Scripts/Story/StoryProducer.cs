@@ -23,6 +23,9 @@ public class StoryProducer : MonoBehaviour
     [SerializeField, TextArea(3, 30)]
     private string Prompt;
 
+    [SerializeField, TextArea]
+    private string[] Ideas;
+
     [SerializeField]
     private bool useSocket = true;
 
@@ -51,9 +54,10 @@ public class StoryProducer : MonoBehaviour
         ApiKeys.API.ChatEndpoint.GetCompletionAsync(new ChatRequest(new List<Message>
         {
             new Message(Role.System, "Write a short, one-sentence episode synopsis " +
-                "for a sitcom about geopolitics where the characters are countries." +
+                "for a sitcom about geopolitics where the characters are countries. " +
+                "Focus on the humor and the relationships between the countries. " +
                 "\n\n" +
-                "Tip: Explore various regional powers interacting with their neighbors.")
+                "Ideas:\n- " + string.Join("\n- ", Ideas))
         }, "gpt-4o")).ContinueWith(GenerateStory);
     }
 

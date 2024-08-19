@@ -775,6 +775,21 @@ MonoBehaviour:
     delivery.\n- Exaggerate character traits, include punchlines.\n \nUse the following
     messages as inspiration for your next topic\nSpeak in an instructional tone.\nOutput
     only plain text. Do not output markdown.\n\nMessages:"
+  Ideas:
+  - America, China, or Russia proselytizing its national ideology (e.g. capitalism,
+    Maoism, etc) to its neighbors (e.g. Latin America, Vietnam, Ukraine, etc.)
+  - Rivalries between regional powers (e.g. Israel and Iran, China and Vietnam, or
+    Qatar and UAE.)
+  - Border disputes (e.g. America and Mexico, Israel and Palestine, etc.)
+  - Global and regional conventions and summits (e.g. G7, NATO, etc.)
+  - History lessons (e.g. the Baltics and Ancient Rome.)
+  - British shenanigans (e.g. Commonwealth Club, Brexit, The Troubles.)
+  - Olympic fails and successes (e.g. doping controversy.)
+  - Controversial decisions (e.g. Ecuador switches to Bitcoin, Canada legalizes cannabis.)
+  - Historical events (e.g. American Civil War, Prohibition, Pearl Harbor.)
+  - Countries trying to repeat history and absolutely failing it (e.g. Italy tries
+    to become an empire again, Mongolia acting smug, someone new tries to invade
+    Afghanistan.)
   useSocket: 0
   port: 22450
 --- !u!114 &988932130
