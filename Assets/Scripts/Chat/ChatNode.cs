@@ -25,7 +25,7 @@ public class ChatNode
         Controller = node.Controller;
         Name = node.Name;
 
-        Action = regex.Match(node.Text).Groups[1].Value;
+        Action = regex.Match(node.Text).Groups[1].Value.ToLower();
         Text = regex.Replace(node.Text, " ");
         VoiceLine = node.VoiceLine;
 

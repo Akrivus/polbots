@@ -43,7 +43,7 @@ public class Interstitial : MonoBehaviour
         yield return new WaitForSeconds(1);
         log.text = RandomSplash;
         yield return new WaitForSeconds(1);
-        log.text = "Subscribe.";
+        log.text = "Like & Subscribe!";
         yield return new WaitForSeconds(2);
     }
 

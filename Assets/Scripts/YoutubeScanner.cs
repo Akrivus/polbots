@@ -8,6 +8,8 @@ using UnityEngine;
 
 public class YoutubeScanner : MonoBehaviour
 {
+    public DateTime NextScanTime => lastScanTime.AddMinutes(pollingInterval);
+
     public Action<string> OnMessage;
 
     [SerializeField]
@@ -23,8 +25,8 @@ public class YoutubeScanner : MonoBehaviour
 
     public void Register()
     {
+        lastScanTime = DateTime.Now;
         StoryQueue.Instance.OnQueueClosed += ScanForPrompts;
-        StartCoroutine(RegisterLiveStream());
     }
 
     public void ScanForPrompts()
@@ -35,7 +37,7 @@ public class YoutubeScanner : MonoBehaviour
     private IEnumerator Scan()
     {
         StoryQueue.Instance.CanChatSuggestTopics = ApiKeys.STREAM != null 
-            && DateTime.Now < lastScanTime.AddSeconds(pollingInterval);
+            && DateTime.Now > NextScanTime;
 
         if (!StoryQueue.Instance.CanChatSuggestTopics)
             yield break;
