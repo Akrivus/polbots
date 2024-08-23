@@ -126,7 +126,11 @@ public class StoryQueue : MonoBehaviour
         stopwatch.Start();
 
         titleCard.text = $"Generating{dots}";
-        Story.LoadAndPlay();//OrGenerate();
+#if UNITY_EDITOR
+        Story.LoadAndPlay();
+#else
+        Story.LoadOrGenerate();
+#endif
 
         yield return new WaitUntil(() => queue.Count > 0
             || stopwatch.Elapsed.TotalSeconds > 5);
