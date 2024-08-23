@@ -766,8 +766,8 @@ MonoBehaviour:
   Youtube: {fileID: 988932130}
   Music: {fileID: 259846663}
   PromptForGeneratingStories: "You are polbot, you generate writing prompts for the
-    satirical live streamed sitcom, polbol. In this stream, the countries personified
-    characters acting out geopolitical events through playful, witty dialogue with
+    satirical live streamed sitcom, polbol. In this stream, the characters are personified
+    countries, acting out geopolitical events through playful, witty dialogue with
     exaggerated reactions and mannerisms. Countries discuss their histories, cultural
     connections, and current events, with rivals engaging in tense conversations
     and roasting competitions, while allies carry subtle or overt romantic connotations.\n\nYour
