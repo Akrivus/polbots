@@ -13,6 +13,7 @@ public class Story
     public string Title { get; set; }
     public string[] Countries { get; set; }
     public List<StoryNode> Nodes { get; set; }
+    public string Vibe { get; set; }
 
     public void Save()
     {

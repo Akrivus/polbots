@@ -19,6 +19,9 @@ public class StoryProducer : MonoBehaviour
     [SerializeField]
     private YoutubeScanner Youtube;
 
+    [SerializeField]
+    private MusicStateMachine Music;
+
     [SerializeField, TextArea(3, 30)]
     private string PromptForGeneratingStories;
 
@@ -70,9 +73,9 @@ public class StoryProducer : MonoBehaviour
 
     private IEnumerator GenerateStory(string message)
     {
-        var names = CountryManager.countries.Select(c => c.Name).ToArray();
-        var prompt = string.Format(PromptForGeneratingStories,
-            string.Join(", ", names), message);
+        var vibes = string.Join(", ", Music.Vibes.Select(v => v.Key).ToArray());
+        var names = string.Join(", ", CountryManager.countries.Select(c => c.Name).ToArray());
+        var prompt = string.Format(PromptForGeneratingStories, vibes, names, message);
 
         var task = ApiKeys.API.ChatEndpoint.GetCompletionAsync(new ChatRequest(new List<Message>
         {

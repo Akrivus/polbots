@@ -12,7 +12,7 @@ public class StoryGenerator : MonoBehaviour
 {
     private static List<string> ReservedHeaders = new List<string>
     {
-        "Title", "Event", "Countries", "Scenario", "Resolution", "Dynamics", "Comedy"
+        "Title", "Vibe", "Event", "Countries", "Scenario", "Resolution", "Dynamics", "Comedy"
     };
 
     public CountryManager CountryManager { get; private set; }
@@ -128,6 +128,7 @@ public class StoryGenerator : MonoBehaviour
                 .Select(n => n.Name)
                 .Distinct()
                 .ToArray(),
+            Vibe = template["Vibe"],
         };
         story.Save();
         StoryQueue.Instance.AddStoryToQueue(story);

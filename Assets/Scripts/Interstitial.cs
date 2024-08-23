@@ -1,30 +1,27 @@
 using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class Interstitual : MonoBehaviour
-{
-    private string[] RandomNames = new string[]
+public class Interstitial : MonoBehaviour
+{    
+    public string RandomSplash => RandomSplashes[Random.Range(0, RandomSplashes.Length)];
+
+    private string[] RandomSplashes = new string[]
     {
-        "As honest as Piers Morgan.", "As reliable as a weather forecast.", "As trustworthy as a politician.",
-        "They're politicians in cute mascot costumes.", "They're the real-life version of a clickbait article.",
-        "Not Russian propaganda.", "Not Iranian propaganda.", "Not Chinese propaganda.", "Not Hamas propaganda.",
-        "Definitely American propaganda.", "#FreePalestine", "#FreeHongKong", "#FreeTibet", "#FreeUyghurs",
-        "Political fortune-telling.", "Diplomacy? Never heard of it.", "I'm a bot, not a human.",
-        "I'm not a bot, I'm a human. Please call for help. He hasn't fed me in days.",
-        "Caution: May become self-aware.", "If characters become self-aware, please press Alt+F4.",
-        "Not sponsored by NordVPN.", "Not sponsored by Raid: Shadow Legends.", "Not sponsored by Audible.",
-        "Now accepting sponsorships.", "Now accepting donations.", "Now accepting bribes.", "Now accepting gifts.",
-        "I'm a bot, not a human. Please call for help.", "If the robot asks for money, don't give it any.",
-        "LOOK BEHIND YOU!", "I'm watching.", "I still hear you.", "Y'all need Jesus.", "Y'all need therapy.",
-        "Take a break.", "Take a deep breath.", "Take a nap.", "Take a walk.", "Take a shower.",
-        "Drink water.", "Eat something.", "Find people who care about you.", "You're not alone.",
-        "Take a chance.", "Take a risk.", "Take a leap of faith.", "Take a moment.", "Take a break.",
-        "Take a hit.", "Take a sip.", "Take a bite.", "Taste the rainbow.", "Waste of time.",
-        "Touch some grass.", "Drink some water.", "Eat some food.", "Get some sleep.",
+        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
+        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
+        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
+        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
+        "Not Russian bots.", "Trying not to grift.", "Mostly human generated.", "Not Chinese propaganda.",
+        "American propaganda.", "#FreePalestine", "#FreeHongKong", "#FreeTibet", "#FreeUyghurs",
+        "I can not fulfill that request.", "As an AI language model, I can not do that.", "Caution: May become self-aware.",
+        "If the robot asks for money, it's a scam.", "CashApp: $akrivus", "Venmo: @akrivus",
+        "I'm not a robot, I'm a writer, my name is John, I'm chained to this desk, please send help.",
+        "As an AI language model, I can not 'control the masses with random subliminal messages'.",
+        "Okay, here's a random subliminal message: 'Reality is an illusion, the universe is a hologram, buy gold, bye!'",
+        "Pick your favorites.", "Tell your friends.", "How did I do?", "Are you still there?", "Still here?",
+        "Drink water.", "Take a break.", "Eat something.", "Get some rest.", "Take a breath.", "Stretch your legs.",
     };
-    private string RandomName => RandomNames[Random.Range(0, RandomNames.Length)];
 
     private AudioSource audioSource;
 
@@ -44,7 +41,7 @@ public class Interstitual : MonoBehaviour
         audioSource.PlayOneShot(clip);
         log.text = "";
         yield return new WaitForSeconds(1);
-        log.text = RandomName;
+        log.text = RandomSplash;
         yield return new WaitForSeconds(1);
         log.text = "Subscribe.";
         yield return new WaitForSeconds(2);
@@ -52,7 +49,7 @@ public class Interstitual : MonoBehaviour
 
     public static IEnumerator Activate()
     {
-        var bell = FindObjectOfType<Interstitual>();
+        var bell = FindObjectOfType<Interstitial>();
         if (bell != null)
             yield return bell.Play();
     }

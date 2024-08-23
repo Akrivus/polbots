@@ -34,9 +34,10 @@ public class YoutubeScanner : MonoBehaviour
 
     private IEnumerator Scan()
     {
-        StoryQueue.Instance.CanChatSuggestTopics = false;
+        StoryQueue.Instance.CanChatSuggestTopics = ApiKeys.STREAM != null 
+            && DateTime.Now < lastScanTime.AddSeconds(pollingInterval);
 
-        if (DateTime.Now < lastScanTime.AddSeconds(pollingInterval))
+        if (!StoryQueue.Instance.CanChatSuggestTopics)
             yield break;
         if (string.IsNullOrEmpty(liveChatId))
             yield return RegisterLiveStream();

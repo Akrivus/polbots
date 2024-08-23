@@ -267,16 +267,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   queue: {fileID: 1139745792}
   player: {fileID: 259846662}
-  interstitialVolume: 0.5
-  backgroundVolume: 0.1
-  interstitialMusic:
-  - {fileID: 8300000, guid: 234bba17bebaa444a88dd6c133c9f5b7, type: 3}
-  - {fileID: 8300000, guid: c1f51de046de7f14ba0dbe870d99aa91, type: 3}
-  - {fileID: 8300000, guid: ba2af4c233645204086e4908fa887c4d, type: 3}
-  - {fileID: 8300000, guid: 0e36b31480558d3418b4c5d7fa9a22cb, type: 3}
-  backgroundMusic:
-  - {fileID: 8300000, guid: d4ff3cd020b04114ba2026eb18bd411c, type: 3}
-  - {fileID: 8300000, guid: ee687885bde69b94da610c12e6e43be1, type: 3}
+  loudVolume: 0.5
+  backVolume: 0.1
+  music:
+  - {fileID: 8300000, guid: 95dacc751a5af354b82a395c30c61ddb, type: 3}
+  - {fileID: 8300000, guid: dba0742a89ff59646ba6b171ea4d4614, type: 3}
+  vibes:
+  - {fileID: 11400000, guid: de03b3bc23b45964fbbbe61a46d1afc7, type: 2}
+  - {fileID: 11400000, guid: 2ecd6c5313d23ca428b24dc0c83209c0, type: 2}
+  - {fileID: 11400000, guid: dd00b0af74fd31d49957cc70fa79f2c3, type: 2}
+  - {fileID: 11400000, guid: fcbee170299dbf149b6604fbc2d1eb7c, type: 2}
+  - {fileID: 11400000, guid: dc41567709d34384280ef61894939027, type: 2}
+  - {fileID: 11400000, guid: 9af59e91306ef984f8f3327de41edbdf, type: 2}
+  - {fileID: 11400000, guid: 23a6e01342b2dd14db7eaec1c19ff12f, type: 2}
+  - {fileID: 11400000, guid: 61c993c6f1bc4b0488f61d9e1e72d2ea, type: 2}
+  - {fileID: 11400000, guid: c54678c3e030f8f45a32e8a6a848965e, type: 2}
+  - {fileID: 11400000, guid: 23a3d9af313145b4f87a99cdb3c83678, type: 2}
 --- !u!114 &259846664
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -757,7 +763,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CountryManager: {fileID: 1139745790}
-  Youtube: {fileID: 988932130}
+  Youtube: {fileID: 0}
+  Music: {fileID: 259846663}
   PromptForGeneratingStories: "You are polbot, you generate writing prompts for the
     satirical live streamed sitcom, polbol. In this stream, the countries personified
     characters acting out geopolitical events through playful, witty dialogue with
@@ -775,19 +782,20 @@ MonoBehaviour:
     the countries, providing context and driving the narrative.\nExample: The Cuban
     Missile Crisis, 1962\n## Title:\nGenerate a catchy and engaging title that encapsulates
     the theme or conflict of the skit. The title should hint at the historical or
-    cultural context, while also being humorous or ironic. \nExample: The Cuban Mojito
-    Crisis\n## Countries:\nChoose up to seven countries from the list: {0}.\nOnly
-    use the listed countries. Do not abbreviate names.\nSelect countries that have
-    a significant historical, cultural, or political connection to the event. Ensure
-    that their relationships\u2014whether adversarial or cooperative\u2014are relevant
-    to the scenario.\n\n## Scenario:\nProvide a detailed background and exposition
-    for the skit. Describe the setting, the circumstances leading up to the event,
-    and the initial interactions between the countries. The scenario should set the
-    stage for conflict, misunderstanding, or collaboration, and establish the tone
-    for the skit.\n\n## Resolution:\nDescribe the intended resolution of the skit.
-    The resolution should reflect the complexities of international relations, whether
-    through irony, an unexpected twist, or a darkly humorous outcome. It should tie
-    back to the event and provide a satisfying or thought-provoking conclusion.\n\n##
+    cultural context, while also being humorous or ironic.\nExample: The Cuban Mojito
+    Crisis\n## Vibe:\nChoose one vibe: {0}\nVibes decide the kind of music the plays
+    when the scene starts.\n## Countries:\nChoose up to seven countries from the
+    list: {1}.\nOnly use the listed countries. Do not abbreviate names.\nSelect countries
+    that have a significant historical, cultural, or political connection to the
+    event. Ensure that their relationships\u2014whether adversarial or cooperative\u2014are
+    relevant to the scenario.\n\n## Scenario:\nProvide a detailed background and
+    exposition for the skit. Describe the setting, the circumstances leading up to
+    the event, and the initial interactions between the countries. The scenario should
+    set the stage for conflict, misunderstanding, or collaboration, and establish
+    the tone for the skit.\n\n## Resolution:\nDescribe the intended resolution of
+    the skit. The resolution should reflect the complexities of international relations,
+    whether through irony, an unexpected twist, or a darkly humorous outcome. It
+    should tie back to the event and provide a satisfying or thought-provoking conclusion.\n\n##
     Dynamics:\n- Delve into the character dynamics, highlight the personalities,
     historical relationships, and cultural traits of each country.\n- Use descriptive
     language and metaphors to enhance the depth of the characters and their interactions.
@@ -802,7 +810,7 @@ MonoBehaviour:
     and culturally relevant jokes that resonate with the audience, ensuring the comedy
     is sharp, relevant, and occasionally provocative.\n\nUse the user-submitted topics
     as inspiration. Maintain an instructional tone throughout.\nOutput only plain
-    text. Do not output markdown.\n\nTopics:\n{1}"
+    text. Do not output markdown.\n\nTopics:\n{2}"
   PromptForGeneratingPrompts: 'Write an idea for a sitcom scene between personified
     countries, based on a historical event or connection through shared culture,
     mutual history, wars, rivalries, or alliances.
@@ -900,6 +908,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 162058cb362f38c44be242f64d905a80, type: 2}
   - {fileID: 11400000, guid: a91a0cd4f2ac7824aa8e643164c269e5, type: 2}
   - {fileID: 11400000, guid: a7c917524d0b2aa419a462339141fa3b, type: 2}
+  - {fileID: 11400000, guid: cf9f16323048313488b9b2dcfbe34b27, type: 2}
+  - {fileID: 11400000, guid: 82da9356323edbf43be595717b242392, type: 2}
   - {fileID: 11400000, guid: 88137a2cc90116b4ab0c20adfdefb0bc, type: 2}
   - {fileID: 11400000, guid: 6b2b73df3e7ff754b961d416dfc8b668, type: 2}
   - {fileID: 11400000, guid: ea45466c85358164ca43ca390e4ff36e, type: 2}
@@ -929,10 +939,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: de0697053ea140b45a4264e2a7742353, type: 2}
   - {fileID: 11400000, guid: 2370eb073b41aa44192af2ced0e64630, type: 2}
   - {fileID: 11400000, guid: 1e811f0256644ab4ebb24702e2e22f18, type: 2}
+  - {fileID: 11400000, guid: 4086144398a25584e9d9d74f67511c68, type: 2}
   - {fileID: 11400000, guid: bd79eec3844ba564394dc53c2b81cc69, type: 2}
   - {fileID: 11400000, guid: b65eed1f9dfd6004f8f5492eecc5124d, type: 2}
   - {fileID: 11400000, guid: 2264fb16ba0fd1147af630bd0bc62699, type: 2}
   - {fileID: 11400000, guid: bc4915d7b6441814b94ba58f05d8817e, type: 2}
+  - {fileID: 11400000, guid: ec008b8491b88a346b5374da590d8915, type: 2}
   - {fileID: 11400000, guid: b0bc6e64cefb6444387a8fd7f461060b, type: 2}
   - {fileID: 11400000, guid: ca5dcd288b0f9114ca84037715419183, type: 2}
   - {fileID: 11400000, guid: 08622eb772d2bc24b8f011a629f690f1, type: 2}
@@ -995,10 +1007,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7e78201f8e338a743abc89eb2143f0ad, type: 2}
   - {fileID: 11400000, guid: eda81846908fb904ca73e7684634e057, type: 2}
   - {fileID: 11400000, guid: 391f993dfa20e7948af423cd97c74c2d, type: 2}
+  - {fileID: 11400000, guid: d5b5c4ba41989664e987a6f0e4ff5f4a, type: 2}
   - {fileID: 11400000, guid: 864ae6540a921444a93434f89e55b528, type: 2}
   - {fileID: 11400000, guid: c2e54fea309281243a4b4d1dcb8f865b, type: 2}
   - {fileID: 11400000, guid: 2dabee6e49ba62947ab80a548ea646d2, type: 2}
   - {fileID: 11400000, guid: 8ffeca2d284765b49857b00a25854896, type: 2}
+  - {fileID: 11400000, guid: b854b4014a2a8b444a81920786fb07c8, type: 2}
   - {fileID: 11400000, guid: f6b757a5d9f220048bbf1d9379ba5341, type: 2}
   prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   group: {fileID: 835387938}
@@ -1025,12 +1039,13 @@ MonoBehaviour:
     or stage instructions\u2014only dialogue.\n- Use one country per line of dialogue.\n-
     Spell out sounds or actions such as 'haha' or 'ugh.'\n- Follow the dialogue format
     exactly as shown below.\n\n## Dialogue Format Example:\n```\nTitle: America and
-    Russia Greet Each Other\nUnited States: Hey Russia, how are you?\nRussia: Good!\nUnited
-    States: Haha! How are those sanctions holding up?\nRussia: Ugh, Mother Russia
-    cries icy tears.\n```\n\n# Additional Notes:\n- Ensure dialogues are cohesive
-    and maintain character continuity.\n- Focus on making the humor and character
-    dynamics vivid and engaging.\n- Keep the dialogues true to the historical or
-    cultural context, if applicable, while allowing for creative comedic interpretation."
+    Russia Greet Each Other\nVibe: Playful\n\nUnited States: Hey Russia, how are
+    you?\nRussia: Good!\nUnited States: Haha! How are those sanctions holding up?\nRussia:
+    Ugh, Mother Russia cries icy tears.\n```\n\n# Additional Notes:\n- Ensure dialogues
+    are cohesive and maintain character continuity.\n- Focus on making the humor
+    and character dynamics vivid and engaging.\n- Keep the dialogues true to the
+    historical or cultural context, if applicable, while allowing for creative comedic
+    interpretation."
   PromptForGeneratingFaces: 'Using the provided messages as context, identify the
     facial expression of the listed characters in the scene by choosing one of the
     listed faces.
@@ -1088,6 +1103,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   titleCard: {fileID: 545085078}
   titleName: {fileID: 1948082286}
+  music: {fileID: 259846663}
+  batchSize: 3
 --- !u!114 &1139745793
 MonoBehaviour:
   m_ObjectHideFlags: 0

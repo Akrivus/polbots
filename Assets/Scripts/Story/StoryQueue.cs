@@ -27,9 +27,10 @@ public class StoryQueue : MonoBehaviour
     private TextMeshProUGUI titleName;
 
     [SerializeField]
-    private int batchSize = 3;
+    private MusicStateMachine music;
 
     private ConcurrentQueue<Story> queue = new ConcurrentQueue<Story>();
+    private Stopwatch stopwatch = new Stopwatch();
 
     private void Awake()
     {
@@ -71,18 +72,11 @@ public class StoryQueue : MonoBehaviour
             yield return new WaitForSeconds(30);
         }
 
-        titleCard.text = "Generating...";
-
-        if (queue.Count == 0)
-        {
-            for (int i = 0; i < batchSize; i++)
-                Story.LoadOrGenerate();
-            yield return new WaitUntil(() => queue.Count > 0);
-        }
+        yield return WaitForQueue();
 
         if (queue.TryDequeue(out var story))
         {
-            yield return Interstitual.Activate();
+            yield return Interstitial.Activate();
             titleCard.text = story.Title;
             OnQueueClosed();
             yield return PlayStory(story);
@@ -111,9 +105,11 @@ public class StoryQueue : MonoBehaviour
             Chat.Add(new ChatNode(CountryManager, node));
 
         CountryManager.CenterCamera();
+        CountryManager.SetCamera();
 
         titleCard.text = "";
         titleName.text = story.Title;
+        music.PlayVibe(story.Vibe);
 
         yield return Chat.Play();
         yield return new WaitForSeconds(1);
@@ -121,5 +117,23 @@ public class StoryQueue : MonoBehaviour
         titleName.text = "";
 
         CountryManager.DespawnCountries();
+    }
+
+    private IEnumerator WaitForQueue(int rollover = 0)
+    {
+        var dots = new string('.', rollover % 4 + 1);
+
+        stopwatch.Start();
+
+        titleCard.text = $"Generating{dots}";
+        Story.LoadAndPlay();//OrGenerate();
+
+        yield return new WaitUntil(() => queue.Count > 0
+            || stopwatch.Elapsed.TotalSeconds > 5);
+
+        stopwatch.Reset();
+
+        if (queue.Count == 0)
+            yield return WaitForQueue(++rollover);
     }
 }

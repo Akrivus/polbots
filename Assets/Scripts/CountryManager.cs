@@ -19,10 +19,25 @@ public class CountryManager : MonoBehaviour
     [SerializeField]
     public CountryController[] controllers;
 
+    private Vector3 cameraTarget;
+    private Vector3 cameraCenter;
+
     private void OnEnable()
     {
         names = countries.Select(c => c.Name).ToArray();
         controllers = new CountryController[0];
+    }
+
+    private void Update()
+    {
+        Camera.main.transform.rotation = Quaternion.Slerp(
+            Camera.main.transform.rotation,
+            Quaternion.LookRotation(cameraCenter - Camera.main.transform.position),
+            Time.deltaTime);
+        Camera.main.transform.position = Vector3.Lerp(
+            Camera.main.transform.position,
+            cameraTarget,
+            Time.deltaTime);
     }
 
     public void SpawnCountries(Country[] countries)
@@ -66,13 +81,14 @@ public class CountryManager : MonoBehaviour
         var last = controllers[i].position;
 
         var distance = Vector3.Distance(first, last) + length / (i + 1f);
-        var center = (first + last) / 2f;
-        var position = new Vector3(center.x, 0, distance);
+        cameraCenter = (first + last) / 2f;
+        cameraTarget = new Vector3(cameraCenter.x, 0, distance);
+    }
 
-        Debug.DrawRay(center, Vector3.up, Color.red);
-
-        Camera.main.transform.position = position;
-        Camera.main.transform.LookAt(center);
+    public void SetCamera()
+    {
+        Camera.main.transform.LookAt(cameraCenter);
+        Camera.main.transform.position = cameraTarget;
     }
 
     public CountryController Get(string name)
