@@ -17,5 +17,5 @@ MonoBehaviour:
   Size: 1
   Language: en-US
   Voice: nb-NO-Standard-A
-  SpeakingRate: 0
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1
