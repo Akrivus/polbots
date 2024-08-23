@@ -30,7 +30,6 @@ public class CountryManager : MonoBehaviour
         controllers = new CountryController[countries.Length];
         for (var i = 0; i < countries.Length; ++i)
             SpawnCountry(countries[i], i);
-        CenterCamera();
     }
 
     public void DespawnCountries()
@@ -45,22 +44,32 @@ public class CountryManager : MonoBehaviour
         var fab = Instantiate(prefab, group)
             .GetComponent<CountryController>();
         fab.SetCountry(country);
-        fab.transform.localPosition = new Vector3(
+        fab.position = new Vector3(
             index * country.Size * 1.2f, 0, 0);
+        fab.manager = this;
         controllers[index] = fab;
     }
 
-    private void CenterCamera()
+    public void CenterCamera()
     {
         if (controllers.Length == 0)
             return;
 
-        var first = controllers[0].transform.position;
-        var last = controllers[controllers.Length - 1].transform.position;
+        var length = controllers.Length;
+        int i;
+        for (i = 0; i < length; ++i)
+            if (!controllers[i].IsActive)
+                break;
+        i = i - 1 < 0 ? 0 : i - 1;
 
-        var distance = Vector3.Distance(first, last) + 1f;
-        var center = (first + last) / 2;
+        var first = controllers[0].position;
+        var last = controllers[i].position;
+
+        var distance = Vector3.Distance(first, last) + length / (i + 1f);
+        var center = (first + last) / 2f;
         var position = new Vector3(center.x, 0, distance);
+
+        Debug.DrawRay(center, Vector3.up, Color.red);
 
         Camera.main.transform.position = position;
         Camera.main.transform.LookAt(center);

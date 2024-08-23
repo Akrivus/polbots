@@ -26,14 +26,21 @@ public class StoryQueue : MonoBehaviour
     [SerializeField]
     private TextMeshProUGUI titleName;
 
+    [SerializeField]
+    private int batchSize = 3;
+
     private ConcurrentQueue<Story> queue = new ConcurrentQueue<Story>();
 
     private void Awake()
     {
+        _instance = this;
         Generator = GetComponent<StoryGenerator>();
         CountryManager = GetComponent<CountryManager>();
         Chat = GetComponent<ChatNodeTree>();
+    }
 
+    private void Start()
+    {
         StartCoroutine(PlayQueue());
     }
 
@@ -63,10 +70,13 @@ public class StoryQueue : MonoBehaviour
             titleCard.text = "Suggest topics in the chat.";
             yield return new WaitForSeconds(30);
         }
-        else
+
+        titleCard.text = "Generating...";
+
+        if (queue.Count == 0)
         {
-            titleCard.text = "Generating...";
-            Story.LoadOrGenerate();
+            for (int i = 0; i < batchSize; i++)
+                Story.LoadOrGenerate();
             yield return new WaitUntil(() => queue.Count > 0);
         }
 
@@ -86,8 +96,21 @@ public class StoryQueue : MonoBehaviour
         var countries = story.Countries.Select((n) => CountryManager[n]).ToArray();
         CountryManager.SpawnCountries(countries);
 
+        var nodes = story.Nodes.Take(countries.Length);
+        for (int i = 0; i < nodes.Count(); i++)
+        {
+            var node = nodes.ElementAt(i);
+            var controller = CountryManager.controllers[i];
+
+            if (controller.Name != node.Name)
+                break;
+            controller.Show();
+        }
+
         foreach (var node in story.Nodes)
             Chat.Add(new ChatNode(CountryManager, node));
+
+        CountryManager.CenterCamera();
 
         titleCard.text = "";
         titleName.text = story.Title;

@@ -51,8 +51,8 @@ public class FaceController : MonoBehaviour
 
     public void LookAt(Vector3 target)
     {
-        if (target == null) return;
-        var dist = target.z - transform.position.z;
+        if (target == null || transform.position == target) return;
+        var dist = target.x - transform.position.x;
         if (dist > 0)
             facePosition = Vector3.back / 5f;
         else if (dist < 0)

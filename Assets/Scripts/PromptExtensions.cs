@@ -13,7 +13,10 @@ public static class PromptExtensions
             { "Countries", null }
         };
 
-        var lines = prompt.Split('\n');
+        var lines = prompt
+                    .Replace("#", string.Empty)
+                    .Replace("**", string.Empty)
+                    .Split('\n');
         string key = null;
 
         foreach (var line in lines)
@@ -23,8 +26,6 @@ public static class PromptExtensions
                 dict[key] += "\n" + line;
             else if (parts.Length > 1)
                 dict[parts[0]
-                    .Replace("#", string.Empty)
-                    .Replace("**", string.Empty)
                     .Trim()
                     ] = string.Join(":", parts.Skip(1))
                     .Trim();

@@ -11,8 +11,13 @@ public class CountryController : MonoBehaviour
     public float SpeakingRate => country.SpeakingRate;
     public float Pitch => country.Pitch;
 
+    public bool IsActive { get; private set; }
+
     public FaceController Face { get; private set; }
     public FlagController Flag { get; private set; }
+
+    public Vector3 position { get; set; }
+    public CountryManager manager { get; set; }
 
     [SerializeField]
     private AudioSource voice;
@@ -23,11 +28,34 @@ public class CountryController : MonoBehaviour
     [SerializeField]
     private Country country;
 
+    public void Hide()
+    {
+        transform.localPosition = position * 3f;
+        IsActive = false;
+    }
+
+    public void Show()
+    {
+        transform.localPosition = position;
+        IsActive = true;
+    }
+
+    public IEnumerator ShowEntrance()
+    {
+        IsActive = true;
+        yield return new WaitForSeconds(1.2f);
+    }
+
     public IEnumerator Activate(ChatNode node)
     {
         foreach (var Controller in node.Reactions.Keys)
             Controller.Face.SetFace(node.Reactions[Controller], transform);
         action.text = node.Action;
+
+        if (!IsActive)
+            yield return ShowEntrance();
+        manager.CenterCamera();
+
         voice.clip = node.VoiceLine;
         voice.Play();
         yield return new WaitForSeconds(node.VoiceLine.length);
@@ -40,24 +68,29 @@ public class CountryController : MonoBehaviour
         Flag = GetComponent<FlagController>();
     }
 
+    private void Start()
+    {
+        if (IsActive)
+            Show();
+        else
+            Hide();
+    }
+
     private void Update()
     {
         var time = Time.time * 0.4f;
-        var sin = Mathf.Abs(Mathf.Sin(time) * GetCurrentAmplitude());
+        var sin = Mathf.Abs(Mathf.Sin(time) * GetCurrentAmplitude()) * 0.5f;
+        var d = Time.deltaTime * (IsActive ? 1 : 0);
 
-        transform.localScale = Vector3.one + (Vector3.forward * sin);
+        transform.localScale = Vector3.one + Vector3.forward * sin;
+        transform.localPosition = new Vector3(
+            Mathf.Lerp(transform.localPosition.x, position.x, d),
+            transform.localScale.z - 1f, 0);
+
         Face.transform.localScale = new Vector3(
             1 / transform.localScale.x,
             1 / transform.localScale.y,
             1 / transform.localScale.z);
-
-        transform.position = new Vector3(
-            transform.position.x,
-            1f - transform.localScale.z,
-            transform.position.z);
-
-        transform.LookAt(Camera.main.transform);
-        transform.Rotate(0, -90, 0);
     }
 
     public void SetCountry(Country country)

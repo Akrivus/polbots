@@ -15,18 +15,14 @@ public class Interstitual : MonoBehaviour
         "I'm not a bot, I'm a human. Please call for help. He hasn't fed me in days.",
         "Caution: May become self-aware.", "If characters become self-aware, please press Alt+F4.",
         "Not sponsored by NordVPN.", "Not sponsored by Raid: Shadow Legends.", "Not sponsored by Audible.",
-        "Not sponsored by Honey.", "Not sponsored by Squarespace.", "Not sponsored by Skillshare.",
-        "Not sponsored by ExpressVPN.", "Not sponsored by Raycon.", "Not sponsored by Dollar Shave Club.",
-        "Not sponsored by CuriosityStream.", "Not sponsored by Surfshark.", "Not sponsored by Dashlane.",
         "Now accepting sponsorships.", "Now accepting donations.", "Now accepting bribes.", "Now accepting gifts.",
-        "Will code for food.", "Will code for coffee.", "Will code for sleep.", "Will code for money.",
-        "Hiring? Call me.", "Hey, I'm looking for a job.", "I'm a bot, not a human. Please call for help.",
-        "CashApp: $akrivus", "Venmo: @akrivus", "If the robot asks for money, don't give it any.",
+        "I'm a bot, not a human. Please call for help.", "If the robot asks for money, don't give it any.",
         "LOOK BEHIND YOU!", "I'm watching.", "I still hear you.", "Y'all need Jesus.", "Y'all need therapy.",
         "Take a break.", "Take a deep breath.", "Take a nap.", "Take a walk.", "Take a shower.",
         "Drink water.", "Eat something.", "Find people who care about you.", "You're not alone.",
         "Take a chance.", "Take a risk.", "Take a leap of faith.", "Take a moment.", "Take a break.",
         "Take a hit.", "Take a sip.", "Take a bite.", "Taste the rainbow.", "Waste of time.",
+        "Touch some grass.", "Drink some water.", "Eat some food.", "Get some sleep.",
     };
     private string RandomName => RandomNames[Random.Range(0, RandomNames.Length)];
 

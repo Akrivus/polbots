@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using System.Threading.Tasks;
 using System.IO;
 using System.Net.Sockets;
 using System.Net;
@@ -21,21 +20,16 @@ public class StoryProducer : MonoBehaviour
     private YoutubeScanner Youtube;
 
     [SerializeField, TextArea(3, 30)]
-    private string Prompt;
+    private string PromptForGeneratingStories;
 
-    [SerializeField, TextArea]
-    private string[] Ideas;
-
-    [SerializeField]
-    private bool useSocket = true;
-
-    [SerializeField]
-    private int port = 12345;
+    [SerializeField, TextArea(3, 30)]
+    private string PromptForGeneratingPrompts;
 
     private TcpListener socket;
 
     private void Awake()
     {
+        _instance = this;
         if (!Youtube) return;
         Youtube.OnMessage += ProduceStory;
         Youtube.Register();
@@ -43,45 +37,53 @@ public class StoryProducer : MonoBehaviour
 
     private void Start()
     {
-        if (!useSocket) return;
-        socket = new TcpListener(IPAddress.Any, port);
+        socket = new TcpListener(IPAddress.Any, 22450);
         socket.Start();
         StartCoroutine(ListenForIdeas());
     }
 
-    public void ProduceRandomStory()
-    {
-        ApiKeys.API.ChatEndpoint.GetCompletionAsync(new ChatRequest(new List<Message>
-        {
-            new Message(Role.System, "Write a short, one-sentence episode synopsis " +
-                "for a sitcom about geopolitics where the characters are countries. " +
-                "Focus on the humor and the relationships between the countries. " +
-                "\n\n" +
-                "Random Idea:\n- " + Ideas[Random.Range(0, Ideas.Length)])
-        }, "gpt-4o")).ContinueWith(GenerateStory);
-    }
-
-    private void GenerateStory(Task<ChatResponse> task)
-    {
-        ProduceStory(task.Result.FirstChoice.Message.Content.ToString());
-    }
-
     public void ProduceStory(string message)
     {
-        var names = CountryManager.countries.Select(c => c.Name).ToArray();
-        var prompt = string.Format(Prompt, string.Join(", ", names));
+        StartCoroutine(GenerateStory(message));
+    }
 
-        Debug.Log(message);
+    public void ProduceStory()
+    {
+        StartCoroutine(GenerateRandomStory());
+    }
+
+    private IEnumerator GenerateRandomStory()
+    {
+        var country = CountryManager.countries[Random.Range(0, CountryManager.countries.Length)].Name;
+        var task = ApiKeys.API.ChatEndpoint.GetCompletionAsync(new ChatRequest(new List<Message>
+        {
+            new Message(Role.System, string.Format(PromptForGeneratingPrompts, country))
+        }, "gpt-4o"));
+
+        yield return new WaitFor(task);
+
+        if (task.IsFaulted)
+            yield break;
+
+        yield return GenerateStory(task.Result.FirstChoice.Message.Content.ToString());
+    }
+
+    private IEnumerator GenerateStory(string message)
+    {
+        var names = CountryManager.countries.Select(c => c.Name).ToArray();
+        var prompt = string.Format(PromptForGeneratingStories,
+            string.Join(", ", names), message);
 
         var task = ApiKeys.API.ChatEndpoint.GetCompletionAsync(new ChatRequest(new List<Message>
         {
-            new Message(Role.System, prompt),
-            new Message(Role.User, message)
-        }, "gpt-4o")).ContinueWith(GenerateDialogue);
-    }
+            new Message(Role.System, prompt)
+        }, "gpt-4o"));
+        
+        yield return new WaitFor(task);
 
-    private void GenerateDialogue(Task<ChatResponse> task)
-    {
+        if (task.IsFaulted)
+            yield break;
+
         StoryQueue.Instance.Generate(task.Result.FirstChoice.Message.Content.ToString());
     }
 
@@ -94,13 +96,13 @@ public class StoryProducer : MonoBehaviour
         using var reader = new StreamReader(stream);
 
         var task = reader.ReadToEndAsync();
-        yield return new WaitUntilTaskCompleted(task);
+        yield return new WaitUntil(() => task.IsCompleted);
 
         if (task.IsFaulted)
             yield return ListenForIdeas();
 
         var message = task.Result;
-        ProduceStory(message);
+        GenerateStory(message);
 
         yield return ListenForIdeas();
     }

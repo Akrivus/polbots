@@ -20,10 +20,10 @@ public class StoryGenerator : MonoBehaviour
     public TextToSpeechGenerator TextToSpeech { get; private set; }
 
     [SerializeField, TextArea(3, 30)]
-    private string PromptForGeneratingStories;
+    private string PromptForGeneratingDialogue;
 
     [SerializeField, TextArea(3, 30)]
-    private string PromptForControllingEmotes;
+    private string PromptForGeneratingFaces;
 
     private ConcurrentQueue<string> queue = new ConcurrentQueue<string>();
 
@@ -54,16 +54,16 @@ public class StoryGenerator : MonoBehaviour
         yield return Generate();
     }
 
-    private IEnumerator GenerateDialogue(string seed)
+    private IEnumerator GenerateDialogue(string prompt)
     {
-        var prompt = string.Format(PromptForGeneratingStories, seed);
+        prompt = string.Format(PromptForGeneratingDialogue, prompt);
         var request = ApiKeys.API.ChatEndpoint.GetCompletionAsync(
             new ChatRequest(
                 new List<Message>
                     {
-                        new Message(Role.System, prompt)
+                        new Message(Role.System, prompt),
                     }, "gpt-4o"));
-        yield return new WaitUntilTaskCompleted(request);
+        yield return new WaitFor(request);
 
         if (request.IsFaulted)
             yield break;
@@ -74,10 +74,11 @@ public class StoryGenerator : MonoBehaviour
         if (choice.FinishReason != "stop" || message.Content == null)
             yield break;
 
-        var lines = message.Content.ToString().Split('\n');
+        prompt = message.Content.ToString();
+        var lines = prompt.Split('\n');
 
+        var names = new List<string>();
         var nodes = new List<StoryNode>();
-        var logs = "";
 
         for (int i = 0; i < lines.Length; i++)
         {
@@ -89,12 +90,12 @@ public class StoryGenerator : MonoBehaviour
             var part0 = parts[0]
                 .Replace("*", string.Empty)
                 .Trim();
-            var names = Regex
+            var __ = Regex
                 .Split(part0, @",| and ")
                 .Select(n => n.Trim());
             var text = string.Join(":", parts.Skip(1));
 
-            foreach (var _ in names)
+            foreach (var _ in __)
             {
                 if (ReservedHeaders.Contains(_))
                     continue;
@@ -105,14 +106,20 @@ public class StoryGenerator : MonoBehaviour
                 var node = new StoryNode(text, name,
                     CountryManager[name]);
 
-                yield return GenerateFaces(logs, node, names.ToArray());
                 yield return TextToSpeech.Generate(node);
 
+                if (!names.Contains(name))
+                    names.Add(name);
                 nodes.Add(node);
             }
         }
 
-        var template = seed.Parse();
+        var logs = "";
+
+        foreach (var node in nodes)
+            yield return GenerateFaces(logs, node, names.ToArray());
+
+        var template = prompt.Parse();
         var story = new Story
         {
             Title = template["Title"],
@@ -130,7 +137,7 @@ public class StoryGenerator : MonoBehaviour
     {
         var faces = string.Join(", ", Enum.GetNames(typeof(Face)));
         var list = string.Join("\n- ", names);
-        var prompt = string.Format(PromptForControllingEmotes, faces, list);
+        var prompt = string.Format(PromptForGeneratingFaces, faces, list);
 
         context += string.Format("{0}: {1}\n", node.Name, node.Text);
         var messages = new List<Message>()
@@ -141,7 +148,7 @@ public class StoryGenerator : MonoBehaviour
 
         var request = ApiKeys.API.ChatEndpoint.GetCompletionAsync(
                 new ChatRequest(messages, "gpt-4o-mini"));
-        yield return new WaitUntilTaskCompleted(request);
+        yield return new WaitFor(request);
 
         if (request.IsFaulted)
             yield break;

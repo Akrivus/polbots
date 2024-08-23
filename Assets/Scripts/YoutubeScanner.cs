@@ -13,8 +13,13 @@ public class YoutubeScanner : MonoBehaviour
     [SerializeField]
     private CountryManager CountryManager;
 
+    [SerializeField]
+    private int pollingInterval = 5;
+
     private string liveChatId;
     private string nextPageToken;
+
+    private DateTime lastScanTime;
 
     public void Register()
     {
@@ -29,6 +34,10 @@ public class YoutubeScanner : MonoBehaviour
 
     private IEnumerator Scan()
     {
+        StoryQueue.Instance.CanChatSuggestTopics = false;
+
+        if (DateTime.Now < lastScanTime.AddSeconds(pollingInterval))
+            yield break;
         if (string.IsNullOrEmpty(liveChatId))
             yield return RegisterLiveStream();
         if (string.IsNullOrEmpty(liveChatId))
@@ -41,22 +50,35 @@ public class YoutubeScanner : MonoBehaviour
         var www = new WWW(url);
         yield return www;
 
+        lastScanTime = DateTime.Now;
+
         StoryQueue.Instance.CanChatSuggestTopics = www.error == null;
 
         if (!StoryQueue.Instance.CanChatSuggestTopics)
             yield break;
 
         var list = JsonConvert.DeserializeObject<ChatMessageList>(www.text);
-        var messages = "";
 
-        list.Items
-            .Where(x => x.Snippet.Type == "textMessageEvent")
-            .Select(x => x.Snippet.DisplayMessage)
-            .Where(x => CountryManager.names.Any((s) => x.Contains(s)))
-            .ToList()
-            .ForEach(x => messages += $"{x}\n");
-        if (!string.IsNullOrEmpty(messages))
-            OnMessage(messages);
+        var keywords = CountryManager.countries.Select(c => c.Name.ToLower()).ToList();
+        var messages = list.Items
+            .Where(m => m.Snippet.Type == "textMessageEvent");
+        var results = messages
+            .Where(m => keywords.Any(k => m.Contains(k)));
+        var items = results.GroupBy(m => keywords.First(k => m.Contains(k))).ToList();
+
+        var message = "";
+
+        foreach (var i in messages)
+            message += i.Snippet.DisplayMessage + "\n";
+        OnMessage(message);
+
+        foreach (var item in items)
+        {
+            message = $"Suggested topic: {item.Key}\n";
+            foreach (var i in item)
+                message += i.Snippet.DisplayMessage + "\n";
+            OnMessage(message);
+        }
 
         nextPageToken = list.NextPageToken;
     }
@@ -103,6 +125,11 @@ namespace PolBol.Models
     {
         [JsonProperty("snippet")]
         public ChatMessageSnippet Snippet { get; set; }
+
+        public bool Contains(string keyword)
+        {
+            return Snippet.DisplayMessage.ToLower().Contains(keyword);
+        }
     }
 
     public class ChatMessageSnippet

@@ -44,6 +44,15 @@ public class Story
         return JsonConvert.DeserializeObject<Story>(json);
     }
 
+    public static void LoadAndPlay()
+    {
+        var story = Load();
+        if (story == null)
+            return;
+
+        StoryQueue.Instance.AddStoryToQueue(story);
+    }
+
     public static void LoadOrGenerate()
     {
         var path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
@@ -55,9 +64,9 @@ public class Story
         var odds = UnityEngine.Random.Range(0, 720);
 
         if (odds > files.Length)
-            StoryProducer.Instance.ProduceRandomStory();
+            StoryProducer.Instance.ProduceStory();
         else
-            StoryQueue.Instance.AddStoryToQueue(Load());
+            LoadAndPlay();
     }
 
     private static string GetMD5Hash(string title)
