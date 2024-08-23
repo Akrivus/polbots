@@ -42,6 +42,7 @@ public class StoryQueue : MonoBehaviour
 
     private void Start()
     {
+        Story.LoadAndPlay();
         StartCoroutine(PlayQueue());
     }
 
