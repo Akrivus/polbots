@@ -8,19 +8,19 @@ public class Interstitial : MonoBehaviour
 
     private string[] RandomSplashes = new string[]
     {
-        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
-        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
-        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
-        "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot", "polbot",
-        "Not Russian bots.", "Trying not to grift.", "Mostly human generated.", "Not Chinese propaganda.",
-        "American propaganda.", "#FreePalestine", "#FreeHongKong", "#FreeTibet", "#FreeUyghurs",
+        "Mostly human generated.", "American propaganda.", "#FreePalestine", "#FreeHongKong", "#FreeTibet", "#FreeUyghurs",
         "I can not fulfill that request.", "As an AI language model, I can not do that.", "Caution: May become self-aware.",
-        "If the robot asks for money, it's a scam.", "CashApp: $akrivus", "Venmo: @akrivus",
+        "If the robot asks for money, it's a scam.", "Do not trust the robot.", "Do not trust the AI.", "AI-generated content.",
         "I'm not a robot, I'm a writer, my name is John, I'm chained to this desk, please send help.",
         "As an AI language model, I can not 'control the masses with random subliminal messages'.",
-        "Okay, here's a random subliminal message: 'Reality is an illusion, the universe is a hologram, buy gold, bye!'",
-        "Pick your favorites.", "Tell your friends.", "How did I do?", "Are you still there?", "Still here?",
-        "Drink water.", "Take a break.", "Eat something.", "Get some rest.", "Take a breath.", "Stretch your legs.",
+        "Not for investment advice.", "Not for medical advice.", "Not for legal advice.", "Not for tax advice.",
+        "Watching this won't make you an expert historian.", "Not historically accurate.", "Not scientifically accurate.",
+        "Pending FDA approval.", "Not for children under 13.", "Consult your doctor.", "May contain third-party content.",
+        "It's just Germany telling everyone to chill out.", "It's just America being America.", "It's just Russia being Russia.",
+        "I added Thailand.", "No regrets.", "Pick your favorites.", "Tell your friends.", "Like and subscribe.",
+        "Drink water.", "Eat something.", "Stretch your legs.", "Go for a walk.", "Touch some grass.",
+        "Take a break.", "Take a bite", "Take a breath.", "Take a sip.", "Take a shot.", "Take a break.",
+        "E-aitch?", "Oo-jee-ech!", "Feen-eh.", "Who needs chopsticks when you got these bad boys!", "Sushi-burgers, anyone?",
     };
 
     private AudioSource audioSource;
@@ -43,7 +43,7 @@ public class Interstitial : MonoBehaviour
         yield return new WaitForSeconds(1);
         log.text = RandomSplash;
         yield return new WaitForSeconds(1);
-        log.text = "Like & Subscribe!";
+        log.text = "Subscribe.";
         yield return new WaitForSeconds(2);
     }
 

@@ -5,7 +5,6 @@ using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text.RegularExpressions;
 using UnityEngine;
 
 public class StoryGenerator : MonoBehaviour
@@ -87,31 +86,24 @@ public class StoryGenerator : MonoBehaviour
             if (parts.Length < 2)
                 continue;
 
-            var part0 = parts[0]
+            var text = string.Join(":", parts.Skip(1));
+            var name = parts[0]
                 .Replace("*", string.Empty)
                 .Trim();
-            var __ = Regex
-                .Split(part0, @",| and ")
-                .Select(n => n.Trim());
-            var text = string.Join(":", parts.Skip(1));
 
-            foreach (var _ in __)
-            {
-                if (ReservedHeaders.Contains(_))
-                    continue;
-                var name = _;
+            if (ReservedHeaders.Contains(name))
+                continue;
 
-                if (CountryManager[name] == null)
-                    name = "United Nations";
-                var node = new StoryNode(text, name,
-                    CountryManager[name]);
+            if (CountryManager[name] == null)
+                name = "United Nations";
+            var node = new StoryNode(text, name,
+                CountryManager[name]);
 
-                yield return TextToSpeech.Generate(node);
+            yield return TextToSpeech.Generate(node);
 
-                if (!names.Contains(name))
-                    names.Add(name);
-                nodes.Add(node);
-            }
+            nodes.Add(node);
+            if (!names.Contains(name))
+                names.Add(name);
         }
 
         var logs = "";

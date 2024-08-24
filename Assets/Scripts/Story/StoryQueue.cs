@@ -69,7 +69,7 @@ public class StoryQueue : MonoBehaviour
 
         if (queue.Count == 0 && CanChatSuggestTopics)
         {
-            titleCard.text = "Suggest topics in the chat.";
+            titleCard.text = "suggest topics in the chat";
             yield return new WaitForSeconds(30);
         }
 
@@ -105,8 +105,7 @@ public class StoryQueue : MonoBehaviour
         foreach (var node in story.Nodes)
             Chat.Add(new ChatNode(CountryManager, node));
 
-        CountryManager.CenterCamera();
-        CountryManager.SetCamera();
+        CountryManager.CenterCamera(true);
 
         titleCard.text = "";
         titleName.text = story.Title;
@@ -122,16 +121,12 @@ public class StoryQueue : MonoBehaviour
 
     private IEnumerator WaitForQueue(int rollover = 0)
     {
-        var dots = new string('.', rollover % 4 + 1);
+        var dots = new string('.', rollover % 5);
 
         stopwatch.Start();
 
-        titleCard.text = $"Generating{dots}";
-#if UNITY_EDITOR
-        Story.LoadAndPlay();
-#else
+        titleCard.text = $"generating{dots}";
         Story.LoadOrGenerate();
-#endif
 
         yield return new WaitUntil(() => queue.Count > 0
             || stopwatch.Elapsed.TotalSeconds > 5);

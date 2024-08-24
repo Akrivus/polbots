@@ -763,7 +763,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CountryManager: {fileID: 1139745790}
-  Youtube: {fileID: 988932130}
+  Youtube: {fileID: 0}
   Music: {fileID: 259846663}
   PromptForGeneratingStories: "You are polbot, you generate writing prompts for the
     satirical live streamed sitcom, polbol. In this stream, the characters are personified
@@ -808,9 +808,8 @@ MonoBehaviour:
     punchlines that play off these exaggerations. Use dark humor, irony, and sarcasm
     to convey deeper messages about culture and history.\n- Incorporate popular references
     and culturally relevant jokes that resonate with the audience, ensuring the comedy
-    is sharp, relevant, and occasionally provocative.\n\nUse the user-submitted topics
-    as inspiration. Maintain an instructional tone throughout.\nOutput only plain
-    text. Do not output markdown.\n\nTopics:\n{2}"
+    is sharp, relevant, and occasionally provocative.\n\nDo not add new characters
+    or use extras.\nOutput only plain text. Do not output markdown."
   PromptForGeneratingPrompts: 'Write an idea for a sitcom scene between personified
     countries, based on a historical event or connection through shared culture,
     mutual history, wars, rivalries, or alliances.
@@ -909,7 +908,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a91a0cd4f2ac7824aa8e643164c269e5, type: 2}
   - {fileID: 11400000, guid: a7c917524d0b2aa419a462339141fa3b, type: 2}
   - {fileID: 11400000, guid: cf9f16323048313488b9b2dcfbe34b27, type: 2}
-  - {fileID: 11400000, guid: 82da9356323edbf43be595717b242392, type: 2}
   - {fileID: 11400000, guid: 88137a2cc90116b4ab0c20adfdefb0bc, type: 2}
   - {fileID: 11400000, guid: 6b2b73df3e7ff754b961d416dfc8b668, type: 2}
   - {fileID: 11400000, guid: ea45466c85358164ca43ca390e4ff36e, type: 2}
@@ -1036,17 +1034,17 @@ MonoBehaviour:
     tone, personality interactions, and comedic elements.\n\n# Story:\n{0}\n\n# Formatting
     and Output Requirements:\n- Output only plain text. Do not output markdown.\n-
     Output in English. Incorporate Gen Z vernacular.\n- Spell out all numbers, dates,
-    and years. Do not abbreviate or shorten names.\n- No loglines, headers, acts,
-    or stage instructions\u2014only dialogue.\n- Use one country per line of dialogue.\n-
-    Spell out sounds or actions such as 'haha' or 'ugh.'\n- Follow the dialogue format
-    exactly as shown below.\n\n## Dialogue Format Example:\n```\nTitle: America and
-    Russia Greet Each Other\nVibe: Playful\n\nUnited States: Hey Russia, how are
-    you?\nRussia: Good!\nUnited States: Haha! How are those sanctions holding up?\nRussia:
-    Ugh, Mother Russia cries icy tears.\n```\n\n# Additional Notes:\n- Ensure dialogues
-    are cohesive and maintain character continuity.\n- Focus on making the humor
-    and character dynamics vivid and engaging.\n- Keep the dialogues true to the
-    historical or cultural context, if applicable, while allowing for creative comedic
-    interpretation."
+    and years.\n- No loglines, headers, acts, or stage instructions\u2014only dialogue.\n-
+    Use names as listed, do not abbreviate, shorten, or assign nicknames.\n- Use
+    one country per line of dialogue.\n- Spell out sounds or actions such as 'haha'
+    or 'ugh.'\n- Follow the dialogue format exactly as shown below.\n\n## Dialogue
+    Format Example:\n```\nTitle: America and Russia Greet Each Other\nVibe: Playful\n\nUnited
+    States: Hey Russia, how are you?\nRussia: Good!\nUnited States: Haha! How are
+    those sanctions holding up?\nRussia: Ugh, Mother Russia cries icy tears.\n```\n\n#
+    Additional Notes:\n- Ensure dialogues are cohesive and maintain character continuity.\n-
+    Focus on making the humor and character dynamics vivid and engaging.\n- Keep
+    the dialogues true to the historical or cultural context, if applicable, while
+    allowing for creative comedic interpretation."
   PromptForGeneratingFaces: 'Using the provided messages as context, identify the
     facial expression of the listed characters in the scene by choosing one of the
     listed faces.
