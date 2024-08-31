@@ -4,12 +4,8 @@ using UnityEngine;
 
 public class CountryController : MonoBehaviour
 {
-    public string ISO3166 => country.ISO3166;
-    public string Name => country.Name;
-    public string Language => country.Language;
-    public string Voice => country.Voice;
-    public float SpeakingRate => country.SpeakingRate;
-    public float Pitch => country.Pitch;
+    public Color Color => country.Color;
+    public string Name { get; set; }
 
     public bool IsActive { get; private set; }
 
@@ -23,7 +19,10 @@ public class CountryController : MonoBehaviour
     private AudioSource voice;
 
     [SerializeField]
-    private TextMeshPro action;
+    private TextMeshPro actionLabel;
+
+    [SerializeField]
+    private TextMeshPro nameLabel;
 
     [SerializeField]
     private Country country;
@@ -49,17 +48,22 @@ public class CountryController : MonoBehaviour
     public IEnumerator Activate(ChatNode node)
     {
         foreach (var Controller in node.Reactions.Keys)
-            Controller.Face.SetFace(node.Reactions[Controller], transform);
-        action.text = node.Action;
-
-        if (!IsActive)
-            yield return ShowEntrance();
+            Controller.SetFace(node.Reactions[Controller], transform);
+        Name = node.Name;
+        actionLabel.text = node.Action;
 
         voice.clip = node.VoiceLine;
         voice.Play();
         yield return new WaitForSeconds(node.VoiceLine.length);
         manager.CenterCamera();
-        action.text = "";
+        actionLabel.text = "";
+    }
+
+    private void SetFace(Face face, Transform target)
+    {
+        if (Face.Face != face)
+            IsActive = true;
+        Face.SetFace(face, target);
     }
 
     private void Awake()
@@ -78,25 +82,30 @@ public class CountryController : MonoBehaviour
 
     private void Update()
     {
-        var time = Time.time * 0.4f;
+        var time = Time.time * 0.4f + position.magnitude;
         var sin = Mathf.Abs(Mathf.Sin(time) * GetCurrentAmplitude()) * 0.5f;
         var d = Time.deltaTime * (IsActive ? 1 : 0);
 
-        transform.localScale = Vector3.one + Vector3.forward * sin;
+        var hover = Mathf.Sin(time * 0.4f) * 0.1f;
+
+        transform.localScale = country.Scale + Vector3.forward * sin;
         transform.localPosition = new Vector3(
             Mathf.Lerp(transform.localPosition.x, position.x, d),
-            transform.localScale.z - 1f, 0);
+            transform.localScale.z - 1f + hover, 0);
 
         Face.transform.localScale = new Vector3(
             1 / transform.localScale.x,
             1 / transform.localScale.y,
             1 / transform.localScale.z);
+
+        nameLabel.text = Name;
     }
 
     public void SetCountry(Country country)
     {
         this.country = country;
         Flag.Country = country;
+        Name = country.Name;
     }
 
     private float GetCurrentAmplitude()
@@ -112,5 +121,13 @@ public class CountryController : MonoBehaviour
         for (var i = 0; i < samples.Length; i++)
             sum += Mathf.Abs(samples[i]);
         return sum / samples.Length;
+    }
+
+    public bool Is(string name)
+    {
+        if (Name == name) return true;
+        foreach (var alias in country.Aliases)
+            if (alias == name) return true;
+        return false;
     }
 }

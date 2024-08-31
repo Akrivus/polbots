@@ -25,7 +25,6 @@ public class FlagController : MonoBehaviour
 
     private void SetFlag(Country country)
     {
-        var texture = Resources.Load<Texture>($"Flags/{country.ISO3166}");
-        flag.material.mainTexture = texture;
+        flag.material.mainTexture = country.Texture;
     }
 }

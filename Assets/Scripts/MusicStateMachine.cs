@@ -11,6 +11,9 @@ public class MusicStateMachine : MonoBehaviour
     [SerializeField]
     private AudioSource player;
 
+    [SerializeField]
+    private GameObject background;
+
     [SerializeField, Range(0, 1)]
     private float loudVolume = 0.5f;
 
@@ -46,6 +49,7 @@ public class MusicStateMachine : MonoBehaviour
 
     private void StopBackgroundMusic()
     {
+        background.SetActive(true);
         player.volume = backVolume;
         player.clip = null;
         player.loop = true;
@@ -54,6 +58,7 @@ public class MusicStateMachine : MonoBehaviour
 
     private void PlayBackgroundMusic()
     {
+        background.SetActive(false);
         player.volume = loudVolume;
         player.clip = music[Random.Range(0, music.Length)];
         player.loop = false;

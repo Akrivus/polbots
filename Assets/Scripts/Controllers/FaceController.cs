@@ -36,15 +36,18 @@ public class FaceController : MonoBehaviour
 
     public void Update()
     {
+        var time = Time.time * 0.1f + Face.GetHashCode();
+        var y = Mathf.Sin(time) * 0.001f;
+        var position = facePosition + Vector3.up * y;
         faceRenderer.transform.localPosition = Vector3.Lerp(
             faceRenderer.transform.localPosition,
-            facePosition,
+            position,
             Time.deltaTime * 8.0f);
     }
 
     public void SetFace(Face face, Transform target = null)
     {
-        var texture = Resources.Load<Texture>($"Faces/{face}");
+        var texture = Resources.Load<Texture>($"faces/{face}");
         faceRenderer.material.mainTexture = texture;
         if (target != null) LookAt(target.position);
     }
@@ -105,5 +108,6 @@ public enum Face
     Suspicious,
     Tired,
     Wink,
-    Worried
+    Worried,
+    Stoned,
 }

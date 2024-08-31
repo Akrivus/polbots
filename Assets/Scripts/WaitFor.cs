@@ -1,8 +1,6 @@
 ﻿using OpenAI.Chat;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Collections;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -24,11 +22,22 @@ public class WaitFor : CustomYieldInstruction
             var complete = task.IsCompleted;
             if (complete)
                 Debug.Log(task.Result.FirstChoice.Message.Content);
+            if (complete && task.Result.FirstChoice.FinishReason != "stop")
+                Debug.Log(task.Result.FirstChoice.FinishDetails);
             return complete;
         }
-        catch (Exception)
+        catch (Exception e)
         {
-            return false;
+            Debug.LogError(e);
+            throw;
         }
+    }
+
+    public static IEnumerator Read(Task<string> task, Func<IEnumerator> callback)
+    {
+        yield return new WaitUntil(() => task.IsCompleted);
+
+        if (task.IsFaulted)
+            yield return callback();
     }
 }

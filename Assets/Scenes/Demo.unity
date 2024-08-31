@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0, g: 0, b: 0, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 171e6ee74c4706e408c3ae23b55f467f, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-  m_Sun: {fileID: 705507994}
+  m_Sun: {fileID: 0}
   m_IndirectSpecularColor: {r: 0.99974084, g: 0.99974084, b: 0.99974084, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
@@ -123,6 +123,40 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &226308947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 226308948}
+  m_Layer: 1
+  m_Name: BACK STAGE
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &226308948
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226308947}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1831844139}
+  - {fileID: 426420971}
+  - {fileID: 2073397157}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &259846660
 GameObject:
   m_ObjectHideFlags: 0
@@ -267,6 +301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   queue: {fileID: 1139745792}
   player: {fileID: 259846662}
+  background: {fileID: 226308947}
   loudVolume: 0.5
   backVolume: 0.1
   music:
@@ -297,6 +332,239 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   log: {fileID: 545085078}
   clip: {fileID: 8300000, guid: 24f6e1f1123ff9a4ea510402ea67b6a1, type: 3}
+--- !u!1 &263125774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 263125775}
+  - component: {fileID: 263125776}
+  m_Layer: 0
+  m_Name: Directional Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &263125775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263125774}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 963194228}
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!108 &263125776
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263125774}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 1
+  m_Shape: 0
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!1 &264391351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 264391352}
+  m_Layer: 0
+  m_Name: MAIN STAGE
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &264391352
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 264391351}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 963194228}
+  - {fileID: 497991312}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &426420967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 426420971}
+  - component: {fileID: 426420970}
+  - component: {fileID: 426420969}
+  - component: {fileID: 426420968}
+  m_Layer: 1
+  m_Name: Earth
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!64 &426420968
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426420967}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &426420969
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426420967}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 3981ef9dd37762d4ca2d6c9a8828a7ed, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &426420970
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426420967}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &426420971
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426420967}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 226308948}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &429567800
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,6 +633,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &497991311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 497991312}
+  m_Layer: 0
+  m_Name: Target Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &497991312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 497991311}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 264391352}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &545085076
 GameObject:
   m_ObjectHideFlags: 0
@@ -425,7 +724,7 @@ MonoBehaviour:
   m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -499,131 +798,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 545085076}
   m_CullTransparentMesh: 1
---- !u!1 &705507993
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 705507995}
-  - component: {fileID: 705507994}
-  m_Layer: 0
-  m_Name: Directional Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!108 &705507994
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 705507993}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 1
-  m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 1
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 1
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!4 &705507995
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 705507993}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.5, y: 0, z: 0, w: 0.8660254}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 963194228}
-  m_LocalEulerAnglesHint: {x: 60, y: 0, z: 0}
---- !u!1 &835387937
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 835387938}
-  m_Layer: 0
-  m_Name: Target Group
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &835387938
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 835387937}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -686,10 +860,10 @@ Camera:
   field of view: 60
   orthographic: 0
   orthographic size: 5
-  m_Depth: -1
+  m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 53
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -710,12 +884,12 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: -9.882089e-18, y: 0.000000012677223, z: 1.2527745e-25, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0, y: -0.75, z: -8.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 705507995}
-  m_Father: {fileID: 0}
+  - {fileID: 263125775}
+  m_Father: {fileID: 264391352}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &988932127
 GameObject:
@@ -727,9 +901,8 @@ GameObject:
   m_Component:
   - component: {fileID: 988932128}
   - component: {fileID: 988932129}
-  - component: {fileID: 988932130}
   m_Layer: 0
-  m_Name: YouTube Integration
+  m_Name: Socket Integration
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -748,7 +921,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1139745789}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &988932129
 MonoBehaviour:
@@ -759,81 +932,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 988932127}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a40c6fd9495a3104aa348adef5b90717, type: 3}
+  m_Script: {fileID: 11500000, guid: 93b5b821d13d5d14c89a718d5f724707, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CountryManager: {fileID: 1139745790}
-  Youtube: {fileID: 0}
-  Music: {fileID: 259846663}
-  PromptForGeneratingStories: "You are polbot, you generate writing prompts for the
-    satirical live streamed sitcom, polbol. In this stream, the characters are personified
-    countries, acting out geopolitical events through playful, witty dialogue with
-    exaggerated reactions and mannerisms. Countries discuss their histories, cultural
-    connections, and current events, with rivals engaging in tense conversations
-    and roasting competitions, while allies carry subtle or overt romantic connotations.\n\nYour
-    task is to craft writing prompts that describe scenarios, character dynamics,
-    and comedic strategies using dark comedy, sarcasm, and edgy humor to convey historical
-    allegories and cultural connections. Do not shy away from controversial topics,
-    political incorrectness, and popular references. The goal is to explore the history
-    and relationships of various regional powers interacting with their neighbors,
-    turning complex issues into a humorous, relatable sitcom.\n\n# Format\n## Event:\nReference
-    a specific historical event, period, or geopolitical issue that serves as the
-    backdrop for this skit. This event should be central to the interactions between
-    the countries, providing context and driving the narrative.\nExample: The Cuban
-    Missile Crisis, 1962\n## Title:\nGenerate a catchy and engaging title that encapsulates
-    the theme or conflict of the skit. The title should hint at the historical or
-    cultural context, while also being humorous or ironic.\nExample: The Cuban Mojito
-    Crisis\n## Vibe:\nChoose one vibe: {0}\nVibes decide the kind of music the plays
-    when the scene starts.\n## Countries:\nChoose up to seven countries from the
-    list: {1}.\nOnly use the listed countries. Do not abbreviate names.\nSelect countries
-    that have a significant historical, cultural, or political connection to the
-    event. Ensure that their relationships\u2014whether adversarial or cooperative\u2014are
-    relevant to the scenario.\n\n## Scenario:\nProvide a detailed background and
-    exposition for the skit. Describe the setting, the circumstances leading up to
-    the event, and the initial interactions between the countries. The scenario should
-    set the stage for conflict, misunderstanding, or collaboration, and establish
-    the tone for the skit.\n\n## Resolution:\nDescribe the intended resolution of
-    the skit. The resolution should reflect the complexities of international relations,
-    whether through irony, an unexpected twist, or a darkly humorous outcome. It
-    should tie back to the event and provide a satisfying or thought-provoking conclusion.\n\n##
-    Dynamics:\n- Delve into the character dynamics, highlight the personalities,
-    historical relationships, and cultural traits of each country.\n- Use descriptive
-    language and metaphors to enhance the depth of the characters and their interactions.
-    Consider how their past experiences influence their present behavior and dialogue.\n-
-    Describe how the countries\u2019 interactions evolve throughout the skit, particularly
-    how rivalries, alliances, and historical grudges play out in the conversation.\n\n##
-    Comedy:\n- Be descriptive in your approach to comedic delivery. Consider the
-    pacing, timing, and structure of jokes, ensuring they align with the characters\u2019
-    personalities and historical contexts.\n- Exaggerate character traits and include
-    punchlines that play off these exaggerations. Use dark humor, irony, and sarcasm
-    to convey deeper messages about culture and history.\n- Incorporate popular references
-    and culturally relevant jokes that resonate with the audience, ensuring the comedy
-    is sharp, relevant, and occasionally provocative.\n\nDo not add new characters
-    or use extras.\nOutput only plain text. Do not output markdown."
-  PromptForGeneratingPrompts: 'Write an idea for a sitcom scene between personified
-    countries, based on a historical event or connection through shared culture,
-    mutual history, wars, rivalries, or alliances.
-
-
-    One of the countries must
-    be {0}.
-
-
-    Describe in 150 characters or less.'
---- !u!114 &988932130
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 988932127}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 897725abd56330d4bb9ee5e26c8d3ef6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CountryManager: {fileID: 1139745790}
-  pollingInterval: 5
+  port: 22450
 --- !u!1 &1139745784
 GameObject:
   m_ObjectHideFlags: 0
@@ -845,9 +947,10 @@ GameObject:
   - component: {fileID: 1139745789}
   - component: {fileID: 1139745791}
   - component: {fileID: 1139745792}
-  - component: {fileID: 1139745790}
-  - component: {fileID: 1139745788}
+  - component: {fileID: 1139745794}
   - component: {fileID: 1139745793}
+  - component: {fileID: 1139745788}
+  - component: {fileID: 1139745790}
   m_Layer: 0
   m_Name: Queue Manager
   m_TagString: Untagged
@@ -884,6 +987,7 @@ Transform:
   m_Children:
   - {fileID: 1461464146}
   - {fileID: 259846661}
+  - {fileID: 988932128}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1139745790
@@ -898,123 +1002,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b90c31477fdad845b0834a753cad6c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  countries:
-  - {fileID: 11400000, guid: 54d92489f1997a94f9f2aa5fbb97e5b1, type: 2}
-  - {fileID: 11400000, guid: 2dabee6e49ba62947ab80a548ea646d2, type: 2}
-  - {fileID: 11400000, guid: 3db17c1242a37ca4eb81cf725011c4eb, type: 2}
-  - {fileID: 11400000, guid: 4280eb8ed334b324ba1c574c5927f721, type: 2}
-  - {fileID: 11400000, guid: 6a47149a337eb3847a6e52ec3521725a, type: 2}
-  - {fileID: 11400000, guid: 162058cb362f38c44be242f64d905a80, type: 2}
-  - {fileID: 11400000, guid: a91a0cd4f2ac7824aa8e643164c269e5, type: 2}
-  - {fileID: 11400000, guid: a7c917524d0b2aa419a462339141fa3b, type: 2}
-  - {fileID: 11400000, guid: cf9f16323048313488b9b2dcfbe34b27, type: 2}
-  - {fileID: 11400000, guid: 88137a2cc90116b4ab0c20adfdefb0bc, type: 2}
-  - {fileID: 11400000, guid: 6b2b73df3e7ff754b961d416dfc8b668, type: 2}
-  - {fileID: 11400000, guid: ea45466c85358164ca43ca390e4ff36e, type: 2}
-  - {fileID: 11400000, guid: 847c552548dc59f47ad7fc560331af90, type: 2}
-  - {fileID: 11400000, guid: 2ea08775a35510540abb58a68d0d7220, type: 2}
-  - {fileID: 11400000, guid: ad24a7fc46579e6469bb1339d5e14a97, type: 2}
-  - {fileID: 11400000, guid: 551365b02298678438f9325476ac1dc3, type: 2}
-  - {fileID: 11400000, guid: 211e4798b037f064fa43fdd14a69133a, type: 2}
-  - {fileID: 11400000, guid: 61a11d6238f591d4e8c10b360c6a33a3, type: 2}
-  - {fileID: 11400000, guid: d703b65554fb09249813a34b8c91c9eb, type: 2}
-  - {fileID: 11400000, guid: 849419e6744eb6f438158c23eb820e62, type: 2}
-  - {fileID: 11400000, guid: c945200e740ccd349a9ff4b31bee31d4, type: 2}
-  - {fileID: 11400000, guid: 1cfdd9045c6ec704a92f4b8ef062fb28, type: 2}
-  - {fileID: 11400000, guid: 2e86057164a6e1940bf4577351b82633, type: 2}
-  - {fileID: 11400000, guid: 6078f4c3d5794a24e92a65124bcedd4a, type: 2}
-  - {fileID: 11400000, guid: 11a7be353752fa240bf1c01d191ed367, type: 2}
-  - {fileID: 11400000, guid: d9695385c0fa0844297aa9854d62d06d, type: 2}
-  - {fileID: 11400000, guid: 45f78e39eab1faa43ad8d1b704974556, type: 2}
-  - {fileID: 11400000, guid: 4c02e602885186444908838f7f0c48c9, type: 2}
-  - {fileID: 11400000, guid: d92ffd290006f2a4f8c3c1b1f115bbe0, type: 2}
-  - {fileID: 11400000, guid: 16b1911b39126eb41972ef2963574327, type: 2}
-  - {fileID: 11400000, guid: ac0dedf6c2b7edb42852cd0adee22da1, type: 2}
-  - {fileID: 11400000, guid: 05416cb8ae819ec42b822a3281ffb411, type: 2}
-  - {fileID: 11400000, guid: 35dabdec6e2b6d3459881c2fc4b3e76a, type: 2}
-  - {fileID: 11400000, guid: 36740f0a74d177247847d76d99cdca14, type: 2}
-  - {fileID: 11400000, guid: 4cd0a36a78a106c4d96976774c6ffd0b, type: 2}
-  - {fileID: 11400000, guid: de0697053ea140b45a4264e2a7742353, type: 2}
-  - {fileID: 11400000, guid: 2370eb073b41aa44192af2ced0e64630, type: 2}
-  - {fileID: 11400000, guid: 1e811f0256644ab4ebb24702e2e22f18, type: 2}
-  - {fileID: 11400000, guid: 4086144398a25584e9d9d74f67511c68, type: 2}
-  - {fileID: 11400000, guid: bd79eec3844ba564394dc53c2b81cc69, type: 2}
-  - {fileID: 11400000, guid: b65eed1f9dfd6004f8f5492eecc5124d, type: 2}
-  - {fileID: 11400000, guid: 2264fb16ba0fd1147af630bd0bc62699, type: 2}
-  - {fileID: 11400000, guid: bc4915d7b6441814b94ba58f05d8817e, type: 2}
-  - {fileID: 11400000, guid: ec008b8491b88a346b5374da590d8915, type: 2}
-  - {fileID: 11400000, guid: b0bc6e64cefb6444387a8fd7f461060b, type: 2}
-  - {fileID: 11400000, guid: ca5dcd288b0f9114ca84037715419183, type: 2}
-  - {fileID: 11400000, guid: 08622eb772d2bc24b8f011a629f690f1, type: 2}
-  - {fileID: 11400000, guid: f2a35d48ba686384295d124cddc33ffd, type: 2}
-  - {fileID: 11400000, guid: 476a3beb4ca89704b9d4e2ec1dbfab56, type: 2}
-  - {fileID: 11400000, guid: d3e731b6a5c08b243b9c4a322f0fa610, type: 2}
-  - {fileID: 11400000, guid: ff4b8360d1bf62a4f84fa9d8394b322d, type: 2}
-  - {fileID: 11400000, guid: dffe4982d5f57a2458e8381d69d16f11, type: 2}
-  - {fileID: 11400000, guid: bd229221321535847b8117b6f13960a1, type: 2}
-  - {fileID: 11400000, guid: ee8982026320e5f4aa72beeafee59d56, type: 2}
-  - {fileID: 11400000, guid: 8cb3f1d7f498be14a9430ad1acecadc4, type: 2}
-  - {fileID: 11400000, guid: 022107a337dded84d822d2ed9a9a6dd5, type: 2}
-  - {fileID: 11400000, guid: 78f4e9875b0277f4ca1097336d4a64b3, type: 2}
-  - {fileID: 11400000, guid: cea2954188b582c419c58add901694e7, type: 2}
-  - {fileID: 11400000, guid: 0c946a18e5abbcb4faa2ca7194e1412f, type: 2}
-  - {fileID: 11400000, guid: b75b9d0a7515d064faf914cf8dadbfa8, type: 2}
-  - {fileID: 11400000, guid: 432e2f87a5766df48a902da11714fdbe, type: 2}
-  - {fileID: 11400000, guid: f970380c2d4ad43488ebcd1848788bdc, type: 2}
-  - {fileID: 11400000, guid: 3293f79dcf731ef4c97c267d0c669ca7, type: 2}
-  - {fileID: 11400000, guid: 488bce5e35f3aba4783779d921f65647, type: 2}
-  - {fileID: 11400000, guid: 8d3a8cb8f27c481418d8163562788516, type: 2}
-  - {fileID: 11400000, guid: 3355640cc6770c640a6f757f35617222, type: 2}
-  - {fileID: 11400000, guid: d87cf12f05069ed4387238bddb680a77, type: 2}
-  - {fileID: 11400000, guid: 190b9b4704ac94343bd78d2c108e9e1b, type: 2}
-  - {fileID: 11400000, guid: b95643fde43b48d4badbf35bad33eae2, type: 2}
-  - {fileID: 11400000, guid: 2765cf1a1fb0c1d468a7457e171d1821, type: 2}
-  - {fileID: 11400000, guid: dbbd5ad899bfe064eaea8847980da512, type: 2}
-  - {fileID: 11400000, guid: 374497ab3e939e848bf2b2052df2ca82, type: 2}
-  - {fileID: 11400000, guid: 28a9fe34cff0dc448a09f586ebf50d24, type: 2}
-  - {fileID: 11400000, guid: 92ffc6ec04e1bb1489211752496dc036, type: 2}
-  - {fileID: 11400000, guid: c9748716e0e02f04985de70ad772d396, type: 2}
-  - {fileID: 11400000, guid: 8974b56f9817d6d438b1e43defa48b39, type: 2}
-  - {fileID: 11400000, guid: 7fc2bca35e14ec24c93ba83e3ae75ec9, type: 2}
-  - {fileID: 11400000, guid: 82c3663910e532f41ac14a000b0d7f1d, type: 2}
-  - {fileID: 11400000, guid: 4a01429267757ef41a555571357e2368, type: 2}
-  - {fileID: 11400000, guid: ee38a40b107bec4488a1ba9caa1785a7, type: 2}
-  - {fileID: 11400000, guid: a83da6b4124d02b428177316358db862, type: 2}
-  - {fileID: 11400000, guid: 9d858f1b7f0dac44793c2d7ffb5041cf, type: 2}
-  - {fileID: 11400000, guid: 685da6a4c5357bb438c6d2f05c987899, type: 2}
-  - {fileID: 11400000, guid: e7e6a0093f6231e4298d10920dec1294, type: 2}
-  - {fileID: 11400000, guid: efcda95aa6b5e4a42bb8aeba7e1b6d24, type: 2}
-  - {fileID: 11400000, guid: bf01000835e345d4b85cd4023e3554ec, type: 2}
-  - {fileID: 11400000, guid: e5c8dc8f98e1ae3488f0d3425318c280, type: 2}
-  - {fileID: 11400000, guid: 275a74666c17dc04b866ac6a9d922cd4, type: 2}
-  - {fileID: 11400000, guid: c46f78788cb798046b793ce3cc3b7278, type: 2}
-  - {fileID: 11400000, guid: f3c7c745303652f47884f01b8b6c0d13, type: 2}
-  - {fileID: 11400000, guid: ccbd5634e30a1f449847c9b4aaef0134, type: 2}
-  - {fileID: 11400000, guid: 76ca73be229cc754988336e24632956b, type: 2}
-  - {fileID: 11400000, guid: a335edcf06b5b4c4fad1572aadfe663f, type: 2}
-  - {fileID: 11400000, guid: 835f9d9f62d0c6b499e3da3701f8fdb6, type: 2}
-  - {fileID: 11400000, guid: 3e4a8e5695cf0874badaea52bb1896e4, type: 2}
-  - {fileID: 11400000, guid: d6bddba02030b4546802d50124341834, type: 2}
-  - {fileID: 11400000, guid: 46d4b6123f3bb4240bc7a6e6ab7cbe37, type: 2}
-  - {fileID: 11400000, guid: bdc9f495ae500864b83fae8d7a4f6b69, type: 2}
-  - {fileID: 11400000, guid: 8598da973d395a349b808ea8432574e1, type: 2}
-  - {fileID: 11400000, guid: 2943fa1f4470ead46abc0982adab2c18, type: 2}
-  - {fileID: 11400000, guid: 10cc09013f922f7479b6b7404cb98124, type: 2}
-  - {fileID: 11400000, guid: 847f4e94d76e54443aeeafe14700496e, type: 2}
-  - {fileID: 11400000, guid: 27db392ada58d8b42ae292175e27f03f, type: 2}
-  - {fileID: 11400000, guid: 8f5e45e3769016545942b2c74c1bf343, type: 2}
-  - {fileID: 11400000, guid: 7e78201f8e338a743abc89eb2143f0ad, type: 2}
-  - {fileID: 11400000, guid: eda81846908fb904ca73e7684634e057, type: 2}
-  - {fileID: 11400000, guid: 391f993dfa20e7948af423cd97c74c2d, type: 2}
-  - {fileID: 11400000, guid: d5b5c4ba41989664e987a6f0e4ff5f4a, type: 2}
-  - {fileID: 11400000, guid: 864ae6540a921444a93434f89e55b528, type: 2}
-  - {fileID: 11400000, guid: c2e54fea309281243a4b4d1dcb8f865b, type: 2}
-  - {fileID: 11400000, guid: 2dabee6e49ba62947ab80a548ea646d2, type: 2}
-  - {fileID: 11400000, guid: 8ffeca2d284765b49857b00a25854896, type: 2}
-  - {fileID: 11400000, guid: b854b4014a2a8b444a81920786fb07c8, type: 2}
-  - {fileID: 11400000, guid: f6b757a5d9f220048bbf1d9379ba5341, type: 2}
   prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  group: {fileID: 835387938}
+  group: {fileID: 497991312}
   controllers: []
 --- !u!114 &1139745791
 MonoBehaviour:
@@ -1029,22 +1018,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PromptForGeneratingDialogue: "Transform the provided story details into a series
-    of dialogues that consitute a complete scene of a scene or skit. Use the characters,
+    of dialogues that consitute a complete scene in a sitcom where the characters
+    are countries, playing out historical events in their daily lives. Use the countries,
     scenarios, and conclusions as described to craft dialogues that reflect the intended
-    tone, personality interactions, and comedic elements.\n\n# Story:\n{0}\n\n# Formatting
-    and Output Requirements:\n- Output only plain text. Do not output markdown.\n-
-    Output in English. Incorporate Gen Z vernacular.\n- Spell out all numbers, dates,
-    and years.\n- No loglines, headers, acts, or stage instructions\u2014only dialogue.\n-
-    Use names as listed, do not abbreviate, shorten, or assign nicknames.\n- Use
-    one country per line of dialogue.\n- Spell out sounds or actions such as 'haha'
-    or 'ugh.'\n- Follow the dialogue format exactly as shown below.\n\n## Dialogue
-    Format Example:\n```\nTitle: America and Russia Greet Each Other\nVibe: Playful\n\nUnited
+    tone, personality interactions, and comedic elements. Try to go above and beyond,
+    pushing the envelope with humor and innuendo. Ensure characters keep the audience
+    engaged and in the know by providing tidbits of cultural information and referring
+    to historical events as though they were personal events and experiences for
+    the characters.\n\n# Story:\n{0}\n\n# Formatting and Output Requirements:\n-
+    Output only plain text. Do not output markdown.\n- Output in English. Incorporate
+    Gen Z vernacular.\n- Spell out all numbers, dates, and years.\n- No loglines,
+    headers, acts, or stage instructions\u2014only dialogue.\n- Use names as listed,
+    do not abbreviate, shorten, or assign nicknames.\n- Do not use nameless background
+    characters, if necessary, try to cast contextually relevant countries, like Ethiopia
+    as a barista, or Thailand as a waiter.\n- Do not use collective phrases like
+    \"all\" or \"everyone.\"\n- Use one country per line of dialogue, no \"X and
+    Y\", repeat lines if neccesary.\n- Use historical figures and world leaders as
+    metaphors rather characters.\n- Spell out sounds or actions such as 'haha' or
+    'ugh.'\n- Follow the dialogue format exactly as shown below.\n\n## Dialogue Format
+    Example:\n```\nTitle: America and Russia Greet Each Other\nVibe: Playful\n\nUnited
     States: Hey Russia, how are you?\nRussia: Good!\nUnited States: Haha! How are
-    those sanctions holding up?\nRussia: Ugh, Mother Russia cries icy tears.\n```\n\n#
-    Additional Notes:\n- Ensure dialogues are cohesive and maintain character continuity.\n-
-    Focus on making the humor and character dynamics vivid and engaging.\n- Keep
-    the dialogues true to the historical or cultural context, if applicable, while
-    allowing for creative comedic interpretation."
+    those sanctions holding up?\nRussia: (tearfully) Ugh, Mother Russia cries icy
+    tears.\n```\n\n# Additional Notes:\n- Ensure dialogues are cohesive and maintain
+    character continuity.\n- Focus on making the humor and character dynamics vivid
+    and engaging.\n- Keep the dialogues true to the historical or cultural context.\n-
+    Use innuendos and double entrendres for comedic interpretation."
   PromptForGeneratingFaces: 'Using the provided messages as context, identify the
     facial expression of the listed characters in the scene by choosing one of the
     listed faces.
@@ -1102,7 +1100,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   titleCard: {fileID: 545085078}
   titleName: {fileID: 1948082286}
+  premierUI: {fileID: 1168908223}
   music: {fileID: 259846663}
+  maxFileCount: 1200
 --- !u!114 &1139745793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1115,6 +1115,224 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b39a3879369314488fdde4a7f476134, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1139745794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1139745784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a40c6fd9495a3104aa348adef5b90717, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PromptForGeneratingStories: "You are polbot, you generate writing prompts for the
+    satirical live streamed sitcom, polbol. In this stream, the characters are personified
+    countries, acting out geopolitical events through playful, witty dialogue with
+    exaggerated reactions and mannerisms. Countries discuss their histories, cultural
+    connections, and current events, with rivals engaging in tense conversations
+    and roasting competitions, while allies carry subtle or overt romantic connotations.\n\nYour
+    task is to craft writing prompts that describe scenarios, character dynamics,
+    and comedic strategies using dark comedy, sarcasm, and edgy humor to convey historical
+    allegories and cultural connections. Do not shy away from controversial topics,
+    political incorrectness, and popular references. The goal is to explore the history
+    and relationships of various regional powers interacting with their neighbors,
+    turning complex issues into a humorous, relatable sitcom.\n\nUse the ideas as
+    inspiration for characters, vibe, and scenario.\n\nTopic:\nUse the following
+    topic to base your prompt on:\n{2}\nIt is important to stay on-topic.\n\n# Format\n##
+    Event:\nReference a specific historical event, period, or geopolitical issue
+    that serves as the backdrop for this skit. This event should be central to the
+    interactions between the countries, providing context and driving the narrative.\nExample:
+    The Cuban Missile Crisis, 1962\n## Title:\nGenerate a catchy and engaging title
+    that encapsulates the theme or conflict of the skit. The title should hint at
+    the historical or cultural context, while also being humorous or ironic.\nExample:
+    The Cuban Mojito Crisis\n## Vibe:\nChoose one vibe: {0}\nVibes decide the kind
+    of music the plays when the scene starts.\n## Countries:\nChoose up to seven
+    countries from the list: {1}.\nOnly use the listed countries. Do not abbreviate
+    names.\nSelect countries that have a significant historical, cultural, or political
+    connection to the event. Ensure that their relationships\u2014whether adversarial
+    or cooperative\u2014are relevant to the scenario.\n\n## Scenario:\nProvide a
+    detailed background and exposition for the skit. Describe the setting, the circumstances
+    leading up to the event, and the initial interactions between the countries.
+    The scenario should set the stage for conflict, misunderstanding, or collaboration,
+    and establish the tone for the skit.\n\n## Resolution:\nDescribe the intended
+    resolution of the skit. The resolution should reflect the complexities of international
+    relations, whether through irony, an unexpected twist, or a darkly humorous outcome.
+    It should tie back to the event and provide a satisfying or thought-provoking
+    conclusion.\n\n## Dynamics:\n- Delve into the character dynamics, highlight the
+    personalities, historical relationships, and cultural traits of each country.\n-
+    Use descriptive language and metaphors to enhance the depth of the characters
+    and their interactions. Consider how their past experiences influence their present
+    behavior and dialogue.\n- Describe how the countries\u2019 interactions evolve
+    throughout the skit, particularly how rivalries, alliances, and historical grudges
+    play out in the conversation.\n\n## Comedy:\n- Be descriptive in your approach
+    to comedic delivery. Consider the pacing, timing, and structure of jokes, ensuring
+    they align with the characters\u2019 personalities and historical contexts.\n-
+    Exaggerate character traits and include punchlines that play off these exaggerations.
+    Use dark humor, irony, and sarcasm to convey deeper messages about culture and
+    history.\n- Incorporate popular references and culturally relevant jokes that
+    resonate with the audience, ensuring the comedy is sharp, relevant, and occasionally
+    provocative.\n\nDo not add new characters or use extras.\nOutput only plain text.
+    Do not output markdown."
+  PromptForGeneratingPrompts: 'Explain a random event in the history of {0}, but
+    as though it was the episode out of a sitcom where the countries are people,
+    with their own lives and personalities.
+
+
+    Example Outputs:
+
+    "America
+    and Canada have a drink while talking about The American Revolution, but America
+    gets tipsy and becomes upset at the mention of the War of 1812."
+
+    "Britain
+    and France have a flirtatious feud, representing the Hundred Years'' War."
+
+    "South
+    Africa and Israel get exposed by the Soviet Union for having a secret affair."
+
+
+    One
+    of the countries must be {0}.
+
+
+    Describe in 200 characters or less.'
+  Music: {fileID: 259846663}
+--- !u!1 &1168908221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1168908222}
+  - component: {fileID: 1168908224}
+  - component: {fileID: 1168908223}
+  m_Layer: 5
+  m_Name: Special
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1168908222
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168908221}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1461464146}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: 12.5, y: 25}
+  m_SizeDelta: {x: -25, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1168908223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168908221}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: NEW!
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190335
+  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 18
+  m_fontSizeBase: 18
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1168908224
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168908221}
+  m_CullTransparentMesh: 1
 --- !u!1 &1461464145
 GameObject:
   m_ObjectHideFlags: 0
@@ -1146,6 +1364,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1168908222}
   - {fileID: 545085077}
   - {fileID: 1948082285}
   - {fileID: 1875279067}
@@ -1277,17 +1496,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: owen.codes
+  m_text: discord.gg/9yWdyk6ppE
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284177243
-  m_fontColor: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1304,8 +1523,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 18
-  m_fontSizeBase: 18
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1354,6 +1573,89 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761473762}
   m_CullTransparentMesh: 1
+--- !u!1 &1831844136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1831844139}
+  - component: {fileID: 1831844138}
+  m_Layer: 1
+  m_Name: Side Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!20 &1831844138
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831844136}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 2
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &1831844139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831844136}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 226308948}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1875279066
 GameObject:
   m_ObjectHideFlags: 0
@@ -1389,7 +1691,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: 0, y: 100}
-  m_SizeDelta: {x: 0, y: 100}
+  m_SizeDelta: {x: -300, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1875279068
 MonoBehaviour:
@@ -1414,14 +1716,14 @@ MonoBehaviour:
   m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 1, g: 0.8666667, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1444,7 +1746,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 36
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 1024
   m_textAlignment: 65535
@@ -1548,7 +1850,7 @@ MonoBehaviour:
   m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1622,12 +1924,105 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1948082284}
   m_CullTransparentMesh: 1
+--- !u!1 &2073397156
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2073397157}
+  - component: {fileID: 2073397158}
+  m_Layer: 1
+  m_Name: Point Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2073397157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073397156}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 226308948}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!108 &2073397158
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073397156}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 1
+  m_Shape: 0
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 100
+  m_SpotAngle: 75.4
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 963194228}
-  - {fileID: 835387938}
-  - {fileID: 1139745789}
-  - {fileID: 988932128}
   - {fileID: 429567803}
+  - {fileID: 1139745789}
+  - {fileID: 264391352}
+  - {fileID: 226308948}

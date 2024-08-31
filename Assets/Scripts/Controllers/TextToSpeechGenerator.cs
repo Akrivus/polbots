@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class TextToSpeechGenerator : MonoBehaviour
 {
-    public IEnumerator Generate(StoryNode node)
+    public IEnumerator Generate(StoreNode node)
     {
         var url = $"https://texttospeech.googleapis.com/v1/text:synthesize?key={ApiKeys.GOOGLE}";
         var json = JsonConvert.SerializeObject(new Request()
