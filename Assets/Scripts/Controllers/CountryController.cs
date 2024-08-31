@@ -1,9 +1,12 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using TMPro;
 using UnityEngine;
 
 public class CountryController : MonoBehaviour
 {
+    public event Action<ChatNode> OnActivate;
+
     public Color Color => country.Color;
     public string Name { get; set; }
 
@@ -51,6 +54,7 @@ public class CountryController : MonoBehaviour
             Controller.SetFace(node.Reactions[Controller], transform);
         Name = node.Name;
         actionLabel.text = node.Action;
+        OnActivate(node);
 
         voice.clip = node.VoiceLine;
         voice.Play();

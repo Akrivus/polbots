@@ -106,7 +106,9 @@ public class StoryQueue : MonoBehaviour
 
     public IEnumerator PlayStory(Story story)
     {
-        var countries = story.Countries.Select((n) => CountryManager[n]).ToArray();
+        var countries = story.Countries.Select((n) => CountryManager[n])
+            .Select((c) => c == null ? CountryManager["United Nations"] : c)
+            .ToArray();
         CountryManager.SpawnCountries(countries);
 
         var nodes = story.Nodes.Take(countries.Length);

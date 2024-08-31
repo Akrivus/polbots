@@ -49,7 +49,6 @@ public class MusicStateMachine : MonoBehaviour
 
     private void StopBackgroundMusic()
     {
-        background.SetActive(true);
         player.volume = backVolume;
         player.clip = null;
         player.loop = true;
@@ -58,7 +57,6 @@ public class MusicStateMachine : MonoBehaviour
 
     private void PlayBackgroundMusic()
     {
-        background.SetActive(false);
         player.volume = loudVolume;
         player.clip = music[Random.Range(0, music.Length)];
         player.loop = false;

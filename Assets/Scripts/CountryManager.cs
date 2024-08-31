@@ -104,6 +104,11 @@ public class CountryManager : MonoBehaviour
     {
         Camera.main.transform.position = target;
         Camera.main.transform.rotation = rotation;
+
+        if (controllers.Length > 3)
+            Camera.main.fieldOfView = 40;
+        else
+            Camera.main.fieldOfView = 60;
     }
 
     public CountryController Get(string name)

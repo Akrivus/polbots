@@ -15,7 +15,7 @@ public class Story
     public bool NewEpisode { get; set; }
 
     [JsonIgnore]
-    public float Duration => Nodes.Select(n => n.Speech.Length / 96000).Sum();
+    public float Duration => Nodes.Select(n => n.Speech?.Length ?? 0 / 96000).Sum();
 
     public Story Save()
     {

@@ -53,6 +53,7 @@ public class ChatNode
 
     public CountryController Controller;
     public string Name;
+    public string Line;
     public string Action;
     public string Text;
     public AudioClip VoiceLine;
@@ -66,8 +67,9 @@ public class ChatNode
         Controller = node.Controller;
         Name = node.Name;
 
-        Action = regex.Match(node.Text).Groups[1].Value;
-        Text = regex.Replace(node.Text, " ");
+        Line = node.Text;
+        Action = regex.Match(Line).Groups[1].Value;
+        Text = regex.Replace(Line, " ");
         VoiceLine = node.VoiceLine;
 
         Reactions = node.Reactions
