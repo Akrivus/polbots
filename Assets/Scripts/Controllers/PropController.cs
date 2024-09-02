@@ -10,6 +10,7 @@ public class PropController : MonoBehaviour
     private MeshRenderer mesh;
 
     private Prop[] props;
+    private Prop prop;
 
     private Vector3 position;
 
@@ -29,10 +30,11 @@ public class PropController : MonoBehaviour
 
     void Update()
     {
-        var time = Time.time * 0.2f;
-        var y = Mathf.Sin(time) * 0.005f;
+        var time = Time.time * 0.5f + controller.transform.GetSiblingIndex() * 1000f;
+        var y = Mathf.Sin(time) * 0.025f;
         var position = this.position - Vector3.up * y;
 
+        mesh.transform.Rotate(Vector3.up, Mathf.Sin(time) * 0.025f);
         mesh.transform.localPosition = Vector3.Lerp(
             mesh.transform.localPosition,
             position,
@@ -41,12 +43,17 @@ public class PropController : MonoBehaviour
 
     private void SetProp(Prop prop)
     {
+        if (prop.Texture == null)
+            return;
+        this.prop = prop;
         mesh.material.mainTexture = prop.Texture;
     }
 
     private void Activate(ChatNode node)
     {
         var line = node.Line.ToLower();
+        if (this.prop != null && this.prop.Is(line))
+            return;
         var prop = props
             .OrderBy(p => Random.value)
             .FirstOrDefault(p => p.Is(line));
@@ -67,16 +74,7 @@ public class Prop
     {
         var columns = row.Split(',');
         Name = columns[0];
-
-        var i = 0;
-        foreach (var column in columns)
-            if (string.IsNullOrEmpty(column))
-                break;
-            else
-                ++i;
-        Keywords = new string[--i];
-        for (i = 0; i < Keywords.Length; ++i)
-            Keywords[i] = columns[i + 1];
+        Keywords = columns[1].Split('/');
     }
 
     private Texture2D LoadTexture()
@@ -88,6 +86,8 @@ public class Prop
 
     public bool Is(string keyphrase)
     {
+        if (Name == "none")
+            return false;
         foreach (var key in Keywords)
             if (keyphrase.Contains(key))
                 return true;

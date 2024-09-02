@@ -10,6 +10,13 @@ public class Story
     public string[] Countries { get; set; }
     public List<StoreNode> Nodes { get; set; }
     public string Vibe { get; set; }
+    public string Logline
+    {
+        get => _logline;
+        set => _logline = value;
+    }
+
+    private string _logline;
 
     [JsonIgnore]
     public bool NewEpisode { get; set; }
@@ -32,14 +39,27 @@ public class Story
         return this;
     }
 
+    public void GenerateLogline()
+    {
+        var countries = Countries.ToList();
+        if (countries.Count > 1)
+            countries[countries.Count - 1] = $"and {countries[countries.Count - 1]}";
+        var starring = string.Join(", ", countries);
+        var vibe = Vibe.ToLower();
+        Logline = $"\"{Title}\", a {vibe} episode in season 1, starring {starring}.";
+    }
+
     public SearchNode ToSearchNode()
     {
+        if (string.IsNullOrEmpty(Logline))
+            GenerateLogline();
         return new SearchNode
         {
             NewEpisode = NewEpisode,
             Duration = Duration,
             Title = Title,
             Vibe = Vibe,
+            Logline = Logline,
             Countries = Countries,
         };
     }

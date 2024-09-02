@@ -14,7 +14,7 @@ public class StoryGenerator : MonoBehaviour
 
     private static List<string> ReservedHeaders = new List<string>
     {
-        "Title", "Vibe", "Event", "Countries", "Scenario", "Resolution", "Dynamics", "Comedy"
+        "Title", "Vibe", "Logline", "Event", "Countries", "Scenario", "Resolution", "Dynamics", "Comedy"
     };
 
     public CountryManager CountryManager { get; private set; }
@@ -26,6 +26,9 @@ public class StoryGenerator : MonoBehaviour
 
     [SerializeField, TextArea(3, 30)]
     private string PromptForGeneratingFaces;
+
+    [SerializeField, TextArea(3, 30)]
+    private string PromptForGeneratingLogline;
 
     private ConcurrentQueue<string> queue = new ConcurrentQueue<string>();
 
@@ -99,12 +102,6 @@ public class StoryGenerator : MonoBehaviour
             if (ReservedHeaders.Contains(name))
                 continue;
 
-            if (CountryManager[name] == null)
-            {
-                text = $"*{name}* {text}";
-                name = "United Nations";
-            }
-
             var node = new StoreNode(text, name,
                 CountryManager[name]);
 
@@ -121,18 +118,22 @@ public class StoryGenerator : MonoBehaviour
             yield return GenerateFaces(logs, node, names.ToArray());
 
         var template = prompt.Parse();
-
-        StoryQueue.Instance.AddStoryToQueue(new Story
+        var story = new Story
         {
             NewEpisode = true,
             Title = template["Title"],
             Vibe = template["Vibe"],
+            Logline = template["Logline"],
             Nodes = nodes,
             Countries = nodes
                 .Select(n => n.Name)
                 .Distinct()
                 .ToArray(),
-        }.Save());
+        };
+
+        if (string.IsNullOrEmpty(story.Logline))
+            story.GenerateLogline();
+        StoryQueue.Instance.AddStoryToQueue(story);
     }
 
     private IEnumerator GenerateFaces(string context, StoreNode node, params string[] names)

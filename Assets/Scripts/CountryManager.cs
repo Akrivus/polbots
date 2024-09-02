@@ -1,10 +1,11 @@
+using Cinemachine;
 using System.Linq;
 using Unity.VisualScripting;
 using UnityEngine;
 
 public class CountryManager : MonoBehaviour
 {
-    public Country this[string name] => countries.FirstOrDefault(c => c.Is(name));
+    public Country this[string name] => countries.FirstOrDefault(c => c.Equals(name));
 
     public string[] names { get; private set; }
 
@@ -14,7 +15,7 @@ public class CountryManager : MonoBehaviour
     private GameObject prefab;
 
     [SerializeField]
-    private Transform group;
+    private CinemachineTargetGroup group;
 
     [SerializeField]
     public CountryController[] controllers;
@@ -44,11 +45,11 @@ public class CountryManager : MonoBehaviour
             SetCamera(target, Quaternion.Slerp(Camera.main.transform.rotation, Quaternion.LookRotation(center), Time.deltaTime));
     }
 
-    public void SpawnCountries(Country[] countries)
+    public void SpawnCountries(Country[] countries, string[] names)
     {
         controllers = new CountryController[countries.Length];
         for (var i = 0; i < countries.Length; ++i)
-            SpawnCountry(countries[i], i);
+            SpawnCountry(countries[i], names[i], i);
     }
 
     public void DespawnCountries()
@@ -58,12 +59,12 @@ public class CountryManager : MonoBehaviour
         controllers = new CountryController[0];
     }
 
-    private void SpawnCountry(Country country, int index)
+    private void SpawnCountry(Country country, string name, int index)
     {
         var d = Random.Range(-0.2f, 0.2f);
-        var fab = Instantiate(prefab, group)
+        var fab = Instantiate(prefab, group.transform)
             .GetComponent<CountryController>();
-        fab.SetCountry(country);
+        fab.SetCountry(country, name);
         fab.manager = this;
         fab.position = new Vector3(
             index * country.Size * 1.4f + d, 0, 0);
@@ -113,16 +114,16 @@ public class CountryManager : MonoBehaviour
 
     public CountryController Get(string name)
     {
-        return controllers.FirstOrDefault(c => c.Is(name));
+        return controllers.FirstOrDefault(c => c.Equals(name));
     }
 
     public bool Has(string name)
     {
-        return controllers.Any(c => c.Is(name));
+        return controllers.Any(c => c.Equals(name));
     }
 
     public bool Knows(string name)
     {
-        return countries.Any(c => c.Is(name));
+        return countries.Any(c => c.Equals(name));
     }
 }

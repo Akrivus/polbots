@@ -18,16 +18,8 @@ public class TextToSpeechGenerator : MonoBehaviour
             {
                 Text = ChatNode.regex.Replace(node.Text, " ")
             },
-            AudioConfig = new AudioConfig()
-            {
-                SpeakingRate = node.Country.SpeakingRate,
-                Pitch = node.Country.Pitch
-            },
-            Voice = new Voice()
-            {
-                Name = node.Country.Voice,
-                LanguageCode = node.Country.Language
-            }
+            AudioConfig = new AudioConfig(),
+            Voice = new Voice(node.Country)
         });
 
         WWW www;
@@ -89,10 +81,17 @@ namespace PolBol.Models
     {
 
         [JsonProperty("name")]
-        public string Name { get; set; } = "en-US-Wavenet-D";
+        public string Name { get; set; } = "en-US-Standard-D";
 
         [JsonProperty("languageCode")]
         public string LanguageCode { get; set; } = "en-US";
+
+        public Voice(Country country)
+        {
+            if (country == null)
+                return;
+            Name = country.Voice;
+        }
     }
 
     class Output

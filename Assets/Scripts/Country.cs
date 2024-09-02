@@ -22,7 +22,7 @@ public class Country
         var columns = row.Split(',');
         Name = columns[0];
         Voice = columns[1];
-        Aliases = columns[2].Split("/");
+        Aliases = columns[2].Split('/');
     }
 
     private Texture2D LoadTexture()
@@ -45,7 +45,7 @@ public class Country
         return color;
     }
 
-    public bool Is(string name)
+    public bool Equals(string name)
     {
         if (Name == name) return true;
         foreach (var alias in Aliases)

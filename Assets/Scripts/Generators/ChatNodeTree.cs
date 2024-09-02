@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class ChatNodeTree : MonoBehaviour
@@ -49,7 +50,8 @@ public class ChatNodeTree : MonoBehaviour
 [Serializable]
 public class ChatNode
 {
-    public static readonly Regex regex = new Regex(@"^\s*([*(\[]([^[\])*]+)[\])*])");
+    public static readonly Regex regex = new Regex(@"^\s*([*(\[]([^[\])*]+)[\])*])|([*(\[]([^[\])*]+)[\])*])\s*$");
+                                                    //    1st group (lead action) | 2nd group (final action)
 
     public CountryController Controller;
     public string Name;
@@ -73,10 +75,11 @@ public class ChatNode
         VoiceLine = node.VoiceLine;
 
         Reactions = node.Reactions
-            .Where(node => CountryManager.Has(node.Key))
+            .Where(node => CountryManager.Has(Name))
             .Select(node => new KeyValuePair<CountryController, Face>(
-                CountryManager.Get(node.Key),
+                CountryManager.Get(Name),
                 node.Value))
+            .DistinctBy(n => n.Key)
             .ToDictionary(n => n.Key, n => n.Value);
     }
 
@@ -144,6 +147,7 @@ public class SearchNode
     public bool NewEpisode { get; set; }
     public string Title { get; set; }
     public string Vibe { get; set; }
+    public string Logline { get; set; }
     public string[] Countries { get; set; }
 
     public DateTime Time { get; set; }

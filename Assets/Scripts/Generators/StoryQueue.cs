@@ -54,7 +54,7 @@ public class StoryQueue : MonoBehaviour
 
     private void Start()
     {
-        ReplayEpisode();
+        PremierEpisode();
         StartCoroutine(PlayQueue());
     }
 
@@ -70,6 +70,7 @@ public class StoryQueue : MonoBehaviour
 
     public void AddStoryToQueue(Story story)
     {
+        if (story == null) return;
         queue.Enqueue(story);
         OnQueueAdded(story.ToSearchNode());
     }
@@ -109,7 +110,7 @@ public class StoryQueue : MonoBehaviour
         var countries = story.Countries.Select((n) => CountryManager[n])
             .Select((c) => c == null ? CountryManager["United Nations"] : c)
             .ToArray();
-        CountryManager.SpawnCountries(countries);
+        CountryManager.SpawnCountries(countries, story.Countries);
 
         var nodes = story.Nodes.Take(countries.Length);
         for (int i = 0; i < nodes.Count(); i++)

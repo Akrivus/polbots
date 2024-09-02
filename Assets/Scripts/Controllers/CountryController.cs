@@ -105,11 +105,12 @@ public class CountryController : MonoBehaviour
         nameLabel.text = Name;
     }
 
-    public void SetCountry(Country country)
+    public void SetCountry(Country country, string name)
     {
+        this.name = name;
         this.country = country;
         Flag.Country = country;
-        Name = country.Name;
+        Name = name;
     }
 
     private float GetCurrentAmplitude()
@@ -127,7 +128,7 @@ public class CountryController : MonoBehaviour
         return sum / samples.Length;
     }
 
-    public bool Is(string name)
+    public bool Equals(string name)
     {
         if (Name == name) return true;
         foreach (var alias in country.Aliases)

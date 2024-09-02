@@ -10,7 +10,9 @@ public static class PromptExtensions
         {
             { "Title", null },
             { "Event", null },
-            { "Countries", null }
+            { "Countries", null },
+            { "Logline", null },
+            { "Vibe", null }
         };
 
         var lines = prompt
