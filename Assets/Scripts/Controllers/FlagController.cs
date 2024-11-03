@@ -1,30 +1,36 @@
-using UnityEngine;
+﻿using UnityEngine;
 
-public class FlagController : MonoBehaviour
+public class FlagController : AutoActor, ISubActor
 {
-    public Country Country
-    {
-        get => country;
-        set
-        {
-            country = value;
-            SetFlag(country);
-        }
-    }
+    [HideInInspector]
+    public Color Color = Color.white;
 
     [SerializeField]
-    private Country country;
+    private MeshRenderer flagRenderer;
+    private Texture2D flagTexture;
 
-    [SerializeField]
-    private MeshRenderer flag;
-
-    void Start()
+    private Texture2D LoadTexture(string name)
     {
-        SetFlag(Country);
+        flagTexture = Resources.Load<Texture2D>($"Actors/{name}");
+        if (flagTexture)
+            Color = GenerateColor(flagTexture.GetPixels());
+        return flagTexture;
     }
 
-    private void SetFlag(Country country)
+    private Color GenerateColor(Color[] colors)
     {
-        flag.material.mainTexture = country.Texture;
+        var color = Color.black;
+        for (var i = 0; i < colors.Length; ++i)
+            color += colors[i];
+        color /= colors.Length;
+        color.a = 1f;
+        return color;
+    }
+
+    public void UpdateActor(Actor actor, ActorContext context)
+    {
+        LoadTexture(actor.Name);
+        actor.Color = Color;
+        flagRenderer.material.mainTexture = flagTexture;
     }
 }

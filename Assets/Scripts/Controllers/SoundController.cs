@@ -1,0 +1,42 @@
+﻿using System.Collections;
+using UnityEngine;
+
+public class SoundController : AutoActor, ISubChats, ISubNode
+{
+    [SerializeField]
+    private AudioSource source;
+
+    private SoundGroup soundGroup;
+
+    private void PlaySoundGroup()
+    {
+        if (soundGroup.Sounds.Length == 0)
+            source.clip = null;
+        else
+            source.clip = soundGroup.Sounds[Random.Range(0, soundGroup.Sounds.Length)];
+        if (source.clip != null)
+            source.Play();
+    }
+
+    private void SetSoundGroup(string name)
+    {
+        var group = Resources.Load<SoundGroup>($"SoundGroups/{name}");
+        if (group != null)
+            soundGroup = group;
+    }
+
+    public void Initialize(Chat chat)
+    {
+        if (chat == null) return;
+        var name = chat.Contexts.Get(Actor).SoundGroup;
+        if (name != null)
+            SetSoundGroup(name);
+    }
+
+    public void Activate(ChatNode node)
+    {
+        if (source.isPlaying)
+            return;
+        PlaySoundGroup();
+    }
+}

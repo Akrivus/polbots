@@ -1,113 +1,47 @@
-using UnityEngine;
+﻿using UnityEngine;
 
-public class FaceController : MonoBehaviour
+public class FaceController : AutoActor
 {
-    public Face Face
-    {
-        get => face;
-        set
-        {
-            face = value;
-            SetFace(face);
-        }
-    }
-
-    public Transform Target
-    {
-        get => target;
-        set => target = value;
-    }
+    [SerializeField]
+    private Transform bodyObject;
 
     [SerializeField]
-    private Face face;
+    private Transform faceObject;
 
-    [SerializeField]
-    private Transform target;
-
-    [SerializeField]
-    private MeshRenderer faceRenderer;
-
-    private Vector3 facePosition = Vector3.zero;
-
-    public void Start()
+    private void Update()
     {
-        SetFace(face);
+        UpdateBodyScale();
+        NormalizeFaceScale();
+        MoveBodyUp();
     }
 
-    public void Update()
+    private void UpdateBodyScale()
     {
-        var time = Time.time * 0.1f + Face.GetHashCode();
-        var y = Mathf.Sin(time) * 0.001f;
-        var position = facePosition + Vector3.up * y;
-        faceRenderer.transform.localPosition = Vector3.Lerp(
-            faceRenderer.transform.localPosition,
+        var time = Time.time * 0.4f + ActorController.Sentiment.GetHashCode();
+        var sin = Mathf.Abs(Mathf.Sin(time) * ActorController.VoiceVolume) * ActorController.Sentiment.Score;
+        var hover = Mathf.Sin(time * 0.4f) * (ActorController.Sentiment.Score / 10f);
+
+        bodyObject.transform.localScale = Vector3.one + Vector3.forward * sin;
+        bodyObject.transform.localPosition = new Vector3(
+            0, bodyObject.transform.localScale.z - 1f + hover, 0);
+    }
+
+    private void NormalizeFaceScale()
+    {
+        var x = 1f / bodyObject.transform.localScale.x;
+        var y = 1f / bodyObject.transform.localScale.y;
+        var z = 1f / bodyObject.transform.localScale.z;
+        faceObject.transform.localScale = new Vector3(x, y, z) * 0.6f;
+    }
+
+    private void MoveBodyUp()
+    {
+        var time = Time.time * 0.1f + ActorController.Sentiment.GetHashCode();
+        var sin = Mathf.Sin(time) * (ActorController.Sentiment.Score / 50f);
+        var position = Vector3.up * sin;
+        faceObject.localPosition = Vector3.Lerp(
+            faceObject.localPosition,
             position,
             Time.deltaTime * 8.0f);
     }
-
-    public void SetFace(Face face, Transform target = null)
-    {
-        var texture = Resources.Load<Texture>($"faces/{face}");
-        faceRenderer.material.mainTexture = texture;
-        if (target != null) LookAt(target.position);
-    }
-
-    public void LookAt(Vector3 target)
-    {
-        if (target == null || transform.position == target) return;
-        var dist = target.x - transform.position.x;
-        if (dist > 0)
-            facePosition = Vector3.back / 5f;
-        else if (dist < 0)
-            facePosition = Vector3.forward / 5f;
-        else
-            facePosition = Vector3.zero;
-    }
-}
-
-public enum Face
-{
-    Alarmed,
-    Angry,
-    Annoyed,
-    Anxious,
-    Ashamed,
-    Blush,
-    Bored,
-    Calm,
-    Concerned,
-    Confused,
-    Crazy,
-    Cry,
-    Depressed,
-    Drunk,
-    Embarrassed,
-    Enraged,
-    Excited,
-    Focused,
-    Frustrated,
-    Happy,
-    Hesitant,
-    Impatient,
-    Impressed,
-    Lonely,
-    Love,
-    Neutral,
-    Pissed,
-    Pleased,
-    Sad,
-    Scared,
-    Shocked,
-    Sleepy,
-    Smug,
-    Sob,
-    Stern,
-    Stressed,
-    Stupid,
-    Surprised,
-    Suspicious,
-    Tired,
-    Wink,
-    Worried,
-    Stoned,
 }
