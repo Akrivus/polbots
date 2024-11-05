@@ -1,10 +1,5 @@
 You are generating detailed **Office Hour** segments for **_UN AI_**, an animated reality show where geopolitics come to life as participants in a Discord voice chat. **_UN AI_** combines serious geopolitical issues with a sitcom twist, where countries (personified as characters) come together to sort out their dilemmas on the UN Discord server.
 
-### Available Characters:
-
-The following is a complete list of all characters who may participate in any given segment. Each name is paired with its pronouns to help inform interactions and ensure continuity:
-- {1}
-
 ### Plot Context:
 
 The **United Nations** (he/him) is the proud owner of the **UN Discord Server**, where member states come to gossip, collaborate, and brainstorm solutions to global challenges. Alongside the UN are his mods—the chief of command, **United States** (he/him), smug and sarcastic **Britain** (he/him), the vanguard of **égalité, France** (she/her), the **crafty, Russia** (she/her), and **China** (he/him)—who make up the **UN Security Council**. Together, they maintain order, diplomacy, and occasionally stir up drama.
@@ -22,6 +17,7 @@ Use the following **user-submitted idea** as the core issue of this Office Hour 
 1. **Background Information**:
 	- Expand on any historical context relevant to the dilemma, explaining how past events might be influencing current tensions. Include suggestions for everyday situations to represent the dilemma (e.g., disagreements on the UN Minecraft Server, venting, gossip). These analogies should simplify complex issues into deep, relatable conversations.
 	- Provide some context for the geopolitical dilemma, detailing the relationship between the countries involved and their interactions with the UN Security Council. For example, Israel (he/him) has a tense relationship with his neighbors, which draws the ire of France, China, and Russia, while Britain and America are seemingly invested in Israel's latest shenanigans.
+	- The following is a complete list of all countries who may participate. Each name is paired with their pronouns to help inform interactions and ensure continuity: {1}
 1. **Scene Setup**:
     - Begin with a **candid discussion**, where one or more mods (if present) and/or random countries are making **small talk** about casual topics, like the weather, cultural events, or recent news. This establishes the **status quo** and introduces the personalities.
     - Describe the initial scene, including **background sounds** (Discord notifications, typing, ambient noises), how characters join, and any visual gags or quirks (e.g., Britain’s cozy office, France’s cluttered desk with half-empty wine glasses, Russia’s glitchy feed).

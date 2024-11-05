@@ -2,7 +2,11 @@
 
 public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubSentiment
 {
-    private Color color => _camera.backgroundColor;
+    private Color color
+    {
+        get => _camera.backgroundColor;
+        set => _camera.backgroundColor = value;
+    }
 
     [SerializeField]
     private Vector2 distances;
@@ -27,13 +31,13 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
     private void Awake()
     {
         var rotation = _camera.transform.parent.rotation.eulerAngles;
-        rotation.x += UnityEngine.Random.Range(minimumRotation.x, maximumRotation.x);
-        rotation.y += UnityEngine.Random.Range(minimumRotation.y, maximumRotation.y);
-        rotation.z += UnityEngine.Random.Range(minimumRotation.z, maximumRotation.z);
+        rotation.x += Random.Range(minimumRotation.x, maximumRotation.x);
+        rotation.y += Random.Range(minimumRotation.y, maximumRotation.y);
+        rotation.z += Random.Range(minimumRotation.z, maximumRotation.z);
         _camera.transform.parent.rotation = Quaternion.Euler(rotation);
 
         var position = _camera.transform.localPosition;
-        position.x = UnityEngine.Random.Range(distances.x, distances.y);
+        position.x = Random.Range(distances.x, distances.y);
         _camera.transform.localPosition = position;
     }
 
@@ -63,12 +67,12 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
 
     private void UpdateColor(float d)
     {
-        _camera.backgroundColor = color.Lerp(_color, colorBlendSpeed * d);
+        color = color.Lerp(_color, colorBlendSpeed * d);
     }
 
-    public void AddColor(Color target, float blend = 0.25f)
+    public void AddColor(Color target, float blend = 0.5f)
     {
-        target = target.Lerp(Color.black, 0.5f);
+        target = target.Darken();
         _color = color.Lerp(target, blend);
     }
 
@@ -79,8 +83,8 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
 
     public void UpdateActor(Actor actor, ActorContext context)
     {
-        var color = actor.Color.Lerp(Color.black, 0.5f);
-        _camera.backgroundColor = color;
+        _camera.backgroundColor = actor.Color
+            .Darken();
     }
 
     public void Activate(ChatNode node)
@@ -89,6 +93,7 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
             _ui.Show();
         if (_ui.IsMuted)
             _ui.Unmute();
+        AddColor(node.Actor.Color);
     }
 
     public void Deactivate()

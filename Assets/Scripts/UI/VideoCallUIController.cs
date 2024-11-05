@@ -92,9 +92,6 @@ public class VideoCallUIController : MonoBehaviour
         SetMuteButton(false);
         SetVisibility(true);
         SetCaption(actor.Actor.Title);
-
-        if (!actor.IsInitial)
-            Show();
     }
 
     public void Show()

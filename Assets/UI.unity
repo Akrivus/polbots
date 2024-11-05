@@ -369,7 +369,6 @@ GameObject:
   - component: {fileID: 544448211}
   - component: {fileID: 544448210}
   - component: {fileID: 544448216}
-  - component: {fileID: 544448217}
   - component: {fileID: 544448215}
   m_Layer: 0
   m_Name: UN Discord Server
@@ -434,32 +433,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ChatGenerator: {fileID: 1028228533}
   subreddits:
-  - UnitedNations
-  - NATO
-  - geopolitics
-  - anime_titties
-  - worldnews
-  - news
-  - Europe
-  - Asia
-  - MiddleEast
-  - Africa
-  - australia
-  - america
-  - LatinAmerica
-  - HistoryWhatIf
---- !u!114 &544448217
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 544448209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b14150469eff9d4eb6b9a0511723f6e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  - UnitedNations+geopolitics/new
+  - UpliftingNews+news/new
+  - worldnews+anime_titties/new
+  batchSize: 20
+  debugBatchSize: 0
 --- !u!1 &555989945
 GameObject:
   m_ObjectHideFlags: 0
@@ -794,8 +772,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58ae50fb0f31d5744826aa17c6bca988, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: Office Hours
-  topic: Background Information
+  title: '### Office Hours Segment'
+  topic: '#### Background Information'
 --- !u!1 &1349153190
 GameObject:
   m_ObjectHideFlags: 0
@@ -829,9 +807,9 @@ RectTransform:
   m_Father: {fileID: 1393723630}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: -1920, y: 50}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1349153192
 MonoBehaviour:
@@ -916,7 +894,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -316.5492, w: 0}
+  m_margin: {x: 0, y: 0, z: -1915.7297, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0

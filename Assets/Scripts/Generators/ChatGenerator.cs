@@ -28,15 +28,17 @@ public class ChatGenerator : MonoBehaviour
     private IEnumerator UpdateQueue()
     {
         var idea = default(Idea);
-        yield return new WaitUntil(() => queue.TryDequeue(out idea));
+        yield return new WaitUntilTimer(() => queue.TryDequeue(out idea));
 
-        var task = Generate(idea);
-        yield return new WaitUntil(() => task.IsCompleted);
-        var chat = task.Result;
+        if (idea != null)
+        {
+            var task = Generate(idea);
+            yield return new WaitUntilTimer(() => task.IsCompleted, 1800);
+            var chat = task.Result;
 
-        yield return new WaitUntil(() => ChatManager.Instance.IsReady);
+            ChatManager.Instance.AddToPlayList(chat);
+        }
 
-        ChatManager.Instance.AddToPlayList(chat);
         yield return UpdateQueue();
     }
 
@@ -53,7 +55,7 @@ public class ChatGenerator : MonoBehaviour
 
     public async Task<Chat> Generate(Idea idea)
     {
-        var options = string.Join("\n- ", GetCharacterNames());
+        var options = string.Join(", ", GetCharacterNames());
         var prompt = _prompt.Format(idea.Prompt, options);
         var chat = new Chat(idea);
 

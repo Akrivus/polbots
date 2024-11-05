@@ -16,7 +16,6 @@ public class ChatManager : MonoBehaviour
     public event Action<Chat> OnChatQueueTaken;
     public event Action OnChatQueueEmpty;
 
-    public bool IsReady => playList.Count < 4;
     public Chat NowPlaying { get; private set; }
     public List<Chat> PlayList => playList
         .ToList()
@@ -53,7 +52,7 @@ public class ChatManager : MonoBehaviour
             OnChatQueueEmpty?.Invoke();
 
         var chat = default(Chat);
-        yield return new WaitUntil(() => playList.TryDequeue(out chat));
+        yield return new WaitUntilTimer(() => playList.TryDequeue(out chat));
 
         if (chat != null)
             yield return Play(chat);
@@ -74,10 +73,7 @@ public class ChatManager : MonoBehaviour
 
     private IEnumerator Initialize(Chat chat)
     {
-        var outgoing = actors.Where(a => !chat.Actors.Contains(a.Actor));
-        foreach (var actor in outgoing)
-            yield return actor.Deactivate();
-        actors.RemoveAll(a => outgoing.Contains(a));
+        yield return TryRemoveActors(chat);
 
         NowPlaying = chat;
         SubtitlesUIManager.Instance.SetChatTitle(chat);
@@ -94,18 +90,29 @@ public class ChatManager : MonoBehaviour
         var actor = actors.Get(node.Actor);
         if (actor == null)
             yield break;
+        yield return TryAddActor(node.Actor);
         yield return actor.Activate(node);
-        SetActorReactions(node);
+        yield return SetActorReactions(node);
     }
 
-    private void SetActorReactions(ChatNode node)
+    private IEnumerator SetActorReactions(ChatNode node)
     {
+        foreach (var reaction in node.Reactions)
+            yield return TryAddActor(reaction.Actor);
         var reactions = node.Reactions
             .Select(c => actors.FirstOrDefault(a => a.Actor == c.Actor))
             .ToDictionary(a => a, a => node.Reactions
             .First(r => r.Actor == a.Actor).Sentiment);
         foreach (var reaction in reactions)
             reaction.Key.Sentiment = reaction.Value;
+    }
+
+    private IEnumerator TryAddActor(Actor actor)
+    {
+        if (actors.Get(actor) != null)
+            yield break;
+        var context = NowPlaying.Contexts.Get(actor);
+        yield return AddActor(context);
     }
 
     private int I = 0;
@@ -120,6 +127,22 @@ public class ChatManager : MonoBehaviour
         controller.Sentiment = context.Actor.DefaultSentiment;
         actors.Add(controller);
         I++;
-        yield return controller.Initialize();
+        yield return controller.Initialize(NowPlaying);
+    }
+
+    private IEnumerator TryRemoveActors(Chat chat)
+    {
+        yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 3f));
+        StartCoroutine(RemoveActors(chat));
+    }
+
+    private IEnumerator RemoveActors(Chat chat)
+    {
+        var outgoing = actors.Where(a => !chat.Actors.Contains(a.Actor));
+        for (var i = 0; i < outgoing.Count(); i++)
+            yield return outgoing
+                .ElementAt(i)
+                .Deactivate();
+        actors.RemoveAll(a => outgoing.Contains(a));
     }
 }

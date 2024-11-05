@@ -8,6 +8,16 @@ public static class ColorExtensions
         return Color.Lerp(color, target, blend);
     }
 
+    public static Color Darken(this Color color, float amount = 0.25f)
+    {
+        return Color.Lerp(color, Color.black, amount);
+    }
+
+    public static Color Lighten(this Color color, float amount = 0.25f)
+    {
+        return Color.Lerp(color, Color.white, amount);
+    }
+
     public static Texture2D ToTexture2D(this string data)
     {
         var texture = new Texture2D(1, 1);

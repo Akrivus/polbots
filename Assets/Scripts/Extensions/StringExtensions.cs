@@ -31,7 +31,7 @@ public static class StringExtensions
     public static string[] FindAll(this string str, params string[] keys)
     {
         var results = keys
-            .Select(key => Regex.Match(str, $@"#*\s*{key}:\s*(\n*.*)").Groups[1].Value)
+            .Select(key => Regex.Match(str, $@"^{key}:\s*(\n*.*)").Groups[1].Value)
             .ToArray();
         /*
         if (results.Length < 2 || string.IsNullOrEmpty(results[1]))

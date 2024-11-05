@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class SoundController : AutoActor, ISubChats, ISubNode
 {
@@ -21,7 +20,9 @@ public class SoundController : AutoActor, ISubChats, ISubNode
     private void SetSoundGroup(string name)
     {
         var group = Resources.Load<SoundGroup>($"SoundGroups/{name}");
-        if (group != null)
+        if (group == null)
+            soundGroup = Resources.Load<SoundGroup>("SoundGroups/Silent");
+        else
             soundGroup = group;
     }
 
@@ -31,6 +32,7 @@ public class SoundController : AutoActor, ISubChats, ISubNode
         var name = chat.Contexts.Get(Actor).SoundGroup;
         if (name != null)
             SetSoundGroup(name);
+        PlaySoundGroup();
     }
 
     public void Activate(ChatNode node)

@@ -9,10 +9,7 @@ public class BackgroundGenerator : MonoBehaviour, ISubGenerator
 
     public async Task<Chat> Generate(Chat chat)
     {
-        var topic = chat.Topic.FindAll("Background Information");
-        if (topic.Length > 0)
-            chat.Topic = topic[0];
-        var prompt = _prompt.Format(topic);
+        var prompt = _prompt.Format(chat.Headline.Topic);
         var messages = await ChatClient.ChatAsync(prompt, false);
         prompt = messages[1].Content.ToString();
         var request = await ChatClient.API.ImagesEndPoint.GenerateImageAsync(

@@ -11,7 +11,6 @@ Use these guidelines to make your selections:
 Provide responses in the following format:
 Character 1: Category
 
-
 ### Character Names:
 
 - {1}

@@ -22,7 +22,7 @@ public class SubtitlesUIManager : MonoBehaviour
 
     public void SetSubtitle(string name, string text, Color color)
     {
-        var content = $"<b><u>{name}</u></b>\n{text.Scrub()}";
+        var content = $"<b><u>{name}</u></b><size=75%>\n{text.Scrub()}";
         _subtitle.text = content;
         _subtitle.color = color;
         _shadow.text = "<mark=#000000aa>" + content;
@@ -41,12 +41,13 @@ public class SubtitlesUIManager : MonoBehaviour
 
     public void SetChatTitle(Chat chat)
     {
-        _title.text = chat.Idea.Source;
+        _title.text = $"<u><b>{chat.Idea.Source}</b></u><size=75%>\n{chat.FileSafeName}";
     }
 
     public void OnNodeActivated(ChatNode node)
     {
-        var color = node.Actor.Color.Lerp(Color.white, 0.7f);
-        SetSubtitle(node.Actor.Title, node.Text, color);
+        SetSubtitle(node.Actor.Title, node.Text, node.Actor.Color
+            .Lighten()
+            .Lighten());
     }
 }

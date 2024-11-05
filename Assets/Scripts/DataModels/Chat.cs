@@ -3,6 +3,8 @@ using OpenAI.Chat;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
 using UnityEngine;
 
 public class Chat
@@ -33,6 +35,12 @@ public class Chat
     [JsonIgnore]
     public List<Message> Messages { get; set; }
 
+    [JsonIgnore]
+    public string FileSafeName => Idea.Prompt.Split(':').First();
+
+    [JsonIgnore]
+    public string FileName => $"{DateTime.Now.ToString("dd-MM-yy")}-{ToFileSafeString(FileSafeName)}";
+
     public Chat(Idea idea)
     {
         Idea = idea;
@@ -58,27 +66,39 @@ public class Chat
         return this;
     }
 
-    public void Save()
+    public async void Save()
     {
         if (!_locked) return;
 
-        var uuid = Guid.NewGuid().ToString();
         var json = JsonConvert.SerializeObject(this, Formatting.Indented);
 
         var docs = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         var folder = Path.Combine(docs, "PolBol");
         if (!Directory.Exists(folder))
             Directory.CreateDirectory(folder);
-        folder = Path.Combine(folder, $"{uuid}.json");
+        folder = Path.Combine(folder, $"{FileName}.json");
 
-        File.WriteAllText(folder, json);
+        await File.WriteAllTextAsync(folder, json);
     }
 
-    public static Chat Load(string uuid)
+    public static async Task<Chat> Load(string slug)
     {
         var docs = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-        var path = Path.Combine(docs, "PolBol", $"{uuid}.json");
-        var json = File.ReadAllText(path);
+        var path = Path.Combine(docs, "PolBol", $"{slug}.json");
+        var json = await File.ReadAllTextAsync(path);
         return JsonConvert.DeserializeObject<Chat>(json);
+    }
+
+    public static bool FileExists(string name)
+    {
+        var slug = $"{DateTime.Now.ToString("dd-MM-yy")}-{ToFileSafeString(name)}";
+        var docs = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        var path = Path.Combine(docs, "PolBol", $"{slug}.json");
+        return File.Exists(path);
+    }
+
+    private static string ToFileSafeString(string str)
+    {
+        return string.Join("-", str.Split(Path.GetInvalidFileNameChars())).Replace(' ', '-').ToLower();
     }
 }

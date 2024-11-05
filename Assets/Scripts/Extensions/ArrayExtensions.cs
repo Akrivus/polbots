@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 public static class ArrayExtensions
@@ -16,5 +17,10 @@ public static class ArrayExtensions
     public static Actor Get(this IEnumerable<Actor> actors, string name)
     {
         return actors.FirstOrDefault(actor => actor.Name == name);
+    }
+
+    public static IEnumerable<T> Shuffle<T>(this IEnumerable<T> enumerable)
+    {
+        return enumerable.OrderBy(_ => Guid.NewGuid());
     }
 }

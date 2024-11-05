@@ -53,17 +53,16 @@ public class ServerIntegration : MonoBehaviour
 
     private void OnApplicationQuit()
     {
-        listener.Close();
+        listener.Stop();
         IsRunning = false;
     }
 
-    private void Listen()
+    private async void Listen()
     {
         listener.Start();
-        while (IsRunning)
-            ProcessRequest(listener.GetContext());
-        if (listener.IsListening)
-            listener.Stop();
+        while (listener.IsListening && IsRunning)
+            ProcessRequest(await listener.GetContextAsync());
+        listener.Close();
     }
 
     private void ProcessRequest(HttpListenerContext context)

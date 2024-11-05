@@ -15,8 +15,6 @@ public class ActorController : MonoBehaviour
     public AudioSource Voice => voice;
     public AudioSource Sound => sound;
 
-    public bool IsInitial { get; private set; }
-
     public Color TextColor;
 
     [SerializeField]
@@ -58,9 +56,6 @@ public class ActorController : MonoBehaviour
     private void Start()
     {
         _sentiment = Actor ? Actor.DefaultSentiment : SentimentConverter.Convert("Neutral");
-        foreach (var sub in sub_Chats)
-            sub.Initialize(ChatManager.Instance.NowPlaying);
-        OnUpdateActorCallbacks();
     }
 
     public void OnUpdateActorCallbacks()
@@ -92,10 +87,16 @@ public class ActorController : MonoBehaviour
         voice.Play();
 
         if (!node.Async)
-        {
-            var delay = clip.length * voice.pitch;
-            yield return new WaitForSeconds(delay);
-        }
+            yield return new WaitUntilTimer(() => !voice.isPlaying,
+                voice.clip.length * voice.pitch);
+    }
+
+    public IEnumerator Initialize(Chat chat)
+    {
+        foreach (var sub in sub_Chats)
+            sub.Initialize(chat);
+        OnUpdateActorCallbacks();
+        yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 3f));
     }
 
     public IEnumerator Deactivate()
@@ -104,18 +105,5 @@ public class ActorController : MonoBehaviour
             sub.Deactivate();
         Destroy(gameObject);
         yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 3f));
-    }
-
-    public IEnumerator Initialize()
-    {
-        if (IsInitial)
-            yield break;
-        yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 3f));
-    }
-
-    public ActorController SetInitial()
-    {
-        IsInitial = true;
-        return this;
     }
 }
