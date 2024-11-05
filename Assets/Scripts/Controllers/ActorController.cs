@@ -23,7 +23,16 @@ public class ActorController : MonoBehaviour
     [SerializeField]
     private AudioSource sound;
 
-    public ActorContext Context { get; set; }
+    public ActorContext Context
+    {
+        get => _context;
+        set
+        {
+            _context = value;
+            OnUpdateActorCallbacks(value);
+        }
+    }
+
     public Actor Actor => Context.Actor;
 
     public Sentiment Sentiment
@@ -32,11 +41,12 @@ public class ActorController : MonoBehaviour
         set
         {
             _sentiment = value;
-            OnUpdateSentimentCallbacks();
+            OnUpdateSentimentCallbacks(value);
         }
     }
-
+    
     private Sentiment _sentiment;
+    private ActorContext _context;
 
     private ISubActor[] sub_Actor;
     private ISubSentiment[] sub_Sentiment;
@@ -53,25 +63,20 @@ public class ActorController : MonoBehaviour
         sub_Exits = GetComponents<ISubExits>();
     }
 
-    private void Start()
+    public void OnUpdateActorCallbacks(ActorContext context)
     {
-        _sentiment = Actor ? Actor.DefaultSentiment : SentimentConverter.Convert("Neutral");
-    }
-
-    public void OnUpdateActorCallbacks()
-    {
-        if (Actor == null) return;
         foreach (var subActor in sub_Actor)
-            subActor.UpdateActor(Actor, Context);
+            subActor.UpdateActor(context);
         OnActorUpdate?.Invoke(this);
+
+        Sentiment = context.Sentiment;
     }
 
-    public void OnUpdateSentimentCallbacks()
+    public void OnUpdateSentimentCallbacks(Sentiment sentiment)
     {
-        if (Sentiment == null) return;
         foreach (var sub in sub_Sentiment)
-            sub.UpdateSentiment(Sentiment);
-        OnSentimentUpdate?.Invoke(Sentiment);
+            sub.UpdateSentiment(sentiment);
+        OnSentimentUpdate?.Invoke(sentiment);
     }
 
     public IEnumerator Activate(ChatNode node)
@@ -95,7 +100,6 @@ public class ActorController : MonoBehaviour
     {
         foreach (var sub in sub_Chats)
             sub.Initialize(chat);
-        OnUpdateActorCallbacks();
         yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 3f));
     }
 

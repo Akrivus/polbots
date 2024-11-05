@@ -55,7 +55,7 @@ public class SentimentConverter : JsonConverter
         writer.WriteValue(name);
     }
 
-    public static string[] Options => Resources.LoadAll<Sentiment>("Faces").Select(s => s.Name).ToArray();
+    public static string[] Options => Sentiment.All.Select(s => s.Name).ToArray();
 
     public static Sentiment Convert(string name)
     {

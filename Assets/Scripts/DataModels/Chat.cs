@@ -39,7 +39,7 @@ public class Chat
     public string FileSafeName => Idea.Prompt.Split(':').First();
 
     [JsonIgnore]
-    public string FileName => $"{DateTime.Now.ToString("dd-MM-yy")}-{ToFileSafeString(FileSafeName)}";
+    public string FileName => $"{DateTime.Now.ToString("dd-MM-yy")}-{FileSafeName.ToFileSafeString()}";
 
     public Chat(Idea idea)
     {
@@ -91,14 +91,9 @@ public class Chat
 
     public static bool FileExists(string name)
     {
-        var slug = $"{DateTime.Now.ToString("dd-MM-yy")}-{ToFileSafeString(name)}";
+        var slug = $"{DateTime.Now.ToString("dd-MM-yy")}-{name.ToFileSafeString()}";
         var docs = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         var path = Path.Combine(docs, "PolBol", $"{slug}.json");
         return File.Exists(path);
-    }
-
-    private static string ToFileSafeString(string str)
-    {
-        return string.Join("-", str.Split(Path.GetInvalidFileNameChars())).Replace(' ', '-').ToLower();
     }
 }

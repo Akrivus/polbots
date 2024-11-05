@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
@@ -89,5 +90,10 @@ public static class StringExtensions
     public static string Format(this TextAsset str, params object[] args)
     {
         return string.Format(str.text, args);
+    }
+
+    public static string ToFileSafeString(this string str)
+    {
+        return string.Join("-", str.Split(Path.GetInvalidFileNameChars())).Replace(' ', '-').ToLower();
     }
 }

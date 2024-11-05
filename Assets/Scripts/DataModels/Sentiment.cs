@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class Sentiment : ScriptableObject
 {
+    public static Sentiment[] All => Resources.LoadAll<Sentiment>("Face");
+
     [Header("Sentiment")]
     public string Name;
 

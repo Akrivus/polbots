@@ -78,12 +78,13 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
 
     public void UpdateSentiment(Sentiment sentiment)
     {
+        if (sentiment == null) return;
         AddColor(sentiment.Color);
     }
 
-    public void UpdateActor(Actor actor, ActorContext context)
+    public void UpdateActor(ActorContext context)
     {
-        _camera.backgroundColor = actor.Color
+        _camera.backgroundColor = context.Actor.Color
             .Darken();
     }
 

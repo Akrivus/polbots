@@ -1,4 +1,4 @@
 ﻿public interface ISubActor
 { 
-    void UpdateActor(Actor actor, ActorContext context);
+    void UpdateActor(ActorContext context);
 }

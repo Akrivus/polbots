@@ -27,10 +27,10 @@ public class FlagController : AutoActor, ISubActor
         return color;
     }
 
-    public void UpdateActor(Actor actor, ActorContext context)
+    public void UpdateActor(ActorContext context)
     {
-        LoadTexture(actor.Name);
-        actor.Color = Color;
+        LoadTexture(context.Name);
+        context.Actor.Color = Color;
         flagRenderer.material.mainTexture = flagTexture;
     }
 }
