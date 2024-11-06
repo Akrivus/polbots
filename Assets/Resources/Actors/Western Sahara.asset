@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Western Sahara
   m_EditorClassIdentifier: 
-  Title: Western Sahara
+  Title: Sahrawi Arab Democratic Republic
   Pronouns: "he/him\r"
   Name: Western Sahara
   Aliases:

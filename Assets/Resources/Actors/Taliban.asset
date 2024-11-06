@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Taliban
   m_EditorClassIdentifier: 
-  Title: Emirate of Afghanistan
+  Title: Islamic Emirate of Afghanistan
   Pronouns: "he/him\r"
   Name: Taliban
   Aliases:
+  - Islamic Emirate of Afghanistan
   - Emirate of Afghanistan
   - Taliban
   Voice: pa-IN-Standard-D
