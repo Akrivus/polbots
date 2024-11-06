@@ -14,6 +14,9 @@ public class ChatManager : MonoBehaviour
 
     public event Action<Chat> OnChatQueueAdded;
     public event Action<Chat> OnChatQueueTaken;
+
+    public event Action<ChatNode> OnChatNodeActivated;
+
     public event Action OnChatQueueEmpty;
 
     public Chat NowPlaying { get; private set; }
@@ -87,11 +90,13 @@ public class ChatManager : MonoBehaviour
 
     private IEnumerator Activate(ChatNode node)
     {
-        var actor = actors.Get(node.Actor);
-        if (actor == null)
-            yield break;
         yield return TryAddActor(node.Actor);
+        OnChatNodeActivated?.Invoke(node);
+
+        var actor = actors.Get(node.Actor);
+        if (actor == null) yield break;
         yield return actor.Activate(node);
+
         yield return SetActorReactions(node);
     }
 
