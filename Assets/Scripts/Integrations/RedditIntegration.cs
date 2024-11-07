@@ -8,6 +8,8 @@ using UnityEngine;
 
 public class RedditIntegration : MonoBehaviour
 {
+    private static readonly DateTime EPOCH = new DateTime(1970, 1, 1);
+
     [SerializeField]
     private ChatGenerator ChatGenerator;
 
@@ -20,9 +22,18 @@ public class RedditIntegration : MonoBehaviour
     [SerializeField]
     private int debugBatchSize = 0;
 
+    [SerializeField]
+    private int replayRate = 80;
+
+    [SerializeField]
+    private int replaySize = 20;
+
     private int localBatchSize = 0;
 
     private int i = 0;
+
+    private List<string> replays = new List<string>();
+    private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
 
     private void Awake()
     {
@@ -48,7 +59,7 @@ public class RedditIntegration : MonoBehaviour
         if (batchSize > 0)
             localBatchSize = batchSize - ideas.Count;
         if (localBatchSize > 0)
-            FetchFiles(localBatchSize);
+            FetchFiles(localBatchSize + replaySize);
 
         foreach (var idea in ideas)
             ChatGenerator.AddIdeaToQueue(idea);
@@ -64,14 +75,17 @@ public class RedditIntegration : MonoBehaviour
         var json = client.DownloadString(url);
         var data = JObject.Parse(json);
         var tokens = data.SelectTokens("$.data.children[*].data");
-        var cutoff = DateTimeOffset.Now
-            .AddHours(-1 * subreddits.Length)
-            .ToUnixTimeSeconds();
+
+        var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddHours(-8));
+        var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
+
+        fetchTimes[subreddit] = DateTime.Now;
 
         return tokens
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !Chat.FileExists(post.Value<string>("title")))
             .OrderByDescending(post => post.Value<long>("created_utc"))
+            .Take(batchSize)
             .Select(post => new Idea(
                 post.Value<string>("title"),
                 post.Value<string>("selftext"),
@@ -85,12 +99,20 @@ public class RedditIntegration : MonoBehaviour
         var docs = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         var path = Path.Combine(docs, "PolBol");
 
-        var chats = Directory.GetFiles(path, "*.json")
+        var tasks = Directory.GetFiles(path, "*.json")
             .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddDays(-1))
-            .Shuffle().Take(count)
-            .Select(Path.GetFileNameWithoutExtension).Select(Chat.Load)
+            .Select(Path.GetFileNameWithoutExtension)
+            .Where(title => !replays.Contains(title))
+            .Shuffle().Take(count).Select(Chat.Load)
             .ToList();
-        foreach (var chat in chats)
-            ChatManager.Instance.AddToPlayList(await chat);
+
+        foreach (var task in tasks)
+        {
+            var chat = await task;
+
+            replays = replays.TakeLast(replayRate - 1).ToList();
+            replays.Add(chat.FileName);
+            ChatManager.Instance.AddToPlayList(chat);
+        }
     }
 }

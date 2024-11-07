@@ -65,9 +65,9 @@ public class ChatManager : MonoBehaviour
 
     private IEnumerator Play(Chat chat)
     {
-        OnChatQueueTaken?.Invoke(chat);
-        if (!chat.IsLocked)
+        if (!chat.IsLocked || chat.Nodes.Count < 2)
             yield break;
+        OnChatQueueTaken?.Invoke(chat);
         yield return Initialize(chat);
 
         foreach (var node in chat.Nodes)
@@ -80,6 +80,7 @@ public class ChatManager : MonoBehaviour
 
         NowPlaying = chat;
         SubtitlesUIManager.Instance.SetChatTitle(chat);
+        SubtitlesUIManager.Instance.ClearSubtitle();
 
         var incoming = chat.Contexts.Where(a => !actors.Select(ac => ac.Actor).Contains(a.Actor));
         foreach (var context in incoming)

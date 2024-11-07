@@ -41,7 +41,7 @@ public class SubtitlesUIManager : MonoBehaviour
 
     public void SetChatTitle(Chat chat)
     {
-        _title.text = $"<u><b>{chat.Idea.Source}</b></u><size=75%>\n{chat.FileSafeName}";
+        _title.text = $"<u><b>{chat.Idea.Source}</b></u> • {chat.Idea.Prompt}";
     }
 
     public void OnNodeActivated(ChatNode node)

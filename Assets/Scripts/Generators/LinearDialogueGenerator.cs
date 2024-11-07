@@ -8,6 +8,8 @@ public class LinearDialogueGenerator : MonoBehaviour, ISubGenerator
     [SerializeField]
     private TextAsset _prompt;
 
+    private int _attempts = 0;
+
     public async Task<Chat> Generate(Chat chat)
     {
         var prompt = _prompt.Format(chat.Topic);
@@ -26,6 +28,15 @@ public class LinearDialogueGenerator : MonoBehaviour, ISubGenerator
             if (actor != null)
                 chat.Nodes.Add(new ChatNode(actor, text));
         }
+
+        if (_attempts < 3
+            && chat.Nodes.Count < 2)
+        {
+            _attempts++;
+            return await Generate(chat);
+        }
+        _attempts = 0;
+
         return chat;
     }
 }

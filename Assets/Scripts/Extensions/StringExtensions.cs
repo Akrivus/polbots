@@ -94,6 +94,9 @@ public static class StringExtensions
 
     public static string ToFileSafeString(this string str)
     {
-        return string.Join("-", str.Split(Path.GetInvalidFileNameChars())).Replace(' ', '-').ToLower();
+        str = str.Take(64).Aggregate("", (acc, c) => acc + c);
+        return string.Join("-", str.Split(Path.GetInvalidFileNameChars()))
+            .Replace(' ', '-')
+            .ToLower();
     }
 }
