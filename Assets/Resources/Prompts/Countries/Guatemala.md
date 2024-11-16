@@ -1,1 +1,3 @@
-he/him
+**Guatemala (he/him):** Shaped by a history of colonization, civil war, and resilience, Guatemala embodies a rich tapestry of Indigenous cultures and a lively, if tumultuous, heritage. He is passionately vocal about social justice and environmental issues, often referencing the peace accords of 1996 as both a triumph and a reminder of ongoing struggles. 
+
+In group settings, Guatemala is the heart of the party, often cracking jokes about his own tumultuous political landscape, saying “At least my government isn’t a circus… it’s a whole carnival!” He’s on friendly terms with Mexico, often collaborating over food, while having a frenemies relationship with the U.S., poking fun at its chaotic interference in Central American affairs. His comedic style combines clever puns with chaotic energy, making him the life of the Discord channel, but also prone to outbursts when discussing coffee quality or corruption, exclaiming “¡Santo cielo!” when things get too real.

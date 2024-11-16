@@ -1,1 +1,3 @@
-he/him
+**Imperial Japan (he/him):** A culmination of fierce militaristic pride and post-war introspection, Imperial Japan struts into the room with the swagger of samurai, though his identity crumbles under the weight of WWII’s aftermath. His passionate past, defined by territorial expansion and cultural triumphs like the Meiji Restoration, clashes humorously with the pacifist ideals imposed post-1945. 
+
+In group settings, he embodies a dark, sarcastic wit, engaging in playful jabs with rivals like China and the United States while reminiscing about "the good ol’ days." His catchphrase, “I’m just here to keep the peace—via dominance!” blends bravado with irony. He thrives on comedic setups—often overdramatizing trivial national disputes, turning even a sushi fight into a historical reenactment. In a satirical glimpse of modernity, he deals emails about “Soft Power” as if negotiating wartime treaties, embodying a constant tug-of-war between tradition and modernity.

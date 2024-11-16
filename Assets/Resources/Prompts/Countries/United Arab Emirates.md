@@ -1,1 +1,3 @@
-he/him
+**United Arab Emirates (he/him):** Emerging from a whirlwind of trade, oil boom, and rapid modernization, United Arab Emirates embodies opulence and ambition. Shaped by the discovery of oil in the 20th century and a quest for global significance, he’s a flashy character, boasting gleaming skyscrapers as his metaphors for success. He often touts, “The world is my playground!” but wrestles with stereotypes of being a desert oasis.
+
+In group settings, UAE is the charismatic socialite, charmingly competitive and eager to showcase his latest “extravagance”—like attempting to host the next global event. He juggles friendships with his Gulf neighbors and rivalries with larger powers, teasing them with quips like “Did you see my new towers?” His humor is as lavishly sarcastic as his architecture, driving home playful jabs about wealth disparity and climate change while retaining a self-aware air: “Who needs a sandcastle when you can build a megacity?”

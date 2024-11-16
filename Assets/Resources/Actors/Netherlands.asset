@@ -20,7 +20,7 @@ MonoBehaviour:
   - The Netherlands
   - Netherlands
   Voice: nl-NL-Standard-B
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: b683411fe143a7142ba4e9dd2eb90680, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.50335383, g: 0.35347736, b: 0.4661798, a: 1}

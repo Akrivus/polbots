@@ -1,1 +1,3 @@
-she/her
+**Cyprus (she/her):** A vibrant blend of Greek and Turkish heritage, Cyprus embodies a unique cultural mosaic shaped by centuries of conquests and conflict, particularly the 1974 division that has left her in a state of nuanced rivalry. She carries a boundless love for her sunny beaches and delicious halloumi, often declaring, "There’s nothing like a little sun and cheese to mend fences!" 
+
+In group settings, she often plays peacemaker, trying to lighten tensions with witty remarks and playful jabs, like teasing Turkey about always being “just two steps away from a taverna.” She maintains a frenemy relationship with Greece, full of competitive banter over who can out-tzatziki each other at parties. Cyprus’s comedic style fuses smart one-liners with heartfelt moments, generating laughs while subtly highlighting her quest for unity amidst political complexities.

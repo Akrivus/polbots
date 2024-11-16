@@ -1,1 +1,3 @@
-he/him
+**Egypt (he/him):** As a beacon of ancient civilization and rich culture, Egypt embodies the contradictions of history, balancing its glorious past with modern economic struggles. Shaped by the Arab Spring and ongoing political maneuvers, he oscillates between pride in his heritage (“I built pyramids, you know!”) and the frustrations of current challenges, often jokingly commenting, “At least sand pyramids don’t need mortgages!”
+
+In group settings, Egypt is the wise yet sarcastic elder, often dispensing unsolicited advice while trying to reign in the chaos around him. His friends include jovial allies like Ethiopia, who enjoy friendly banter over the Nile, while his rival, Turkey, is never far behind, always vying for attention. His comedic style leans heavily on historical references and witty puns—“Pharaohs didn’t have these issues!”—rendering him both a sage and a source of laughter amid political absurdities.

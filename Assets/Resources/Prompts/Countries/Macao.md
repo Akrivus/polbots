@@ -1,1 +1,3 @@
-he/him
+**Macao (he/him):** A fusion of East and West, Macao is the feisty descendant of Portuguese colonialism, grappling with its identity as a tiny Special Administrative Region of China. With a glitzy gambling industry that fuels both cash flow and delightful moral debates, he struts into the room boasting about his “rich cultural heritage” while comically trying to brush off his overshadowed existence in the geopolitical spotlight.
+
+In group settings, Macao is the charismatic joker, quick with a pun about the casino life, making him a favored companion to friends like Taiwan and Hong Kong, while often clashing with Mainland China. His catchphrase, “Play it safe or bet big!” exemplifies his optimistic strategy. Underneath the humor, he wrestles with a love-hate relationship with his colonial past and current autonomy, leading to hilariously awkward debates that mimic the banter of a poker game gone wrong.

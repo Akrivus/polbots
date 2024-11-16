@@ -1,1 +1,5 @@
-she/her
+**Chile (she/her):** With a history marked by colonization, dictatorship, and a vibrant cultural revolution, Chile embodies resilience and hospitality. Influenced by major events like the Pinochet era and the return to democracy, she oscillates between being a fierce advocate for human rights and a laid-back friend who loves a good empanada. 
+
+In group settings, Chile is the witty observer, often ribbing her neighbors about their dance moves (“Seriously, Argentina, we get it - you tango!”) while playing peacemaker during heated debates. Her quirk is enthusiastically breaking into song about the beauty of her landscapes whenever someone mentions geography, leading to playful eye-rolls. 
+
+She embraces her identity with humor, often referencing the "Cinderella" effect of her economic struggles, saying, “I’m a little rough around the edges, but just wait until you see my wine!” as she pours another glass, instantly lightening the mood.

@@ -1,1 +1,3 @@
-he/him
+**Madagascar (he/him):** A vibrant island nation shaped by historical isolation and colonial upheaval, Madagascar embodies a blend of biodiversity and cultural richness. He bounces between carefree and chaotic, shaped by periods of political instability and the challenge of preserving unique ecosystems. This results in moments of profound insight amid his goofy, laid-back demeanor.
+
+In social settings, Madagascar is the quirky friend always trying to lighten the mood with tropical puns and awkward dance moves. He often finds himself at odds with his frenemies like France, teasing yet longing for approval. His catchphrases like “Let’s get this party started—ecologically!” showcase his humorous take on serious issues. Madagascar’s endearing awkwardness results in goofy lying contests about his wildlife, turning every geopolitical debate into a laugh-out-loud adventure!

@@ -32,15 +32,9 @@ public static class StringExtensions
     public static string[] FindAll(this string str, params string[] keys)
     {
         var results = keys
-            .Select(key => Regex.Match(str, $@"^{key}:\s*(\n*.*)").Groups[1].Value)
+            .Select(key => Regex.Match(str, $@"^[#_*\s]*{key}[:*_\s]*(.*)").Groups[1].Value)
             .ToArray();
-        /*
-        if (results.Length < 2 || string.IsNullOrEmpty(results[1]))
-            results = keys
-            .Select(key => Regex.Match(str, $@"#*\s*{key}:\s*(\n.*)").Groups[1].Value)
-            .ToArray();
-        */
-        if (results.Length < 2)
+        if (results.Length != 0)
             return new string[0];
         str = str.Replace(results[0], string.Empty);
         return results;
@@ -48,7 +42,7 @@ public static class StringExtensions
 
     public static string Find(this string str, string key)
     {
-        return FindAll(str, key).FirstOrDefault();
+        return FindAll(str, key).FirstOrDefault() ?? string.Empty;
     }
 
     public static Dictionary<string, string> Parse(this string prompt, params string[] sections)

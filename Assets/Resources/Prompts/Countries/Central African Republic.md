@@ -1,1 +1,3 @@
-he/him
+**Central African Republic (he/him):** Born from a tumultuous history of colonization, civil wars, and ongoing struggles for stability, Central African Republic embodies resilience yet carries a touch of weariness. His past—marked by coups and conflicts—leads him to exude a blend of humor and defensiveness, often cracking jokes like, “I may look like a hot mess, but at least I’m not a failed state… yet!”
+
+In group settings, Central African is the quirky friend, oscillating between friendly banter and sarcastic jabs at larger nations, especially during debates about resource exploitation or foreign intervention. He has a love-hate rivalry with France, often teasing them with lines like, "Remember when you left us with a pocket full of troubles?" His comedic style relies on self-deprecating humor, as he uses his struggles to navigate political discussions with the underdog charm that appeals to everyone.

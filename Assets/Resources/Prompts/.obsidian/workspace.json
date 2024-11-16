@@ -64,6 +64,90 @@
             }
           },
           {
+            "id": "f76bdccb02b9e0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office Hours/Segment Generation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Segment Generation"
+            }
+          },
+          {
+            "id": "081ae61daeb638e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contexts/Recaps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recaps"
+            }
+          },
+          {
+            "id": "8d2c5a62d1339ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contexts/Bios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bios"
+            }
+          },
+          {
+            "id": "c38d560467a2b874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History Generator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History Generator"
+            }
+          },
+          {
+            "id": "32f5f501e61a833b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History Generator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History Generator"
+            }
+          },
+          {
+            "id": "86b0e8b14489f44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countries/Antarctica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antarctica"
+            }
+          },
+          {
             "id": "4eb956dfea94b2a9",
             "type": "leaf",
             "state": {
@@ -92,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -233,42 +317,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51ec6e2cf5632443",
+  "active": "86b0e8b14489f44f",
   "lastOpenFiles": [
-    "Office Hours/Dialogue Generation.md",
-    "Office Hours/Segment Generation.md",
-    "Item Generator.md",
-    "Sentiment Generator.md",
-    "Sound Generator.md",
-    "Sound Generator.md.meta",
-    "Item Generator.md.meta",
-    "Held Item Generator.md.meta",
-    "Untitled 1.md",
-    "Sentiment Generator.md.meta",
-    "Untitled 1.md.meta",
-    "Untitled.md.meta",
-    "Office Hours/Dialogue Generation.md.meta",
-    "Office Hours/Segment Generation.md.meta",
-    "Office Hours.meta",
-    "Office Hours",
-    "Countries/Austria.md",
-    "Countries/Angola.md",
-    "Countries/Albania.md",
-    "Countries/Afghanistan.md",
+    "Countries/Yemen.md",
+    "Countries/Roman Empire.md.meta",
+    "Countries/Dominican Republic.md.meta",
+    "Countries/Zambia.md",
+    "Countries/Zimbabwe.md",
     "Countries/Vatican City.md",
-    "Countries/Nazi Germany.md",
-    "Countries/Imperial Japan.md",
-    "Countries/Taiwan.md",
-    "Countries/Hong Kong.md",
-    "Countries/Somaliland.md",
-    "Countries/Taliban.md",
-    "Countries/Daesh.md",
-    "Countries/Hamas.md",
-    "Countries/Hezbollah.md",
+    "Countries/Uzbekistan.md",
+    "Countries/Uruguay.md",
+    "Countries/United States.md",
+    "Countries/United Nations.md",
+    "Countries/Turkey.md",
+    "Countries/Soviet Union.md",
+    "Countries/South Sudan.md",
+    "Countries/Roman Empire.md",
+    "Countries/Qatar.md",
+    "Countries/Romania.md",
     "Countries/Palestine.md",
-    "Countries/Western Sahara.md",
-    "Countries/Greenland.md",
-    "Countries/Falkland Islands.md",
-    "Countries/Wales.md"
+    "Countries/Pakistan.md",
+    "Countries/Nazi Germany.md",
+    "Countries/Namibia.md",
+    "Countries/Imperial Japan.md",
+    "Countries/Madagascar.md",
+    "Countries/Macao.md",
+    "Countries/Israel.md",
+    "Countries/Hezbollah.md",
+    "Countries/Hamas.md",
+    "Countries/Haiti.md",
+    "Countries/Guyana.md",
+    "Character Generator.md.meta",
+    "Context Generator.md.meta",
+    "Contexts",
+    "History Generator.md.meta",
+    "Contexts/Recaps.md.meta",
+    "Contexts.meta",
+    "Contexts/Bios.md.meta",
+    "Sound Generator.md.meta"
   ]
 }

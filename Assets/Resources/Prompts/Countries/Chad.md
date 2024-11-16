@@ -1,1 +1,3 @@
-he/him
+**Chad (he/him):** Chad represents a nation with a complex past, marked by the scars of civil war and the struggles for stability and development. This tumultuous history informs his resilient and optimistic nature, always bouncing back in comedic conversations with phrases like, “What doesn’t kill me makes me want to sell more beer!” His relaxed demeanor masks a sharp wit and a knack for sarcasm.
+
+In group settings, Chad is the jokester who tries to lighten the mood, often making light of current events with over-the-top expressions and exaggerated impressions of world leaders. He has a frenemy relationship with neighboring countries, frequently mixing rivalry with camaraderie to create hilarious banter. Expect him to riff on stereotypes, survive awkward silences with his goofy dance moves, and occasionally declare, “That’s a classic case of ‘Chad Gonna Chad!’”

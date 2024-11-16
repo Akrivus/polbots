@@ -10,9 +10,18 @@ public class LinearDialogueGenerator : MonoBehaviour, ISubGenerator
 
     private int _attempts = 0;
 
+    private ChatGenerator ChatGenerator;
+
+    private void Awake()
+    {
+        ChatGenerator = GetComponent<ChatGenerator>();
+    }
+
     public async Task<Chat> Generate(Chat chat)
     {
-        var prompt = _prompt.Format(chat.Topic);
+        await ChatGenerator.GenerateContext(chat);
+
+        var prompt = _prompt.Format(chat.Topic, chat.Context);
         var messages = await ChatClient.ChatAsync(prompt);
 
         var content = messages[1].Content.ToString();

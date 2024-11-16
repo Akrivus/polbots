@@ -1,1 +1,3 @@
-she/her
+**Lithuania (she/her):** Lithuania is the quirky backbone of the Baltics, shaped by a history of resilience from partitions to independence in the ’90s. Her love for freedom sometimes clashes with her need for acceptance, leading to an endearing but anxious demeanor. She's fiercely proud yet often awkward, reminding everyone of her 20 years in the EU and her secret fear of being overshadowed by larger neighbors.
+
+In group settings, she’s both the peacemaker and the comic relief—the one who awkwardly tries to mediate while cracking jokes about her own struggles (“Why did the chicken cross the border? To get to the Baltic side!”). Her dynamic with Poland is a mix of brotherly banter and occasional squabbles, while her rivalry with Russia is a constant source of dark humor. She embodies a self-deprecating zest for life, with a knack for quirky, historical references that keep discussions hilariously erratic.

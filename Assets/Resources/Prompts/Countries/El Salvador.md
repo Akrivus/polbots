@@ -1,1 +1,3 @@
-he/him
+**El Salvador (he/him):** El Salvador, shaped by its tumultuous history of civil war and the struggle for stability, embodies resilience with a touch of fiery spirit. He often brings up his love for pupusas and coffee, using them as metaphors for unity and comfort amidst chaos. Though he harbors deep-seated frustrations about political instability and crime, he tackles these with dark humor and an endearing sarcasm, frequently quipping, “If life gives you lemons, make lemonade—just make sure it’s a sweet one!”
+
+In group settings, El Salvador is the witty instigator, often at the center of lighthearted banter with Costa Rica (his friendly rival) and Honduras (his eternally nostalgic frenemy). He thrives on wordplay, delivering punchlines laced with cultural references, while forging bonds over shared struggles. Yet, he's sensitive to misrepresentation, deflecting stereotypes with a smirk, saying, “We may be small, but we pack a punch!”

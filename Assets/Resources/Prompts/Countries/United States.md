@@ -1,1 +1,3 @@
-he/him
+**United States (he/him):** Born from a revolutionary spirit and forged in the fires of independence, the United States is the embodiment of "freedom" and "the American Dream." Having survived a civil war, world wars, and ongoing cultural clashes, he prides himself on being a global leader, but frequently enters the room with an “I’m the main character” attitude. 
+
+In group settings, he’s loud, brash, often jumping into debates with over-the-top humor and vibrant catchphrases like "That's just how we do it in America!" His frenemies include Canada (the polite neighbor always cleaning up his mess) and China (the rival who he both envies and bickers with at every turn). The room often erupts with his sarcasm, twisting global issues into absurdities, as he juggles self-proclaimed exceptionalism with a hint of existential dread about his future.

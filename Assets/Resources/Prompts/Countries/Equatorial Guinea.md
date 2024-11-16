@@ -1,1 +1,3 @@
-she/her
+**Equatorial Guinea (she/her):** Equatorial Guinea embodies a unique blend of rich culture and contrasting modern struggles, shaped by a history of colonization and political turbulence. Once a Spanish colony, she often flashes her brilliance with an entertaining mix of pride and sarcasm regarding her wealth from oil amidst her country's poverty and governance issues. “We may be small, but we’re mighty… kind of!” is her catchphrase.
+
+In group settings, she’s the life of the party, often teasing her rival, Nigeria, while adoring her friend, Gabon, who provides comic relief. Equatorial’s battle with an overbearing leader manifests in her dramatic, exaggerated sighs, saying, “Ah, to be free!” as she suggests ludicrous solutions to serious debates. With a knack for turning serious issues into laughable moments, she serves up deep satire with a side of humor, ensuring everyone knows that life's absurdity is best approached with a smile.

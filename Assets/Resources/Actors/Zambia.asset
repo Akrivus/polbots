@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Zambia
   Voice: de-DE-Standard-H
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: eb7d1b665a5a1464587e8a133b9e3d0b, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.22947359, g: 0.451249, b: 0.010238647, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

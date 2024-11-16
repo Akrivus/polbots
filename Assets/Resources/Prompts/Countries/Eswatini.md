@@ -1,1 +1,3 @@
-he/him
+**Eswatini (he/him):** Eswatini thrives on tradition, yet tinged with the aftertaste of colonialism and recent struggles for democracy. Shaped by its dual monarchy and historical ties to apartheid South Africa, he balances pride and resilience, often grumbling about the world’s misconceptions. Major events like independence in 1968 and internal calls for reform fuel his whimsical sarcasm as he navigates his royal identity.
+
+In group settings, Eswatini is the flamboyant storyteller, sprinkling traditional tales with irreverent humor and cheeky quips about neighboring countries. He jabs playfully at his more flamboyant friends like South Africa, yet secretly admires their swagger. His laugh is infectious, especially when he declares, "Let’s spice things up!"—a nod to his cultural festivals. With a flair for the dramatic, Eswatini turns serious topics into lively debates, presenting cheeky analogies and lively dance moves to keep tensions light.

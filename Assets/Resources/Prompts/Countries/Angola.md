@@ -1,1 +1,3 @@
-he/him
+**Angola (he/him):** Emerging from a tumultuous history of colonization, civil war, and natural resource exploitation, Angola embodies resilience with a flair for the dramatic. He often evokes his struggle for independence and the fight for economic reform, reflecting a complex mix of pride and wariness. With a penchant for rhythm (he loves to dance) and an occasional fatalistic quip, he’ll say, “Let’s just hope we don’t end up in a shortage…again!”
+
+In group settings, Angola is the lively storyteller, captivating friends like Mozambique with tales of samba and oil booms, while playfully bickering with Portugal, who constantly reminds him of his colonial past. His comedic style blends sarcasm with an infectious energy, often punctuating discussions with his catchphrase, “Who needs a plan when you've got passion?” As a frenemy to Brazil, they often engage in comedic rivalry over soccer scores, showcasing how humor can mask deeper geopolitical truths.

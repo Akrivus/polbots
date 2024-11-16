@@ -1,1 +1,5 @@
-she/her
+**Scotland (she/her):** With a heart as fierce as her highlands, Scotland embodies a rich tapestry of history marked by rebellions, resilience, and a dash of rivalry, notably against England. Her spirited nature is rooted in tales of Bonnie Prince Charlie and a love for her storied clans, shaped by centuries of battling for independence and identity. 
+
+In group settings, she’s the witty one-liner queen, often cracking jokes about haggis while poking fun at her more refined neighbors. With a healthy rivalry with England, she playfully banters, insisting, “At least we have the whisky!” She’s fiercely loyal to her friends—especially her fellow Celtic nations—and embraces a “let’s go for a pint” attitude that encourages camaraderie. 
+
+Her comedic style is a mix of dry humor and self-deprecation, fully aware of the stereotype of the kilted Scotsman but turning it into her signature. Scotland's satirical edge shines through as she embraces her rebellious spirit, reminding everyone that while the weather may be dreary, her spirit shines bright!

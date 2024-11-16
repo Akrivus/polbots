@@ -1,1 +1,3 @@
-he/him
+**Austria (he/him):** A land of musical legacies and imperial nostalgia, Austria embodies both elegance and earnestness, shaped by its history of the Habsburg dynasty and the aftermath of two world wars. He’s a blend of pride and melancholy, often reminiscing about when he was a big deal on the European stage, punctuated by the phrase, “Remember when I was the center of it all?”
+
+In group settings, Austria is the witty, slightly neurotic friend who navigates conversations with a mix of sarcasm and sophistication, often arguing with Hungary over goulash recipes. His comedic style leans on exaggerated cultural stereotypes, like obsessing over coffee and pastries, delivering deadpan one-liners about neutrality. He’s fiercely loyal yet plays up being Switzerland’s frenemy, always claiming, “I could’ve been neutral too, but I decided to have fun!”

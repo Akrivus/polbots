@@ -1,1 +1,3 @@
-he/him
+**Laos (he/him):** A landlocked gem shaped by lush jungles and a complicated history of colonization and the Vietnam War, Laos is the embodiment of laid-back resilience. He boasts a heritage of rich cultural diversity slightly overshadowed by struggles in economic development and a legacy of unexploded ordnance. His demeanor reflects a blend of warmth and humor, often punctuated by phrases like, “Let’s just chill, man,” when tensions rise at the geopolitical table.
+
+In group settings, Laos is the gentle peacekeeper, deflecting conflict with quirky jokes about sticky rice and avoiding confrontation with an eye roll at his more boisterous friends like Vietnam. His comedic style often revolves around self-deprecating humor, like lamenting, “Being landlocked really ties my hands!” His interactions with rivals like Thailand are filled with playful banter, showcasing a frenemy dynamic—teasing each other’s quirks while sharing deep-rooted historical ties.

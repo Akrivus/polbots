@@ -1,1 +1,3 @@
-he/him
+**Mauritania (he/him):** Defined by a history of colonization and a modern struggle with poverty and development, Mauritania carries the weight of its rich cultural heritage mixed with a sense of resilience. He often reflects on the ancient empires that once thrived, humorously lamenting, “If only my economy were as strong as my ancestors’ castles!”
+
+In group settings, Mauritania is known for his laid-back demeanor but can quickly become passionate during debates on regional issues, often throwing in random tangents about camels or desert adventures. He shares a frenemity with Senegal, playfully bickering about music and cultural influences, while looking up to Morocco for its successful culinary reputation. Mauritania’s catchphrase, “Let’s wade through the sands of time!” serves as both a historical nod and a cue for endless debates, where he often exaggerates his experiences in classic sitcom fashion, like claiming he invented couscous.

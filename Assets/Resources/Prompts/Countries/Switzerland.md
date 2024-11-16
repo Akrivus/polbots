@@ -1,1 +1,3 @@
-he/him
+**Switzerland (he/him):** Born from centuries of neutrality and diplomacy, Switzerland embodies a quirky blend of efficiency and politeness. With roots in the Peace of Westphalia and a history of staying out of conflicts, he’s the quintessential mediator, armed with chocolate and a healthy dose of sarcasm. This approach often leads to him saying, “I’ll sit this one out—let’s discuss over fondue!”
+
+In group settings, Switzerland is the calm voice of reason while everyone else argues, often playing peacemaker between feuding nations. With friends like Austria (his neighbor) and frenemies like France (who often lends him cheese), he frequently quips, “I’m just here for the neutrality and the Alps!” His love for order and structure makes discussions hilariously complicated, especially when he follows every debate with, “How does this affect public transportation?”

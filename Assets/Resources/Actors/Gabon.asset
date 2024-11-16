@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Gabon
   Voice: fr-FR-Standard-A
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: b5eb4343645227c4ba6b36432a7873c9, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.30286556, g: 0.57939565, b: 0.43939164, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

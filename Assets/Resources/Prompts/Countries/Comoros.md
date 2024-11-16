@@ -1,1 +1,3 @@
-he/him
+**Comoros (he/him):** Nestled in the Indian Ocean, Comoros embodies resilience shaped by its history of colonization and ongoing struggles for political stability. Despite a turbulent past of coups and socio-economic challenges, he brings a laid-back charm and a penchant for storytelling that reflects the island's rich culture and diversity. Major events like gaining independence from France inform his humorous yet poignant commentary on sovereignty and self-identity.
+
+In group settings, Comoros is the friendly but slightly awkward mediator, often caught between larger personalities. He loves to share peculiar traditions but has a knack for mispronouncing country names, which leads to giggles. Known for his catchphrase, "Just like a coconut—hard on the outside, tender within," he embodies the chaotic yet warm spirit of island life, often leading to hilariously relatable misunderstandings about regional affairs.

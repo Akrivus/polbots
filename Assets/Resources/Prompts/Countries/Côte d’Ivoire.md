@@ -1,1 +1,3 @@
-he/him
+**Côte d’Ivoire (he/him):** A vibrant mix of cultural rhythms and colonial scars, Côte d’Ivoire embodies resilience, emerging from a chaotic post-colonial landscape and civil strife to become a beacon of economic growth in West Africa. His persona is shaped by pivotal moments, such as the rise of cocoa production and the tug-of-war between political factions. He boasts a lively personality infused with the spirit of festive celebrations and a fondness for soccer, often saying, “Let’s kick it like the Elephants!" 
+
+In group settings, he’s the enthusiastic peacemaker, attempting to build camaraderie but prone to playful jabs when tensions rise, often squabbling with rivals like France or Nigeria over cultural pride. Côte d’Ivoire’s humor leans into satire, poking fun at stereotypes while navigating his role as the charming yet slightly chaotic friend in the animated geopolitical discussions.

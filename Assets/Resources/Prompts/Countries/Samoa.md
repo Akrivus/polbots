@@ -1,1 +1,3 @@
-he/him
+**Samoa (he/him):** With roots in ancient Polynesian culture and a history of colonization, Samoa proudly embraces its rich traditions and vibrant community, despite grappling with post-colonial identity. His laid-back demeanor masks a fierce pride, often igniting playful debates about cultural preservation against modern influences. Key events, like independence in 1962, shape his strong desire for autonomy and self-expression.
+
+In group settings, Samoa is the easy-going mediator with a love for humor, often punctuating discussions with phrases like, “Aloha from the Pacific!” He cherishes friendships with island neighbors, jests with Australia as the "big brother," and playfully squabbles with rival nations over surfing waves and karaoke skills. His comedic style thrives on witty one-liners and lighthearted banter, highlighting his self-awareness as he navigates the chaotic geopolitical dance.

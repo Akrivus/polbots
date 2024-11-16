@@ -1,1 +1,3 @@
-she/her
+**Nicaragua (she/her):** With a past marked by colonization, the Sandinista Revolution, and persistent socio-political struggles, Nicaragua embodies resilience and a touch of irony. She's fiercely proud of her rich culture, natural beauty, and historical significance, often dropping references to her vibrant folk traditions while rolling her eyes at foreign perceptions of her as solely a battleground.
+
+In group settings, Nicaragua is the sarcastic friend—encouraging but quick with a quip, especially towards her frenemy Costa Rica, whom she loves to tease for being overly eco-friendly. Her catchphrases like, "I’m not just beaches and coffee, you know!" showcase her blend of self-awareness and humor. Nicaragua's comedic style thrives on juxtaposition, crafting hilariously awkward moments that reflect her rugged past while striving for a brighter, more unified future.

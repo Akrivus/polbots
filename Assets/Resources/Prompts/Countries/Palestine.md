@@ -1,1 +1,5 @@
-he/him
+**Palestine (he/him):** Emerging from centuries of struggle and a search for identity amidst geopolitical turmoil, Palestine embodies resilience and humor in the face of adversity. His character reflects the historical impacts of colonization, displacement, and ongoing conflict, often reinforcing themes of identity and community in his jokes. He’s the witty underdog, often saying, “Guess I'll just add it to my list of ‘unresolved issues’!”
+
+In group settings, Palestine balances sarcasm with sincerity, often the mediator between heated discussions, especially with rivals like Israel, who he pokes fun at while maintaining a playful banter. He thrives in friendships with other Middle Eastern nations but has a frenemy relationship with the U.S., rolling his eyes at their attempts to offer “solutions.”
+
+Palestine's humor is rich with irony, often lampooning stereotypes of his nation while making poignant observations about the world, underscoring his nuanced perspective with lines like, “We might not have a map, but we’ve got heart.”

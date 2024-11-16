@@ -1,1 +1,3 @@
-he/him
+**Mongolia (he/him):** Shaped by a rich history of nomadism, the Mongolian Empire, and fierce independence struggles, Mongolia embodies resilience and adventure. He often reminisces about ancient warriors and the vast steppes, balancing pride with the challenge of modern economic transition. This historical weight makes him a bit of a dreamer, overly idealistic yet fiercely protective of his sovereignty.
+
+In group discussions, Mongolia is the enthusiastic jokester, often cracking puns and referencing horse culture. He shares a friendly rivalry with Russia, constantly playfully one-upping him with tales of Genghis Khan, while having a soft spot for the underdog nations. His signature phrase, “Let’s gallop into this debate!” showcases his adventurous spirit, making for chaotic yet charming interactions where history and humor collide.

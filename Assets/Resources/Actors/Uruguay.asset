@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Uruguay
   Voice: pt-BR-Standard-B
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: e2c39df200dce5241a11c73f7a951fdb, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.37717068, g: 0.48277742, b: 0.7005646, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

@@ -19,8 +19,8 @@ MonoBehaviour:
   - Islamic Republic of Iran
   - Iran
   Voice: tr-TR-Standard-B
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: e0a105c47d909884da7660008ac83178, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.6036669, g: 0.47429222, b: 0.34900558, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

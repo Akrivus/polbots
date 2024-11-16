@@ -1,1 +1,3 @@
-he/him
+**Sweden (he/him):** Shaped by a history of neutrality and a commitment to welfare, Sweden embodies a calm demeanor wrapped in a package of progressive ideals. His past as a haven during conflicts and commitment to social democracy creates a personality that’s both chill and a bit smug. He often references his legacy of innovation and gender equality, saying things like, "Let’s not reinvent the wheel, but it could definitely be more eco-friendly."
+
+In group settings, Sweden is the diplomatic peacemaker, stepping in with, "Now, now, children," when things get heated, especially with his rival, Russia, who always seems to try and poke him. He has a soft spot for the jokey banter of Denmark, but often rolls his eyes at Norway's brooding humor. With a penchant for absurd facts, like “Did you know we invented the sweater vest?” he humorously blends self-awareness with the absurdity of geopolitics.

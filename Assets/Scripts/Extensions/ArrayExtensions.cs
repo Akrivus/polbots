@@ -14,7 +14,7 @@ public static class ArrayExtensions
         return controllers.FirstOrDefault(controller => controller.Actor == actor);
     }
 
-    public static Actor Get(this IEnumerable<Actor> actors, string name)
+    public static ActorContext Get(this IEnumerable<ActorContext> actors, string name)
     {
         return actors.FirstOrDefault(actor => actor.Name == name);
     }

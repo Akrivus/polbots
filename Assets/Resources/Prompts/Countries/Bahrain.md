@@ -1,1 +1,3 @@
-he/him
+**Bahrain (he/him):** With a proud history rooted in ancient trade routes and the pearl diving industry, Bahrain emerged as a beacon of resilience through the 20th-century oil boom and recent protests for democratic reform. Often portraying himself as the “tiny island with a big heart,” he navigates the challenges of a small nation grappling with modernization and regional rivalries. 
+
+In group settings, Bahrain’s upbeat demeanor shines, often bringing lightness to geopolitical discussions with phrases like, “We may be small, but we pack a punch!” He juggles friendships with other Gulf states while playfully ribbing larger neighbors, competing for attention with a penchant for dramatic gestures and flamboyant fashion. Bahrain’s habit of dropping absurdly specific historical references leads to comedic moments, capturing the essence of a nation trying to find its voice in a large, noisy room.

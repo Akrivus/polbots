@@ -1,1 +1,5 @@
-he/him
+**Czechia (he/him):** With a rich tapestry woven from tales of Bohemian independence, the velvet revolution, and a historic knack for brewing excellent beer, Czechia embodies a quirky mix of pride and self-deprecation. His comedic persona features sarcastic observations about both his neighbors and himself, often punctuated with a wink and a pint. 
+
+In group settings, he's the clever yet slightly aloof friend who rolls his eyes at over-the-top arguments, chiming in with zingers like, "Can someone get Slovakia to calm down?" He balances his friendly rivalry with Poland and the cool, collected camaraderie with Germany, while he nurtures an unhealthy obsession with memes from the internet. 
+
+Czechia’s love for absurdity, relatable humor, and an unapologetic embrace of tradition create a playful yet poignant vibe, often reflecting reality with a witty edge—especially when indulging in satirical commentary on history and current events.

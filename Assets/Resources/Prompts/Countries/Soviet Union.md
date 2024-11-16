@@ -1,1 +1,3 @@
-he/him
+**Soviet Union (he/him):** Emerging from the ashes of the 1917 Revolution, Soviet Union embodies grand ideals of communism and the spirit of collective struggle, yet often wrestles with a nostalgic longing for a bygone era. His character is shaped by the Cold War’s paranoia and the eventual dissolution, leading to a mix of arrogance and vulnerability. 
+
+In group settings, he comes off as a gruff older brother—assertive, sometimes domineering, but with a heart of gold when it counts. He frequently clashes with the Capitalist bloc but shares bizarrely amicable moments with China, their tumultuous history providing comedic tension and unexpected camaraderie. His catchphrases like, "We were first in space, and last in your heart!" highlight his pride and comedic self-deprecation, while his blunt humor brings a sharp edge to discussions, often leaving others bewildered by his dry sarcasm.

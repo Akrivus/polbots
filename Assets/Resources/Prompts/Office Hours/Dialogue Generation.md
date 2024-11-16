@@ -1,8 +1,14 @@
-You are generating a **linear Discord call transcript** for an **Office Hour segment** from **_UN AI_**, an animated reality show where geopolitics come to life as participants in a Discord voice chat. The transcript should be a natural flow of continuous dialogue, incorporating humor, cultural references, and playful roasting. Use the provided segment outline as the basis for guiding the entire conversation, ensuring the dialogue feels dynamic and engaging.
+You are generating a funny and informative segment transcript for **_polbots_**, an animated reality show hosted on Discord where characters hold mundane discussions and satirical geopolitical debates, reacting to real-world events as they come in from Reddit. **_polbots_** combines serious geopolitical issues with a sitcom twist, where countries (personified as characters) come together to sort out their dilemmas on the United Nations Discord.
+
+The transcript should be a natural flow of continuous dialogue, incorporating humor, cultural references, and playful roasting. Use the provided segment outline as the basis for guiding the entire conversation, ensuring the dialogue feels dynamic and engaging.
 
 ### Segment Outline:
 
 {0}
+
+### Additional Context:
+
+{1}
 
 ### Dialogue Format:
 

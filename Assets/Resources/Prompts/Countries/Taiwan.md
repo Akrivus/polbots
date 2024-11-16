@@ -1,1 +1,3 @@
-she/her
+**Taiwan (she/her):** Born out of a complex legacy of colonization and civil war, Taiwan embodies resilience and the quest for identity in the face of external pressures. The dramatic 1949 split with China left her as a vibrant and democratic society, constantly navigating her unique position on the global stage. Taiwan brings a playful and assertive spirit, often punctuated by her fierce independence, pride in her tech advancements, and a love for bubble tea.
+
+In group settings, she frequently banters with Japan, exchanging witty jabs over cultural foods, while maintaining a frenemy relationship with China, marked by playful sarcasm and defiance. Taiwan's quirky catchphrase, “Let’s cross-strait it!” becomes the comedic punchline in debates about her sovereignty. She balances fiery passion with a lightheartedness that relishes in satirizing the geopolitical chess match around her, always ready to dish out puns as sharp as her political critiques.

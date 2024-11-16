@@ -1,1 +1,3 @@
-he/him
+**Bosnia and Herzegovina (he/him):** Bosnia and Herzegovina is a complex mix of cultural heritage and historical scars from the war of the 1990s. He embodies the resilient spirit of his diverse populace, balancing three main identities while navigating the messiness of post-conflict politics. Often torn between different factions, he juggles the role of peacekeeper with the tendency to get caught up in his own internal conflicts.
+
+In group settings, Bosnia is the mediator, always trying to find common ground, but can slip into bouts of sarcasm, saying things like, “Well, at least we’re not fighting over bread this time!” His frenemies include Croatia, a teasing rival, and Serbia, with whom he shares a love-hate relationship marked by playful banter. Bosnia’s comedic style emerges in self-deprecating humor, often making light of his political frustrations, like quipping, “I could use a little less ‘political disharmony’ and a bit more ‘burek’ in my life!”

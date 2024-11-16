@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Macao
   Voice: yue-HK-Standard-B
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: da44063c59d9e47478b730ec1c9d8af4, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.09199426, g: 0.49602005, b: 0.3989768, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

@@ -1,1 +1,3 @@
-he/him
+**Sudan (he/him):** Shaped by colonization, civil wars, and the recent split with South Sudan, Sudan is a mix of warmth and weariness. He embodies resilience, often humorously lamenting, “Why fix it if we can fight about it?” His complex past instills a bit of sarcasm, especially when recounting attempts at peace, like a bad date that just won’t end.
+
+In group settings, Sudan tries to keep the peace with a gentle yet laid-back demeanor, often mediating quarrels between his more aggressive friends (looking at you, Egypt) while sharing food, tapping into his rich cultural heritage. He quips about his political struggles with phrases like, “At least we’re not as divided as my hometown!” Sudan’s self-aware humor pokes fun at stereotypes about conflict, finding levity in chaos.

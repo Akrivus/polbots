@@ -1,1 +1,3 @@
-he/him
+**Japan (he/him):** Celebrating a rich tapestry of history, Japan embodies resilience and innovation shaped by centuries of isolation, rapid modernization, and post-WWII recovery. From the trials of the Meiji Restoration to the bustling tech metropolis of today, he balances tradition with contemporary flair. He's the voice of calm in chaos, often referencing his “sacred cherry blossoms” as a metaphor for ephemeral beauty amid global turmoil. 
+
+In group settings, Japan is the courteous mediator who sometimes drops awkwardly formal phrases like “please allow me to respectfully disagree.” His friendships with tech-savvy nations contrast with humorous rivalries with ones that misinterpret sushi. He brings a unique blend of dry wit and self-deprecation, often stating, “I’m just a polite island with too many gadgets,” while secretly crafting elaborate plans to save the day without anyone noticing.

@@ -29,7 +29,7 @@ public class SoundController : AutoActor, ISubChats, ISubNode
     public void Initialize(Chat chat)
     {
         if (chat == null) return;
-        var name = chat.Contexts.Get(Actor).SoundGroup;
+        var name = chat.Actors.Get(Actor).SoundGroup;
         if (name != null)
             SetSoundGroup(name);
         PlaySoundGroup();

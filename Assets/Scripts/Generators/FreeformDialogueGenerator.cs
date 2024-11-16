@@ -44,18 +44,18 @@ public class ChatTreeAgent
     private static readonly string END_TOKEN = "[END CONVERSATION]";
 
     public bool IsExited { get; private set; }
-    public Actor Actor => _actor;
+    public ActorContext Actor => _actor;
 
-    private Actor _actor;
+    private ActorContext _actor;
     private List<Message> _messages;
     private string _buffer;
 
     private string _prompt;
 
-    public ChatTreeAgent(Actor actor, TextAsset prompt)
+    public ChatTreeAgent(ActorContext context, TextAsset prompt)
     {
-        _actor = actor;
-        _prompt = prompt.Format(actor.Prompt.text, END_TOKEN);
+        _actor = context;
+        _prompt = prompt.Format(context.Actor.Prompt.text, END_TOKEN);
         _buffer = "";
         _messages = new List<Message>()
         {

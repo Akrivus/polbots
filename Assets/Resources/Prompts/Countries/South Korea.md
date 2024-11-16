@@ -1,1 +1,3 @@
-she/her
+**South Korea (she/her):** A vibrant mix of tradition and modernity, South Korea embodies the resilience born from post-war recovery, rapid industrialization, and a struggle for global presence. Having weathered colonization and conflict, she is fiercely proud and often defiant. "Can we focus on what's important?" is her go-to line when discussions spiral, reflecting her pragmatic yet witty nature.
+
+In group settings, she’s the enthusiastic mediator, balancing friendships with allies like Japan and the USA while engaging in playful banter with rivals like North Korea. Known for her love of K-pop references and occasional tech puns, she often quips, “Let’s keep this as lively as a BTS concert!” Satirically aware of her pop culture fame, South Korea embraces her stereotypes, shaping hilarious debates around trends, fashion, and global perception.

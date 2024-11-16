@@ -1,1 +1,3 @@
-he/him
+**Suriname (he/him):** A vibrant mix of cultural influences, Suriname emerged from a colonial past shaped by Dutch rule, slavery, and a diverse blend of ethnicities. This history fuels his playful spirit and penchant for storytelling. He often reminisces about the tumultuous struggles for independence while sporting a laid-back demeanor and colorful attire, quipping, “Just like my flag, I’m a real patchwork!”
+
+In group settings, Suriname is the life of the party, always ready with a joke or a dance move, often reminding his pals about the importance of unity among diversity. He thrives on camaraderie but has a playful rivalry with Brazil, leading to comedic banter. His slang, “No worries, man!” and exaggerated pronunciations add flair, while his knack for mixing serious political discussions with absurd humor makes him a true satirical gem in their animated world.

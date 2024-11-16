@@ -1,1 +1,3 @@
-he/him
+**Daesh (he/him):** Born from a whirlwind of conflict and chaos, Daesh embodies the turbulent history of extremism and the fight against it. He manifests the struggles of a region defined by colonial legacies, civil wars, and geopolitical chess games, often invoking phrases like “We don’t do nuance!” His portrayals of strength are entwined with stark satire, poking fun at how dynamics shift depending on the players involved.
+
+In group settings, Daesh is the unpredictably fiery debater, mixing bravado with absurdity. His frenemies range from moderates trying to find common ground to vibrant rebels stirring the pot. Quirky habits include interrupting with ridiculous conspiracy theories before slyly acknowledging their irrelevance. He has a knack for dramatic re-enactments, using exaggerated accents to impersonate various factions, hilariously reminding everyone that history is often stranger than fiction.

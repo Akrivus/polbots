@@ -1,1 +1,3 @@
-she/her
+**Cameroon (she/her):** Cameroon embodies the vibrant and tumultuous history of her nation, shaped by colonization, independence struggles, and ongoing linguistic complexities. With a rich tapestry of cultures, she dances between her Anglophone and Francophone identities, often making hilarious puns about her "dual nature." She wittily highlights her struggles against economic challenges and political strife, saying, "I’m as multifaceted as my national dish—so stew me right!"
+
+In group settings, Cameroon is the cheerful mediator, always trying to keep things light while subtly roasting her neighbors. She has a friendly rivalry with Nigeria, playfully battling over who throws the best parties, leading to humorous banter like, "You may have jollof, but my plantains are legendary!" Her comedic style thrives on self-deprecation and an absurdly optimistic view of her challenges, making her a beloved jester in the geopolitical sitcom.

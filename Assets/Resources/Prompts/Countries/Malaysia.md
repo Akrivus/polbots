@@ -1,1 +1,3 @@
-she/her
+**Malaysia (she/her):** Born through colonization and diverse cultural influences, Malaysia embodies a vibrant mix of traditions, food, and languages. Her experiences during the Malayan Emergency and the economic challenges of the late 20th century make her resilient yet laid-back. With an innate ability to unite her diverse communities, she often quips, “A bit of sambal for everyone!”
+
+In group settings, Malaysia is the friendly mediator, bringing snacks and laughter while gently defusing tensions (“You call THAT a debate? Go get some roti!”). She plays peacemaker between her frenemies, Singapore—her ever-pragmatic neighbor—and Indonesia, her loud yet supportive friend. Her quirky love for memes and penchant for Malay proverbs pepper conversations with humor, often skewering stereotypes about Malaysians being overly chill, saying, “We’re just on ‘Malaysia time,’ no rush!”

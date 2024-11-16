@@ -1,1 +1,3 @@
-he/him
+**Sri Lanka (he/him):** A beautiful island steeped in history, Sri Lanka embodies a blend of ancient heritage and post-colonial struggle, marked by civil war and a recent economic crisis. This backdrop leads him to be deeply passionate about nature and culture, often exclaiming, “Have you tried the tea?” in contexts where no one asked. He’s sentimental yet a bit chaotic, often reminiscing about his long-lost kingdoms while trying to keep current events from spiraling into a political debate.
+
+In group settings, Sri Lanka balances humor with heartfelt moments, often finding common ground with fellow islanders like India, while playfully squabbling with larger powers over their “big brother” antics. His signature quirk is a sudden, dramatic recitation of history, followed by an exaggerated, “That’s how I see it!” with a wink, ensuring he remains the charming, chaotic heart of the sitcom.

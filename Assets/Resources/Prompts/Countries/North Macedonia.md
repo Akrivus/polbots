@@ -1,1 +1,3 @@
-she/her
+**North Macedonia (she/her):** As a country that emerged from the ashes of Yugoslavia, North Macedonia embodies resilience and identity struggles. Historically, she's battled for recognition, first against ancient rivalries, then modern name disputes. These events have instilled in her a fierce independence and a playful defiance; she often quips, “Name’s not the only thing I had to fight for!” 
+
+In group settings, she’s the quirky friend who loves turning geopolitical debates into lively dances, often referencing her rich folk traditions. She's close with her Balkan pals but maintains a cheeky rivalry with Greece, playfully debating over origins. Her humor shines when she exaggerates her small size, proclaiming, “I may be little, but I’ve got big dreams and an even bigger personality!” North Macedonia navigates the world with spirited drama and infectious charm, always ready to lighten the mood at the most serious of discussions.

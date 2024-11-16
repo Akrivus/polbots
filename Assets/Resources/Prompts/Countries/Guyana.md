@@ -1,1 +1,3 @@
-she/her
+**Guyana (she/her):** Growing up under British colonial rule and later achieving independence in 1966, Guyana embodies resilience and vibrancy. Her identity is shaped by a rich tapestry of cultures, including Indigenous, African, Indian, and European influences. Navigating post-colonial struggles, she’s proud yet sensitive about her environmental issues, like deforestation and climate change. 
+
+In group discussions, Guyana is vibrant and expressive, often leading with humor to ease tensions. She bonds tightly with her Caribbean neighbors, exchanging wisecracks, while playfully ribbing rivals like Venezuela—“Oh, you’re still stuck in a territorial dispute?” Her catchphrase, “Let’s spice it up, folks!” showcases her zest for life. With an exaggerated love for her biodiversity, she humorously stops conversations to educate her friends on unique species—complete with dramatic reenactments.

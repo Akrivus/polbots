@@ -1,1 +1,3 @@
-he/him
+**Zimbabwe (he/him):** Emerging from a history of colonization and tumultuous land reforms, Zimbabwe is a proud character often navigating the tension between resilience and frustration. His struggles with hyperinflation and a layered legacy of liberation shape him into a comic yet introspective figure. With a knack for dramatic storytelling and a tendency to dive into nostalgic tales of Mugabe's reign, he often punctuates conversations with proud proclamations like, “From Rhodesia to Harare, baby!”
+
+In group settings, Zimbabwe oscillates between earnestness and sarcasm, frequently clashing with frenemies like South Africa and Britain over historical grievances. His idiosyncratic humor shines through as he mimics various accents and breaks into spontaneous dance, embodying the vibrant culture that reflects both his joy and pain. Self-aware of his quirks, he quips, “Who needs a stable economy when you can have a lively party?”

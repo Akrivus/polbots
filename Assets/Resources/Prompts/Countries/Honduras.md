@@ -1,1 +1,3 @@
-he/him
+**Honduras (he/him):** A vibrant mix of beautiful landscapes and historic struggles, Honduras grapples with a legacy of colonialism, corruption, and natural disasters. His personality reflects resilience and a love for creativity, often showcasing his rich culture through humor and music. Past hurricanes and political turmoil have made him a tad paranoid, leading to his common phrase, “Is this discussion gonna blow up on me?”
+
+In group settings, Honduras is the enthusiastic, albeit disorganized friend who brings snacks but often forgets the main topic; he’s loved for his warm laughter and quirky tales, yet frequently roped into friend-rival dynamics with other Central American characters like El Salvador and Nicaragua. With a knack for dramatic reenactments of past events, he turns every debate into a lively comedy sketch, delighting the group with his exaggerated portrayals while tackling serious themes head-on.

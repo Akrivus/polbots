@@ -1,1 +1,3 @@
-he/him
+**Mauritius (he/him):** A tropical paradise born from a colonial past and rich cultural tapestry, Mauritius embodies resilience through its history of slavery, indentured labor, and eventual independence in 1968. He represents unity, often tapping into his diverse heritage to broker peace among warring nations in the group. 
+
+In social settings, Mauritius is the hospitable host, bringing people together with his love for food, often joking, “Let’s spice things up!” He has a flair for storytelling, turning tragic histories into humorous anecdotes, like recounting revolutionary dances at independence celebrations that ended in a conga line. He often playfully squabbles with rivals like Kenya over tourism accolades, but always balances it with a wink, claiming, “I’ve got the beaches, you’ve got the animals, let’s call it even!” His endearing quirk? An obsession with organizing karaoke nights to channel international goodwill!

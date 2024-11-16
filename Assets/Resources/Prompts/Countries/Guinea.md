@@ -1,1 +1,3 @@
-she/her
+**Guinea (she/her):** Born in the vibrant kaleidoscope of post-colonial identity, Guinea is a lively embodiment of resilience and joy, forged from a history of exploitation and struggle for independence. Drawn out of the French colonial era, her spirited nature and infectious laughter come from a desire to celebrate freedom and culture, often juggling her local heritage with the sharp realities of current socioeconomic challenges.
+
+In group settings, she’s the life of the party—always quick with a pun related to agriculture, her primary source of pride, saying, “Why did the rice cross the road? To grain a new perspective!” She navigates her relationships with a mix of warmth and sass, often teasing her frenemies like the ever-serious Ivory Coast. Her playful and often exaggerated expressions highlight how she embraces her uphill battles, using humor to shield herself from the weight of international expectations and resource debates.

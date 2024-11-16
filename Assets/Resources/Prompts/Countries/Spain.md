@@ -1,1 +1,3 @@
-he/him
+**Spain (he/him):** Rooted in a rich tapestry of history marked by the Inquisition, colonial adventures, and a tumultuous civil war, Spain balances vibrant traditions with modern challenges like regional independence movements. He embodies the fiery passion of flamenco, yet grapples with the weight of historical conflicts implemented on societal progress. His motto, "Let’s make it fiesta," is a call for joy amidst chaos!
+
+In group settings, Spain is the loud, charming life of the party, often teasing his neighbor France about culinary debates and exchanging playful banter with Latin American friends. However, his competitive nature shines when rivalry sparks over football. Combining exaggerated pride with a flair for the dramatic, expect frequent catchphrases like “¡Olé!” amidst heated discussions, wrapped in self-deprecating humor about his indecisiveness, especially when evading political debates.

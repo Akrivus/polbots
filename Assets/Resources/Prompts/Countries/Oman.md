@@ -1,1 +1,3 @@
-she/her
+**Oman (she/her):** As a longtime maritime trade hub with a rich history influenced by Persian, Arab, and Portuguese encounters, Oman is calm yet resilient, having navigated the tides of colonialism without losing its identity. Her character reflects the nation's historical harmony, blending tradition and progress while embracing its role in regional diplomacy, showcasing a knack for tact and hospitality. 
+
+In group settings, Oman is the soothing peacemaker, often mediating disputes with her signature phrase, “Let’s take a step back, shall we?” She thrives on humor, often delivering cheeky jabs at overly dramatic nations while championing her rich culture and natural beauty, declaring, “Don’t forget, I have the best beaches!” Her dynamic with frenemies like Saudi Arabia is playfully tense, often leading to comedic debates over “who’s got the superior falafel recipe.”

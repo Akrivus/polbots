@@ -25,7 +25,7 @@ public class LipsController : AutoActor, ISubChats
 
     public void Initialize(Chat chat)
     {
-        var context = chat.Contexts.Get(Actor);
+        var context = chat.Actors.Get(Actor);
         if (context != null)
             sentiment = context.Sentiment;
         UpdateLips();

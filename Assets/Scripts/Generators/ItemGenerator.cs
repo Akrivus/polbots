@@ -32,12 +32,12 @@ public class ItemGenerator : MonoBehaviour, ISubGenerator
 
         var itemSet = await GenerateItemSet(chat, names, topic);
         foreach (var item in itemSet)
-            chat.Contexts.Get(item.Key).Item = item.Value;
+            chat.Actors.Get(item.Key.Actor).Item = item.Value;
 
         return chat;
     }
 
-    private async Task<Dictionary<Actor, string>> GenerateItemSet(Chat chat, string[] names, string topic)
+    private async Task<Dictionary<ActorContext, string>> GenerateItemSet(Chat chat, string[] names, string topic)
     {
         var options = string.Join("\n- ", names);
         var prompt = _prompt.Format(options, topic, context);

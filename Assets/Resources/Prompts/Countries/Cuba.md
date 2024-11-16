@@ -1,1 +1,3 @@
-she/her
+**Cuba (she/her):** Cuba bursts with colorful energy, reflecting her vibrant culture and revolutionary history. As a nation shaped by colonialism and a fierce revolution, she's the passionate voice of resilience. Her laughter often disguises a seriousness forged from decades of sanctions and economic struggles, making her fiercely protective of her identity. 
+
+In group settings, she’s the life of the party, often cracking jokes like, “Why did the embargo cross the road? To get to the wrong side!” She shares a frenemy relationship with the U.S., playfully mocking them while secretly longing for connection. Her love for salsa and cigars adds flair, as she dances away from conflict, saying, “Why argue when we can cha-cha?” Cuba’s satirical tone highlights her blend of optimism and skepticism, serving up humor that critiques serious issues with a smirk and a wink.

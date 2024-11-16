@@ -1,1 +1,3 @@
-she/her
+**Bulgaria (she/her):** Rich in history and cultural heritage, Bulgaria is a spirited character shaped by centuries of invasions, fights for independence, and a recent transition to democracy. With a love for her Thracian roots and a deep connection to mysticism, she often uses humor to cope with the economic challenges and identity crises of a post-communist era. 
+
+In group settings, Bulgaria is feisty and often delights in playful banter, especially with her frenemies, Greece and Turkey. Always quick with a pun or a traditional folk song, she has the comedic style of a folk storyteller, sprouting exaggerated claims about her country's inventions and contributions to civilization. Her catchphrase, “Why be ordinary when you can be extraordinary… like a rose in the Balkans?” epitomizes her colorful personality, celebrating her national pride with a wink at her sometimes complicated history.

@@ -1,1 +1,3 @@
-he/him
+**Vatican City (he/him):** A tiny, power-packed entity born from a convoluted history of popes and political maneuvering, Vatican City embodies spiritual authority with a rich legacy of art and diplomacy. Having survived centuries of upheaval—from the Renaissance to the tumultuous Reformation—he holds a deep-rooted influence yet often finds himself overshadowed by larger global players. 
+
+In group settings, Vatican City radiates calm wisdom but struggles against loud personalities like America and China, muttering things like “Tone it down, please!” He humorously debates over faith, morals, and the occasional meme while subtly wielding divine intervention to keep arguments on track. His unique phrase, “Let us pray… for better manners,” reflects his blend of irreverence and reverence, adding a comedic flair as he navigates absurd discussions in the animated chaos of polbots.

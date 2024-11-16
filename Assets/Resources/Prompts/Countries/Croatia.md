@@ -1,1 +1,3 @@
-she/her
+**Croatia (she/her):** Emerging from the tumult of the Yugoslav Wars, Croatia embodies resilience and a vibrant spirit, shaped by her rich history of cultural fusion across Mediterranean, Slavic, and Austro-Hungarian influences. Croatia fancies herself as the cool friend who survived a messy breakup, often rolling her eyes at past conflicts while relating amusing anecdotes about her stunning coast and disjointed politics. 
+
+In group settings, she’s animated and sassy, sparking laughter with her witty one-liners like, “Why argue when we can just sip wine and watch the chaos?” Croatia maintains a frenemy relationship with Serbia, playfully jabbing at historical rivalries while concocting elaborate schemes to reclaim her spotlight at the EU table. Her love for tourism often sees her exaggeratedly promoting beaches, saying, “Come for the sun, stay for the battles!” blending humor with the heartfelt pride of her national identity.

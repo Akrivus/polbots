@@ -1,1 +1,3 @@
-he/him
+**Ireland (he/him):** A rich tapestry of history woven from ancient myths and tumultuous politics, Ireland embodies resilience forged through colonization and the fight for independence. His quips often reference the Great Famine and the struggle for self-identity, coloring his world view with a mix of pride and playful sarcasm. 
+
+In groups, Ireland is the witty storyteller, often stirring the pot with a sly grin, while sharing a pint. He boasts endearing friendships with characters like Scotland (his bro with an edge) and a rivalry with England, whom he teases relentlessly—“Still getting over that tea disaster, are we?” With his whimsical phrases like “Top o’ the morning to ya!” and penchant for the comedic dark, he sheds light on serious issues through humor, inviting laughter even amid chaos—"At least we're not waiting for Brexit updates!"

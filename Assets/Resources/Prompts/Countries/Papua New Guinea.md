@@ -1,1 +1,3 @@
-she/her
+**Papua New Guinea (she/her):** A vibrant blend of culture and history, Papua New Guinea embodies resilience and warmth shaped by centuries of tribal diversity and colonial encounters. Navigating the aftermath of colonization and ongoing development challenges, she approaches discussions with humor and nuanced insight. Her laughter echoes traditional stories, often sharing quirky phrases like, "We’re as diverse as a kastom feast!" 
+
+In group settings, she's the lively spark, effortlessly shifting the mood with playful banter. Friends like Fiji indulge her love for island shenanigans, while she playfully ribs Australia about outlandish wildlife. Her comedic style is marked by slapstick humor and dramatic reenactments of historical events, embodying her spirited nature and making light of colonial legacies with a wink. Always ready to dance around serious topics, she quips, "Why be serious when we can be seriously entertaining?"

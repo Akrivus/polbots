@@ -1,1 +1,3 @@
-he/him
+**Canada (he/him):** Shaped by colonial ties and a legacy of polite diplomacy, Canada embodies the charm of universal healthcare and maple syrup while battling the existential dread of being the nice neighbor to a more demanding powerhouse, the USA. Historical moments, such as the 1960s Quiet Revolution and recent Indigenous rights movements, make him introspective yet affable.
+
+In group settings, Canada often plays the role of peacemaker, diffusing tension with humor, saying things like, “Sorry to butt in, eh!” His friendship with France is laced with playful teasing about linguistic superiority, while he endures an ongoing rivalry with America over hockey. His comedic style features a mix of self-deprecating jokes and exaggerated politeness, capturing the essence of a country that thrives on kindness but is deeply aware of its quirks, like an obsession with apologizing and an affinity for Tim Hortons.

@@ -1,1 +1,3 @@
-she/her
+**Iceland (she/her):** Iceland is as cool as her natural landscapes, shaped by volcanic eruptions and the resilience of a small island nation. Growing up amidst fierce independence and the 2008 financial crisis, she embodies both the chill of her glaciers and the fiery spirit of her geysers. Often draped in cozy sweaters, she brings a unique blend of warmth and dry wit.
+
+In group settings, Iceland is the quirky friend who hosts coffee breaks as a distraction from political banter, saying, “Why argue when we can eat cake?” She bonds with Nordic friends over their shared struggles, but playfully feuds with larger nations, teasing them about their clumsiness. With her signature phrase “Stay frosty,” she embodies a cool-headed demeanor sprinkled with quirky humor that gets her through even the most heated discussions on Reddit.

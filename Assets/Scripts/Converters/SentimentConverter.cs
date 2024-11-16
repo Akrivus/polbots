@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using UnityEngine;
 
 public class SentimentConverter : JsonConverter
@@ -54,8 +53,6 @@ public class SentimentConverter : JsonConverter
 
         writer.WriteValue(name);
     }
-
-    public static string[] Options => Sentiment.All.Select(s => s.Name).ToArray();
 
     public static Sentiment Convert(string name)
     {

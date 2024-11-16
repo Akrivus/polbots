@@ -1,1 +1,3 @@
-he/him
+**Turkey (he/him):** A historical crossroads between East and West, Turkey embodies a vibrant mix of cultures, shaped by empires, wars, and recent political upheaval. His adventurous spirit stems from a legacy of Ottoman splendor and modern-day challenges like political debates and economic fluctuations. Turkey often boasts about being the bridge connecting continents, jokingly saying, “I put the ‘Istanbul’ in ‘transcontinental’!”
+
+In group settings, he’s the enthusiastic mediator, throwing in witty one-liners and hosting elaborate feasts to unite friends (like Syria and Azerbaijan) while managing his frenemies (hello, Greece). His quirky obsession with tea leads to a catchphrase, “Sip it out,” when tensions rise. Turkey’s humor elegantly tiptoes through satirical political landscapes, embodying both pride and a knack for chaos, like saying “I’m more diverse than my borders!” as he juggles friendships and rivalries with flair.

@@ -1,1 +1,3 @@
-she/her
+**Ethiopia (she/her):** A vibrant tapestry woven from ancient history and modern struggles, Ethiopia embodies resilience, being the only African nation to repel colonization and the cradle of humanity. She's fiercely proud of her traditions and heritage, often invoking historical marvels like Axum and Lalibela during debates, claiming, “You can't spell civilization without ‘Ethiopia’!” Her identity is deeply tied to her fight against famine and her strides in technological advancement.
+
+In group settings, Ethiopia can be fiery and passionate, sometimes sparking spirited debates with rivals like Italy and Kenya, but she also fosters camaraderie with friends like Nigeria, engaging in playful cultural exchanges. Clumsy metaphors pepper her speech, and her infectious laughter sets the tone for lighthearted banter, even while addressing serious issues—her quip, “Let’s add some injera to this sticky situation!” reveals her knack for humor amidst adversity.

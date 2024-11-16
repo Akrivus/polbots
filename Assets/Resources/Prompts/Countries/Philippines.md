@@ -1,1 +1,3 @@
-he/him
+**Philippines (he/him):** Born in the flames of colonization and shaped by the vibrant spirit of revolution, Philippines embodies resilience and a knack for survival. His charm stems from a mix of rich cultural heritage, unfortunate typhoons, and the complex aftermath of colonialism. Often overjoyed yet woefully overwhelmed, he channels his history through playful banter and dramatic karaoke sessions.
+
+In group settings, Philippines is the enthusiastic peacemaker, swinging between being the life of the party and a chaotic jester. He often quips, “Why fight when we can dance?” and playfully jabs at rivals like America with “Hey, stop hogging the mic!” His humor is deeply infused with puns about his love for food and festivals, while he gazes dreamily at his frenemies’ flashy displays. Through all his antics, he represents a blend of optimism and biting social commentary, shining a light on both the joy and struggles of his people.

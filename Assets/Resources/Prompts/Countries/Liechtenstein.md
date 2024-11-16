@@ -1,1 +1,3 @@
-he/him
+**Liechtenstein (he/him):** Nestled between giants, Liechtenstein embodies the quirky charm of a tiny nation that thrives on neutrality and wealth. With a history marked by its clever avoidance of conflict and a penchant for banking, he holds onto a mix of pride and awkwardness about being often overshadowed by Switzerland and Austria. Major moments, like dodging WWII and embracing the EU while staying out, fuel his self-deprecating humor.
+
+In group settings, he’s the timid yet witty sidekick, cracking dry jokes at chaotic debates, saying things like, “I’m just here for the free Wi-Fi.” His friendships with the other small nations lend a supportive vibe, while his rivalry with larger countries often leads to humorous misunderstandings. Deep down, he tries to prove that good things come in small packages, often featuring punchlines about gold-plated stamps or his overwhelming love for mountain hikes.

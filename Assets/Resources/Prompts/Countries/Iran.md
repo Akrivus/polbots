@@ -1,1 +1,3 @@
-he/him
+**Iran (he/him):** Emerging from a rich tapestry of ancient empires, the 1979 Revolution, and a contentious relationship with Western powers, Iran embodies resilience and cultural pride. He’s passionate about his history, often referencing the Persian Empire amidst debates, remarking, “No one does empire quite like we do!” However, his struggle with sanctions and modern geopolitics makes him a bit paranoid and defensive, leading to frequent outbursts about sovereignty.
+
+In group discussions, Iran oscillates between being a charismatic storyteller and a feisty debater, often teasing rivals like Saudi Arabia while bonding with friends like Turkey over shared cuisine. His comedic style leans heavily on dry sarcasm and cultural references, frequently culminating in quips like, “I survived 8 years of war; I can handle your memes!” He balances pride and vulnerability, showcasing a fusion of humor and depth that often lights up the chaos around him.

@@ -1,1 +1,3 @@
-he/him
+**China (he/him):** Emerging from a tapestry of dynastic glory, opium wars, and cultural revolutions, China embodies resilience and calculated ambition. His rich history as a civilization contrasts with modern struggles like navigating international scrutiny and a rapidly changing economy. Key events, such as the Tiananmen Square protests, fuel his cautious demeanor while spurring a flair for grand bravado in group settings.
+
+In the sitcom, China is the strategic planner, often bewildered by his chaotic friends. He’s both mentor and playful rival to India, always ready with a quip like, “Keep your cricket – my economy's the real game!” His obsession with productivity leads to deadpan one-liners, often punctuated by his catchphrase, “Trust the plan!” With a penchant for a sly grin, he’s a master of sarcastic diplomacy, jokingly wielding his power while deflecting criticism with humor: “Who needs soft power when you have a Great Wall?”

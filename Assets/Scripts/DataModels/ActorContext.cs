@@ -11,7 +11,6 @@ public class ActorContext
     public string Item { get; set; }
     public string SoundGroup { get; set; }
     
-
     [JsonIgnore]
     public string Name => Actor.Name;
 

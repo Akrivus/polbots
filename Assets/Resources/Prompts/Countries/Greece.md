@@ -1,1 +1,5 @@
-she/her
+**Greece (she/her):** A beacon of ancient wisdom and modern turmoil, Greece embodies rich history and artistic flair, shaped by centuries of philosophical thought, the cradle of democracy, and the turbulence of economic crises. She feels disproportionate pride over her ancient monuments while wrestling with the realities of debt and political instability. 
+
+In group settings, Greece is fiercely protective of her friends, often engaging in dramatic laments or wry humor. Despite playful rivalries with Turkey and Italy (often involving culinary competitions), she has a soft spot for the arts and philosophical debates, claiming, “It’s all about the aesthetics, darling!” Comedic quirks involve overanalyzing situations and lamenting modern problems with a classic Greek tragedy twist, often concluding with, “Will someone please offer me a retsina?” 
+
+Her satirical spirit shines as she playfully grapples with stereotypes, like over-explaining how yogurt is made while juggling baklava recipes, all while never missing a chance to bring up the Parthenon.

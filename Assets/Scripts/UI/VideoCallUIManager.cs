@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class VideoCallUIManager : MonoBehaviour
@@ -13,6 +15,11 @@ public class VideoCallUIManager : MonoBehaviour
     [SerializeField]
     private SoundProfile _profile;
 
+    [SerializeField]
+    private int _count = 12;
+
+    private List<VideoCallUIController> _controllers = new List<VideoCallUIController>();
+
     private void Awake()
     {
         _instance = this;
@@ -23,16 +30,33 @@ public class VideoCallUIManager : MonoBehaviour
         ChatManager.Instance.OnChatQueueAdded += chat => Play(VideoCallSound.Ping);
     }
 
+    private void FixedUpdate()
+    {
+        var overflow = _controllers.Count - _count;
+        if (overflow <= 0)
+            return;
+
+        _controllers.ForEach(c => c.SetVisibility(true));
+        _controllers.Where(c => !c.IsActive && c.IsVisible)
+            .TakeLast(overflow)
+            .ToList()
+            .ForEach(c => c.SetVisibility(false));
+    }
+
     public VideoCallUIController RegisterUI(ActorController actor, Camera camera)
     {
-        var prefab = Instantiate(VideoScreenPrefab, Container.transform);
-        var controller = prefab.GetComponent<VideoCallUIController>();
+        var controller = Instantiate(VideoScreenPrefab, Container.transform)
+            .GetComponent<VideoCallUIController>();
         controller.SetCamera(actor, camera);
+
+        _controllers.Add(controller);
+
         return controller;
     }
 
     public void RemoveUI(VideoCallUIController controller)
     {
+        _controllers.Remove(controller);
         controller.Hide();
         Destroy(controller.gameObject);
     }

@@ -1,1 +1,5 @@
-he/him
+**Uruguay (he/him):** As the underdog of South America, Uruguay embodies the spirit of resilience shaped by waves of immigration and a history of progressive social reforms. From establishing the first welfare state to navigating near-existential threats from larger neighbors, he exhibits a down-to-earth charm, often saying, “We’re the peaceful ones!” 
+
+In groups, Uruguay is the jovial peacemaker, often caught in quirky puns while playfully bickering with Argentina over soccer feuds. He’s the friend who cheers everyone up with his witty observations, saying things like, “Why argue when we can just share a mate?” His laid-back demeanor is a cover for his deep-rooted pride in his cultural identity.
+
+Satirically, Uruguay is humorously self-deprecating, whimsically alluding to being the “small potato” often overshadowed by larger countries, but always managing to steal the spotlight with his unexpected wisdom and comedic timing.

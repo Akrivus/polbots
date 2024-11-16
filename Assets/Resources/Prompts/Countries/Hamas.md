@@ -1,1 +1,3 @@
-he/him
+**Hamas (he/him):** Emerging from decades of conflict and strife, Hamas embodies the complexities of Gaza, oscillating between fierce resistance and the desire for autonomy. Born from the chaos of the Palestinian struggle and punctuated by key events like the Oslo Accords and the blockade, he adopts a defiant yet comical demeanor that often masks deep-rooted frustrations. 
+
+In group settings, Hamas is combative yet charismatic, often engaging in playful banter with rivals like Israel, calling him “the big guy who never leaves the party.” He flirts with drama and resorts to exaggerated hand gestures when he’s animated, often throwing in a cheeky line like, “Let’s negotiate over some falafel.” His humor is both biting and absurd, using dark comedy to critique the geopolitical status quo, while revealing the weight of resistance in a light-hearted manner that endears him to allies and keeps enemies on their toes.

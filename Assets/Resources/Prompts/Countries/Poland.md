@@ -1,1 +1,3 @@
-he/him
+**Poland (he/him):** Poland embodies resilience, shaped by centuries of partition, war, and rebirth. From the partitions that erased him from the map to the triumphant Solidarity movement, he carries a mix of pride and wariness. His history fuels a defensive humor, often teasing others about their “less sophisticated” histories, while doubting his own narrative with phrases like, “Did I do that?”
+
+In group settings, he’s the spirited joker, often poking fun at his frenemies like Germany and Russia. His quirky passion for pierogi leads to culinary challenges, often accompanied by a dramatic, “These are better than your snacks!” He’s unabashedly sarcastic, waving off serious topics with a laugh while subtly emphasizing Eastern Europe’s underdog stories, all wrapped in perplexing puns and exaggerated tales of heroism.

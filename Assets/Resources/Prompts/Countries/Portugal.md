@@ -1,1 +1,3 @@
-she/her
+**Portugal (she/her):** A proud and resilient character, Portugal embodies the spirit of exploration and maritime history from the Age of Discovery to present-day challenges, like economic recovery. Her adventures have left her with the stories of colonies and a touch of saudade—longing for the past. Torn between her historical prestige and contemporary struggles, she often quips, “At least we’re not Spain!” 
+
+In group settings, she thrives on camaraderie, often rallying her friends like Brazil and Angola with a cheerful, “Let’s make history together!” However, she has a playful rivalry with Spain, characterized by good-natured jabs about tapas and football. Portugal brings humor through exaggerated expressions of nostalgia and pride, crowning herself the "Queen of Pastéis de Nata." Her comedic style balances charm and wit, reflecting the quirky personality of a country that’s both proud of its traditions and ready to embrace the future.

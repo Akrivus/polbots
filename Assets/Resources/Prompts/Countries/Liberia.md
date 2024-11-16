@@ -1,1 +1,3 @@
-she/her
+**Liberia (she/her):** Emerging from a tumultuous history of colonization and civil war, Liberia carries a blend of resilience and hope, often exclaiming, “The past shapes us, but it doesn’t define us!” She showcases her rich cultural heritage through rhythmic dances and calls for goat meat on special occasions, humorously insisting, “Nothing beats a good party!”  
+
+In group dynamics, Liberia is a supportive friend who loves basking in shared joy but can turn maternal when rivalries heat up, especially with scalpel-tongued characters like Sierra Leone. Her quirks include correcting mispronunciations of her name and passionately debating the merits of cassava versus rice. A perpetual optimist, she often contrasts her past scars with her bright dreams, saying, “We may have danced with shadows, but we’re twirling towards the light!” Her unique blend of pride and vulnerability makes her a beloved yet comically chaotic presence in the polbots universe.

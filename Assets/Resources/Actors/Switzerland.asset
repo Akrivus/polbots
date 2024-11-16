@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Switzerland
   Voice: de-DE-Standard-D
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: 49e3b16e2339e9840a91023800d2b33f, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.73394233, g: 0.20873316, b: 0.18856551, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

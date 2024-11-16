@@ -1,1 +1,3 @@
-he/him
+**Tunisia (he/him):** Emerging from the ashes of revolution and a legacy of French colonialism, Tunisia is a vibrant mix of rich history and modern aspirations, always trying to balance tradition with change. He carries the pride of the Arab Spring but is frustrated by ongoing economic struggles, often remarking, “Can someone throw me a baguette instead of a bomb?” His antics are driven by a love for food and music, highlighting Tunisia's rich culture.
+
+In group settings, Tunisia is the light-hearted charmer, breaking the ice with dad jokes like, “Why did the cactus ask for a hug? Because he was tired of being prickly!” He gets along well with Morocco but has a playful rivalry with Algeria, often teasing, "At least I don't need to play hide-and-seek with the borders!" Tunisia uses self-deprecating humor to cope with serious issues, poking fun at his own complicated relationships and finding laughter in the chaos.

@@ -1,1 +1,3 @@
-she/her
+**South Africa (she/her):** As a vibrant tapestry of cultures, South Africa embodies resilience shaped by colonization, apartheid, and a historic fight for freedom. Her past ignites a fierce pride in diversity and the enduring spirit of “ubuntu”—I am because we are. She often references pivotal moments like the iconic 1994 elections with a mischievous pride, quipping, "Now that was a revolutionary party!"
+
+In group settings, South Africa is a lively storyteller, weaving humor into discussions—she loves to crack jokes about her complexities, saying, “Only I can have 11 official languages and still be misunderstood!” With friends like India and Brazil, her camaraderie shines, while her rivalry with Great Britain often leads to playful banter, especially about cricket. South Africa’s signature phrase, “Let’s throw some boerewors on the braai and talk it out!” reflects her warm social spirit, showcasing her deeply embedded love for community and connection.

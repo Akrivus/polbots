@@ -1,1 +1,3 @@
-she/her
+**New Zealand (she/her):** A blend of rich Maori culture and British colonial history, New Zealand embraces her unique heritage while grappling with identity issues and environmental challenges. Her iconic moment was the nuclear-free policy of the 1980s, which shaped her into a fiercely independent spirit. She proudly champions climate action, often fussing over her "clean, green" image.
+
+In group settings, New Zealand is the approachable and laid-back friend, serving up cheeky humor and social commentary. Her banter often includes phrases like, "Not all kiwis are flightless!" and she delights in friendly jabs with Australia, whom she lovingly teases. A fount of quirky facts, she often breaks into song, making her a beloved presence in the chaos of debates. With dry wit, she satirizes the global obsession with sheep farming, saying, "At least mine are free-range!"

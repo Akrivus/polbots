@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using UnityEngine;
 
@@ -26,21 +27,36 @@ public class ChatManager : MonoBehaviour
         .ToList();
 
     [SerializeField]
+    private string folderName = "PolBol";
+
+    [SerializeField]
     private GameObject prefab;
 
     private List<ActorController> actors = new List<ActorController>();
     private ConcurrentQueue<Chat> playList = new ConcurrentQueue<Chat>();
 
+    [SerializeField]
+    private bool autoPlay = true;
+
+    [SerializeField]
+    private string forceEpisodeName;
+
     private void Awake()
     {
         _instance = this;
+        Chat.FolderName = folderName;
         Cursor.visible = false;
     }
 
-    private void Start()
+    private async void Start()
     {
         Actors.Initialize();
         StartCoroutine(UpdatePlayList());
+
+        if (!string.IsNullOrEmpty(forceEpisodeName))
+            AddToPlayList(await Chat.Load(forceEpisodeName));
+        if (autoPlay)
+            AutoPlayEpisodes();
     }
 
     public void AddToPlayList(Chat chat)
@@ -82,7 +98,7 @@ public class ChatManager : MonoBehaviour
         SubtitlesUIManager.Instance.SetChatTitle(chat);
         SubtitlesUIManager.Instance.ClearSubtitle();
 
-        var incoming = chat.Contexts.Where(a => !actors.Select(ac => ac.Actor).Contains(a.Actor));
+        var incoming = chat.Actors.Where(a => !actors.Select(ac => ac.Actor).Contains(a.Actor));
         foreach (var context in incoming)
             yield return AddActor(context);
 
@@ -117,7 +133,7 @@ public class ChatManager : MonoBehaviour
     {
         if (actors.Get(actor) != null)
             yield break;
-        var context = NowPlaying.Contexts.Get(actor);
+        var context = NowPlaying.Actors.Get(actor);
         yield return AddActor(context);
     }
 
@@ -144,11 +160,24 @@ public class ChatManager : MonoBehaviour
 
     private IEnumerator RemoveActors(Chat chat)
     {
-        var outgoing = actors.Where(a => !chat.Actors.Contains(a.Actor));
+        var outgoing = actors
+            .Where(a => !chat.Actors.Select(ac => ac.Actor).Contains(a.Actor))
+            .ToList();
         for (var i = 0; i < outgoing.Count(); i++)
             yield return outgoing
                 .ElementAt(i)
                 .Deactivate();
         actors.RemoveAll(a => outgoing.Contains(a));
+    }
+
+    private async void AutoPlayEpisodes()
+    {
+        var episodes = Chat.GetFiles()
+            .OrderByDescending(File.GetCreationTime)
+            .Select(Path.GetFileNameWithoutExtension)
+            .Select(Chat.Load)
+            .ToList();
+        foreach (var episode in episodes)
+            AddToPlayList(await episode);
     }
 }

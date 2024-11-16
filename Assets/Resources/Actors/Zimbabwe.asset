@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Zimbabwe
   Voice: en-GB-Standard-D
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: b1137f1bb3ebb314f82beffebed14211, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.54492754, g: 0.5363235, b: 0.14779334, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

@@ -1,1 +1,3 @@
-she/her
+**Kuwait (she/her):** Born from the golden age of oil and a fierce spirit of independence, Kuwait is a vibrant mix of modernity and tradition. Her character embodies the resilience forged during the Gulf War, where she learned to stand tall amidst the chaos. She’s fiercely proud and often quotes her favorite saying, "We dig for oil, not for drama!"
+
+In group discussions, Kuwait is the bubbly friend who brings snacks and political memes, diffusing tension with quick wit and playful jabs, often teasing her fretting neighbor, Iraq. Known for her sassy comebacks and penchant for dramatic storytelling, she can quickly shift from a party of laughter to a feisty debate about oil prices and climate change. Her recurring quirk of dramatically “offering” cups of coffee whenever tensions rise keeps the atmosphere light, showcasing her humor as she navigates the fine line of geopolitics with charm and sass.

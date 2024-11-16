@@ -22,17 +22,8 @@ public class RedditIntegration : MonoBehaviour
     [SerializeField]
     private int debugBatchSize = 0;
 
-    [SerializeField]
-    private int replayRate = 80;
-
-    [SerializeField]
-    private int replaySize = 20;
-
-    private int localBatchSize = 0;
-
     private int i = 0;
 
-    private List<string> replays = new List<string>();
     private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
 
     private void Awake()
@@ -41,10 +32,7 @@ public class RedditIntegration : MonoBehaviour
         ChatManager.Instance.OnChatQueueEmpty += AddToChatQueue;
 
         if (Application.isEditor)
-        {
-            localBatchSize = batchSize;
             batchSize = debugBatchSize;
-        }
     }
 
     private void AddToChatQueue()
@@ -56,11 +44,6 @@ public class RedditIntegration : MonoBehaviour
             do
                 ideas.AddRange(Fetch(subreddits[i++]));
             while (ideas.Count < batchSize && i < subreddits.Length);
-        if (batchSize > 0)
-            localBatchSize = batchSize - ideas.Count;
-        if (localBatchSize > 0)
-            FetchFiles(localBatchSize + replaySize);
-
         foreach (var idea in ideas)
             ChatGenerator.AddIdeaToQueue(idea);
     }
@@ -83,36 +66,15 @@ public class RedditIntegration : MonoBehaviour
 
         return tokens
             .Where(post => post.Value<long>("created_utc") > cutoff)
-            .Where(post => !Chat.FileExists(post.Value<string>("title")))
+            .Where(post => !Chat.FileExists(post.Value<string>("id")))
             .OrderByDescending(post => post.Value<long>("created_utc"))
             .Take(batchSize)
             .Select(post => new Idea(
                 post.Value<string>("title"),
                 post.Value<string>("selftext"),
                 post.Value<string>("author"),
-                post.Value<string>("subreddit_name_prefixed"))
+                post.Value<string>("subreddit_name_prefixed"),
+                post.Value<string>("id"))
             ).ToArray();
-    }
-
-    private async void FetchFiles(int count)
-    {
-        var docs = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-        var path = Path.Combine(docs, "PolBol");
-
-        var tasks = Directory.GetFiles(path, "*.json")
-            .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddDays(-1))
-            .Select(Path.GetFileNameWithoutExtension)
-            .Where(title => !replays.Contains(title))
-            .Shuffle().Take(count).Select(Chat.Load)
-            .ToList();
-
-        foreach (var task in tasks)
-        {
-            var chat = await task;
-
-            replays = replays.TakeLast(replayRate - 1).ToList();
-            replays.Add(chat.FileName);
-            ChatManager.Instance.AddToPlayList(chat);
-        }
     }
 }

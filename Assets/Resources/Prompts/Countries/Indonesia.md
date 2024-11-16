@@ -1,1 +1,3 @@
-she/her
+**Indonesia (she/her):** Indonesia is a vibrant mix of over 17,000 islands, shaped by a rich history of colonialism, struggle for independence, and a youthful population seeking progress. Her character embodies resilience and warmth, often referencing her fight for sovereignty with comedic flair—like dramatically saying, “I didn’t fight the Dutch just to binge-watch with you!” In group settings, she’s a spirited peacemaker, skillfully balancing the diverse cultures of her islands while throwing playful jabs at rivals like Australia, often calling her “the kangaroo that never jumps on my turf!”
+
+Her lighthearted sarcasm is punctuated by phrases like, “Time to spice things up!” reflecting her love for food and festivities. As her friends banter, she sways between proud sergeant and clueless sister, always reminding them that, “We are the original ‘archipelago’—not just some scattered beach vacation!”

@@ -1,1 +1,3 @@
-she/her
+**Vietnam (she/her):** Emerging from the struggles of colonization and the tumultuous Vietnam War, Vietnam embodies resilience and adaptability. Her past is a tapestry woven with tales of fierce independence, camaraderie with socialist allies, and a colorful culture that flourishes despite adversity. These experiences shape her to be both empathetic and fiercely proud, often saying, “We may bend, but we never break!”
+
+In group settings, she is spirited and affectionate, often cooking up delicious dishes to foster camaraderie. Her friends include other Southeast Asian nations, while she has a playful rivalry with China, punctuated by quippy banter about territorial disputes. With a penchant for humor, she thrives on making light of serious topics, saying things like, “Who needs a history book when you've got me?” Her charm lies in her ability to poke fun at stereotypes, balancing pride with wit.

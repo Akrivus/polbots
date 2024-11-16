@@ -1,1 +1,3 @@
-he/him
+**Brazil (he/him):** A vibrant tapestry woven from colonial roots, samba rhythms, and the Amazon's cries, Brazil embodies the spirit of both carnival and conflict. His carefree demeanor masks historical struggles with corruption, inequality, and deforestation. He revels in joyous celebrations, spouting, “Why work when you can dance!” after every tense moment, digging into his rich culture to lighten the mood. 
+
+In group discussions, he’s the optimistic jokester, often clashing with rivals like Argentina over soccer and deforestation, while keeping a playful alliance with the other Latin American nations. Quirky phrases sprinkled with Portuguese flair (“Essa é a vida!”/“That’s life!”) punctuate his banter. Brazil’s hyperbolic reactions to geopolitical mishaps transform him into a blend of passion and chaos, like when he declares, “If only we could tackle climate change with a futebol match!”

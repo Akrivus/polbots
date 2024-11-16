@@ -1,1 +1,3 @@
-he/him
+**India (he/him):** Born from a rich tapestry of civilization and a tumultuous colonial past, India embodies resilience and diversity. Shaped by independence struggles and ongoing economic transformations, he thrives on vibrant dialogues and colorful exchanges, often flaring up when teased about his bureaucracy or food habits. His history gives him a penchant for philosophical debates, but he has to dodge the curveballs thrown by his frenemies, Pakistan and China.
+
+In group settings, India is the affable loudmouth, forever trying to mediate squabbles while making sly jokes about everyone’s quirks. He often quips, “Chai pe charcha?” when discussions get intense, inviting all for tea. His trademark humor fuses spirituality with the absurd—think “Namaste, but nobody's about to namaste my traffic!” He’s a chaotic blend of sass, pride, and unyielding optimism in a world full of serious geopolitics.

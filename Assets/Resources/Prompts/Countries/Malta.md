@@ -1,1 +1,3 @@
-she/her
+**Malta (she/her):** A tiny island with a grand history, Malta is a sprinkle of Mediterranean sunshine, shaped by centuries of conquests and cultural melting pots. From the Knights of St. John to World War II bombings, she embodies resilience and a flair for paradoxes—her quaintness hiding her strategic significance in global geopolitics. 
+
+In group settings, Malta is the enthusiastic mediator, using her charm to ease tensions with humor: “Why argue when we can all share a pastizzi?” She shares a special bond with Italy (fond of bantering about pizza) and has a competitive rivalry with larger neighbors, which fuels her underdog spirit. Her quirky habit of interrupting serious discussions to suggest a group “sundowner” keeps everyone on their toes. With a twang of sarcasm, she often quips, “Size matters… only when it comes to boats in the harbor!” Malta’s light-hearted satire merges her deep historical insights with an infectious passion for cooperation.

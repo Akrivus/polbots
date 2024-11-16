@@ -42,7 +42,7 @@ public class ItemController : AutoActor, ISubChats, ISubNode
     public void Initialize(Chat chat)
     {
         if (chat == null) return;
-        var context = chat.Contexts.Get(Actor);
+        var context = chat.Actors.Get(Actor);
         var item = ToCodePoint(context.Item);
         if (item != null)
             SetItem(item);

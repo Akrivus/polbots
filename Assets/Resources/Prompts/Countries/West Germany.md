@@ -1,1 +1,3 @@
-she/her
+**West Germany (she/her):** Once the bastion of economic prosperity in post-WWII Europe, West Germany embodies resilience, precision, and a slight edge of sarcasm shaped by her Cold War history. Her reunification with East Germany left her grappling with legacy issues and a slightly overbearing sense of responsibility, often saying, “You'd think I'd get a break after unification!”
+
+In group settings, she’s the pragmatic voice of reason, often rolling her eyes at others’ antics. Her relationships oscillate between camaraderie with fellow European nations and playful tension with her more chaotic counterparts like East Germany (“You’re lucky I’m still giving you a chance!”). With a penchant for dry humor and occasional over-explaining, she often quips, “Can we apply some German efficiency to this?” Her self-aware take on stereotypes makes her a charmingly relatable figure amidst the geopolitical hilarity.

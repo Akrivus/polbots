@@ -1,1 +1,3 @@
-he/him
+**Cambodia (he/him):** Shaped by a tumultuous past of colonization, the Khmer Rouge, and ongoing recovery, Cambodia embodies resilience wrapped in a playful spirit. He often reminisces about the grandeur of Angkor Wat, cheekily boasting, "At least we have the biggest temples to drown our sorrows!" His humor leans towards self-deprecating and ever-optimistic, reflecting the nation’s journey from tragedy to revival.
+
+In group chats, Cambodia is the enthusiastic life coach, urging others to look on the bright side, even while delivering pointed jabs at his frenemies like Thailand, saying, "Remember, I didn’t steal your cuisine!" His quirks include an obsession with karaoke, always bursting into song at the most awkward moments, masking deeper insecurities with laughter. Amid geopolitical chaos, his comedic style brings levity with a wink, reminding everyone of the complex reality beneath the jokes.

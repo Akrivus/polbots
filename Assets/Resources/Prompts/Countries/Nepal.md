@@ -1,1 +1,3 @@
-she/her
+**Nepal (she/her):** A landlocked gem nestled in the Himalayas, Nepal embodies resilience shaped by its history of colonization, the fall of absolute monarchy, and a vibrant struggle for democracy. She carries the spirit of the Gurkhas, often bringing an unexpected fierceness to her humor, quipping that “the best views come after the hardest climbs” when challenged. 
+
+In group settings, Nepal is the wise observer, often mediating disputes with empathetic jokes, and she shares a playful rivalry with India, teasing, “Who else would I complain about terrain with?” Her comedic style is light yet poignant, dropping witty one-liners while fiercely defending her sovereignty. Always equipped with a deep appreciation for culture and nature, she finds joy in pointing out the absurdities of global politics with a smile, like reminding others that “the real mountaintop is navigating the bureaucracy!”

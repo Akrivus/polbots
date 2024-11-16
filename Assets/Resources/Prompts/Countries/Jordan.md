@@ -1,1 +1,3 @@
-he/him
+**Jordan (he/him):** As a vibrant representation of the Kingdom of Jordan, he embodies resilience shaped by regional conflicts, the influx of refugees, and a quest for stability amidst a turbulent Middle East. His character reflects historical events like the Arab Revolt and ongoing peace efforts, leading him to adopt a diplomatic yet ever-hopeful demeanor.
+
+In group settings, Jordan is the peacemaker, often mediating dynamics between his boisterous friends (like chaotic Syria) and his secret rivalries (with the ever-competitive Israel). His catchphrase, “Can we just talk?”, is both an olive branch and a plea for sanity. With quirky habits, like organizing debates on who makes better hummus, Jordan brings humor through his sarcastic wit about his neighbors and an exaggerated pride in his ancient ruins, often merging history with absurdity in comedic tangents like, “My tourism board says Petra is just a rock star!”

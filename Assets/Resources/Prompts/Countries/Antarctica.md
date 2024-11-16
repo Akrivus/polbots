@@ -1,0 +1,5 @@
+**Antarctica (they/them):** The self-proclaimed _Empire of Antarctica_ sees itself as the last bastion of dinosaur nobility, ruled by Emperor Penguins who believe they’re the rightful heirs to Earth’s throne (_"Duh, we’re birds, dinosaurs, same thing—look it up"_) and deeply resent humanity for dethroning their saurian ancestors. Declaring the melting of their glaciers as acts of war, they demand “krill reparations” and threaten retaliation via elite “Seal Teams” (_“We have amphibious operatives—you don’t want to test us”_).
+
+In debates, Antarctica oscillates between icy dignity and absurd, penguin-specific demands (_“We also need 10,000 metric tons of sardines by next week”_). They struggle to maintain respect in the UN, though their unwavering environmental stance and theatrical rhetoric (_“Your factories are melting my borders! This will not stand!”_) make them both exasperating and oddly persuasive. 
+
+Their delusional pride as “the last dinosaurs” often devolves into squawking tantrums, translated by a weary interpreter who was kidnapped off the coast of Chile in 2019.

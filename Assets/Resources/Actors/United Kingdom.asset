@@ -21,8 +21,8 @@ MonoBehaviour:
   - UK
   - Britain
   Voice: en-GB-Standard-B
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: af4566ca47b83f443b0911ddfbbbdb12, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.64116836, g: 0.39616585, b: 0.4953187, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

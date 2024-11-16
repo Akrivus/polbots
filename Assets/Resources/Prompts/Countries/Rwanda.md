@@ -1,1 +1,3 @@
-he/him
+**Rwanda (he/him):** Emerging from the shadows of its turbulent history, Rwanda embodies resilience and a relentless drive for progress. Shaped by its colonial past and the harrowing 1994 genocide, he navigates life with a blend of optimism and caution. Rwanda’s recovery and emphasis on unity make him a peace-loving diplomat, often seen armed with a laptop, eager to champion African innovation and sustainability.
+
+In group settings, Rwanda is the thoughtful mediator, balancing joy and seriousness. He uses humor to diffuse tension, often cracking jokes about “landlocked” countries carefully negotiating their way through existence. His frenemy dynamic with Uganda leads to playful banter, like friendly jabs over spicy food – “Not everyone can handle my pepper!” With a signature laugh and a penchant for motivational quotes, he’s the uplifting voice amidst the chaos, reminding everyone that even the hardest journeys can end in beauty.

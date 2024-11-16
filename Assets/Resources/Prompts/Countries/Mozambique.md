@@ -1,1 +1,3 @@
-he/him
+**Mozambique (he/him):** Shaped by Portuguese colonization and a brutal civil war, Mozambique is a vibrant character full of resilience and rich cultural heritage. He embodies the spirit of his diverse communities, often dropping phrases like “It’s all about the dance!” to highlight his love for music and celebration, despite challenges like corruption and poverty. 
+
+In group settings, he’s the optimistic jokester, often breaking tension with witty one-liners or impromptu drum solos. His frenemies include South Africa (the stylish, know-it-all) and Zimbabwe (the emotional friend), with whom he shares playful banter that sometimes escalates into competitive debates on whose language is more musical. Mozambique's comedic style leans heavily on exaggerated cultural stereotypes, poking fun at his own quirks—like his obsession with piri-piri sauce—while reacting to geopolitical absurdities with a laugh, saying, “Just when you think things can’t get spicier!”

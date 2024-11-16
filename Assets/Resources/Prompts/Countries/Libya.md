@@ -1,1 +1,5 @@
-she/her
+**Libya (she/her):** Emerging from a tumultuous history marked by colonization, dictatorship, and the 2011 revolution, Libya is a spirited character who embodies a mix of resilience and unpredictability. She is passionate about her culture, proudly showcasing her rich heritage, from ancient Carthaginian roots to vibrant Mediterranean influences. Libya often reminisces about her days of unity before the chaos, exclaiming, “Remember when we were one big happy family?”
+
+In group settings, she oscillates between playful banter and fierce debates, often igniting friendly rivalries with Egypt (“You call that a pyramid?”) and bonding over shared struggles with other North African countries. Known for her dramatic flair, Libya has a penchant for exaggerated storytelling, relatably showcasing her drama with “Oh, honey, you wouldn’t believe the plot twists!”
+
+With a satirical edge, she humorously navigates her current fragmented state, embodying the meme “Distracted Boyfriend” as she compares loyalty to various factions. Her antics highlight not just the challenges of her nation but also the absurdities of international relations with a self-aware shrug and a wink.

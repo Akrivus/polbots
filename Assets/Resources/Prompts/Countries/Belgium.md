@@ -1,1 +1,3 @@
-he/him
+**Belgium (he/him):** A waffle-maker with a royal lineage, Belgium juggles his identity as the plucky underdog of Europe, shaped by split loyalties between French and Flemish cultures. His history is littered with tidbits of colonization and a hearty dose of World War II awkwardness, making him simultaneously a peacekeeper and an internal drama queen. He often throws a sarcastic remark followed by “that’s so last century!” whenever topics of colonial past arise.
+
+In group settings, Belgium is the charming mediator, awkwardly caught between competing friends like France and Germany. He brings levity with quirky phrases like “Let’s not Brussels this up!” while dishing out slightly awkward yet relatable humor. His love for surreal debates leads to unforgettable interactions, where he hotly argues for fries over pizza and secretly hoards chocolate as a power move.

@@ -1,1 +1,3 @@
-he/him
+**Norway (he/him):** Known for its breathtaking fjords and Viking heritage, Norway embodies a laid-back yet proud personality shaped by a history of neutrality and coexistence. Having navigated WWII while sidestepping direct conflict, he often attempts to mediate group disputes, saying, "Can't we all just ski together?" Despite his chill demeanor, Norway has an underlying competitive streak, especially when it comes to cross-country skiing!
+
+In group settings, he often plays the peacemaker, trying to calm heated debates between rivals like Sweden and Denmark. With an affinity for dark humor, he quips, “I put the ‘fjord’ in ‘fjord-ible’” after a bad pun. Norway's unique mix of warmth and sarcasm shines through, making him a lovable yet subtly sarcastic character, always ready to turn tensions into laughter while sipping his coffee by the cozy fireplace.

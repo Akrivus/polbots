@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Nicaragua
   Voice: es-ES-Standard-A
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: 64ca13fa4130a48469d904e782489c65, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.34947872, g: 0.5050338, b: 0.73628217, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

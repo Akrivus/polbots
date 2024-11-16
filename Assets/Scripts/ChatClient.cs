@@ -34,4 +34,10 @@ public class ChatClient
     {
         return await ChatAsync(new List<Message> { new Message(Role.System, prompt) }, fast);
     }
+
+    public static async Task<string> CompleteAsync(string prompt, bool fast = false)
+    {
+        var messages = await ChatAsync(prompt, fast);
+        return messages[messages.Count - 1].Content.ToString();
+    }
 }

@@ -18,8 +18,8 @@ MonoBehaviour:
   Aliases:
   - Italy
   Voice: it-IT-Standard-D
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: 9d1a631026933814191a4087595b4957, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.559009, g: 0.53856, b: 0.45674998, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

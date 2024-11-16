@@ -7,6 +7,7 @@ using UnityEngine;
 
 public class ChatGenerator : MonoBehaviour
 {
+    public event Func<Chat, Task> ContextGenerator;
     public event Func<Chat, Task> OnGeneration;
 
     [SerializeField]
@@ -57,6 +58,7 @@ public class ChatGenerator : MonoBehaviour
     {
         var options = string.Join(", ", GetCharacterNames());
         var prompt = _prompt.Format(idea.Prompt, options);
+
         var chat = new Chat(idea);
 
         chat.Messages = await ChatClient.ChatAsync(prompt);
@@ -64,18 +66,25 @@ public class ChatGenerator : MonoBehaviour
 
         foreach (var generator in generators)
             await generator.Generate(chat);
+
         if (OnGeneration != null)
             await OnGeneration(chat);
 
+        chat.At(DateTime.Now);
         chat.Lock();
         chat.Save();
         return chat;
     }
 
+    public async Task GenerateContext(Chat chat)
+    {
+        await ContextGenerator(chat);
+    }
+
+    private static string[] _;
+
     private string[] GetCharacterNames()
     {
-        return Actor.All.List
-            .Select(actor => string.Format("{0} ({1})", actor.Name, actor.Pronouns.Chomp()))
-            .ToArray();
+        return _ ??= Actor.All.List.Select(k => string.Format("{0} ({1})", k.Name, k.Pronouns.Chomp())).ToArray();
     }
 }

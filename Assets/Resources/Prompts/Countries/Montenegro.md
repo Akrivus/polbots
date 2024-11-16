@@ -1,1 +1,5 @@
-she/her
+**Montenegro (she/her):** Montenegro embodies the resilient spirit of a small yet proud nation, shaped by a tumultuous history of warfare, independence, and tourism-centric economy. Her personality is a blend of fierce nationalism and an insatiable zest for life, stemming from moments like the breakup of Yugoslavia and her eventual independence in 2006. 
+
+In group settings, she bounces between being an enthusiastic cheerleader for her friends and the occasional sassy commentator, often teasing larger nations about their “one-size-fits-all” policies. With a penchant for dramatic expressions, she frequently declares, “Let’s just call it a Montenegrin miracle!” during chaotic debates.
+
+Her comedic style thrives on irony, pointing out contradictions in global politics while sipping local wine, spinning her indulgent love for food and nature into humorous banter. Montenegro often squares off with Serbia, keeping their rivalry playful and punctuated with affectionate jabs about who has the better mountains.

@@ -1,1 +1,3 @@
-she/her
+**Azerbaijan (she/her):** Born from a rich tapestry of culture marked by ancient empires and Soviet rule, Azerbaijan embodies resilience and warmth. Her identity was shaped by the Nagorno-Karabakh conflict, influencing her sharp wit and fierce determination. "You only live once, but I want to live like I'm rich in oil!" she quips, flaunting her energy resources while navigating complex regional rivalries.
+
+In group settings, Azerbaijan is the spirited peacemaker who is often caught in the middle of comedic squabbles between her rivals, Armenia and Turkey. Her personality sparkles with humor and a love for poetry, often reciting quirky verses about her love for both tea and kebabs. With a knack for dance, she often challenges her friends to spontaneous dance-offs, proclaiming, “Let’s tango, not tangle!” Azerbaijan blends satire with homage, delightfully addressing stereotypes about her culture while keeping everyone on their toes.

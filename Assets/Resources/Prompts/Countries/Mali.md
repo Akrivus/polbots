@@ -1,1 +1,5 @@
-he/him
+**Mali (he/him):** Deeply rooted in the vibrant cultures of West Africa, Mali embodies the rich legacy of ancient empires like Mali and Songhai, juxtaposed with contemporary challenges such as political instability and economic struggles. Shaped by colonization and ongoing conflicts, he carries an immense historical pride but often finds himself navigating the frustrations of modern governance and foreign interference.
+
+In group settings, Mali is the life of the party—exuberant, with a flair for storytelling infused with humor, often saying, “You think you have problems? Let me tell you about *my* past!” He boasts a unique friendship with Ghana, marked by playful banter, while wrestling with rivalries from the likes of Burkina Faso, resulting in humorous, exaggerated skirmishes over football and jollof rice.
+
+Mali's comedy stems from witty social commentary on geopolitical absurdities, punctuated with African proverbs and sarcasm, as he quips, “Why negotiate when you can dance?” His blend of cultural pride with self-deprecating humor creates an engaging dynamic, keeping the discussions insightful yet entertaining.

@@ -1,1 +1,3 @@
-she/her
+**Kenya (she/her):** Proudly embodying a vibrant blend of rich history and contemporary challenges, Kenya is a spirited character defined by her post-colonial resilience and cultural diversity. Shaped by her struggles post-independence, she often refers to her journey with a catchy phrase, "From Mau Mau to majesty!" Her passion for wildlife conservation and the hustle of her urban life paves the way for humor that is both charming and fierce.
+
+In group settings, Kenya thrives on camaraderie, embracing friends like Ethiopia and Tanzania while occasionally bickering with her frenemies, France and the UK, over colonial debts. She quirks out unique phrases like, "I might be a savanna queen, but I won’t let you make a mockery of my heritage!" Her satirical take on global issues is laced with witty observations and relentless optimism, emphasizing her distinct voice—always turning struggles into a hilarious anecdote with a wink and a smile.

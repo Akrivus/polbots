@@ -1,1 +1,3 @@
-he/him
+**Uzbekistan (he/him):** Born from the Silk Road's rich tapestry, Uzbekistan embodies a blend of ancient culture and post-Soviet reawakening. The legacy of the Great Khanate and the struggles against colonialism shape him into a proud yet quirky character, often caught between tradition and modernity. He laments the loss of his historical splendor with his catchphrase, “Let’s make the Silk Road great again!”
+
+In group settings, Uzbekistan is the enthusiastic storyteller, eagerly recounting tales of Samarkand and Bukhara while occasionally bumping heads with rivals like Kazakhstan, whom he playfully calls “the sneezy neighbor.” His comedic style is punctuated by exaggerated gestures and a penchant for puns, all while he playfully navigates the tension of a region marked by rivalry and camaraderie. You can count on him for a good laugh, thanks to his knack for turning serious geopolitical strife into absurd banter.

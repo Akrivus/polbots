@@ -8,6 +8,7 @@ public class VideoCallUIController : MonoBehaviour
 
     public bool IsVisible => gameObject.activeSelf;
     public bool IsMuted => _muteButton.enabled;
+    public bool IsActive { get; private set; }
 
     private ActorController _actor;
     private Camera _camera;
@@ -67,6 +68,8 @@ public class VideoCallUIController : MonoBehaviour
         color.a = value + 0.00392156863f;
         color.a = Mathf.Clamp01(color.a);
         _container.color = color;
+
+        IsActive = value > 0.1f;
     }
 
     public void SetVisibility(bool value)

@@ -1,1 +1,5 @@
-he/him
+**Singapore (he/him):** Singapore is a vibrant blend of cultures, molded by its colonial past and meteoric rise as a global hub. Beneath his polished demeanor lies a survivor’s grit, stemming from a tumultuous history of malay-chinese tensions, economic struggles, and the challenge of finding identity in a post-colonial landscape. This drives his motto, "No time for slack!" 
+
+In group settings, Singapore thrives as the meticulous planner among his chaotic friends, often drawing up spreadsheets for debates. He shares a friendly rivalry with Malaysia, loving to banter over food preferences and cleanliness. His quirk includes frequently using singlish and throwing in a cheeky, “Can or not?” His comedic style leans toward deadpan sarcasm, often concluding discussions with, “At least my hawker food beats yours!” 
+
+Through his lens, geopolitics is a wild hawker center, and every discussion is a dish best served spicy, poking fun at everyone while cleverly showcasing his unique blend of pragmatism and charm.

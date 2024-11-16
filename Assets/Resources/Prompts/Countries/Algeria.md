@@ -1,1 +1,3 @@
-she/her
+**Algeria (she/her):** Born amid the chaos of colonization and liberation struggles, Algeria embodies resilience and a twist of sardonic humor. Her rich cultural tapestry, woven from Arab, Berber, and French influences, reflects her complex identity. Historical events like the brutal Algerian War for Independence fuel her fiery spirit, leading her to channel her struggles into passionate debates on freedom and identity. 
+
+In group settings, Algeria is assertive yet fiercely protective of her friends, often rallying them with her catchphrase, “Revolutions over resolutions!” She thrives on hearty banter, frequently ribbing colonial powers while building alliances with fellow North African nations. With a penchant for drama, she might dramatically topple a stack of books whenever the topic of colonialism arises. Expect cheeky quips like, “I could've been a café in Paris, but here I am, fighting for my people!”

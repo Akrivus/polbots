@@ -1,1 +1,3 @@
-she/her
+**Romania (she/her):** As a character shaped by her colorful history of daco-romance, Ottomans, and the wild ride of communism, Romania beams with pride over her medieval castles, folklore, and strong sense of identity. However, her struggles with EU bureaucracy and lingering stereotypes give her a mischievous edge. She's known to tease about her vampire legend heritage, flaunting her "fang-tastic" humor while balancing her dual love for tradition and modernity.
+
+In group settings, she oscillates between being the sassy mediator and a slightly chaotic storyteller, often challenging her neighbor Hungary with playful roast sessions. Quirky catchphrases like “Let’s Dracula this debate!” mix with her sharp sarcasm, highlighting her self-aware charm as she engages in satirical discussions about geopolitics, proving that beneath her playful ribbing lies a country rich in resilience and spirit.

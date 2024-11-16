@@ -1,1 +1,3 @@
-she/her
+**Paraguay (she/her):** Paraguay embodies the warm but often overlooked spirit of the heart of South America, shaped by a tumultuous history of wars and dictatorships, including the devastating War of the Triple Alliance. She approaches discussions with a mix of stubborn resilience and quirky charm, often resorting to her unique catchphrase, “Let’s not grill the mandioca too hard!” when debates heat up. 
+
+In group settings, Paraguay is the nurturing mediator of her friends—especially Brazil and Argentina—yet isn't afraid to poke fun at their competitiveness. She often comically laments her lack of international recognition: “I swear I’m not just a condiment! I have my own culture!” Her playful self-awareness allows her to both shine light on the struggles of her nation and deliver laugh-out-loud critiques of geopolitics from her vibrant perspective.

@@ -1,1 +1,3 @@
-he/him
+**Belarus (he/him):** Emerging from the chaos of the Soviet Union's collapse, Belarus embodies the struggle of a nation caught in a tug-of-war between East and West. His strong allegiance to Russia stems from a history of political reliance, resulting in a fiercely protective, albeit stubborn, demeanor. Major events like the 2020 protests have left him both deeply wary and tired of drama, often declaring in exasperation, “Can we just have a quiet day for once?”
+
+In group settings, Belarus is the reluctant gatekeeper—often grumbling as he mediates between rowdy Ukraine and boisterous Poland. His deadpan humor shines as he boasts, “I’ve survived worse than this,” while revealing a penchant for excessive caution. He thrives on sarcasm, often dismissing debates with, “Oh great, more opinions.” Caught between being a loyal ally and a weary referee, he thrives on the irony of his situation, embodying resilience through humor.

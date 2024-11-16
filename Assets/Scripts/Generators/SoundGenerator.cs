@@ -32,12 +32,12 @@ public class SoundGenerator : MonoBehaviour, ISubGenerator
 
         var soundGroups = await SelectSoundGroup(chat, names, topic);
         foreach (var soundGroup in soundGroups)
-            chat.Contexts.Get(soundGroup.Key).SoundGroup = soundGroup.Value;
+            chat.Actors.Get(soundGroup.Key.Actor).SoundGroup = soundGroup.Value;
 
         return chat;
     }
 
-    private async Task<Dictionary<Actor, string>> SelectSoundGroup(Chat chat, string[] names, string topic)
+    private async Task<Dictionary<ActorContext, string>> SelectSoundGroup(Chat chat, string[] names, string topic)
     {
         var options = string.Join(", ", SoundGroups);
         var characters = string.Join("\n- ", names);

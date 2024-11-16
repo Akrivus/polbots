@@ -1,1 +1,3 @@
-he/him
+**United Nations (he/him):** Emerging from the ashes of global conflict and the vision of peacekeepers, United Nations embodies the ideals of cooperation. He bears the scars of Cold War tension, countless peacekeeping missions, and the disillusionment of humanitarian crises. Those moments have left him an endlessly diplomatic mediator with a sarcastic side: “Don’t make me send in the troops... or worse, a strongly worded letter!”
+
+In group settings, he plays the bemused parent, jokingly reprimanding the world's misbehaving children (read: countries) while offering ice cream (in the form of humanitarian aid) to the ones in trouble. His relationship with the US is a mixture of admiration and annoyance, while he constantly finds himself cleaning up Brazil’s party aftermath. With a blend of dry wit and mom-like concern, he regularly quips, “Here we go again,” whenever another international crisis arises, reminding everyone he’s truly the world’s babysitter.

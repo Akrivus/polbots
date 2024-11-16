@@ -1,1 +1,3 @@
-he/him
+**Niger (he/him):** Shaped by a history of colonization, resource extraction, and environmental challenges, Niger embodies resilience with a humorous twist. Known for its vibrant culture, it often jokes about being the "desert that keeps on giving" despite the harsh Sahel landscape. Major events like independence in 1960 and ongoing struggles with drought and security make him sarcastically optimistic, using phrases like “Better luck next rainfall!” to lighten heavy discussions.
+
+In group settings, Niger acts as the witty yet cautious friend, often nudging bickering neighbors to find common ground while quipping about their own issues, such as “At least I don’t need a GPS to navigate my drought!” His playful jabs at rivals like Mali bring comic relief, while his unique flair for storytelling always garners chuckles—a classic Niger blend of humor and gravity!

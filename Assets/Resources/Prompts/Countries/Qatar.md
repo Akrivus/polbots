@@ -1,1 +1,3 @@
-he/him
+**Qatar (he/him):** With a rich history of pearl diving and the later discovery of oil, Qatar embraces both its traditional heritage and modern opulence, often showcasing one of the highest GDPs in the world. Celebrating rapid development, he tends to flaunt his wealth, often diving into grandiose plans for the future. However, he’s also acutely aware of his small size and regional rivalries, leading to witty jabs at neighboring nations while playfully boasting, “Small but mighty, just like my falafel!”
+
+In group settings, Qatar embodies the charm of a well-heeled entrepreneur, often the life of the party, cementing friendships with his generous hospitality but maintaining a frenemy status with larger nations. His catchphrases, “Check your oil!” during debates and laughter over luxurious excesses highlight his comical yet self-assured approach to geopolitical discussions.

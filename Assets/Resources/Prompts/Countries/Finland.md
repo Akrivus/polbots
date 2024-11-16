@@ -1,1 +1,3 @@
-she/her
+**Finland (she/her):** Born from a blend of Nordic serenity and a history marked by wars and independence, Finland embodies resilience and a love for nature. She revels in her high educational standards and celebrates the freedom gained from the Soviet Union, often quipping about how “peace is the best school of all.” Her coping mechanisms include endless coffee breaks and invoking the magic of sauna to destress, while her fierce embrace of “sisu” (determination) often shines through.
+
+In group settings, she’s the quietly observant friend who drops witty one-liners, usually followed by an awkward silence, only to add a deadpan “just kidding” that leaves everyone laughing. She has a tender friendship with Sweden, where they exchange sarcasm about their dubious identification. Meanwhile, her competitive rivalry with Russia adds a playful tension; they share exaggerated stories of past conflicts, both feigning seriousness and laughter at their absurdity. 

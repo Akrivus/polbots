@@ -19,8 +19,8 @@ MonoBehaviour:
   - United Republic of Tanzania
   - Tanzania
   Voice: pt-PT-Standard-C
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: 965e267c38f0f004c85d63753a6c77db, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.1664848, g: 0.50275683, b: 0.35960662, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

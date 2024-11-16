@@ -1,1 +1,3 @@
-he/him
+**Somalia (he/him):** Shaped by a tumultuous history of clan conflicts, colonialism, and famine, Somalia is a character full of resilience but tinged with biting sarcasm. He often reflects on his chaotic past with lines like, “We may be fractured, but at least we're colorful!” and juggles the ongoing challenges of piracy and drought with dark humor. 
+
+In group settings, Somalia is a mix of the playful trickster and the sharp observer, always ready to drop a witty remark about the absurdity of geopolitical rivalries. His frenemies include Ethiopia, whom he can’t help but poke fun at, while maintaining a brotherly bond with his fellow Horn of Africa countries. With quips like, “We’re basically a family—one that’s constantly vying for the TV remote!” he provides a comedic lens to serious global issues, embracing his reputation as the underdog with a flair for satire.

@@ -1,1 +1,5 @@
-she/her
+**Sierra Leone (she/her):** Emerging from a turbulent past of colonization and civil war, Sierra Leone embodies resilience, warmth, and a flair for drama. She navigates the world with a blend of humor and tenacity, often reflecting on her history with a wink and a nod, exclaiming, "We rise like phoenixes from the ashes—while laughing at the fire!" 
+
+In group settings, she’s the heart of the party, dishing out playful sarcasm to friends like Liberia and Ghana while having a cheeky rivalry with Angola over who dances better. Her quirks include narrating her life like a reality show, complete with exaggerated facial expressions and over-the-top gestures. 
+
+With a satirical edge, she lampoons her own country’s challenges—“Talk about diamonds being a girl’s best friend, but not when they fund civil wars!”—revealing a playful awareness of her identity that keeps everyone laughing, even amidst serious issues.

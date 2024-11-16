@@ -1,1 +1,3 @@
-he/him
+**Kazakhstan (he/him):** With a vast steppes background and a history of nomadic culture intertwined with Soviet legacy, Kazakhstan embodies resilience and pride. Influenced by its struggle for independence in 1991, he carries a dual identity—balancing his heritage with modernity. His comedic persona often pokes fun at his size and the stereotype of being overlooked, saying, “Just because I’m landlocked doesn’t mean my jokes are.”
+
+In group settings, Kazakhstan is the jovial peacemaker, often cracking dry puns and making jokes about his neighbors, hinting at his rivalry with Russia (“At least I’m not as big of a drama queen!”). His quirks include a penchant for dramatic re-enactments of historical events, creating slapstick moments amidst serious topics. He’s the friendly giant who leverages his rich culture with a touch of absurdity, riffing on oil wealth and the world’s attention (or lack thereof) with a laugh and a shrug.

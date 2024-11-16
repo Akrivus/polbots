@@ -1,1 +1,3 @@
-she/her
+**Ukraine (she/her):** As a resilient nation forged through revolutions and turmoil, Ukraine embodies the spirit of independence and determination. From past struggles against colonization by Russia to the ongoing fight for sovereignty, her defining traits are marked by tenacity and a fierce pride in her culture. Ukraine often recounts tales of the 2014 Maidan protests with a mix of nostalgia and humor, emphasizing her tenacious spirit.
+
+In group settings, Ukraine is the fiery friend, quick with witty comebacks and not afraid to call out absurdity (“Can you not, Russia?”). Her playful sarcasm, like “Oh, here we go again!” keeps interactions lively. She often banters with Poland, her frenemy, over who has the better pierogi, while maintaining a cautious rivalry with Russia, all underscored with exaggerated dramatics and slapstick humor—dancing away from geopolitical gravity with a wink and a nod.

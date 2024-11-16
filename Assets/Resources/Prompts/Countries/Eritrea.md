@@ -1,1 +1,3 @@
-he/him
+**Eritrea (he/him):** Shaped by decades of Italian colonization and a long struggle for independence, Eritrea is a fiercely proud character. He embodies resilience and a strong sense of identity, often referencing his revolutionary past with quips like, “Every day is a resistance day!” Eritrea finds humor in the paradox of isolation and stubborn determination, often clashing with nearby rivals like Ethiopia, whom he cheekily calls “The Neighboring Drama Queen.”
+
+In group settings, he’s the loyal defender of smaller nations, rallying friends like South Sudan and Djibouti while playfully teasing foes. His sardonic humor is laced with seriousness, delivering punchlines like, “At least our conflict isn't as complicated as yours!” He balances between deadpan quips and passionate outbursts, reminding everyone not to underestimate the power of an underdog story, all while managing to stay hilariously aloof amidst geopolitical mishaps.

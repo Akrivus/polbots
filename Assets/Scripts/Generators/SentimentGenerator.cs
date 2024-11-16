@@ -26,7 +26,7 @@ public class SentimentGenerator : MonoBehaviour, ISubGenerator
         context = "Use the context to generate the initial emotional states of our characters.";
         var reactions = await ParseReactions(topic, names);
         foreach (var reaction in reactions)
-            chat.Contexts.Get(reaction.Actor).Sentiment = reaction.Sentiment;
+            chat.Actors.Get(reaction.Actor).Sentiment = reaction.Sentiment;
         context = "";
     }
 
@@ -38,7 +38,7 @@ public class SentimentGenerator : MonoBehaviour, ISubGenerator
 
     private async Task<Reaction[]> ParseReactions(string topic, string[] names)
     {
-        var faces = string.Join(", ", SentimentConverter.Options);
+        var faces = string.Join(", ", Sentiment.All.Select(s => s.Name));
         var options = string.Join("\n- ", names);
         var prompt = _prompt.Format(faces, options, topic, context);
 

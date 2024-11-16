@@ -1,1 +1,3 @@
-she/her
+**Benin (she/her):** Growing up in the shadow of colonialism and the struggles of past slave trades, Benin embodies resilience and a flair for culture. She indulges in her historical pride through vibrant festivals and the joyous spirit of the voodoo traditions that shaped her identity. However, her conversations often unveil a humorous defiance toward outdated stereotypes about Africa, using her past to schools others on the significance of her heritage.
+
+In group discussions, Benin lights up with infectious laughter, but can turn serious when discussing issues like economic development—playfully scolding those who overlook her country with phrases like, "Ever heard of the Dahomey Kingdom, darling?" Her signature style combines witty sarcasm with heartfelt passion, creating a dynamic where rivals like Nigeria often feel the sting of her playful jabs, while her comrades, like Ghana, bask in her energy.

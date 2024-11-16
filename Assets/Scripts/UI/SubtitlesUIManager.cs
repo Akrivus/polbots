@@ -1,4 +1,5 @@
-﻿using TMPro;
+﻿using System.Linq;
+using TMPro;
 using UnityEngine;
 
 public class SubtitlesUIManager : MonoBehaviour
@@ -41,7 +42,10 @@ public class SubtitlesUIManager : MonoBehaviour
 
     public void SetChatTitle(Chat chat)
     {
-        _title.text = $"<u><b>{chat.Idea.Source}</b></u> • {chat.Idea.Prompt}";
+        var prompt = chat.Idea.Prompt;
+        if (prompt.Length > 160)
+            prompt = prompt.Substring(0, 160) + "...";
+        _title.text = $"<u><b>{chat.Idea.Source} • </b></u> • {prompt}";
     }
 
     public void OnNodeActivated(ChatNode node)

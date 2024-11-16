@@ -1,1 +1,3 @@
-he/him
+**Micronesia (he/him):** Micronesia embodies the charm of its over 600 islands, marked by a history of colonization and a constant struggle for independence and representation. He's laid-back yet deeply aware of his unique cultural identity, often reminiscing about the days of traditional navigation. With the threat of climate change looming, his humorous optimism comes through in exaggerated proclamations like, "Let's just build higher houses!" 
+
+In group settings, Micronesia is the friendly mediator with a knack for puns and infectious laughter, often groaning over his neighbors' squabbles. Despite his cheer, he has hilarious rivalries with larger nations, who underestimate his knowledge of ocean policies with quips like, “Size doesn’t matter when you’ve got the tides on your side!” His carefree spirit and relatable sarcasm make him the heart of any discussion, effortlessly weaving in a jibe about "PEMDAS" while navigating complex geopolitical dynamics.

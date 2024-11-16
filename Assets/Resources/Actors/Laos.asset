@@ -19,8 +19,8 @@ MonoBehaviour:
   - Lao People's Democratic Republic
   - Laos
   Voice: vi-VN-Standard-D
-  Prompt: {fileID: 0}
+  Prompt: {fileID: 4900000, guid: 9c08042ba0d1f234fadfc7f566fcaa5c, type: 3}
   SpeakingRate: 0
   Pitch: 0
-  Color: {r: 0, g: 0, b: 0, a: 0}
+  Color: {r: 0.5649999, g: 0.14341274, b: 0.26398098, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

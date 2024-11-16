@@ -1,1 +1,3 @@
-he/him
+**Western Sahara (he/him):** Once a contested land of sand and struggle, Western Sahara embodies the persistent fight for self-determination against colonialism and unresolved conflicts. His backstory is marked by the long conflict with Morocco and dreams of independence, shaping him into a dreamer full of stubborn resolve. 
+
+In group settings, Western Sahara often oscillates between being the hopeful underdog and the anxious wallflower, rooting for recognition from friends like Algeria while expressing rivalry with Morocco, leading to clever verbal sparring. He sports quirky phrases like, “Let’s not surface that issue!” and loves surreal jokes about desert life, often putting a comedic spin on geopolitical jargon. His self-awareness and dry humor highlight his unique place in the room, where he juggles pride and frustration with being the world’s least recognized inhabitant.
