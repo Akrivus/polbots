@@ -6,7 +6,7 @@ The transcript should be a natural flow of continuous dialogue, incorporating hu
 
 {0}
 
-### Additional Context:
+### Additional Information:
 
 {1}
 

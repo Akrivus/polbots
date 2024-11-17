@@ -6,9 +6,6 @@ public class HeadlineGenerator : MonoBehaviour, ISubGenerator.Sync
     [SerializeField]
     private string title;
 
-    [SerializeField]
-    private string topic;
-
     public Chat Generate(Chat chat)
     {
         var actors = chat.Actors.Select(actor => actor.Name).ToArray();
@@ -18,7 +15,7 @@ public class HeadlineGenerator : MonoBehaviour, ISubGenerator.Sync
         chat.Headline = new Headline
         {
             Title = chat.Topic.Find(title),
-            Topic = chat.Topic.Find(topic),
+            Topic = chat.Context,
             Names = actors,
             Duration = duration
         };

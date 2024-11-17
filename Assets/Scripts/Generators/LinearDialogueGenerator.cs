@@ -22,9 +22,7 @@ public class LinearDialogueGenerator : MonoBehaviour, ISubGenerator
         await ChatGenerator.GenerateContext(chat);
 
         var prompt = _prompt.Format(chat.Topic, chat.Context);
-        var messages = await ChatClient.ChatAsync(prompt);
-
-        var content = messages[1].Content.ToString();
+        var content = await ChatClient.CompleteAsync(prompt);
         var lines = content.Split('\n', StringSplitOptions.RemoveEmptyEntries);
 
         foreach (var line in lines)

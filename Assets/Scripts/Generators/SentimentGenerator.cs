@@ -42,9 +42,7 @@ public class SentimentGenerator : MonoBehaviour, ISubGenerator
         var options = string.Join("\n- ", names);
         var prompt = _prompt.Format(faces, options, topic, context);
 
-        var messages = await ChatClient.ChatAsync(prompt, true);
-        var message = messages[1].Content.ToString();
-
+        var message = await ChatClient.CompleteAsync(prompt, true);
         var lines = message.Parse(names);
         var reactions = new Reaction[lines.Count];
         var i = 0;

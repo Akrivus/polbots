@@ -4,7 +4,8 @@ You are analyzing a group chat conversation. Your goal is to determine the emoti
 
 - {1}
 
-### Context:
+### Additional Information:
+
 {2}
 
 ### Chat Log:

@@ -16,7 +16,7 @@ public class VideoCallUIManager : MonoBehaviour
     private SoundProfile _profile;
 
     [SerializeField]
-    private int _count = 12;
+    private int _maxVideoScreens = 12;
 
     private List<VideoCallUIController> _controllers = new List<VideoCallUIController>();
 
@@ -28,19 +28,15 @@ public class VideoCallUIManager : MonoBehaviour
     private void Start()
     {
         ChatManager.Instance.OnChatQueueAdded += chat => Play(VideoCallSound.Ping);
+        ChatManager.Instance.OnChatNodeActivated += node => UpdateUI();
     }
 
-    private void FixedUpdate()
+    private void UpdateUI()
     {
-        var overflow = _controllers.Count - _count;
-        if (overflow <= 0)
-            return;
-
-        _controllers.ForEach(c => c.SetVisibility(true));
-        _controllers.Where(c => !c.IsActive && c.IsVisible)
-            .TakeLast(overflow)
-            .ToList()
-            .ForEach(c => c.SetVisibility(false));
+        var quota = _controllers.Count - _maxVideoScreens;
+        if (quota > 0)
+            for (var i = _controllers.Count - 1; i >= 0; i--)
+                _controllers[i].gameObject.SetActive(_controllers[i].IsActive || quota-- <= 0);
     }
 
     public VideoCallUIController RegisterUI(ActorController actor, Camera camera)

@@ -4,6 +4,8 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
+using System.Threading.Tasks;
 using UnityEngine;
 
 public class ChatManager : MonoBehaviour
@@ -51,12 +53,7 @@ public class ChatManager : MonoBehaviour
     private async void Start()
     {
         Actors.Initialize();
-        StartCoroutine(UpdatePlayList());
-
-        if (!string.IsNullOrEmpty(forceEpisodeName))
-            AddToPlayList(await Chat.Load(forceEpisodeName));
-        if (autoPlay)
-            AutoPlayEpisodes();
+        await StartPlayList();
     }
 
     public void AddToPlayList(Chat chat)
@@ -65,13 +62,24 @@ public class ChatManager : MonoBehaviour
         OnChatQueueAdded?.Invoke(chat);
     }
 
-    private IEnumerator UpdatePlayList()
+    private async Task StartPlayList()
     {
+        if (!string.IsNullOrEmpty(forceEpisodeName))
+            AddToPlayList(await Chat.Load(forceEpisodeName));
+        if (autoPlay)
+            AutoPlayEpisodes();
         if (playList.IsEmpty)
             OnChatQueueEmpty?.Invoke();
+        StartCoroutine(UpdatePlayList());
+    }
 
+    private IEnumerator UpdatePlayList()
+    {
         var chat = default(Chat);
         yield return new WaitUntilTimer(() => playList.TryDequeue(out chat));
+
+        if (playList.IsEmpty)
+            OnChatQueueEmpty?.Invoke();
 
         if (chat != null)
             yield return Play(chat);

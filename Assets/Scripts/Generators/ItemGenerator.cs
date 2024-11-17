@@ -41,10 +41,9 @@ public class ItemGenerator : MonoBehaviour, ISubGenerator
     {
         var options = string.Join("\n- ", names);
         var prompt = _prompt.Format(options, topic, context);
-        var messages = await ChatClient.ChatAsync(prompt, true);
-        var message = messages[1];
+        var message = await ChatClient.CompleteAsync(prompt, true);
 
-        var lines = message.Content.ToString().Parse(names);
+        var lines = message.Parse(names);
 
         return lines
             .Where(line => names.Contains(line.Key))

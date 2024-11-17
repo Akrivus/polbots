@@ -372,6 +372,7 @@ GameObject:
   - component: {fileID: 544448215}
   - component: {fileID: 544448217}
   - component: {fileID: 544448218}
+  - component: {fileID: 544448219}
   m_Layer: 0
   m_Name: UN Discord Server
   m_TagString: Untagged
@@ -393,8 +394,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   folderName: polbots
   prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  autoPlay: 1
-  forceEpisodeName: 4351b63
+  autoPlay: 0
+  forceEpisodeName: 
 --- !u!4 &544448211
 Transform:
   m_ObjectHideFlags: 0
@@ -438,11 +439,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ChatGenerator: {fileID: 1028228533}
   subreddits:
-  - UnitedNations+nato+geopolitics/top
-  - worldnews+anime_titties/top
-  - UpliftingNews+news+nottheonion/top
-  batchSize: 20
-  debugBatchSize: 0
+  - LessCredibleDefence+anime_titties+nato
+  - AskHistorians+philosophy
+  - todayilearned+Showerthoughts
+  batchMax: 5
+  batchLifetimeMax: 5
+  batchPeriodInMinutes: 1
+  debugBatchMax: 0
 --- !u!114 &544448217
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -469,6 +472,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ChatGenerator: {fileID: 1028228533}
   ideas: []
+--- !u!114 &544448219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544448209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8df8b233395f1049aadbb11e7a6a0f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OBSWebSocketURI: ws://localhost:4455
+  isStreaming: 0
+  isRecording: 1
+  splitRecording: 0
 --- !u!1 &555989945
 GameObject:
   m_ObjectHideFlags: 0
@@ -805,8 +824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58ae50fb0f31d5744826aa17c6bca988, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: Segment Outline
-  topic: Background Information
+  title: Episode Segment Outline
 --- !u!114 &1028228538
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -819,9 +837,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efc832b11a578cb40823eedfa6c8ef1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prompt1: {fileID: 4900000, guid: 3e016f8161befeb4889b72b6bfe11059, type: 3}
-  _prompt2: {fileID: 4900000, guid: c45110184ceef8a4198c2e78c8bae98b, type: 3}
-  _historyCount: 3
+  _prompt1: {fileID: 4900000, guid: c45110184ceef8a4198c2e78c8bae98b, type: 3}
+  _defaultContext: {fileID: 4900000, guid: ac6508b0eaeb1f548b16e30c402bc204, type: 3}
+  _contextCount: 4
 --- !u!114 &1028228540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1097,6 +1115,7 @@ MonoBehaviour:
     Ping: {fileID: 8300000, guid: 94466c088efe29648992282477410149, type: 3}
     Join: {fileID: 8300000, guid: cfe708027893f634e83a6904dc318883, type: 3}
     Leave: {fileID: 8300000, guid: c69c06afd415202478ca728990055a75, type: 3}
+  _maxVideoScreens: 12
 --- !u!114 &1393723632
 MonoBehaviour:
   m_ObjectHideFlags: 0

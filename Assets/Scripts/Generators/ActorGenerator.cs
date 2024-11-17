@@ -7,10 +7,13 @@ public class ActorGenerator : MonoBehaviour, ISubGenerator.Sync
     public Chat Generate(Chat chat)
     {
         var actors = new List<Actor>();
-        foreach (var name in GetCharacterNames())
-            if (chat.Topic.Contains(name.Key))
-                actors.Add(name.Value);
-        actors.AddRange(chat.Nodes.Select(node => node.Actor));
+        foreach (var actor in Actor.All.List)
+            foreach (var alias in actor.Aliases)
+                if (chat.Topic.Contains($"{alias}:") || chat.Topic.Contains($"{alias}**:"))
+                    actors.Add(actor);
+        actors.AddRange(chat.Nodes
+            .Select(node => node.Actor)
+            .Where(actor => !actors.Contains(actor)));
 
         chat.Actors = actors
             .Distinct()
@@ -19,12 +22,5 @@ public class ActorGenerator : MonoBehaviour, ISubGenerator.Sync
             .OfType<ActorContext>()
             .ToArray();
         return chat;
-    }
-
-    private static Dictionary<string, Actor> _;
-
-    private Dictionary<string, Actor> GetCharacterNames()
-    {
-        return _ ??= Actor.All.List.ToDictionary(k => k.Name, v => v);
     }
 }

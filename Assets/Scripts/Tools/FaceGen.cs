@@ -23,7 +23,35 @@ public class FaceGen : MonoBehaviour
     void Start()
     {
         //StartCoroutine(TakeScreenshots());
-        StartCoroutine(GenerateCharacterPrompts());
+        //StartCoroutine(GenerateCharacterPrompts());
+        //StartCoroutine(ShortenCharacterPrompts());
+    }
+
+    private IEnumerator ShortenCharacterPrompts()
+    {
+        var listOfActors = selectActors.Length > 0 ? selectActors : actors;
+        foreach (var actor in listOfActors)
+            yield return ShortenCharacterPrompt(actor);
+    }
+
+    private IEnumerator ShortenCharacterPrompt(Actor actor)
+    {
+        var textFile = $"Assets/Resources/Prompts/Countries/{actor.Name}.md";
+        var text = File.ReadAllText(textFile);
+
+        _controller.Context = new ActorContext(actor);
+
+        yield return new WaitForFixedUpdate();
+
+        var prompt = string.Format("Shorten the following personality profile about {0} ({1})," +
+            "keeping it concise, information-dense, and no more than 1 paragraph.\n\n{2}", actor.Name, actor.Pronouns.Trim(), text);
+        var task = ChatClient.CompleteAsync(prompt, true);
+        yield return new WaitUntil(() => task.IsCompleted);
+
+        var shortText = task.Result;
+
+        File.WriteAllText(textFile, shortText);
+        yield return null;
     }
 
     private IEnumerator GenerateCharacterPrompts()

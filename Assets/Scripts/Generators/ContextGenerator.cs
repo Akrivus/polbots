@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -12,18 +11,21 @@ public class ContextGenerator : MonoBehaviour, ISubGenerator
     private TextAsset _prompt1;
 
     [SerializeField]
-    private TextAsset _prompt2;
+    private TextAsset _defaultContext;
 
     [SerializeField]
-    private int _historyCount = 3;
+    private int _contextCount = 4;
 
-    private List<string> _histories = new List<string>();
     private string _context;
+    private List<string> _contexts = new List<string>();
 
     private ChatGenerator ChatGenerator;
 
     private void Awake()
     {
+        _context = _defaultContext.text;
+        _contexts.Add(_context);
+
         ChatGenerator = GetComponent<ChatGenerator>();
         ChatGenerator.ContextGenerator += AddContext;
     }
@@ -37,15 +39,14 @@ public class ContextGenerator : MonoBehaviour, ISubGenerator
 
     public async Task<Chat> Generate(Chat chat)
     {
-        _histories.Add(await ChatClient.CompleteAsync(
+        _contexts.Add(await ChatClient.CompleteAsync(
             _prompt1.Format(chat.Log, _context), true));
 
         var context = string.Empty;
-        for (var i = 0; i < Math.Min(_historyCount, _histories.Count); i++)
-            context += $"{i + 1}. " + _histories[_histories.Count - 1 - i] + "\n";
+        for (var i = 0; i < Math.Min(_contextCount, _contexts.Count); i++)
+            context += $"{i + 1}. " + _contexts[_contexts.Count - 1 - i] + "\n";
 
-        _context = await ChatClient.CompleteAsync(
-            _prompt2.Format(context), true);
+        _context = context;
         
         return chat;
     }

@@ -17,14 +17,21 @@ public class RedditIntegration : MonoBehaviour
     private string[] subreddits;
 
     [SerializeField]
-    private int batchSize = 20;
+    private int batchMax = 20;
 
     [SerializeField]
-    private int debugBatchSize = 0;
+    private int batchLifetimeMax = 2000;
 
-    private int i = 0;
+    [SerializeField]
+    private float batchPeriodInMinutes = 60;
+
+    [Header("Debug")]
+    [SerializeField]
+    private int debugBatchMax = 0;
 
     private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
+    private int i = 0;
+    private int batchLifetime = 0;
 
     private void Awake()
     {
@@ -32,24 +39,38 @@ public class RedditIntegration : MonoBehaviour
         ChatManager.Instance.OnChatQueueEmpty += AddToChatQueue;
 
         if (Application.isEditor)
-            batchSize = debugBatchSize;
+            batchMax = debugBatchMax;
     }
 
     private void AddToChatQueue()
     {
+        if (batchMax == 0 || batchLifetimeMax == 0)
+            return;
+        if (batchLifetime >= batchLifetimeMax)
+            return;
+        
         var ideas = new List<Idea>();
-        i = 0;
+        for (var _ = 0; _ < subreddits.Length; _++)
+        {
+            ideas.AddRange(Fetch(subreddits[i++]));
+            if (ideas.Count >= batchMax)
+                break;
+        }
 
-        if (batchSize > 0)
-            do
-                ideas.AddRange(Fetch(subreddits[i++]));
-            while (ideas.Count < batchSize && i < subreddits.Length);
+        batchLifetime += ideas.Count;
+
         foreach (var idea in ideas)
             ChatGenerator.AddIdeaToQueue(idea);
     }
 
     public Idea[] Fetch(string subreddit)
     {
+        var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddDays(-14));
+        var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
+
+        if (DateTime.Now.Subtract(fetchTime).TotalSeconds < batchPeriodInMinutes)
+            return new Idea[0];
+
         var url = $"https://www.reddit.com/r/{subreddit}.json";
         var client = new WebClient();
 
@@ -59,16 +80,13 @@ public class RedditIntegration : MonoBehaviour
         var data = JObject.Parse(json);
         var tokens = data.SelectTokens("$.data.children[*].data");
 
-        var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddHours(-8));
-        var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
-
         fetchTimes[subreddit] = DateTime.Now;
 
         return tokens
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !Chat.FileExists(post.Value<string>("id")))
             .OrderByDescending(post => post.Value<long>("created_utc"))
-            .Take(batchSize)
+            .Take(batchMax)
             .Select(post => new Idea(
                 post.Value<string>("title"),
                 post.Value<string>("selftext"),
