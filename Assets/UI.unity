@@ -367,8 +367,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 544448211}
-  - component: {fileID: 544448210}
   - component: {fileID: 544448218}
+  - component: {fileID: 544448210}
+  - component: {fileID: 544448221}
   - component: {fileID: 544448220}
   - component: {fileID: 544448216}
   - component: {fileID: 544448217}
@@ -501,6 +502,18 @@ MonoBehaviour:
   ReplayDirectory: polbots
   ReplayRate: 80
   ReplaysPerBatch: 20
+--- !u!114 &544448221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544448209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44d3ce4099b15d044a702a83a8d10ecf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &555989945
 GameObject:
   m_ObjectHideFlags: 0
