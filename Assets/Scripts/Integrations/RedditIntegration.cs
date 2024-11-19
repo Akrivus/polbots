@@ -13,63 +13,58 @@ public class RedditIntegration : MonoBehaviour
     [SerializeField]
     private ChatGenerator ChatGenerator;
 
-    [SerializeField]
-    private string[] subreddits;
-
-    [SerializeField]
-    private int batchMax = 20;
-
-    [SerializeField]
-    private int batchLifetimeMax = 2000;
-
-    [SerializeField]
-    private float batchPeriodInMinutes = 60;
-
-    [Header("Debug")]
-    [SerializeField]
-    private int debugBatchMax = 0;
+    public List<string> Subreddits = new List<string>();
+    public int BatchMax = 20;
+    public int BatchLifetimeMax = 2000;
+    public float BatchPeriodInMinutes = 60;
 
     private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
     private int i = 0;
-    private int batchLifetime = 0;
+    private int batchLifetimeTotal = 0;
+
+    public void Configure(RedditConfigs c)
+    {
+        Subreddits = c.Subreddits;
+        BatchMax = c.BatchMax;
+        BatchLifetimeMax = c.BatchLifetimeMax;
+        BatchPeriodInMinutes = c.BatchPeriodInMinutes;
+
+        ChatManager.Instance.OnChatQueueEmpty += AddToChatQueue;
+    }
 
     private void Awake()
     {
-        subreddits = subreddits.Shuffle().ToArray();
-        ChatManager.Instance.OnChatQueueEmpty += AddToChatQueue;
-
-        if (Application.isEditor)
-            batchMax = debugBatchMax;
+        ConfigManager.Instance.RegisterConfig(typeof(RedditConfigs), "reddit", (config) => Configure((RedditConfigs) config));
     }
 
     private void AddToChatQueue()
     {
-        if (batchMax == 0 || batchLifetimeMax == 0)
+        if (BatchMax == 0 || BatchLifetimeMax == 0)
             return;
-        if (batchLifetime >= batchLifetimeMax)
+        if (batchLifetimeTotal >= BatchLifetimeMax)
             return;
         
         var ideas = new List<Idea>();
-        for (var _ = 0; _ < subreddits.Length; _++)
+        for (var _ = 0; _ < Subreddits.Count; _++)
         {
-            ideas.AddRange(Fetch(subreddits[i++]));
-            if (ideas.Count >= batchMax)
+            ideas.AddRange(Fetch(Subreddits[i++]));
+            if (ideas.Count >= BatchMax)
                 break;
         }
 
-        batchLifetime += ideas.Count;
+        batchLifetimeTotal += ideas.Count;
 
         foreach (var idea in ideas)
             ChatGenerator.AddIdeaToQueue(idea);
     }
 
-    public Idea[] Fetch(string subreddit)
+    public List<Idea> Fetch(string subreddit)
     {
         var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddDays(-14));
         var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
 
-        if (DateTime.Now.Subtract(fetchTime).TotalSeconds < batchPeriodInMinutes)
-            return new Idea[0];
+        if (DateTime.Now.Subtract(fetchTime).TotalSeconds < BatchPeriodInMinutes)
+            return new List<Idea>();
 
         var url = $"https://www.reddit.com/r/{subreddit}.json";
         var client = new WebClient();
@@ -86,13 +81,13 @@ public class RedditIntegration : MonoBehaviour
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !Chat.FileExists(post.Value<string>("id")))
             .OrderByDescending(post => post.Value<long>("created_utc"))
-            .Take(batchMax)
+            .Take(BatchMax)
             .Select(post => new Idea(
                 post.Value<string>("title"),
                 post.Value<string>("selftext"),
                 post.Value<string>("author"),
                 post.Value<string>("subreddit_name_prefixed"),
                 post.Value<string>("id"))
-            ).ToArray();
+            ).ToList();
     }
 }

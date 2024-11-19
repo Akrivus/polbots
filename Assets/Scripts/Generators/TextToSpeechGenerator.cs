@@ -6,9 +6,19 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using System;
 
-public class TextToSpeechGenerator : MonoBehaviour, ISubGenerator
+public class TextToSpeechGenerator : MonoBehaviour, ISubGenerator, IConfigurable<TTSConfigs>
 {
-    public static string GOOGLE_API_KEY => Environment.GetEnvironmentVariable("GOOGLE_API_KEY");
+    public static string GOOGLE_API_KEY;
+
+    public void Configure(TTSConfigs config)
+    {
+        GOOGLE_API_KEY = config.GoogleApiKey;
+    }
+
+    private void Awake()
+    {
+        ConfigManager.Instance.RegisterConfig(typeof(TTSConfigs), "tts", (config) => Configure((TTSConfigs) config));
+    }
 
     public async Task<Chat> Generate(Chat chat)
     {

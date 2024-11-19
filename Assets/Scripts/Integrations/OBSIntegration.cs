@@ -6,39 +6,49 @@ using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine;
 
-public class OBSIntegration : MonoBehaviour
+public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
 {
     [SerializeField]
     private string OBSWebSocketURI = "ws://localhost:4455";
     [SerializeField]
-    private bool isStreaming = false;
+    private bool IsStreaming = false;
     [SerializeField]
-    private bool isRecording = false;
+    private bool IsRecording = false;
     [SerializeField]
-    private bool splitRecording = false;
+    private bool DoSplitRecording = false;
 
     private ClientWebSocket client;
 
     private bool isObsRecording = false;
     private bool isObsStreaming = false;
 
-    private void Start()
+    public void Configure(OBSConfigs c)
     {
-        if (isStreaming)
+        OBSWebSocketURI = c.OBSWebSocketURI;
+        IsStreaming = c.IsStreaming;
+        IsRecording = c.IsRecording;
+        DoSplitRecording = c.DoSplitRecording;
+
+        if (IsStreaming)
             ChatManager.Instance.OnChatQueueTaken += (_) => StartStreaming();
-        if (isRecording)
+        if (IsRecording)
         {
-            if (splitRecording) ChatManager.Instance.OnChatQueueAdded += SplitRecording;
+            if (DoSplitRecording) ChatManager.Instance.OnChatQueueAdded += SplitRecording;
             ChatManager.Instance.OnChatQueueEmpty += StopRecording;
             ChatManager.Instance.OnChatQueueTaken += (_) => StartRecording();
         }
     }
 
+    private void Awake()
+    {
+        ConfigManager.Instance.RegisterConfig(typeof(OBSConfigs), "obs", (config) => Configure((OBSConfigs) config));
+    }
+
     private void OnDestroy()
     {
-        if (isStreaming)
+        if (IsStreaming)
             StopStreaming();
-        if (isRecording)
+        if (IsRecording)
             StopRecording();
     }
 

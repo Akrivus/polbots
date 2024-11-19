@@ -5,13 +5,20 @@ using System.Linq;
 using System.Net;
 using UnityEngine;
 
-public class DiscordIntegration : MonoBehaviour
+public class DiscordIntegration : MonoBehaviour, IConfigurable<DiscordConfigs>
 {
-    private static string WebhookURL => Environment.GetEnvironmentVariable("DISCORD_WEBHOOK_URL");
+    public string WebhookURL;
 
-    private void Start()
+    public void Configure(DiscordConfigs c)
     {
+        WebhookURL = c.WebhookURL;
+
         ChatManager.Instance.OnChatNodeActivated += ReportChatNodeActivation;
+    }
+
+    private void Awake()
+    {
+        ConfigManager.Instance.RegisterConfig(typeof(DiscordConfigs), "discord", (config) => Configure((DiscordConfigs) config));
     }
 
     private void ReportChatNodeActivation(ChatNode node)

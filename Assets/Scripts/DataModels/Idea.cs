@@ -20,6 +20,11 @@ public class Idea
         Slug = NewSlug;
     }
 
+    public Idea(string prompt) : this()
+    {
+        Prompt = prompt;
+    }
+
     public Idea(string title, string text, string author, string source, string slug = null)
     {
         if (!string.IsNullOrEmpty(text))

@@ -368,13 +368,14 @@ GameObject:
   m_Component:
   - component: {fileID: 544448211}
   - component: {fileID: 544448210}
-  - component: {fileID: 544448216}
-  - component: {fileID: 544448215}
-  - component: {fileID: 544448217}
   - component: {fileID: 544448218}
+  - component: {fileID: 544448220}
+  - component: {fileID: 544448216}
+  - component: {fileID: 544448217}
   - component: {fileID: 544448219}
+  - component: {fileID: 544448215}
   m_Layer: 0
-  m_Name: UN Discord Server
+  m_Name: Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -438,14 +439,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ChatGenerator: {fileID: 1028228533}
-  subreddits:
-  - LessCredibleDefence+anime_titties+nato
-  - AskHistorians+philosophy
-  - todayilearned+Showerthoughts
-  batchMax: 5
-  batchLifetimeMax: 5
-  batchPeriodInMinutes: 1
-  debugBatchMax: 0
+  Subreddits: []
+  BatchMax: 20
+  BatchLifetimeMax: 2000
+  BatchPeriodInMinutes: 60
 --- !u!114 &544448217
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -458,6 +455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bbae7b18e4746d41ab2f7cd3817633e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  WebhookURL: 
 --- !u!114 &544448218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -470,8 +468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5295c907cdafbd44bb9d158a7f99b432, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ChatGenerator: {fileID: 1028228533}
-  ideas: []
+  ConfigPath: config.json
 --- !u!114 &544448219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -485,9 +482,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   OBSWebSocketURI: ws://localhost:4455
-  isStreaming: 0
-  isRecording: 1
-  splitRecording: 0
+  IsStreaming: 0
+  IsRecording: 0
+  DoSplitRecording: 0
+--- !u!114 &544448220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544448209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af4623addcb8e048916b00dbb73cf9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ChatGenerator: {fileID: 1028228533}
+  ReplayDirectory: polbots
+  ReplayRate: 80
+  ReplaysPerBatch: 20
 --- !u!1 &555989945
 GameObject:
   m_ObjectHideFlags: 0
@@ -702,7 +715,7 @@ GameObject:
   - component: {fileID: 1028228535}
   - component: {fileID: 1028228536}
   m_Layer: 0
-  m_Name: Office Hours
+  m_Name: Generator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
