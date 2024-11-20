@@ -28,7 +28,11 @@ public class VideoCallUIManager : MonoBehaviour
     private void Start()
     {
         ChatManager.Instance.OnChatQueueAdded += chat => Play(VideoCallSound.Ping);
-        ChatManager.Instance.OnChatNodeActivated += node => UpdateUI();
+    }
+
+    private void Update()
+    {
+        UpdateUI();
     }
 
     private void UpdateUI()

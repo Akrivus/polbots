@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23f83e42aa3458ae",
+        "id": "c8f13761075fdf10",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbcb1f28966696a",
+            "id": "5af026a68ac21c85",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Countries/Afghanistan.png"
-              },
-              "icon": "lucide-image",
-              "title": "Afghanistan"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]

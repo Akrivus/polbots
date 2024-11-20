@@ -8,4 +8,5 @@ public class FolderConfigs : IConfig
     public string ReplayDirectory { get; set; }
     public int ReplayRate { get; set; }
     public int ReplaysPerBatch { get; set; }
+    public bool AutoPlay { get; set; }
 }

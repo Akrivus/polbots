@@ -67,8 +67,8 @@ public class Chat
     public void FinalizeContext()
     {
         AppendContext("### Characters:");
-        foreach (var actor in Actors.Select(a => a.Actor))
-            AppendContext(actor.Prompt.Format(actor.Pronouns));
+        foreach (var actor in Actors)
+            AppendContext(actor.Context);
         Context = Context.Trim();
     }
 

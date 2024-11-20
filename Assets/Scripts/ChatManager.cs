@@ -29,16 +29,10 @@ public class ChatManager : MonoBehaviour
         .ToList();
 
     [SerializeField]
-    private string folderName = "PolBol";
-
-    [SerializeField]
     private GameObject prefab;
 
     private List<ActorController> actors = new List<ActorController>();
     private ConcurrentQueue<Chat> playList = new ConcurrentQueue<Chat>();
-
-    [SerializeField]
-    private bool autoPlay = true;
 
     [SerializeField]
     private string forceEpisodeName;
@@ -46,7 +40,6 @@ public class ChatManager : MonoBehaviour
     private void Awake()
     {
         _instance = this;
-        Chat.FolderName = folderName;
         Cursor.visible = false;
     }
 
@@ -66,8 +59,6 @@ public class ChatManager : MonoBehaviour
     {
         if (!string.IsNullOrEmpty(forceEpisodeName))
             AddToPlayList(await Chat.Load(forceEpisodeName));
-        if (autoPlay)
-            AutoPlayEpisodes();
         if (playList.IsEmpty)
             OnChatQueueEmpty?.Invoke();
         StartCoroutine(UpdatePlayList());
@@ -176,16 +167,5 @@ public class ChatManager : MonoBehaviour
                 .ElementAt(i)
                 .Deactivate();
         actors.RemoveAll(a => outgoing.Contains(a));
-    }
-
-    private async void AutoPlayEpisodes()
-    {
-        var episodes = Chat.GetFiles()
-            .OrderByDescending(File.GetCreationTime)
-            .Select(Path.GetFileNameWithoutExtension)
-            .Select(Chat.Load)
-            .ToList();
-        foreach (var episode in episodes)
-            AddToPlayList(await episode);
     }
 }

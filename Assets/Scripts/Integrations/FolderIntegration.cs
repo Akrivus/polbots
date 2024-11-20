@@ -13,6 +13,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
     public string ReplayDirectory;
     public int ReplayRate = 80;
     public int ReplaysPerBatch = 20;
+    public bool AutoPlay = true;
 
     private List<string> replays = new List<string>();
 
@@ -21,12 +22,15 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         ReplayDirectory = c.ReplayDirectory;
         ReplayRate = c.ReplayRate;
         ReplaysPerBatch = c.ReplaysPerBatch;
+        AutoPlay = c.AutoPlay;
 
         for (var i = 0; i < c.Prompts.Count; i++)
             if (File.Exists(c.Prompts[i]))
                 c.Prompts[i] = File.ReadAllText(c.Prompts[i]);
         foreach (var prompt in c.Prompts)
             ChatGenerator.AddIdeaToQueue(new Idea(prompt));
+        if (AutoPlay)
+            AutoPlayEpisodes();
 
         Chat.FolderName = ReplayDirectory;
         ChatManager.Instance.OnChatQueueEmpty += ReplayEpisode;
@@ -67,5 +71,16 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         replays = replays.TakeLast(ReplayRate - 1).ToList();
         replays.Add(title);
         return await Chat.Load(title);
+    }
+
+    private async void AutoPlayEpisodes()
+    {
+        var tasks = Chat.GetFiles()
+            .OrderByDescending(File.GetCreationTime)
+            .Select(Path.GetFileNameWithoutExtension)
+            .Select(Chat.Load)
+            .ToList();
+        foreach (var task in tasks)
+            ChatManager.Instance.AddToPlayList(await task);
     }
 }

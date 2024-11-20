@@ -151,14 +151,12 @@
             "id": "c2ffeb46b973c5b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Countries/Zimbabwe.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Zimbabwe"
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -347,6 +345,9 @@
   },
   "active": "c2ffeb46b973c5b0",
   "lastOpenFiles": [
+    "Countries/Zimbabwe.md",
+    "Stories/Untitled.md",
+    "Stories",
     "Countries/Zambia.md",
     "Countries/Vatican City.md",
     "Countries/Uruguay.md",
@@ -371,11 +372,8 @@
     "Countries/Hong Kong.md",
     "Countries/Honduras.md",
     "Countries/Hezbollah.md",
-    "Countries/Hamas.md",
-    "Countries/Haiti.md",
     "Default Context.md.meta",
     "Default History.md.meta",
-    "Untitled",
     "Countries/Roman Empire.md.meta",
     "Countries/Dominican Republic.md.meta",
     "Character Generator.md.meta",
