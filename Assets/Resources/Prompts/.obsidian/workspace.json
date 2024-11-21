@@ -4,205 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "65f1c016ce6ec351",
+        "id": "951ba3b8d7d2bc53",
         "type": "tabs",
         "children": [
           {
-            "id": "068fd995b18582a2",
+            "id": "129928973c876c02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Hours/Segment Generation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Segment Generation"
-            }
-          },
-          {
-            "id": "8561b1de5a2f781e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Hours/Segment Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segment Generation"
-            }
-          },
-          {
-            "id": "93d17f159743e8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Hours/Dialogue Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dialogue Generation"
-            }
-          },
-          {
-            "id": "51ec6e2cf5632443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Hours/Segment Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segment Generation"
-            }
-          },
-          {
-            "id": "f76bdccb02b9e0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Hours/Segment Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Segment Generation"
-            }
-          },
-          {
-            "id": "081ae61daeb638e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contexts/Recaps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recaps"
-            }
-          },
-          {
-            "id": "8d2c5a62d1339ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contexts/Bios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bios"
-            }
-          },
-          {
-            "id": "c38d560467a2b874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History Generator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History Generator"
-            }
-          },
-          {
-            "id": "32f5f501e61a833b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History Generator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History Generator"
-            }
-          },
-          {
-            "id": "86b0e8b14489f44f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Generator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character Generator"
-            }
-          },
-          {
-            "id": "c2ffeb46b973c5b0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "bb99c31ab51fd60d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Iran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iran"
-            }
-          },
-          {
-            "id": "4eb956dfea94b2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentiment Generator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sentiment Generator"
-            }
-          },
-          {
-            "id": "0b749a282e6d5ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Item Generator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Item Generator"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,8 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2ffeb46b973c5b0",
+  "active": "129928973c876c02",
   "lastOpenFiles": [
+    "Item Generator.md",
+    "Sentiment Generator.md",
+    "Countries/Iran.md",
+    "Character Generator.md",
+    "Segment Generation.md.meta",
+    "Segment Generation.md",
+    "Dialogue Generation.md.meta",
+    "Dialogue Generation.md",
     "Countries/Zimbabwe.md",
     "Stories/Untitled.md",
     "Stories",
@@ -366,20 +189,12 @@
     "Countries/Kosovo.md",
     "Countries/Kuwait.md",
     "Countries/Kyrgyzstan.md",
-    "Countries/Malawi.md",
-    "Countries/Mali.md",
-    "Countries/Iran.md",
-    "Countries/Hong Kong.md",
-    "Countries/Honduras.md",
-    "Countries/Hezbollah.md",
     "Default Context.md.meta",
     "Default History.md.meta",
     "Countries/Roman Empire.md.meta",
     "Countries/Dominican Republic.md.meta",
     "Character Generator.md.meta",
     "Context Generator.md.meta",
-    "Contexts",
-    "History Generator.md.meta",
-    "Contexts/Recaps.md.meta"
+    "Contexts"
   ]
 }

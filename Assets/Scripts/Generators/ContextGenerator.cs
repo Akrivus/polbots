@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -23,8 +25,7 @@ public class ContextGenerator : MonoBehaviour, ISubGenerator
 
     private void Awake()
     {
-        _context = _defaultContext.text;
-        _contexts.Add(_context);
+        LoadGroundStateContext();
 
         ChatGenerator = GetComponent<ChatGenerator>();
         ChatGenerator.ContextGenerator += AddContext;
@@ -34,6 +35,7 @@ public class ContextGenerator : MonoBehaviour, ISubGenerator
     {
         chat.AppendContext(_context);
         chat.FinalizeContext();
+        SaveGroundStateContext();
         await Task.CompletedTask;
     }
 
@@ -49,5 +51,19 @@ public class ContextGenerator : MonoBehaviour, ISubGenerator
         _context = context;
         
         return chat;
+    }
+
+    private void LoadGroundStateContext()
+    {
+        if (!File.Exists("context.txt"))
+            File.WriteAllText("context.txt", _defaultContext.text);
+        _context = File.ReadAllText("context.txt");
+        _contexts = _context.Split('\n').ToList();
+    }
+
+    private void SaveGroundStateContext()
+    {
+        var context = string.Join("\n", _contexts.TakeLast(_contextCount));
+        File.WriteAllText("context.txt", context);
     }
 }
