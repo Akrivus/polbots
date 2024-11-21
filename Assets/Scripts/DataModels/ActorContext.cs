@@ -44,6 +44,8 @@ public class ActorContext
 
     public void SaveMemories(string memories)
     {
+        if (!Directory.Exists("memories"))
+            Directory.CreateDirectory("memories");
         var path = $"memories/{Actor.Name}.txt";
         File.WriteAllText(path, memories);
     }
