@@ -7,6 +7,6 @@ public class FolderConfigs : IConfig
     public string ReplayDirectory { get; set; }
     public int ReplayRate { get; set; }
     public int ReplaysPerBatch { get; set; }
-    public int MaxReplayAge { get; set; }
+    public int MaxReplayAgeInMinutes { get; set; }
     public bool AutoPlay { get; set; }
 }

@@ -2,9 +2,7 @@
 using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Security.Cryptography;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -13,6 +11,7 @@ public class ChatManager : MonoBehaviour
     public static ChatManager Instance => _instance ?? (_instance = FindObjectOfType<ChatManager>());
     private static ChatManager _instance;
 
+    public event Action BeforeIntermission;
     public event Func<Chat, IEnumerator> OnIntermission;
 
     public event Action<Chat> OnChatQueueAdded;
@@ -37,6 +36,9 @@ public class ChatManager : MonoBehaviour
     [SerializeField]
     private string forceEpisodeName;
 
+    private bool _firstTime = true;
+    private bool _clearingScreen = false;
+
     private void Awake()
     {
         _instance = this;
@@ -55,6 +57,23 @@ public class ChatManager : MonoBehaviour
         OnChatQueueAdded?.Invoke(chat);
     }
 
+    public void ClearChat()
+    {
+        if (_clearingScreen) return;
+        _clearingScreen = true;
+        StartCoroutine(ClearScreen());
+    }
+
+    private IEnumerator ClearScreen()
+    {
+        foreach (var actor in actors)
+        {
+            yield return new WaitForSeconds(UnityEngine.Random.Range(0.5f, 1.5f));
+            yield return actor.Deactivate();
+        }
+        _clearingScreen = false;
+    }
+
     private async Task StartPlayList()
     {
         if (!string.IsNullOrEmpty(forceEpisodeName))
@@ -67,7 +86,8 @@ public class ChatManager : MonoBehaviour
     private IEnumerator UpdatePlayList()
     {
         var chat = default(Chat);
-        yield return new WaitUntilTimer(() => playList.TryDequeue(out chat));
+        yield return new WaitUntilTimer(() => playList.TryDequeue(out chat), _firstTime ? 1 : 120);
+        _firstTime = false;
 
         if (playList.IsEmpty)
             OnChatQueueEmpty?.Invoke();
@@ -101,6 +121,7 @@ public class ChatManager : MonoBehaviour
         foreach (var context in incoming)
             yield return AddActor(context);
 
+        BeforeIntermission?.Invoke();
         yield return OnIntermission?.Invoke(chat);
     }
 
@@ -153,7 +174,7 @@ public class ChatManager : MonoBehaviour
 
     private IEnumerator TryRemoveActors(Chat chat)
     {
-        yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 3f));
+        yield return new WaitForSeconds(UnityEngine.Random.Range(0.5f, 1.5f));
         StartCoroutine(RemoveActors(chat));
     }
 

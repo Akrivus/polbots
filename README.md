@@ -26,16 +26,18 @@ You need this at the executable root path to get started.
 		"ReplayDirectory": "polbots",
 		"ReplayRate": 80,                           // can repeat replay AT LEAST every x times
 		"ReplaysPerBatch": 20,                      // adds x replays at a time
-		"MaxReplayAge": 86400,
+		"MaxReplayAgeInMinutes": 1440,
 		"AutoPlay": false
 	},
 	{
 		"Type": "reddit",
-		"Subreddits": [
+		"SubReddits": [
 			"worldnews+anime_titties+todayilearned",  // remove the r/ prefix
 			"AskHistorians+UnitedNations+geopolitics",// you can join multiple subreddits with '+'
 			"Africa+China+america+australia+europe"   // you can add /new or /hot etc to end
 		],
+		"PostsPerIdea": 6,
+		"MaxPostAgeInHours": 24,
 		"BatchMax": 5,                              // grabs x posts at a time to generate
 		"BatchLifetimeMax": 100,                    // generates x posts in entire lifetime before quitting
 		"BatchPeriodInMinutes": 480                 // generates new batch every x minutes

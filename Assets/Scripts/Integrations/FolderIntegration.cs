@@ -13,7 +13,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
     public string ReplayDirectory;
     public int ReplayRate = 80;
     public int ReplaysPerBatch = 20;
-    public int MaxReplayAge = 86400;
+    public int MaxReplayAgeInMinutes = 1440;
     public bool AutoPlay = true;
 
     private List<string> replays = new List<string>();
@@ -23,19 +23,22 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         ReplayDirectory = c.ReplayDirectory;
         ReplayRate = c.ReplayRate;
         ReplaysPerBatch = c.ReplaysPerBatch;
-        MaxReplayAge = c.MaxReplayAge;
+        MaxReplayAgeInMinutes = c.MaxReplayAgeInMinutes;
         AutoPlay = c.AutoPlay;
+
+        Chat.FolderName = ReplayDirectory;
 
         for (var i = 0; i < c.Prompts.Count; i++)
             if (File.Exists(c.Prompts[i]))
                 c.Prompts[i] = File.ReadAllText(c.Prompts[i]);
         foreach (var prompt in c.Prompts)
             ChatGenerator.AddIdeaToQueue(new Idea(prompt));
+
         if (AutoPlay)
             AutoPlayEpisodes();
+        else
+            ChatManager.Instance.OnChatQueueEmpty += ReplayEpisode;
 
-        Chat.FolderName = ReplayDirectory;
-        ChatManager.Instance.OnChatQueueEmpty += ReplayEpisode;
     }
 
     private void Awake()
@@ -59,7 +62,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
 
         var tasks = Directory.GetFiles(path, "*.json")
             .OrderBy(file => File.GetLastWriteTime(file))
-            .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddMinutes(-MaxReplayAge))
+            .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddMinutes(-MaxReplayAgeInMinutes))
             .Select(Path.GetFileNameWithoutExtension)
             .Where(title => !replays.Contains(title))
             .Shuffle().Take(count).Select(LogThenLoad)
@@ -79,7 +82,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
     private async void AutoPlayEpisodes()
     {
         var tasks = Chat.GetFiles()
-            .OrderByDescending(File.GetCreationTime)
+            .OrderBy(File.GetCreationTime)
             .Select(Path.GetFileNameWithoutExtension)
             .Select(Chat.Load)
             .ToList();

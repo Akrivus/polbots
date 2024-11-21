@@ -3,7 +3,7 @@
 **Task:** For each character involved in the episode, generate concise notes summarizing their thoughts, feelings, and key interactions. The notes should:
 1. Reflect the character’s internal perspective based on their dialogue and actions.
 2. Highlight significant relationships or conflicts from the episode.
-3. Include subtle clues that could contribute to future story arcs.
+3. Include details and theories that could contribute to future story arcs.
 
 Please keep outputs concise and straight to the point.
 

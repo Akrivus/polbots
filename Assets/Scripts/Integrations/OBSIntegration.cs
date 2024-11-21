@@ -16,11 +16,15 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
     private bool IsRecording = false;
     [SerializeField]
     private bool DoSplitRecording = false;
+    [SerializeField]
+    private int EmptyQueueChances = 2;
 
     private ClientWebSocket client;
 
     private bool isObsRecording = false;
     private bool isObsStreaming = false;
+
+    private int emptyQueueChance = 0;
 
     public void Configure(OBSConfigs c)
     {
@@ -30,12 +34,13 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
         DoSplitRecording = c.DoSplitRecording;
 
         if (IsStreaming)
-            ChatManager.Instance.OnChatQueueTaken += (_) => StartStreaming();
+            StartStreaming();
         if (IsRecording)
         {
-            if (DoSplitRecording) ChatManager.Instance.OnChatQueueAdded += SplitRecording;
-            ChatManager.Instance.OnChatQueueEmpty += StopRecording;
-            ChatManager.Instance.OnChatQueueTaken += (_) => StartRecording();
+            if (DoSplitRecording)
+                ChatManager.Instance.OnChatQueueTaken += SplitRecording;
+            ChatManager.Instance.OnChatQueueEmpty += CheckEmptyQueue;
+            ChatManager.Instance.BeforeIntermission += StartRecording;
         }
     }
 
@@ -50,6 +55,17 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
             StopStreaming();
         if (IsRecording)
             StopRecording();
+    }
+
+    private void CheckEmptyQueue()
+    {
+        if (emptyQueueChance >= EmptyQueueChances)
+        {
+            emptyQueueChance = 0;
+            StopRecording();
+        }
+        else
+            emptyQueueChance++;
     }
 
     public void StartRecording()

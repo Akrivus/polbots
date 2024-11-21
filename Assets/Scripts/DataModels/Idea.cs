@@ -37,4 +37,10 @@ public class Idea
             slug = NewSlug;
         Slug = slug;
     }
+
+    public Idea RePrompt(TextAsset prompt)
+    {
+        Prompt = prompt.Format(Prompt);
+        return this;
+    }
 }

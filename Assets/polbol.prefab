@@ -951,6 +951,7 @@ GameObject:
   - component: {fileID: 2016746914565783236}
   - component: {fileID: 1127506450220981423}
   - component: {fileID: 6293517890431838067}
+  - component: {fileID: 8853371867735159145}
   - component: {fileID: 1526427272091179931}
   m_Layer: 0
   m_Name: polbol
@@ -1078,6 +1079,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemRenderer: {fileID: 9169869134941019849}
+--- !u!114 &8853371867735159145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7815675331163640730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c272cf2398d2f5342b885faaa637081d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1526427272091179931
 MonoBehaviour:
   m_ObjectHideFlags: 0

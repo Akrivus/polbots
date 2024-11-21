@@ -438,7 +438,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ChatGenerator: {fileID: 1028228533}
-  Subreddits: []
+  _prompt: {fileID: 4900000, guid: 369ab1758dfe57e478d7297a43319572, type: 3}
+  SubReddits: []
+  PostsPerIdea: 1
+  MaxPostAgeInHours: 24
   BatchMax: 20
   BatchLifetimeMax: 2000
   BatchPeriodInMinutes: 60

@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Character Generator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Generator"
+            }
+          },
+          {
+            "id": "c5b67db7a0b18366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Memory Generator.md",
                 "mode": "source",
                 "source": false
@@ -179,16 +193,19 @@
   },
   "active": "45047661b5e3ce5f",
   "lastOpenFiles": [
-    "Memory Generator.md.meta",
-    "Item Generator.md",
     "Context Generator.md",
-    "Memory Generator.md",
     "Character Generator.md",
+    "Memory Generator.md",
     "Default Context.md",
     "Dialogue Generation.md",
-    "Sentiment Generator.md",
+    "Item Generator.md",
     "Segment Generation.md",
+    "Sentiment Generator.md",
     "Sound Generator.md",
+    "UN Office Hours Prompt.md",
+    "UN Office Hours Prompt.md.meta",
+    "Untitled",
+    "Memory Generator.md.meta",
     "Countries/Iran.md",
     "Segment Generation.md.meta",
     "Dialogue Generation.md.meta",
@@ -207,13 +224,9 @@
     "Countries/Japan.md",
     "Countries/Israel.md",
     "Countries/Panama.md",
-    "Countries/Palestine.md",
     "Default Context.md.meta",
     "Default History.md.meta",
     "Countries/Roman Empire.md.meta",
-    "Countries/Dominican Republic.md.meta",
-    "Character Generator.md.meta",
-    "Context Generator.md.meta",
-    "Contexts"
+    "Countries/Dominican Republic.md.meta"
   ]
 }

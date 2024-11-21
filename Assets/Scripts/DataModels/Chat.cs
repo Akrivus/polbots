@@ -74,7 +74,8 @@ public class Chat
 
     public Chat At(DateTime time)
     {
-        Headline = Headline.At(time);
+        if (Headline != null)
+            Headline = Headline.At(time);
         return this;
     }
 

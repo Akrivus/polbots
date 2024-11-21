@@ -13,7 +13,12 @@ public class RedditIntegration : MonoBehaviour
     [SerializeField]
     private ChatGenerator ChatGenerator;
 
-    public List<string> Subreddits = new List<string>();
+    [SerializeField]
+    private TextAsset _prompt;
+
+    public List<string> SubReddits = new List<string>();
+    public int PostsPerIdea = 1;
+    public float MaxPostAgeInHours = 24;
     public int BatchMax = 20;
     public int BatchLifetimeMax = 2000;
     public float BatchPeriodInMinutes = 60;
@@ -24,8 +29,10 @@ public class RedditIntegration : MonoBehaviour
 
     public void Configure(RedditConfigs c)
     {
-        Subreddits = c.Subreddits;
-        BatchMax = c.BatchMax;
+        SubReddits = c.SubReddits;
+        PostsPerIdea = c.PostsPerIdea;
+        MaxPostAgeInHours = c.MaxPostAgeInHours;
+        BatchMax = c.BatchMax * c.PostsPerIdea;
         BatchLifetimeMax = c.BatchLifetimeMax;
         BatchPeriodInMinutes = c.BatchPeriodInMinutes;
 
@@ -45,11 +52,17 @@ public class RedditIntegration : MonoBehaviour
             return;
         
         var ideas = new List<Idea>();
-        for (var _ = 0; _ < Subreddits.Count; _++)
+        for (var _ = 0; _ < SubReddits.Count; _++)
         {
-            ideas.AddRange(Fetch(Subreddits[i++]));
+            ideas.AddRange(Fetch(SubReddits[i++]));
             if (ideas.Count >= BatchMax)
                 break;
+
+            if (i >= SubReddits.Count)
+            {
+                i = 0;
+                break;
+            }
         }
 
         batchLifetimeTotal += ideas.Count;
@@ -60,7 +73,7 @@ public class RedditIntegration : MonoBehaviour
 
     public List<Idea> Fetch(string subreddit)
     {
-        var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddDays(-14));
+        var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddHours(-MaxPostAgeInHours));
         var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
 
         if (DateTime.Now.Subtract(fetchTime).TotalSeconds < BatchPeriodInMinutes)
@@ -77,17 +90,33 @@ public class RedditIntegration : MonoBehaviour
 
         fetchTimes[subreddit] = DateTime.Now;
 
+        if (PostsPerIdea > 1)
+            return tokens
+                .Where(post => post.Value<long>("created_utc") > cutoff)
+                .Where(post => !Chat.FileExists(post.Value<string>("id")))
+                .OrderByDescending(post => post.Value<long>("created_utc"))
+                .Take(BatchMax)
+                .Select((post, i) => new { post, i })
+                .GroupBy(pair => pair.i / PostsPerIdea)
+                .Select(group => group.Select(pair => pair.post).ToList())
+                .Select(group => new Idea(
+                    string.Join("\n", group.Select(post => post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"))),
+                    string.Join(", ", group.Select(post => post.Value<string>("author"))),
+                    string.Join( "+", group.Select(post => post.Value<string>("subreddit_name"))),
+                    string.Join( "-", group.Select(post => post.Value<string>("id")))).RePrompt(_prompt)
+                ).ToList();
+
         return tokens
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !Chat.FileExists(post.Value<string>("id")))
             .OrderByDescending(post => post.Value<long>("created_utc"))
             .Take(BatchMax)
             .Select(post => new Idea(
-                post.Value<string>("title"),
+                post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"),
                 post.Value<string>("selftext"),
                 post.Value<string>("author"),
-                post.Value<string>("subreddit_name_prefixed"),
-                post.Value<string>("id"))
+                post.Value<string>("subreddit_name"),
+                post.Value<string>("id")).RePrompt(_prompt)
             ).ToList();
     }
 }

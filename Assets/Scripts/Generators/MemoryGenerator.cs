@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System.Linq;
+using System.Threading.Tasks;
 using UnityEngine;
 
 public class MemoryGenerator : MonoBehaviour, ISubGenerator
@@ -9,7 +10,7 @@ public class MemoryGenerator : MonoBehaviour, ISubGenerator
     public async Task<Chat> Generate(Chat chat)
     {
         var output = await ChatClient.CompleteAsync(_prompt.Format(chat.Log, chat.Context), true);
-        var memories = output.Parse(chat.Headline.Names);
+        var memories = output.Parse(chat.Actors.Select(actor => actor.Name).ToArray());
 
         foreach (var actor in chat.Actors)
             actor.SaveMemories(memories[actor.Name]);
