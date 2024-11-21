@@ -55,7 +55,7 @@ public class ChatTreeAgent
     public ChatTreeAgent(ActorContext context, TextAsset prompt)
     {
         _actor = context;
-        _prompt = prompt.Format(context.Actor.Prompt.text, END_TOKEN);
+        _prompt = prompt.Format(context.Context, END_TOKEN);
         _buffer = "";
         _messages = new List<Message>()
         {
