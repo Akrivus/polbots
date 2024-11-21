@@ -74,11 +74,13 @@ public class VideoCallUIController : MonoBehaviour
 
     public void SetVisibility(bool value)
     {
+        IsActive = value;
         _container.enabled = value;
     }
 
     public void SetMuteButton(bool value)
     {
+        IsActive = value;
         _muteButton.enabled = value;
     }
 

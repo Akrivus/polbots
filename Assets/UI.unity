@@ -394,9 +394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2922da5685e70642b68479e84c12b09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  folderName: polbots
   prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  autoPlay: 0
   forceEpisodeName: 
 --- !u!4 &544448211
 Transform:
@@ -502,6 +500,7 @@ MonoBehaviour:
   ReplayDirectory: polbots
   ReplayRate: 80
   ReplaysPerBatch: 20
+  AutoPlay: 1
 --- !u!114 &544448221
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -720,8 +719,8 @@ GameObject:
   - component: {fileID: 1028228533}
   - component: {fileID: 1028228532}
   - component: {fileID: 1028228531}
-  - component: {fileID: 1028228538}
   - component: {fileID: 1028228540}
+  - component: {fileID: 1028228538}
   - component: {fileID: 1028228530}
   - component: {fileID: 1028228537}
   - component: {fileID: 1028228534}

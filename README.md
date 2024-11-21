@@ -25,7 +25,9 @@ You need this at the executable root path to get started.
 		"Prompts": [],
 		"ReplayDirectory": "polbots",
 		"ReplayRate": 80,                           // can repeat replay AT LEAST every x times
-		"ReplaysPerBatch": 20                       // adds x replays at a time
+		"ReplaysPerBatch": 20,                      // adds x replays at a time
+		"MaxReplayAge": 86400,
+		"AutoPlay": false
 	},
 	{
 		"Type": "reddit",

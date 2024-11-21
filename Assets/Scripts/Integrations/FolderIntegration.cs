@@ -13,6 +13,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
     public string ReplayDirectory;
     public int ReplayRate = 80;
     public int ReplaysPerBatch = 20;
+    public int MaxReplayAge = 86400;
     public bool AutoPlay = true;
 
     private List<string> replays = new List<string>();
@@ -22,6 +23,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         ReplayDirectory = c.ReplayDirectory;
         ReplayRate = c.ReplayRate;
         ReplaysPerBatch = c.ReplaysPerBatch;
+        MaxReplayAge = c.MaxReplayAge;
         AutoPlay = c.AutoPlay;
 
         for (var i = 0; i < c.Prompts.Count; i++)
@@ -56,7 +58,8 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         var path = Path.Combine(docs, Chat.FolderName);
 
         var tasks = Directory.GetFiles(path, "*.json")
-            .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddDays(-1))
+            .OrderBy(file => File.GetLastWriteTime(file))
+            .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddMinutes(-MaxReplayAge))
             .Select(Path.GetFileNameWithoutExtension)
             .Where(title => !replays.Contains(title))
             .Shuffle().Take(count).Select(LogThenLoad)

@@ -22,15 +22,11 @@ public class ConfigManager : MonoBehaviour
         _instance = this;
     }
 
-    private void Start()
-    {
-        LoadConfigs();
-    }
-
     public void RegisterConfig(Type cast, string type, Action<object> handler)
     {
         casters[type] = cast;
         handlers[type] = handler;
+        LoadConfigs();
     }
 
     public void LoadConfigs()
@@ -44,6 +40,8 @@ public class ConfigManager : MonoBehaviour
         foreach (var i in j)
         {
             var type = i["Type"].Value<string>();
+            if (!handlers.ContainsKey(type))
+                continue;
             var handler = handlers[type];
             var obj = JsonConvert.DeserializeObject(i.ToString(), casters[type]);
             handler(obj);

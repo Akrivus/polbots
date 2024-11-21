@@ -9,7 +9,7 @@ using UnityEngine;
 
 public class Chat
 {
-    public static string FolderName = "PolBol";
+    public static string FolderName = "";
 
     public string FileName { get; set; }
     public string Context { get; set; }

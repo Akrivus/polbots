@@ -51,6 +51,6 @@ public class Reaction
     public Reaction(Actor actor, Sentiment sentiment)
     {
         Actor = actor;
-        Sentiment = sentiment;
+        Sentiment = sentiment ?? Sentiment.Default;
     }
 }

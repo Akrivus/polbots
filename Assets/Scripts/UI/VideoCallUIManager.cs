@@ -38,9 +38,8 @@ public class VideoCallUIManager : MonoBehaviour
     private void UpdateUI()
     {
         var quota = _controllers.Count - _maxVideoScreens;
-        if (quota > 0)
-            for (var i = _controllers.Count - 1; i >= 0; i--)
-                _controllers[i].gameObject.SetActive(_controllers[i].IsActive || quota-- <= 0);
+        for (var i = _controllers.Count - 1; i >= 0; i--)
+            _controllers[i].gameObject.SetActive(_controllers[i].IsActive || quota-- <= 0);
     }
 
     public VideoCallUIController RegisterUI(ActorController actor, Camera camera)

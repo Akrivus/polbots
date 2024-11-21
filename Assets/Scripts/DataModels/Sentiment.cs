@@ -4,6 +4,7 @@ using UnityEngine;
 public class Sentiment : ScriptableObject
 {
     public static Sentiment[] All => Resources.LoadAll<Sentiment>("Faces");
+    public static Sentiment Default => Resources.Load<Sentiment>("Faces/Neutral");
 
     [Header("Sentiment")]
     public string Name;
