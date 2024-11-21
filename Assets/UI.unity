@@ -500,6 +500,7 @@ MonoBehaviour:
   ReplayDirectory: polbots
   ReplayRate: 80
   ReplaysPerBatch: 20
+  MaxReplayAge: 60
   AutoPlay: 1
 --- !u!114 &544448221
 MonoBehaviour:
@@ -719,8 +720,9 @@ GameObject:
   - component: {fileID: 1028228533}
   - component: {fileID: 1028228532}
   - component: {fileID: 1028228531}
-  - component: {fileID: 1028228540}
   - component: {fileID: 1028228538}
+  - component: {fileID: 1028228540}
+  - component: {fileID: 1028228541}
   - component: {fileID: 1028228530}
   - component: {fileID: 1028228537}
   - component: {fileID: 1028228534}
@@ -862,9 +864,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efc832b11a578cb40823eedfa6c8ef1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prompt1: {fileID: 4900000, guid: c45110184ceef8a4198c2e78c8bae98b, type: 3}
+  _prompt: {fileID: 4900000, guid: c45110184ceef8a4198c2e78c8bae98b, type: 3}
   _defaultContext: {fileID: 4900000, guid: ac6508b0eaeb1f548b16e30c402bc204, type: 3}
-  _contextCount: 4
+  _contextCount: 6
 --- !u!114 &1028228540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -877,6 +879,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4a9153a33ca71c4eadc4c394fa37d14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1028228541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028228528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9eb1809572c90b429b26f94e6712645, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prompt: {fileID: 4900000, guid: ae5158e1b2a31a141b8d3a1330f2f518, type: 3}
 --- !u!1 &1349153190
 GameObject:
   m_ObjectHideFlags: 0

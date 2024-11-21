@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using UnityEngine;
 
 public class ActorGenerator : MonoBehaviour, ISubGenerator.Sync
@@ -9,7 +10,7 @@ public class ActorGenerator : MonoBehaviour, ISubGenerator.Sync
         var actors = new List<Actor>();
         foreach (var actor in Actor.All.List)
             foreach (var alias in actor.Aliases)
-                if (chat.Topic.Contains($"{alias}:") || chat.Topic.Contains($"{alias}**:"))
+                if (Regex.IsMatch(chat.Topic, $@"\b{alias}(?: \(.+\))*(?:\*\*|:)"))
                     actors.Add(actor);
         actors.AddRange(chat.Nodes
             .Select(node => node.Actor)

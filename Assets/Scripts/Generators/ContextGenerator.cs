@@ -7,10 +7,8 @@ using UnityEngine;
 
 public class ContextGenerator : MonoBehaviour, ISubGenerator
 {
-    public string Context => string.Empty;
-
     [SerializeField]
-    private TextAsset _prompt1;
+    private TextAsset _prompt;
 
     [SerializeField]
     private TextAsset _defaultContext;
@@ -42,7 +40,7 @@ public class ContextGenerator : MonoBehaviour, ISubGenerator
     public async Task<Chat> Generate(Chat chat)
     {
         _contexts.Add(await ChatClient.CompleteAsync(
-            _prompt1.Format(chat.Log, _context), true));
+            _prompt.Format(chat.Log, _context), true));
 
         var context = string.Empty;
         for (var i = 0; i < Math.Min(_contextCount, _contexts.Count); i++)
