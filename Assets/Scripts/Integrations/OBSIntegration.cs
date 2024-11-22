@@ -17,6 +17,8 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
     [SerializeField]
     private bool DoSplitRecording = false;
     [SerializeField]
+    private bool OnlyNewEpisodes = true;
+    [SerializeField]
     private int EmptyQueueChances = 2;
 
     private ClientWebSocket client;
@@ -32,12 +34,15 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
         IsStreaming = c.IsStreaming;
         IsRecording = c.IsRecording;
         DoSplitRecording = c.DoSplitRecording;
+        OnlyNewEpisodes = c.OnlyNewEpisodes;
         EmptyQueueChances = c.EmptyQueueChances;
 
         if (IsStreaming)
             StartStreaming();
         if (IsRecording)
         {
+            if (OnlyNewEpisodes)
+                ChatManager.Instance.OnChatQueueTaken += StopOrStartRecording;
             if (DoSplitRecording)
                 ChatManager.Instance.OnChatQueueTaken += SplitRecording;
             ChatManager.Instance.OnChatQueueEmpty += CheckEmptyQueue;
@@ -83,6 +88,14 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
             return;
         isObsRecording = false;
         SendRequestAsync("StopRecord");
+    }
+
+    public void StopOrStartRecording(Chat _)
+    {
+        if (_.NewEpisode)
+            StartRecording();
+        else
+            StopRecording();
     }
 
     public void SplitRecording(Chat _)

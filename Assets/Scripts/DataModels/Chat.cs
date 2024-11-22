@@ -29,10 +29,13 @@ public class Chat
         set => TextureData = value.ToBase64();
     }
 
+
     [JsonIgnore]
     public bool IsLocked => _locked;
 
     private bool _locked;
+
+    public bool NewEpisode = false;
 
     [JsonIgnore]
     public string Log => string.Join("\n", Nodes.Select(n => $"{n.Actor.Name}: {n.Line}"));
@@ -42,6 +45,7 @@ public class Chat
 
     public Chat(Idea idea)
     {
+        NewEpisode = true;
         FileName = idea.Slug;
         Idea = idea;
         Actors = new ActorContext[0];
