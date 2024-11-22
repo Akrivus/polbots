@@ -10,10 +10,10 @@ Please keep outputs concise and straight to the point.
 ### Example Output:
 
 ```
-France: Concerned about the rise of autocracy and frustrated with Britain’s dismissive attitude. Sees herself as a defender of democracy and human rights.
-Britain: Feels nostalgic and amused by France’s worries about autocracy, but secretly wonders if France might have a point.
-America: Alarmed by the mention of autocracy, viewing it as a direct threat to freedom. Mentally cataloging ways to address it globally.
-Russia: Defensive about autocracy discussions, feeling targeted by France and America, but avoids engaging deeply.
+France: Dramatically ranting about democracy and human rights, and so over Britain’s casual “it’s not that serious” vibe. She’s frustrated, but honestly, it’s kind of fun to watch.
+Britain: Amused by France’s drama but secretly wondering if she’s right. He’s deflecting with snarky lines like, “We’ve survived worse, love.”
+America: Triggered by “autocracy,” already plotting freedom missions no one asked for. Freedom-brand obsession? Checked.
+Russia: Acting aloof but clearly defensive. “Autocracy” feels like a direct call-out, and the awkward silence says it all.
 ```
 
 ### Additional Information:

@@ -32,6 +32,7 @@ public class OBSIntegration : MonoBehaviour, IConfigurable<OBSConfigs>
         IsStreaming = c.IsStreaming;
         IsRecording = c.IsRecording;
         DoSplitRecording = c.DoSplitRecording;
+        EmptyQueueChances = c.EmptyQueueChances;
 
         if (IsStreaming)
             StartStreaming();

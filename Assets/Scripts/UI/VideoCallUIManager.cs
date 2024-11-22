@@ -28,7 +28,6 @@ public class VideoCallUIManager : MonoBehaviour
     private void Start()
     {
         ChatManager.Instance.OnChatQueueAdded += chat => Play(VideoCallSound.Ping);
-        ChatManager.Instance.OnChatQueueEmpty += PushEmptyChatToClearUI;
     }
 
     private void Update()
@@ -41,11 +40,6 @@ public class VideoCallUIManager : MonoBehaviour
         var quota = _controllers.Count - _maxVideoScreens;
         for (var i = _controllers.Count - 1; i >= 0; i--)
             _controllers[i].gameObject.SetActive(_controllers[i].IsActive || quota-- <= 0);
-    }
-
-    private void PushEmptyChatToClearUI()
-    {
-        ChatManager.Instance.ClearChat();
     }
 
     public VideoCallUIController RegisterUI(ActorController actor, Camera camera)

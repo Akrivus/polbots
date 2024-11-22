@@ -9,4 +9,5 @@ public class FolderConfigs : IConfig
     public int ReplaysPerBatch { get; set; }
     public int MaxReplayAgeInMinutes { get; set; }
     public bool AutoPlay { get; set; }
+    public bool AutoPlayOnEmpty { get; internal set; }
 }

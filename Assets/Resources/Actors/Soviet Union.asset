@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Soviet Union
   m_EditorClassIdentifier: 
-  Title: Union of Soviet Socialist Republics
+  Title: Union of Soviet Socialist Republics (Ghost)
   Pronouns: "he/him\r"
   Name: Soviet Union
   Aliases:

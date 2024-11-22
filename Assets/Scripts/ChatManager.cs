@@ -37,7 +37,6 @@ public class ChatManager : MonoBehaviour
     private string forceEpisodeName;
 
     private bool _firstTime = true;
-    private bool _clearingScreen = false;
 
     private void Awake()
     {
@@ -57,23 +56,6 @@ public class ChatManager : MonoBehaviour
         OnChatQueueAdded?.Invoke(chat);
     }
 
-    public void ClearChat()
-    {
-        if (_clearingScreen) return;
-        _clearingScreen = true;
-        StartCoroutine(ClearScreen());
-    }
-
-    private IEnumerator ClearScreen()
-    {
-        foreach (var actor in actors)
-        {
-            yield return new WaitForSeconds(UnityEngine.Random.Range(0.5f, 1.5f));
-            yield return actor.Deactivate();
-        }
-        _clearingScreen = false;
-    }
-
     private async Task StartPlayList()
     {
         if (!string.IsNullOrEmpty(forceEpisodeName))
@@ -90,7 +72,10 @@ public class ChatManager : MonoBehaviour
         _firstTime = false;
 
         if (playList.IsEmpty)
+        {
             OnChatQueueEmpty?.Invoke();
+            yield return RemoveAllActors();
+        }
 
         if (chat != null)
             yield return Play(chat);
@@ -188,5 +173,16 @@ public class ChatManager : MonoBehaviour
                 .ElementAt(i)
                 .Deactivate();
         actors.RemoveAll(a => outgoing.Contains(a));
+    }
+
+    private IEnumerator RemoveAllActors()
+    {
+        for (var i = 0; i < actors.Count; i++)
+        {
+            var actor = actors[i];
+            yield return new WaitForSeconds(UnityEngine.Random.Range(0.5f, 1.5f));
+            yield return actor.Deactivate();
+            actors.Remove(actor);
+        }
     }
 }

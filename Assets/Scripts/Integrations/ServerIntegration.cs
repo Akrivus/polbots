@@ -2,8 +2,10 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -27,7 +29,7 @@ public class ServerIntegration : MonoBehaviour
     private Thread thread;
 
     [SerializeField]
-    private ChatGenerator generator;
+    private ChatGenerator Generator;
 
     public bool IsRunning { get; private set; } = true;
 
@@ -37,16 +39,14 @@ public class ServerIntegration : MonoBehaviour
             Debug.LogWarning("Multiple ServerIntegrations found, this is not good.");
         _instance = this;
 
-        AddApiRoute("GET", $"/headlines", async () => await Task.Run(() => ChatManager.Instance.PlayList
-            .Select(chat => chat.Headline)
-            .ToArray()));
-        AddApiRoute<Idea, string>("POST", $"/generate", generator.HandleRequest);
+        AddRoute("POST", $"/generate", (_) => ProcessBodyString(_, s => Generator.AddPromptToQueue(s)));
+        AddRoute("GET", "/", (_) => ProcessFileRequest(_, "index.html"));
     }
 
     private void Start()
     {
         listener = new HttpListener();
-        listener.Prefixes.Add("http://localhost:8080/");
+        listener.Prefixes.Add($"http://{GetLocalIPAddress()}:8080/");
         thread = new Thread(Listen);
         thread.Start();
     }
@@ -69,6 +69,7 @@ public class ServerIntegration : MonoBehaviour
     {
         var request = context.Request;
         var response = context.Response;
+        response.KeepAlive = false;
         response.StatusCode = 200;
 
         var method = request.HttpMethod;
@@ -92,6 +93,28 @@ public class ServerIntegration : MonoBehaviour
             response.StatusCode = 500;
         }
         response.Close();
+    }
+
+    private void ProcessFileRequest(HttpListenerContext context, string path)
+    {
+        var file = Path.Combine(Application.streamingAssetsPath, path);
+        var text = File.ReadAllText(file);
+
+        context.Response.WriteString(text, "text/html");
+    }
+
+    private void ProcessBodyString(HttpListenerContext context, Action<string> handler)
+    {
+        var req = context.Request;
+        var res = context.Response;
+        var body = new byte[req.ContentLength64];
+
+        req.InputStream.Read(body, 0, body.Length);
+
+        var text = Encoding.UTF8.GetString(body);
+
+        handler(text);
+        res.WriteString("OK", "application/text");
     }
 
     public static void Register(string method, string path, Action<HttpListenerContext> handler)
@@ -147,7 +170,6 @@ public class ServerIntegration : MonoBehaviour
     {
         await Route(context, async text =>
         {
-            Debug.Log(text);
             var input = JsonConvert.DeserializeObject<I>(text);
             var output = await route(input);
             return JsonConvert.SerializeObject(output);
@@ -172,5 +194,14 @@ public class ServerIntegration : MonoBehaviour
             .Select(param => param.Split('='))
             .ToDictionary(pair => pair[0], pair => pair[1]);
         route(dict, context.Response);
+    }
+
+    public static string GetLocalIPAddress()
+    {
+        var host = Dns.GetHostEntry(Dns.GetHostName());
+        foreach (var ip in host.AddressList)
+            if (ip.AddressFamily == AddressFamily.InterNetwork)
+                return ip.ToString();
+        throw new Exception("No network adapters with an IPv4 address in the system!");
     }
 }

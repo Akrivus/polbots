@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Roman Empire
   m_EditorClassIdentifier: 
-  Title: Imperium Romanum
-  Pronouns: 
+  Title: Senatus Populusque Romanus (Ghost)
+  Pronouns: he/him
   Name: Roman Empire
   Aliases:
   - Imperium Romanum
   - Roman Empire
   - Rome
+  - SPQR
   Voice: it-IT-Standard-D
   Prompt: {fileID: 0}
   SpeakingRate: 0

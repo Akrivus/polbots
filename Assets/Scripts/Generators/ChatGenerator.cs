@@ -54,6 +54,11 @@ public class ChatGenerator : MonoBehaviour
         queue.Enqueue(idea);
     }
 
+    public void AddPromptToQueue(string prompt)
+    {
+        AddIdeaToQueue(new Idea(prompt));
+    }
+
     public async Task<Chat> Generate(Idea idea)
     {
         var options = string.Join(", ", GetCharacterNames());

@@ -15,6 +15,7 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
     public int ReplaysPerBatch = 20;
     public int MaxReplayAgeInMinutes = 1440;
     public bool AutoPlay = true;
+    public bool AutoPlayOnEmpty = true;
 
     private List<string> replays = new List<string>();
 
@@ -25,6 +26,9 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         ReplaysPerBatch = c.ReplaysPerBatch;
         MaxReplayAgeInMinutes = c.MaxReplayAgeInMinutes;
         AutoPlay = c.AutoPlay;
+        AutoPlayOnEmpty = c.AutoPlayOnEmpty;
+
+        replays = LoadReplays();
 
         Chat.FolderName = ReplayDirectory;
 
@@ -34,16 +38,21 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         foreach (var prompt in c.Prompts)
             ChatGenerator.AddIdeaToQueue(new Idea(prompt));
 
-        if (AutoPlay)
-            AutoPlayEpisodes();
-        else
+        if (AutoPlayOnEmpty)
             ChatManager.Instance.OnChatQueueEmpty += ReplayEpisode;
+        if (AutoPlay)
+            ReplayEpisode();
 
     }
 
     private void Awake()
     {
         ConfigManager.Instance.RegisterConfig(typeof(FolderConfigs), "folder", (config) => Configure((FolderConfigs) config));
+    }
+
+    private void OnDestroy()
+    {
+        File.WriteAllLines("replays.txt", replays);
     }
 
     private async void ReplayEpisode()
@@ -61,11 +70,11 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         var path = Path.Combine(docs, Chat.FolderName);
 
         var tasks = Directory.GetFiles(path, "*.json")
-            .OrderBy(file => File.GetLastWriteTime(file))
             .Where(file => File.GetLastWriteTime(file) > DateTime.Now.AddMinutes(-MaxReplayAgeInMinutes))
+            .OrderBy(file => File.GetLastWriteTime(file))
             .Select(Path.GetFileNameWithoutExtension)
             .Where(title => !replays.Contains(title))
-            .Shuffle().Take(count).Select(LogThenLoad)
+            .Take(count).Select(LogThenLoad)
             .ToList();
 
         foreach (var task in tasks)
@@ -79,14 +88,11 @@ public class FolderIntegration : MonoBehaviour, IConfigurable<FolderConfigs>
         return await Chat.Load(title);
     }
 
-    private async void AutoPlayEpisodes()
+    private List<string> LoadReplays()
     {
-        var tasks = Chat.GetFiles()
-            .OrderBy(File.GetCreationTime)
-            .Select(Path.GetFileNameWithoutExtension)
-            .Select(Chat.Load)
+        if (!File.Exists("replays.txt"))
+            return new List<string>();
+        return File.ReadAllLines("replays.txt")
             .ToList();
-        foreach (var task in tasks)
-            ChatManager.Instance.AddToPlayList(await task);
     }
 }

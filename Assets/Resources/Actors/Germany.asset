@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Germany
   m_EditorClassIdentifier: 
-  Title: Germany
+  Title: Federal Republic of Germany
   Pronouns: "she/her\r"
   Name: Germany
   Aliases:
   - Germany
+  - West Germany
+  - Germany (West)
   Voice: de-DE-Standard-A
   Prompt: {fileID: 4900000, guid: 7e3b51aac87629946af6292719c75062, type: 3}
   SpeakingRate: 0
