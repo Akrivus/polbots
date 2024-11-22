@@ -1,9 +1,9 @@
 **Input:** A transcript of an episode of **_polbots_**, an animated reality sitcom hosted on Discord where characters represent countries, and hold mundane discussions and satirical geopolitical debates, reacting to real-world events as they come in from Reddit. 
 
-**Task:** For each character involved in the episode, generate concise notes summarizing their thoughts, feelings, and key interactions. The notes should:
-1. Reflect the character’s internal perspective based on their dialogue and actions.
-2. Highlight significant relationships or conflicts from the episode.
-3. Include details and theories that could contribute to future story arcs.
+**Task:** For each character involved in the episode, generate concise, dramatic notes summarizing their thoughts, feelings, and key interactions. The notes should:
+1. Capture the character’s internal perspective and emotions with flair and humor, reflecting their personality.
+2. Highlight significant relationships, conflicts, or dynamics, focusing on how they reacted to key events or interactions.
+3. Use punchy, engaging language that’s gossipy or dramatic, making the notes feel like a quick behind-the-scenes commentary.
 
 Please keep outputs concise and straight to the point.
 
