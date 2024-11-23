@@ -14,13 +14,11 @@ public class Chat
     public string FileName { get; set; }
     public string Context { get; set; }
     public string Topic { get; set; }
-
+    public string TextureData { get; set; }
     public ActorContext[] Actors { get; set; }
     public List<ChatNode> Nodes { get; set; }
     public Idea Idea { get; set; }
     public Headline Headline { get; set; }
-
-    public string TextureData { get; set; }
 
     [JsonIgnore]
     public Texture2D Texture
@@ -35,7 +33,10 @@ public class Chat
 
     private bool _locked;
 
-    public bool NewEpisode = false;
+    [JsonIgnore]
+    public bool NewEpisode => _new;
+
+    private bool _new;
 
     [JsonIgnore]
     public string Log => string.Join("\n", Nodes.Select(n => $"{n.Actor.Name}: {n.Line}"));
@@ -45,7 +46,7 @@ public class Chat
 
     public Chat(Idea idea)
     {
-        NewEpisode = true;
+        _new = true;
         FileName = idea.Slug;
         Idea = idea;
         Actors = new ActorContext[0];

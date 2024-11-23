@@ -23,7 +23,11 @@ public class RedditIntegration : MonoBehaviour
     public int BatchLifetimeMax = 2000;
     public float BatchPeriodInMinutes = 60;
 
+    public bool Forced = true;
+
     private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
+    private DateTime lastBatchTime = DateTime.Now;
+
     private int i = 0;
     private int batchLifetimeTotal = 0;
 
@@ -44,11 +48,19 @@ public class RedditIntegration : MonoBehaviour
         ConfigManager.Instance.RegisterConfig(typeof(RedditConfigs), "reddit", (config) => Configure((RedditConfigs) config));
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+            Forced = true;
+    }
+
     private void AddToChatQueue()
     {
         if (BatchMax == 0 || BatchLifetimeMax == 0)
             return;
-        if (batchLifetimeTotal >= BatchLifetimeMax)
+        if (batchLifetimeTotal >= BatchLifetimeMax && !Forced)
+            return;
+        if (DateTime.Now.Subtract(lastBatchTime).TotalMinutes < BatchPeriodInMinutes && !Forced)
             return;
         
         var ideas = new List<Idea>();
@@ -65,19 +77,18 @@ public class RedditIntegration : MonoBehaviour
             }
         }
 
+        lastBatchTime = DateTime.Now;
         batchLifetimeTotal += ideas.Count;
 
         foreach (var idea in ideas)
             ChatGenerator.AddIdeaToQueue(idea);
+        Forced = false;
     }
 
     public List<Idea> Fetch(string subreddit)
     {
         var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddHours(-MaxPostAgeInHours));
         var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
-
-        if (DateTime.Now.Subtract(fetchTime).TotalSeconds < BatchPeriodInMinutes)
-            return new List<Idea>();
 
         var url = $"https://www.reddit.com/r/{subreddit}.json";
         var client = new WebClient();

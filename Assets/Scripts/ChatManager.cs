@@ -99,8 +99,6 @@ public class ChatManager : MonoBehaviour
         yield return TryRemoveActors(chat);
 
         NowPlaying = chat;
-        SubtitlesUIManager.Instance.SetChatTitle(chat);
-        SubtitlesUIManager.Instance.ClearSubtitle();
 
         var incoming = chat.Actors.Where(a => !actors.Select(ac => ac.Actor).Contains(a.Actor));
         foreach (var context in incoming)

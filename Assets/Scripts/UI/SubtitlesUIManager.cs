@@ -11,6 +11,9 @@ public class SubtitlesUIManager : MonoBehaviour
     private TextMeshProUGUI _title;
 
     [SerializeField]
+    private TextMeshProUGUI _spot;
+
+    [SerializeField]
     private TextMeshProUGUI _subtitle;
 
     [SerializeField]
@@ -21,9 +24,29 @@ public class SubtitlesUIManager : MonoBehaviour
         _instance = this;
     }
 
+    private void Start()
+    {
+        ChatManager.Instance.OnChatQueueTaken += OnQueueTaken;
+        ChatManager.Instance.OnChatNodeActivated += OnNodeActivated;
+    }
+
+    private void OnQueueTaken(Chat chat)
+    {
+        _spot.enabled = chat.NewEpisode;
+        ClearSubtitle();
+        SetChatTitle(chat);
+    }
+
+    public void OnNodeActivated(ChatNode node)
+    {
+        SetSubtitle(node.Actor.Title, node.Text, node.Actor.Color
+            .Lighten()
+            .Lighten());
+    }
+
     public void SetSubtitle(string name, string text, Color color)
     {
-        var content = $"<b><u>{name}</u></b><size=75%>\n{text.Scrub()}";
+        var content = $"<b><u>{name}</u></b>\n{text.Scrub()}";
         _subtitle.text = content;
         _subtitle.color = color;
         _shadow.text = "<mark=#000000aa>" + content;
@@ -46,12 +69,5 @@ public class SubtitlesUIManager : MonoBehaviour
         if (prompt.Length > 160)
             prompt = prompt.Substring(0, 160) + "...";
         _title.text = $"<u><b>{chat.Idea.Source}</b></u> • {prompt}";
-    }
-
-    public void OnNodeActivated(ChatNode node)
-    {
-        SetSubtitle(node.Actor.Title, node.Text, node.Actor.Color
-            .Lighten()
-            .Lighten());
     }
 }
