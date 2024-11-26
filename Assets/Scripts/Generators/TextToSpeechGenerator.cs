@@ -5,14 +5,23 @@ using UnityEngine;
 using System.Threading.Tasks;
 using System.Net.Http;
 using System;
+using OpenAI.Audio;
+using OpenAI;
 
 public class TextToSpeechGenerator : MonoBehaviour, ISubGenerator, IConfigurable<TTSConfigs>
 {
-    public static string GOOGLE_API_KEY;
+    private string _googleApiKey;
+    private string _openAiApiKey;
+
+    private OpenAIClient _api;
 
     public void Configure(TTSConfigs config)
     {
-        GOOGLE_API_KEY = config.GoogleApiKey;
+        _googleApiKey = config.GoogleApiKey;
+        _openAiApiKey = config.OpenAiApiKey;
+
+        if (!string.IsNullOrEmpty(_openAiApiKey))
+            _api = new OpenAIClient(new OpenAIAuthentication(_openAiApiKey));
     }
 
     private void Awake()
@@ -29,7 +38,15 @@ public class TextToSpeechGenerator : MonoBehaviour, ISubGenerator, IConfigurable
 
     private async Task GenerateTextToSpeech(ChatNode node, int delay = 1)
     {
-        var url = $"https://texttospeech.googleapis.com/v1/text:synthesize?key={GOOGLE_API_KEY}";
+        if (Enum.TryParse<SpeechVoice>(node.Actor.Voice, out var voice))
+            await GenerateWithOpenAI(node, voice);
+        else
+            await GenerateWithGoogle(node, delay);
+    }
+
+    private async Task GenerateWithGoogle(ChatNode node, int delay = 1)
+    {
+        var url = $"https://texttospeech.googleapis.com/v1/text:synthesize?key={_googleApiKey}";
         var json = JsonConvert.SerializeObject(new Request(node.Text, node.Actor.Voice));
 
         var client = new HttpClient();
@@ -43,6 +60,13 @@ public class TextToSpeechGenerator : MonoBehaviour, ISubGenerator, IConfigurable
         var text = await response.Content.ReadAsStringAsync();
         var output = JsonConvert.DeserializeObject<Output>(text);
         node.AudioData = output.AudioData;
+    }
+
+    private async Task GenerateWithOpenAI(ChatNode node, SpeechVoice voice)
+    {
+        var response = await _api.AudioEndpoint.CreateSpeechAsync(new SpeechRequest(node.Text, voice: voice));
+        var audio = response.Item2;
+        node.AudioClip = audio;
     }
 }
 

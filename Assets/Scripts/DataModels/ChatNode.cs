@@ -16,7 +16,13 @@ public class ChatNode
     public string AudioData { get; set; }
 
     [JsonIgnore]
-    public AudioClip AudioClip => AudioData.ToAudioClip();
+    public AudioClip AudioClip
+    {
+        get => AudioData.ToAudioClip();
+        set => AudioData = value
+            .ReSample()
+            .ToBase64();
+    }
 
     public ChatNode()
     {

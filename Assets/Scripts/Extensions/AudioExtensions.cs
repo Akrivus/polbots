@@ -30,4 +30,35 @@ public static class AudioExtensions
 
         return clip;
     }
+
+    public static AudioClip ReSample(this AudioClip clip, int frequency = 48000)
+    {
+        var samples = new float[clip.samples * clip.channels];
+        clip.GetData(samples, 0);
+
+        var resamples = new float[samples.Length / (clip.frequency / frequency)];
+        var stepSize = samples.Length / resamples.Length;
+        for (int i = 0; i < resamples.Length; i++)
+            resamples[i] = samples[i * stepSize];
+
+        var reclip = AudioClip.Create(clip.name, resamples.Length, 1, frequency, false);
+        reclip.SetData(resamples, 0);
+        return reclip;
+    }
+
+    public static string ToBase64(this AudioClip clip)
+    {
+        var samples = new float[clip.samples * clip.channels];
+        clip.GetData(samples, 0);
+
+        var bytes = new byte[samples.Length * 2];
+        for (int i = 0; i < samples.Length; i++)
+        {
+            var value = (short)(samples[i] * 32768f);
+            bytes[i * 2] = (byte)value;
+            bytes[i * 2 + 1] = (byte)(value >> 8);
+        }
+
+        return Convert.ToBase64String(bytes);
+    }
 }

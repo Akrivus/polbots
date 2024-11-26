@@ -1208,7 +1208,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _title: {fileID: 1349153192}
-  _spot: {fileID: 0}
+  _spot: {fileID: 2063870260}
   _subtitle: {fileID: 724395196}
   _shadow: {fileID: 2065780937}
 --- !u!82 &1393723633
