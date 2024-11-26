@@ -25,6 +25,7 @@ public class RedditIntegration : MonoBehaviour
 
     public bool Forced = true;
 
+    private List<string> history = new List<string>();
     private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
     private DateTime lastBatchTime = DateTime.Now;
 
@@ -40,6 +41,8 @@ public class RedditIntegration : MonoBehaviour
         BatchLifetimeMax = c.BatchLifetimeMax;
         BatchPeriodInMinutes = c.BatchPeriodInMinutes;
 
+        history = LoadHistory();
+
         ChatManager.Instance.OnChatQueueEmpty += AddToChatQueue;
     }
 
@@ -52,6 +55,18 @@ public class RedditIntegration : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
             Forced = true;
+    }
+
+    private void OnDestroy()
+    {
+        File.WriteAllLines("history.txt", history);
+    }
+
+    private List<string> LoadHistory()
+    {
+        if (!File.Exists("history.txt"))
+            return new List<string>();
+        return File.ReadAllLines("history.txt").ToList();
     }
 
     private void AddToChatQueue()
@@ -97,37 +112,26 @@ public class RedditIntegration : MonoBehaviour
 
         var json = client.DownloadString(url);
         var data = JObject.Parse(json);
-        var tokens = data.SelectTokens("$.data.children[*].data");
 
         fetchTimes[subreddit] = DateTime.Now;
 
-        if (PostsPerIdea > 1)
-            return tokens
-                .Where(post => post.Value<long>("created_utc") > cutoff)
-                .Where(post => !Chat.FileExists(post.Value<string>("id")))
-                .OrderByDescending(post => post.Value<long>("created_utc"))
-                .Take(BatchMax)
-                .Select((post, i) => new { post, i })
-                .GroupBy(pair => pair.i / PostsPerIdea)
-                .Select(group => group.Select(pair => pair.post).ToList())
-                .Select(group => new Idea(
-                    string.Join("\n", group.Select(post => post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"))),
-                    string.Join(", ", group.Select(post => post.Value<string>("author"))),
-                    string.Join( "+", group.Select(post => post.Value<string>("subreddit_name"))),
-                    string.Join( "-", group.Select(post => post.Value<string>("id")))).RePrompt(_prompt)
-                ).ToList();
-
-        return tokens
+        return data.SelectTokens("$.data.children[*].data")
             .Where(post => post.Value<long>("created_utc") > cutoff)
-            .Where(post => !Chat.FileExists(post.Value<string>("id")))
+            .Where(post => !history.Contains(post.Value<string>("id")))
             .OrderByDescending(post => post.Value<long>("created_utc"))
             .Take(BatchMax)
-            .Select(post => new Idea(
-                post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"),
-                post.Value<string>("selftext"),
-                post.Value<string>("author"),
-                post.Value<string>("subreddit_name"),
-                post.Value<string>("id")).RePrompt(_prompt)
+            .Select(post => {
+                history.Add(post.Value<string>("id"));
+                return post;
+            })
+            .Select((post, i) => new { post, i })
+            .GroupBy(pair => pair.i / PostsPerIdea)
+            .Select(group => group.Select(pair => pair.post).ToList())
+            .Select(group => new Idea(
+                string.Join("\n", group.Select(post => post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"))),
+                string.Join(", ", group.Select(post => post.Value<string>("author"))),
+                "r/" + string.Join("+", group.Select(post => post.Value<string>("subreddit_name"))),
+                string.Join("-", group.Select(post => post.Value<string>("id")))).RePrompt(_prompt)
             ).ToList();
     }
 }
