@@ -18,7 +18,6 @@ public class Chat
     public ActorContext[] Actors { get; set; }
     public List<ChatNode> Nodes { get; set; }
     public Idea Idea { get; set; }
-    public Headline Headline { get; set; }
 
     [JsonIgnore]
     public Texture2D Texture
@@ -40,6 +39,9 @@ public class Chat
 
     [JsonIgnore]
     public string Log => string.Join("\n", Nodes.Select(n => $"{n.Actor.Name}: {n.Line}"));
+
+    [JsonIgnore]
+    public string[] Names => Actors.Select(a => a.Name).ToArray();
 
     [JsonIgnore]
     public List<Message> Messages { get; set; }
@@ -75,13 +77,6 @@ public class Chat
         foreach (var actor in Actors)
             AppendContext(actor.Context);
         Context = Context.Trim();
-    }
-
-    public Chat At(DateTime time)
-    {
-        if (Headline != null)
-            Headline = Headline.At(time);
-        return this;
     }
 
     public async void Save()

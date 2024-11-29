@@ -23,8 +23,8 @@ public class ItemGenerator : MonoBehaviour, ISubGenerator
 
     public async Task<Chat> Generate(Chat chat)
     {
-        var names = chat.Headline.Names;
-        var topic = chat.Headline.Topic;
+        var names = chat.Names;
+        var topic = chat.Topic;
 
         context = "";
         foreach (var node in chat.Nodes)

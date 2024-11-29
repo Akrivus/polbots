@@ -75,7 +75,6 @@ public class ChatGenerator : MonoBehaviour
         if (OnGeneration != null)
             await OnGeneration(chat);
 
-        chat.At(DateTime.Now);
         chat.Lock();
         chat.Save();
         return chat;

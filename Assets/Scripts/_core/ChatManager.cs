@@ -52,7 +52,7 @@ public class ChatManager : MonoBehaviour
 
     public void AddToPlayList(Chat chat)
     {
-        playList.Enqueue(chat.At(DateTime.Now));
+        playList.Enqueue(chat);
         OnChatQueueAdded?.Invoke(chat);
     }
 
