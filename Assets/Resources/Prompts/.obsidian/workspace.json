@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Context Generator.md",
+                "file": "Segment Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context Generator"
+              "title": "Segment Generation"
             }
           },
           {
@@ -194,6 +194,7 @@
   "active": "45047661b5e3ce5f",
   "lastOpenFiles": [
     "Sentiment Generator.md",
+    "Context Generator.md",
     "Segment Generation.md",
     "Sound Generator.md",
     "UN Office Hours Prompt.md",
@@ -201,7 +202,6 @@
     "Item Generator.md",
     "Dialogue Generation.md",
     "Default Context.md",
-    "Context Generator.md",
     "Character Generator.md",
     "Countries/Somaliland.md",
     "Countries/Taliban.md",

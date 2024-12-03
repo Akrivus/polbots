@@ -59,14 +59,14 @@ public class RedditIntegration : MonoBehaviour
 
     private void OnDestroy()
     {
-        File.WriteAllLines("history.txt", history);
+        File.WriteAllLines("reddit.txt", history);
     }
 
     private List<string> LoadHistory()
     {
-        if (!File.Exists("history.txt"))
+        if (!File.Exists("reddit.txt"))
             return new List<string>();
-        return File.ReadAllLines("history.txt").ToList();
+        return File.ReadAllLines("reddit.txt").ToList();
     }
 
     private void AddToChatQueue()

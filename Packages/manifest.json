@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.hecomi.ulipsync": "https://github.com/hecomi/uLipSync.git#upm",
-    "com.openai.unity": "8.1.1",
+    "com.openai.unity": "8.4.4",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.cinemachine": "2.10.1",
     "com.unity.collab-proxy": "2.4.4",
