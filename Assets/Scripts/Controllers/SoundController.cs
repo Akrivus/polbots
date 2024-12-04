@@ -9,6 +9,7 @@ public class SoundController : AutoActor, ISubChats, ISubNode
 
     private void PlaySoundGroup()
     {
+        if (soundGroup == null) return;
         if (soundGroup.Sounds.Length == 0)
             source.clip = null;
         else

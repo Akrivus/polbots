@@ -19,6 +19,7 @@ MonoBehaviour:
   - Lesotho
   Voice: en-GB-Standard-D
   Prompt: {fileID: 4900000, guid: 6ab03508d564d2a47ab07888cbd8283d, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.24218693, g: 0.5086666, b: 0.52756035, a: 1}

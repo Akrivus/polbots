@@ -19,6 +19,7 @@ MonoBehaviour:
   - Chile
   Voice: es-ES-Standard-C
   Prompt: {fileID: 4900000, guid: dda5d4c5ebfea6c479e931df9ba4fa96, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.7127246, g: 0.4223361, b: 0.46670508, a: 1}

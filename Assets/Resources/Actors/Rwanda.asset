@@ -19,6 +19,7 @@ MonoBehaviour:
   - Rwanda
   Voice: fr-FR-Standard-B
   Prompt: {fileID: 4900000, guid: b5dcfa1f6bb3eec42be84f8f7c64cdd4, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.23240569, g: 0.5690208, b: 0.46803164, a: 1}

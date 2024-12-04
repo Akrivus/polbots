@@ -19,6 +19,7 @@ MonoBehaviour:
   - Croatia
   Voice: sr-RS-Standard-A
   Prompt: {fileID: 4900000, guid: 71b3109a400c1fb4b92410fe03537d2f, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.54980856, g: 0.31834155, b: 0.48207846, a: 1}

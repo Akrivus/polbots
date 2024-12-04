@@ -19,6 +19,7 @@ MonoBehaviour:
   - Kyrgyzstan
   Voice: ru-RU-Standard-B
   Prompt: {fileID: 4900000, guid: 2abaca31360330840a0180185c85ba20, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8805309, g: 0.14224531, b: 0.18045782, a: 1}

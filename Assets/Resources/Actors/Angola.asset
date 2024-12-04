@@ -19,6 +19,7 @@ MonoBehaviour:
   - Angola
   Voice: pt-PT-Standard-C
   Prompt: {fileID: 4900000, guid: 512a09e4f493e50438bf6c58400ed491, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.45202067, g: 0.12038719, b: 0.10820413, a: 1}

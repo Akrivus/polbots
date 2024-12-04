@@ -20,6 +20,7 @@ MonoBehaviour:
   - Czech Republic
   Voice: de-DE-Standard-D
   Prompt: {fileID: 4900000, guid: 3fa8e8e30f395c243acd7954a0bb0590, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.70193267, g: 0.44382057, b: 0.49313226, a: 1}

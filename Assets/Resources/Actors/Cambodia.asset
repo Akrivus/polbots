@@ -19,6 +19,7 @@ MonoBehaviour:
   - Cambodia
   Voice: vi-VN-Standard-B
   Prompt: {fileID: 4900000, guid: 7aac910e3b007e74d8dba8b96d90adfb, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.3780841, g: 0.23266077, b: 0.4898151, a: 1}

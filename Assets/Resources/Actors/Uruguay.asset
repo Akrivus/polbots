@@ -19,6 +19,7 @@ MonoBehaviour:
   - Uruguay
   Voice: pt-BR-Standard-B
   Prompt: {fileID: 4900000, guid: e2c39df200dce5241a11c73f7a951fdb, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.37717068, g: 0.48277742, b: 0.7005646, a: 1}

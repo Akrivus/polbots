@@ -19,6 +19,7 @@ MonoBehaviour:
   - Spain
   Voice: es-ES-Standard-B
   Prompt: {fileID: 4900000, guid: a40ffb868079dc448a8ee550a82fff52, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8095836, g: 0.2624135, b: 0.09467958, a: 1}

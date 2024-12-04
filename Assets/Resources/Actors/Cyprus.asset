@@ -19,6 +19,7 @@ MonoBehaviour:
   - Cyprus
   Voice: he-IL-Standard-A
   Prompt: {fileID: 4900000, guid: 09a71c034336a6f44af8c04412f7a1cd, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.89166814, g: 0.8809362, b: 0.8548795, a: 1}

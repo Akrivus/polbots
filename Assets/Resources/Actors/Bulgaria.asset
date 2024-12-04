@@ -19,6 +19,7 @@ MonoBehaviour:
   - Bulgaria
   Voice: bg-BG-Standard-A
   Prompt: {fileID: 4900000, guid: 4954dd431ba7ef245ad7f0703c625722, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.65195113, g: 0.52990705, b: 0.46468526, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Belarus
   Voice: ru-RU-Standard-B
   Prompt: {fileID: 4900000, guid: 97c3c93d640f3af46b9216ea727d1ef8, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.6307789, g: 0.38939348, b: 0.33042532, a: 1}

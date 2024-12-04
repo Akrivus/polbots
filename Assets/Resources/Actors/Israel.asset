@@ -19,6 +19,7 @@ MonoBehaviour:
   - Israel
   Voice: he-IL-Standard-B
   Prompt: {fileID: 4900000, guid: 8b6fa97fadd537348b4ae24df99709cc, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.68058234, g: 0.7331259, b: 0.84509385, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Malawi
   Voice: en-GB-Standard-D
   Prompt: {fileID: 4900000, guid: 6744a723129ea444d99470e012f795f9, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.4607842, g: 0.34485322, b: 0.22742848, a: 1}

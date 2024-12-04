@@ -19,6 +19,7 @@ MonoBehaviour:
   - Slovakia
   Voice: sk-SK-Standard-A
   Prompt: {fileID: 4900000, guid: 9e2d2849ff6685940990ff015d6162fc, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.7123629, g: 0.45955226, b: 0.531657, a: 1}

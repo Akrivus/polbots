@@ -19,6 +19,7 @@ MonoBehaviour:
   - Nicaragua
   Voice: es-ES-Standard-A
   Prompt: {fileID: 4900000, guid: 64ca13fa4130a48469d904e782489c65, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.34947872, g: 0.5050338, b: 0.73628217, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Slovenia
   Voice: sk-SK-Standard-A
   Prompt: {fileID: 4900000, guid: a35dd926e178af24aa072bca296804e1, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.62597704, g: 0.44610223, b: 0.5300949, a: 1}

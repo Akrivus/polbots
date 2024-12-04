@@ -20,6 +20,7 @@ MonoBehaviour:
   - Brunei
   Voice: ms-MY-Standard-B
   Prompt: {fileID: 4900000, guid: 68ba8921bb3c8284b8c7c15df5421e4d, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8169577, g: 0.70966136, b: 0.18849023, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Argentina
   Voice: es-ES-Standard-D
   Prompt: {fileID: 4900000, guid: 99e729bf456172a44b75452a4da8462c, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.5615118, g: 0.70169896, b: 0.8221369, a: 1}

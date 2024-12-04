@@ -20,6 +20,7 @@ MonoBehaviour:
   - Bosnia
   Voice: tr-TR-Standard-E
   Prompt: {fileID: 4900000, guid: ec83a2fce92c0284a9a5c3455d460b0e, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.36126164, g: 0.33719528, b: 0.43442848, a: 1}

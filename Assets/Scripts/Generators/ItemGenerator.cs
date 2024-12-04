@@ -41,7 +41,7 @@ public class ItemGenerator : MonoBehaviour, ISubGenerator
     {
         var options = string.Join("\n- ", names);
         var prompt = _prompt.Format(options, topic, context);
-        var message = await ChatClient.CompleteAsync(prompt, true);
+        var message = await OpenAiIntegration.CompleteAsync(prompt, true);
 
         var lines = message.Parse(names);
 

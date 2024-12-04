@@ -19,6 +19,7 @@ MonoBehaviour:
   - El Salvador
   Voice: es-US-Standard-C
   Prompt: {fileID: 4900000, guid: 03f38003336344d4e873e311e8c7fc26, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.28850013, g: 0.4386007, b: 0.71170837, a: 1}

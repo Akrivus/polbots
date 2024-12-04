@@ -19,6 +19,7 @@ MonoBehaviour:
   - Portugal
   Voice: pt-PT-Standard-A
   Prompt: {fileID: 4900000, guid: 0d1c209a9851512459d7f1cadcacfbdf, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.48057508, g: 0.3078162, b: 0.10696034, a: 1}

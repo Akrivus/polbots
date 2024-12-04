@@ -19,6 +19,7 @@ MonoBehaviour:
   - Madagascar
   Voice: fr-FR-Standard-B
   Prompt: {fileID: 4900000, guid: d18db693c5a733347a92b3b7de9b8d9b, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.6259004, g: 0.54695547, b: 0.44918954, a: 1}

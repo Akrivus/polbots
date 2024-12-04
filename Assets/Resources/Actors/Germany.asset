@@ -21,6 +21,7 @@ MonoBehaviour:
   - Germany (West)
   Voice: de-DE-Standard-A
   Prompt: {fileID: 4900000, guid: 7e3b51aac87629946af6292719c75062, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.60113597, g: 0.33381152, b: 0.069614656, a: 1}

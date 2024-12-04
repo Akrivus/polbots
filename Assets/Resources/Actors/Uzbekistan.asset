@@ -19,6 +19,7 @@ MonoBehaviour:
   - Uzbekistan
   Voice: ru-RU-Standard-B
   Prompt: {fileID: 4900000, guid: 36670fdf36674924a8f7eca5f5c78530, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.2980596, g: 0.64099896, b: 0.5152574, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Comoros
   Voice: ar-XA-Standard-C
   Prompt: {fileID: 4900000, guid: ff80e0d04cb429349a4bcb9aeeba6d70, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.598306, g: 0.56475955, b: 0.42309386, a: 1}

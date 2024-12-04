@@ -19,6 +19,7 @@ MonoBehaviour:
   - Eswatini
   Voice: en-GB-Standard-D
   Prompt: {fileID: 4900000, guid: 2e8192944ec998f42b1442f369bbd158, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.42852288, g: 0.3150955, b: 0.44751164, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Guinea-Bissau
   Voice: pt-PT-Standard-B
   Prompt: {fileID: 4900000, guid: ade3e76b2eaf4ae41939fbeb5d16127d, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.5863939, g: 0.42831925, b: 0.15911593, a: 1}

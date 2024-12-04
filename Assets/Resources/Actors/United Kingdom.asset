@@ -22,6 +22,7 @@ MonoBehaviour:
   - Britain
   Voice: en-GB-Standard-B
   Prompt: {fileID: 4900000, guid: af4566ca47b83f443b0911ddfbbbdb12, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.64116836, g: 0.39616585, b: 0.4953187, a: 1}

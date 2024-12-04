@@ -19,6 +19,7 @@ MonoBehaviour:
   - Saudi Arabia
   Voice: ar-XA-Standard-C
   Prompt: {fileID: 4900000, guid: 51ef16207e2cded40a4abfde7baac7a6, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.063422866, g: 0.44020936, b: 0.24901345, a: 1}

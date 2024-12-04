@@ -19,6 +19,7 @@ MonoBehaviour:
   - Maldives
   Voice: en-IN-Standard-D
   Prompt: {fileID: 4900000, guid: c2736e8b16017154e909d31e2b80d6c6, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.590096, g: 0.17644948, b: 0.20723408, a: 1}

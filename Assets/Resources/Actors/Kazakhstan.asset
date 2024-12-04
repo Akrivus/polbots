@@ -19,6 +19,7 @@ MonoBehaviour:
   - Kazakhstan
   Voice: ru-RU-Standard-B
   Prompt: {fileID: 4900000, guid: ee1f2a640cd1e104f8801029e89faf88, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.066065185, g: 0.6669801, b: 0.7292915, a: 1}

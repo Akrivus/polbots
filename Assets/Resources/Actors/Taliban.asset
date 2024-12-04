@@ -21,6 +21,7 @@ MonoBehaviour:
   - Taliban
   Voice: pa-IN-Standard-D
   Prompt: {fileID: 4900000, guid: 1dadebcbb0ebad4489b183b63747a18a, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.91339475, g: 0.91450065, b: 0.9145046, a: 1}

@@ -20,6 +20,7 @@ MonoBehaviour:
   - Dominicana
   Voice: es-ES-Standard-A
   Prompt: {fileID: 0}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.50426704, g: 0.35794413, b: 0.45896882, a: 1}

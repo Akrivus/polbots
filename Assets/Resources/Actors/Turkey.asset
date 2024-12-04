@@ -20,6 +20,7 @@ MonoBehaviour:
   - Turkey
   Voice: tr-TR-Standard-E
   Prompt: {fileID: 4900000, guid: f6107238d4e15e74fac7efc6e250d594, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8581029, g: 0.08387705, b: 0.13583374, a: 1}

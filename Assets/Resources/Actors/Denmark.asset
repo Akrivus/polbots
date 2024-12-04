@@ -19,6 +19,7 @@ MonoBehaviour:
   - Denmark
   Voice: da-DK-Standard-D
   Prompt: {fileID: 4900000, guid: 53a766404f349814aa098498999fed04, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.7781286, g: 0.22887406, b: 0.3372939, a: 1}

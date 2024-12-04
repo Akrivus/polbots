@@ -24,6 +24,7 @@ MonoBehaviour:
   - Al-Qaeda
   Voice: en-GB-Standard-D
   Prompt: {fileID: 4900000, guid: a92d2020ebaca534f9d4480fa14cf902, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.11893919, g: 0.11896128, b: 0.11893919, a: 1}

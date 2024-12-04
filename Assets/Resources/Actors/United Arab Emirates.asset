@@ -20,6 +20,7 @@ MonoBehaviour:
   - UAE
   Voice: ar-XA-Standard-C
   Prompt: {fileID: 4900000, guid: 8ee404bded198a641b478d54d22f3d1d, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.40389407, g: 0.34864622, b: 0.28435072, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Azerbaijan
   Voice: tr-TR-Standard-D
   Prompt: {fileID: 4900000, guid: cbc809e1f6b8f1940b6c54b76d33a48d, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.24526013, g: 0.4558233, b: 0.4658811, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Luxembourg
   Voice: de-DE-Standard-C
   Prompt: {fileID: 4900000, guid: 3b2763972ecbe164fa6e6ada72c98a6f, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.54888856, g: 0.50096315, b: 0.6097099, a: 1}

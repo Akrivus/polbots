@@ -20,6 +20,7 @@ MonoBehaviour:
   - South Korea
   Voice: ko-KR-Standard-B
   Prompt: {fileID: 4900000, guid: b6694c9835f87f340aee7bf1c2da2eae, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8005028, g: 0.7817735, b: 0.7978841, a: 1}

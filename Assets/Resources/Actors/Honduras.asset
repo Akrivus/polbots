@@ -19,6 +19,7 @@ MonoBehaviour:
   - Honduras
   Voice: es-US-Standard-C
   Prompt: {fileID: 4900000, guid: 720d2c39a6c34d041ab18ee7183be5fe, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.20224184, g: 0.45274454, b: 0.6755941, a: 1}

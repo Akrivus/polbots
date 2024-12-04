@@ -19,6 +19,7 @@ MonoBehaviour:
   - Antarctica
   Voice: es-ES-Standard-E
   Prompt: {fileID: 4900000, guid: 7425c8ffdf9f19746b196c8f27f17204, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.51849097, g: 0.5499426, b: 0.59439725, a: 1}

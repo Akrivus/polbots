@@ -20,6 +20,7 @@ MonoBehaviour:
   - Vatican City
   Voice: it-IT-Standard-D
   Prompt: {fileID: 4900000, guid: a99be22af63ad884c81b1561bc761435, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.827441, g: 0.7730346, b: 0.38135323, a: 1}

@@ -20,6 +20,7 @@ MonoBehaviour:
   - Syria
   Voice: ar-XA-Standard-C
   Prompt: {fileID: 4900000, guid: c6488c863e3f39d4494afc0adeb68493, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.5484391, g: 0.30042997, b: 0.32525212, a: 1}

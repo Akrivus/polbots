@@ -20,6 +20,7 @@ MonoBehaviour:
   - Russia
   Voice: ru-RU-Standard-C
   Prompt: {fileID: 4900000, guid: 826fe87e013da3b46b43367edfe69bb0, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.62947387, g: 0.43147555, b: 0.5235614, a: 1}

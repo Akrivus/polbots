@@ -19,6 +19,7 @@ MonoBehaviour:
   - Sri Lanka
   Voice: ta-IN-Standard-B
   Prompt: {fileID: 4900000, guid: fcaca571ebf5be041837ea294848cbd5, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.72800696, g: 0.42567638, b: 0.07525114, a: 1}

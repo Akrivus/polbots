@@ -20,6 +20,7 @@ MonoBehaviour:
   - EU
   Voice: nl-NL-Standard-C
   Prompt: {fileID: 4900000, guid: 515bc1cf7aebd9e41a9b9830813b968a, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.02158056, g: 0.20235614, b: 0.5643877, a: 1}

@@ -19,6 +19,7 @@ MonoBehaviour:
   - Kenya
   Voice: en-GB-Standard-C
   Prompt: {fileID: 4900000, guid: dae57bc1682241549b6290e2c37ba619, type: 3}
+  Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.24318722, g: 0.25017115, b: 0.08326427, a: 1}

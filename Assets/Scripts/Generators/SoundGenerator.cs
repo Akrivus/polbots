@@ -42,7 +42,7 @@ public class SoundGenerator : MonoBehaviour, ISubGenerator
         var options = string.Join(", ", SoundGroups);
         var characters = string.Join("\n- ", names);
         var prompt = _prompt.Format(options, characters, topic, context);
-        var message = await ChatClient.CompleteAsync(prompt, true);
+        var message = await OpenAiIntegration.CompleteAsync(prompt, true);
 
         var lines = message.Parse(names);
 
