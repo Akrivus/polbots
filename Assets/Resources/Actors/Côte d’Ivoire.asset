@@ -18,10 +18,25 @@ MonoBehaviour:
   Aliases:
   - "C\xF4te d\u2019Ivoire"
   - Ivory Coast
+  Players:
+  - Alassane Ouattara
+  - Laurent Gbagbo
+  - "Henri Konan B\xE9di\xE9"
+  - "Aminata Traor\xE9"
+  - Wole Soyinka
+  - Kandia Camara
+  - Aissatou Sow Sidibe
+  - Gervais Kouassi
+  - Wangari Maathai
+  - "D\xE9sir\xE9 D. Gnonzi"
+  - "H\xE9l\xE8ne Kassi"
   Voice: fr-FR-Standard-B
   Prompt: {fileID: 4900000, guid: 8b9408ea2e4d9f34e9a8c768d883057d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.6091262, g: 0.6570406, b: 0.42000282, a: 1}
+  Color1: {r: 0, g: 0.61960787, b: 0.3764706, a: 1}
+  Color2: {r: 0.96862745, g: 0.49803922, b: 0, a: 1}
+  Color3: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

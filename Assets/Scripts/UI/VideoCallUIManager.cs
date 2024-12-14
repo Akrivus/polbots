@@ -15,9 +15,6 @@ public class VideoCallUIManager : MonoBehaviour
     [SerializeField]
     private SoundProfile _profile;
 
-    [SerializeField]
-    private int _maxVideoScreens = 12;
-
     private List<VideoCallUIController> _controllers = new List<VideoCallUIController>();
 
     private void Awake()
@@ -37,9 +34,9 @@ public class VideoCallUIManager : MonoBehaviour
 
     private void UpdateUI()
     {
-        var quota = _controllers.Count - _maxVideoScreens;
-        for (var i = _controllers.Count - 1; i >= 0; i--)
-            _controllers[i].gameObject.SetActive(_controllers[i].IsActive || quota-- <= 0);
+        _controllers = _controllers.OrderByDescending(c => c.Controller.ScreenOrder).ToList();
+        for (var i = 0; i < _controllers.Count; i++)
+            _controllers[i].transform.SetSiblingIndex(i);
     }
 
     public VideoCallUIController RegisterUI(ActorController actor, Camera camera)

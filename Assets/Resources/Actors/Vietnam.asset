@@ -18,10 +18,25 @@ MonoBehaviour:
   Aliases:
   - Viet Nam
   - Vietnam
+  Players:
+  - "Nguy\u1EC5n Ph\xFA Tr\u1ECDng"
+  - "Nguy\u1EC5n Xu\xE2n Ph\xFAc"
+  - "Ph\u1EA1m Minh Ch\xEDnh"
+  - "\u0110\u1ED7 V\u0103n Chi\u1EBFn"
+  - "Tr\u1EA7n \u0110\u1EA1i Quang"
+  - "Nguy\u1EC5n Th\u1ECB Kim Ng\xE2n"
+  - "Nguy\u1EC5n Thi\u1EC7n Nh\xE2n"
+  - "L\xEA Thanh Li\xEAm"
+  - "Nguy\u1EC5n Ho\xE0 B\xECnh"
+  - "Nguy\u1EC5n V\u0103n Th\u1EC3"
+  - "Nguy\u1EC5n Anh Tu\u1EA5n"
   Voice: vi-VN-Standard-C
   Prompt: {fileID: 4900000, guid: efef67bf0c4bdeb438d0681519ae9a24, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8309834, g: 0.18229598, b: 0.09996122, a: 1}
+  Color1: {r: 0.85882354, g: 0.14509805, b: 0.11372549, a: 1}
+  Color2: {r: 1, g: 1, b: 0, a: 1}
+  Color3: {r: 0.87058824, g: 0.14117648, b: 0.12941177, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

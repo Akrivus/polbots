@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Taiwan
   Aliases:
   - Taiwan
+  Players:
+  - Tsai Ing-wen
+  - William Lai
+  - Ahn Jung-geun
+  - Ma Ying-jeou
+  - Chen Shui-bian
+  - Shu Chin-qi
+  - Lin Chuan
+  - Yao Feng-chun
+  - Ko Wen-je
+  - Lai Ching-te
+  - Huang Kuo-chang
   Voice: yue-HK-Standard-C
   Prompt: {fileID: 4900000, guid: 743e8f168dd2b8248ab390301d9bc382, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.7559595, g: 0.024891336, b: 0.14190772, a: 1}
+  Color1: {r: 1, g: 0, b: 0, a: 1}
+  Color2: {r: 0, g: 0, b: 0.5803922, a: 1}
+  Color3: {r: 1, g: 1, b: 1, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

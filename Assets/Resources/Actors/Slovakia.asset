@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Slovakia
   Aliases:
   - Slovakia
+  Players:
+  - Robert Fico
+  - "Zuzana \u010Caputov\xE1"
+  - "Richard Kraj\u010Di"
+  - Jozef Kollar
+  - "Milan K\u0148a\u017Eko"
+  - Andrej Kiska
+  - Jana Kirschner
+  - "Tatiana T\xF3th"
+  - "Henrieta Morav\u010D\xEDk"
+  - "Daniela \u0160mihulov\xE1"
+  - "Martin Kov\xE1\u010D"
   Voice: sk-SK-Standard-A
   Prompt: {fileID: 4900000, guid: 9e2d2849ff6685940990ff015d6162fc, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.7123629, g: 0.45955226, b: 0.531657, a: 1}
+  Color1: {r: 0.93333334, g: 0.1254902, b: 0.13725491, a: 1}
+  Color2: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
+  Color3: {r: 0.039215688, g: 0.30588236, b: 0.63529414, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

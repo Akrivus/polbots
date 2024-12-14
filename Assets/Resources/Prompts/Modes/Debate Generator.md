@@ -23,7 +23,7 @@ If a character is not involved in the scene, exclude them from the output.
 
 The seed idea introduces the main topic or event driving this scene, providing a focal point for the characters’ thoughts and dialogue.
 
-### Context:
+### Previous Context:
 
 {2}
 

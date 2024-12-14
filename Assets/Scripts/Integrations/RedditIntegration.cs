@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Threading.Tasks;
 using UnityEngine;
 
 public class RedditIntegration : MonoBehaviour
@@ -53,8 +54,8 @@ public class RedditIntegration : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-            Forced = true;
+        //if (Input.GetKeyDown(KeyCode.Space))
+        //    Forced = true;
     }
 
     private void OnDestroy()
@@ -69,7 +70,7 @@ public class RedditIntegration : MonoBehaviour
         return File.ReadAllLines("reddit.txt").ToList();
     }
 
-    private void AddToChatQueue()
+    private async void AddToChatQueue()
     {
         if (BatchMax == 0 || BatchLifetimeMax == 0)
             return;
@@ -81,7 +82,21 @@ public class RedditIntegration : MonoBehaviour
         var ideas = new List<Idea>();
         for (var _ = 0; _ < SubReddits.Count; _++)
         {
-            ideas.AddRange(Fetch(SubReddits[i++]));
+            var range = await FetchAsync(SubReddits[i++]);
+            ideas.AddRange(range
+                .Select(post => {
+                    history.Add(post.Value<string>("id"));
+                    return post;
+                })
+                .Select((post, i) => new { post, i })
+                .GroupBy(pair => pair.i / PostsPerIdea)
+                .Select(group => group.Select(pair => pair.post).ToList())
+                .Select(group => new Idea(
+                    string.Join("\n", group.Select(post => post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"))),
+                    string.Join(", ", group.Select(post => post.Value<string>("author"))),
+                    "r/" + string.Join("+", group.Select(post => post.Value<string>("subreddit_name"))),
+                    string.Join("-", group.Select(post => post.Value<string>("id")))).RePrompt(_prompt)
+                ).ToList());
             if (ideas.Count >= BatchMax)
                 break;
 
@@ -100,7 +115,12 @@ public class RedditIntegration : MonoBehaviour
         Forced = false;
     }
 
-    public List<Idea> Fetch(string subreddit)
+    public Task<IEnumerable<JToken>> FetchAsync(string subreddit, int batchMax = 0)
+    {
+        return Task.Run(() => Fetch(subreddit, batchMax));
+    }
+
+    public IEnumerable<JToken> Fetch(string subreddit, int batchMax = 0)
     {
         var fetchTime = fetchTimes.GetValueOrDefault(subreddit, DateTime.Now.AddHours(-MaxPostAgeInHours));
         var cutoff = fetchTime.Subtract(EPOCH).TotalSeconds;
@@ -115,23 +135,13 @@ public class RedditIntegration : MonoBehaviour
 
         fetchTimes[subreddit] = DateTime.Now;
 
+        if (batchMax <= 0)
+            batchMax = BatchMax;
+
         return data.SelectTokens("$.data.children[*].data")
+            .OrderByDescending(post => post.Value<long>("created_utc"))
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !history.Contains(post.Value<string>("id")))
-            .OrderByDescending(post => post.Value<long>("created_utc"))
-            .Take(BatchMax)
-            .Select(post => {
-                history.Add(post.Value<string>("id"));
-                return post;
-            })
-            .Select((post, i) => new { post, i })
-            .GroupBy(pair => pair.i / PostsPerIdea)
-            .Select(group => group.Select(pair => pair.post).ToList())
-            .Select(group => new Idea(
-                string.Join("\n", group.Select(post => post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"))),
-                string.Join(", ", group.Select(post => post.Value<string>("author"))),
-                "r/" + string.Join("+", group.Select(post => post.Value<string>("subreddit_name"))),
-                string.Join("-", group.Select(post => post.Value<string>("id")))).RePrompt(_prompt)
-            ).ToList();
+            .Take(batchMax);
     }
 }

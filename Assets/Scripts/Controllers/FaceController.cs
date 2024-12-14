@@ -23,7 +23,7 @@ public class FaceController : AutoActor
 
         bodyObject.transform.localScale = Vector3.one + Vector3.forward * sin;
         bodyObject.transform.localPosition = new Vector3(
-            0, bodyObject.transform.localScale.z - 1f + hover, 0);
+            0, 0, bodyObject.transform.localScale.z - 1f + hover);
     }
 
     private void NormalizeFaceScale()
@@ -38,7 +38,9 @@ public class FaceController : AutoActor
     {
         var time = Time.time * 0.1f + ActorController.Sentiment.GetHashCode();
         var sin = Mathf.Sin(time) * (ActorController.Sentiment.Score / 50f);
-        var position = Vector3.up * sin;
+        var position = Vector3.forward * sin;
+        position += Vector3.up * 0.2f;
+
         faceObject.localPosition = Vector3.Lerp(
             faceObject.localPosition,
             position,

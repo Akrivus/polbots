@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Denmark
   Aliases:
   - Denmark
+  Players:
+  - Mette Frederiksen
+  - Margrethe II
+  - Anders Fogh Rasmussen
+  - "Lars L\xF8kke Rasmussen"
+  - Sandi Toksvig
+  - Benny Engelbrecht
+  - Niels Bohr
+  - Anja Rubik
+  - Sacha Baron Cohen
+  - Viggo Mortensen
+  - Clara Maria Worry
   Voice: da-DK-Standard-D
   Prompt: {fileID: 4900000, guid: 53a766404f349814aa098498999fed04, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.7781286, g: 0.22887406, b: 0.3372939, a: 1}
+  Color1: {r: 0.7764706, g: 0.047058824, b: 0.19215687, a: 1}
+  Color2: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
+  Color3: {r: 0.9372549, g: 0.9372549, b: 0.9372549, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

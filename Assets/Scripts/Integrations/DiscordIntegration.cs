@@ -33,7 +33,7 @@ public class DiscordIntegration : MonoBehaviour, IConfigurable<DiscordConfigs>
         SendWebhookAsync(WebhookURL, new DiscordWebhookMessage
         {
             Username = node.Actor.Title,
-            Content = node.Text,
+            Content = node.Line,
             Avatar = $"https://raw.githubusercontent.com/Akrivus/polbol/refs/heads/main/WWW/{sentiment}-{slug}.png",
         });
     }

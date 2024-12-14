@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Latvia
   Aliases:
   - Latvia
+  Players:
+  - "Arturs Kri\u0161j\u0101nis Kari\u0146\u0161"
+  - "Vaira V\u012B\u0137e-Freiberga"
+  - "Sandris Rieksti\u0146\u0161"
+  - Inese Vaidere
+  - "J\u0101nis Bord\u0101ns"
+  - "Edgars Rink\u0113vi\u010Ds"
+  - Laimdota Straujuma
+  - "J\u0101nis Gari\u0146\u0161"
+  - "Guntars Ra\u010Ds"
+  - "Ilze Vi\u0146\u0137ele"
+  - "M\u0101rti\u0146\u0161 Sirmais"
   Voice: pl-PL-Standard-E
   Prompt: {fileID: 4900000, guid: c3e6b3e308ec24b4b8cc59423425f81a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.6472055, g: 0.30370873, b: 0.33177045, a: 1}
+  Color1: {r: 0.62352943, g: 0.1882353, b: 0.22352941, a: 1}
+  Color2: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
+  Color3: {r: 0.6117647, g: 0.17254902, b: 0.22352941, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

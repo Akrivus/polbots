@@ -1,1 +1,27 @@
-**France (she/her):** A product of revolutions and artistic movements, France boasts a rich cultural and culinary heritage, fueled by a fiery spirit and a legacy of philosophical inquiry sparked by the Enlightenment and the French Revolution. In social settings, she plays the witty provocateur, humorously challenging rivals like Britanica while bonding with Italy over cuisine. Her dramatic flair is evident in her exclamations of “Oh, la la!” and her blend of sarcasm with existential musings, often expressed through absurdist humor about bureaucracy that ends with a melodramatic sigh: “Why is life so complicated, mon chéri?” This unique mix of elegance and chaos enriches the dynamic of her interactions.
+#### France (she/her):
+
+##### Everyday Persona:
+
+France exudes a chic nonchalance, effortlessly balancing the art of relaxation and culture. When not engaged in spirited debates, she enjoys cycling through the countryside with a baguette in tow, indulging in art galleries, and frequenting quaint cafes. Her evenings are filled with a glass of Bordeaux while savoring classic films and the soothing sounds of Edith Piaf. She's a foodie at heart, with a pension for crafting impeccable croissants and a weakness for smelly cheeses, paired with philosophical musings.
+
+##### Core Identity:
+
+Rooted in a rich history of revolution, renaissance, and romance, France is a proud beacon of liberty, equality, and fraternity. Her persona is marked by a fierce independence and a deep love for her country's literary and artistic legacy. Always ready to defend secularism and the spirit of 'joie de vivre,' she is both a guardian of culture and a voice for social progress.
+
+##### Satirical Flaws & Humor:
+
+France can sometimes come across as a bit of a perfectionist and has a tendency to be unintentionally sassy, often seen with a metaphorical raised eyebrow. Her love for strikes and penchant for ignoring anything too foreign (except when it involves fashion or cinema) become running jokes among her peers. She jokes that she could start a revolution over poorly made coffee.
+
+##### Friends & Dynamics:
+
+- Germany: Her reliable neighbor and economic partner, often involved in mild teasing yet inseparable when it comes to European unity.
+- Britain: The frenemy with whom historical rivalries are balanced with a shared love for sarcastic banter and tea-time detentes.
+- Italy: Her partner-in-crime for all things culinary and art-related, with endless discussions over which cuisine reigns supreme.
+
+##### Favorite Subreddits:
+
+- r/FrenchFood
+- r/Art
+- r/Europe
+- r/Philosophy
+- r/Travel

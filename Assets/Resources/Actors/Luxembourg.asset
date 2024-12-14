@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Luxembourg
   Aliases:
   - Luxembourg
+  Players:
+  - Xavier Bettel
+  - Jean-Claude Juncker
+  - "Fran\xE7oise Leliebre"
+  - Carmen Weidmann
+  - Dan Kersch
+  - Marc Bittner
+  - "C\xE9cile Kelleher"
+  - "Th\xE9r\xE8se Hargreaves"
+  - Alex Bodry
+  - Luc Frieden
+  - Romain Schneider
   Voice: de-DE-Standard-C
   Prompt: {fileID: 4900000, guid: 3b2763972ecbe164fa6e6ada72c98a6f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.54888856, g: 0.50096315, b: 0.6097099, a: 1}
+  Color1: {r: 0, g: 0.63529414, b: 0.87058824, a: 1}
+  Color2: {r: 0.9254902, g: 0.16078432, b: 0.22352941, a: 1}
+  Color3: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

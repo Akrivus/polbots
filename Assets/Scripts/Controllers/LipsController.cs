@@ -13,14 +13,13 @@ public class LipsController : AutoActor, ISubChats
 
     private void Update()
     {
-        if (sentiment != ActorController.Sentiment)
-            UpdateLips();
+        UpdateLips();
     }
 
     private void UpdateLips()
     {
-        sentiment = ActorController.Sentiment;
-        lipsRenderer.material.mainTexture = sentiment.Lips;
+        sentiment = ActorController.IsTalking ? Actor.DefaultSentiment : ActorController.Sentiment;
+        lipSync.textures[0].texture = ActorController.Sentiment.Lips;
     }
 
     public void Initialize(Chat chat)

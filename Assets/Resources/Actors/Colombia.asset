@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Colombia
   Aliases:
   - Colombia
+  Players:
+  - Gustavo Petro
+  - "Gabriel Garc\xEDa M\xE1rquez"
+  - Shakira
+  - Juan Manuel Santos
+  - "Rafael N\xFA\xF1ez"
+  - "Falcao Garc\xEDa"
+  - "Sof\xEDa Vergara"
+  - Fernando Botero
+  - "Colombian President Iv\xE1n Duque"
+  - "C\xE9sar L\xF3pez"
+  - Nairo Quintana
   Voice: es-US-Standard-A
   Prompt: {fileID: 4900000, guid: b1de836e0cc64d84f8c81c3135f9a774, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.73026574, g: 0.47778323, b: 0.19131327, a: 1}
+  Color1: {r: 0.9882353, g: 0.81960785, b: 0.08627451, a: 1}
+  Color2: {r: 0.12941177, g: 0.2509804, b: 0.54901963, a: 1}
+  Color3: {r: 0.80784315, g: 0.1254902, b: 0.15686275, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

@@ -15,9 +15,9 @@ public class ItemController : AutoActor, ISubChats, ISubNode
     {
         var time = Time.time * 0.5f + transform.GetSiblingIndex() * 1000f;
         var sin = Mathf.Sin(time) * ActorController.Sentiment.Score;
-        var position = itemPosition - Vector3.up * sin;
+        var position = itemPosition - Vector3.forward * sin;
 
-        itemRenderer.transform.Rotate(Vector3.up, Mathf.Sin(time) * 0.025f);
+        itemRenderer.transform.Rotate(Vector3.forward, Mathf.Sin(time) * 0.025f);
         itemRenderer.transform.localPosition = Vector3.Lerp(
             itemRenderer.transform.localPosition,
             position,

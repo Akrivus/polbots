@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Peru
   Aliases:
   - Peru
+  Players:
+  - Pedro Castillo
+  - Keiko Fujimori
+  - Ollanta Humala
+  - Valeria Mazillion
+  - Susana Baca
+  - Gian Marco
+  - "Mar\xEDa del Pilar Tello"
+  - Ana Jara
+  - Urpi Torrado
+  - "Julio Guzm\xE1n"
+  - "Gabriela Rodr\xEDguez"
   Voice: es-US-Standard-C
   Prompt: {fileID: 4900000, guid: 5872a8bf028a53a42909a85eb2f4c517, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.8435786, g: 0.3411251, b: 0.38636258, a: 1}
+  Color1: {r: 0.8509804, g: 0.0627451, b: 0.13725491, a: 1}
+  Color2: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
+  Color3: {r: 0.9372549, g: 0.8901961, b: 0.90588236, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

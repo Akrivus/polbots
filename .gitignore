@@ -72,4 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # polbots specific
+/[Aa]ssets/_[Ff]ootball[Ss]imulator/
+/[Aa]ssets/[Pp]lugins/[Rr]oot[Mm]otion/
 config.json

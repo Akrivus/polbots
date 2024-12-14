@@ -4,73 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "951ba3b8d7d2bc53",
+        "id": "b0c986c5d5f0b35c",
         "type": "tabs",
         "children": [
           {
-            "id": "129928973c876c02",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "45047661b5e3ce5f",
+            "id": "9520e9fd43d87707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentiment Tagger.md",
+                "file": "Dialogue Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sentiment Tagger"
-            }
-          },
-          {
-            "id": "ac1ddf44abd0339a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UN Office Hours Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UN Office Hours Prompt"
-            }
-          },
-          {
-            "id": "15090634923accdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summarizer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summarizer"
-            }
-          },
-          {
-            "id": "c5b67db7a0b18366",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dialogue Agent"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,42 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac1ddf44abd0339a",
+  "active": "9520e9fd43d87707",
   "lastOpenFiles": [
-    "Dialogue Agent.md",
-    "Dialogue Agent.md.meta",
-    "Sentiment Tagger.md",
-    "Actors.meta",
-    "Actors/Zimbabwe.md.meta",
-    "Actors/Zimbabwe.md",
-    "Actors/Zambia.md.meta",
-    "Actors/Zambia.md",
-    "Actors/Yemen.md.meta",
-    "Actors/Yemen.md",
-    "Actors/Western Sahara.md.meta",
-    "Actors/Western Sahara.md",
-    "Actors/Vietnam.md.meta",
-    "Actors/Vietnam.md",
-    "Actors/Venezuela.md.meta",
-    "Actors/Venezuela.md",
-    "Actors/Vatican City.md.meta",
-    "Actors/Vatican City.md",
-    "Actors/Uzbekistan.md.meta",
-    "Actors/Uzbekistan.md",
-    "Actors/Uruguay.md",
-    "Actors/United States.md",
-    "Actors/United Nations.md",
-    "Actors/United Kingdom.md",
-    "Actors/United Arab Emirates.md",
-    "Actors/Ukraine.md",
-    "Actors/Uganda.md",
-    "Actors/Turkmenistan.md",
-    "Actors/Turkey.md",
-    "Actors/Tunisia.md",
-    "Actors/Thailand.md",
-    "Actors/Tanzania.md",
-    "Actors/Taliban.md",
-    "Actors/Tajikistan.md",
-    "Actors/Taiwan.md"
+    "Actors/Kenya.md",
+    "Actors/Kosovo.md",
+    "Actors/Kuwait.md",
+    "Actors/Kyrgyzstan.md",
+    "Actors/Laos.md",
+    "Actors/Latvia.md",
+    "Actors/Lebanon.md",
+    "Actors/Lesotho.md",
+    "Actors/Liberia.md",
+    "Actors/Libya.md",
+    "Actors/Liechtenstein.md",
+    "Actors/Lithuania.md",
+    "Actors/Luxembourg.md",
+    "Actors/Macao.md",
+    "Actors/Madagascar.md",
+    "Actors/Malawi.md",
+    "Actors/Malaysia.md",
+    "Actors/Maldives.md",
+    "Actors/Mali.md",
+    "Actors/Malta.md",
+    "Actors/Mauritania.md",
+    "Actors/Mauritius.md",
+    "Actors/Mexico.md",
+    "Actors/Micronesia.md",
+    "Actors/Moldova.md",
+    "Actors/Mongolia.md",
+    "Tools/Actor Prompts.md.meta",
+    "Tools.meta",
+    "Tools/Team Names.md.meta",
+    "Tools",
+    "Football Player Roster.md.meta",
+    "Actors/Narrator.md.meta",
+    "Modes/Football Template.md.meta",
+    "Modes/Segment Template.md.meta",
+    "Modes/Dialogue Generator.md.meta",
+    "Modes/Soccer Game Generator.md.meta"
   ]
 }

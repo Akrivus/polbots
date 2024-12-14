@@ -1,9 +1,10 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using System.Linq;
+using UnityEngine;
 
 public class FlagController : AutoActor, ISubActor
 {
-    [HideInInspector]
-    public Color Color = Color.white;
+    public Color Color => Actor.Color;
 
     [SerializeField]
     private MeshRenderer flagRenderer;
@@ -12,25 +13,11 @@ public class FlagController : AutoActor, ISubActor
     private Texture2D LoadTexture(string name)
     {
         flagTexture = Resources.Load<Texture2D>($"Actors/{name}");
-        if (flagTexture)
-            Color = GenerateColor(flagTexture.GetPixels());
         return flagTexture;
-    }
-
-    private Color GenerateColor(Color[] colors)
-    {
-        var color = Color.black;
-        for (var i = 0; i < colors.Length; ++i)
-            color += colors[i];
-        color /= colors.Length;
-        color.a = 1f;
-        return color;
     }
 
     public void UpdateActor(ActorContext context)
     {
-        LoadTexture(context.Name);
-        context.Actor.Color = Color;
-        flagRenderer.material.mainTexture = flagTexture;
+        flagRenderer.material.mainTexture = LoadTexture(context.Name);
     }
 }

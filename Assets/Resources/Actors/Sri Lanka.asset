@@ -17,10 +17,25 @@ MonoBehaviour:
   Name: Sri Lanka
   Aliases:
   - Sri Lanka
+  Players:
+  - Gotabaya Rajapaksa
+  - Mahinda Rajapaksa
+  - Ranil Wickremesinghe
+  - Sajith Premadasa
+  - Chaminda Vaas
+  - Kumar Sangakkara
+  - Maithripala Sirisena
+  - Shirani Bandaranayake
+  - Hakeem Olajuwon
+  - Mahatma Ghandhi
+  - Dilrukshi Handunetti
   Voice: ta-IN-Standard-B
   Prompt: {fileID: 4900000, guid: fcaca571ebf5be041837ea294848cbd5, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.72800696, g: 0.42567638, b: 0.07525114, a: 1}
+  Color1: {r: 0.54901963, g: 0.12941177, b: 0.16078432, a: 1}
+  Color2: {r: 1, g: 0.7176471, b: 0, a: 1}
+  Color3: {r: 1, g: 0.35686275, b: 0, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

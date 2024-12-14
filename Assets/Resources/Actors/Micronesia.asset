@@ -18,10 +18,25 @@ MonoBehaviour:
   Aliases:
   - Federated States of Micronesia
   - Micronesia
+  Players:
+  - David Panuelo
+  - Simina D. K. Neth
+  - Yoshiko K. T. Chien
+  - Pitisone M. S. Nielson
+  - Benny E. C. T. Kedi
+  - Jude K. B. Sisior
+  - Elizabeth B. S. Kephan
+  - Marlon T. M. H. Taitano
+  - Ewe N. N. Napos
+  - Eldrin C. K. K. Kitu
+  - Daniel F. S. W. Tetiro
   Voice: en-US-Standard-B
   Prompt: {fileID: 4900000, guid: 280625716d22f9f4ba2e15af2228f627, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.44859058, g: 0.67758405, b: 0.83919734, a: 1}
+  Color1: {r: 0.45882353, g: 0.69803923, b: 0.87058824, a: 1}
+  Color2: {r: 1, g: 1, b: 1, a: 1}
+  Color3: {r: 0.4509804, g: 0.69803923, b: 0.87058824, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

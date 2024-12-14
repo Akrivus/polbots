@@ -3,6 +3,19 @@ using UnityEngine.UI;
 
 public class UIGridLayoutGroup : GridLayoutGroup
 {
+    public int MaxChildren = 12;
+
+    private void Update()
+    {
+        UpdateChildren();
+    }
+
+    public void UpdateChildren()
+    {
+        for (int i = 0; i < rectTransform.childCount; i++)
+            rectTransform.GetChild(i).gameObject.SetActive(i < MaxChildren);
+    }
+
     public override void SetLayoutHorizontal()
     {
         SetCellsAlongAxis(0);
@@ -15,10 +28,10 @@ public class UIGridLayoutGroup : GridLayoutGroup
 
     private void SetCellsAlongAxis(int axis)
     {
-        var rectChildrenCount = rectChildren.Count;
+        var count = rectChildren.Count;
         if (axis == 0)
         {
-            for (int i = 0; i < rectChildrenCount; i++)
+            for (int i = 0; i < count; i++)
             {
                 RectTransform rect = rectChildren[i];
 
@@ -39,19 +52,20 @@ public class UIGridLayoutGroup : GridLayoutGroup
 
         int cellCountX = 1;
         int cellCountY = 1;
+
         if (m_Constraint == Constraint.FixedColumnCount)
         {
             cellCountX = m_ConstraintCount;
 
-            if (rectChildrenCount > cellCountX)
-                cellCountY = rectChildrenCount / cellCountX + (rectChildrenCount % cellCountX > 0 ? 1 : 0);
+            if (count > cellCountX)
+                cellCountY = count / cellCountX + (count % cellCountX > 0 ? 1 : 0);
         }
         else if (m_Constraint == Constraint.FixedRowCount)
         {
             cellCountY = m_ConstraintCount;
 
-            if (rectChildrenCount > cellCountY)
-                cellCountX = rectChildrenCount / cellCountY + (rectChildrenCount % cellCountY > 0 ? 1 : 0);
+            if (count > cellCountY)
+                cellCountX = count / cellCountY + (count % cellCountY > 0 ? 1 : 0);
         }
         else
         {
@@ -73,16 +87,16 @@ public class UIGridLayoutGroup : GridLayoutGroup
         if (startAxis == Axis.Horizontal)
         {
             cellsPerMainAxis = cellCountX;
-            actualCellCountX = Mathf.Clamp(cellCountX, 1, rectChildrenCount);
-            actualCellCountY = Mathf.Clamp(cellCountY, 1, Mathf.CeilToInt(rectChildrenCount / (float)cellsPerMainAxis));
+            actualCellCountX = Mathf.Clamp(cellCountX, 1, count);
+            actualCellCountY = Mathf.Clamp(cellCountY, 1, Mathf.CeilToInt(count / (float)cellsPerMainAxis));
         }
         else
         {
             cellsPerMainAxis = cellCountY;
-            actualCellCountY = Mathf.Clamp(cellCountY, 1, rectChildrenCount);
-            actualCellCountX = Mathf.Clamp(cellCountX, 1, Mathf.CeilToInt(rectChildrenCount / (float)cellsPerMainAxis));
+            actualCellCountY = Mathf.Clamp(cellCountY, 1, count);
+            actualCellCountX = Mathf.Clamp(cellCountX, 1, Mathf.CeilToInt(count / (float)cellsPerMainAxis));
         }
-        int lastCellsCount = rectChildrenCount % cellsPerMainAxis;
+        int lastCellsCount = count % cellsPerMainAxis;
 
         Vector2 requiredSpace = new Vector2(
             actualCellCountX * cellSize.x + (actualCellCountX - 1) * spacing.x,
@@ -107,11 +121,11 @@ public class UIGridLayoutGroup : GridLayoutGroup
             GetStartOffset(1, lastCellsRequiredSpace.y)
         );
 
-        for (int i = 0; i < rectChildrenCount; i++)
+        for (int i = 0; i < count; i++)
         {
             int positionX;
             int positionY;
-            Vector2 cellStartOffset = (i + 1 > rectChildrenCount - actualLastCellsCount) ? lastCellsStartOffset : startOffset;
+            Vector2 cellStartOffset = (i + 1 > count - actualLastCellsCount) ? lastCellsStartOffset : startOffset;
 
             if (startAxis == Axis.Horizontal)
             {

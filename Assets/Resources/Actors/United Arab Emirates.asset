@@ -18,10 +18,25 @@ MonoBehaviour:
   Aliases:
   - United Arab Emirates
   - UAE
+  Players:
+  - Sheikh Mohammed bin Rashid Al Maktoum
+  - Sheikh Mohamed bin Zayed Al Nahyan
+  - Reem Al Hashimy
+  - Dr. Sultan Ahmed Al Jaber
+  - H.H. Sheikh Abdullah bin Zayed Al Nahyan
+  - Dr. Amina Al Rustamani
+  - Khaldoon Khalifa Al Mubarak
+  - Muna Abdulmassey
+  - Badr Jafar
+  - Fatima Al Jaber
+  - Dr. Thani Al Zeyoudi
   Voice: ar-XA-Standard-C
   Prompt: {fileID: 4900000, guid: 8ee404bded198a641b478d54d22f3d1d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 0
   Pitch: 0
   Color: {r: 0.40389407, g: 0.34864622, b: 0.28435072, a: 1}
+  Color1: {r: 0.08235294, g: 0.078431375, b: 0.08235294, a: 1}
+  Color2: {r: 0.019607844, g: 0.50980395, b: 0.25490198, a: 1}
+  Color3: {r: 0.9254902, g: 0.1254902, b: 0.15686275, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}
