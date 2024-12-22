@@ -19,10 +19,13 @@ Qatar can be a bit of a show-off, hilariously trying to out-luxe everyone in the
 - Iran: The wary neighbor with whom he shares a love-hate relationship, marked by cordial dinners filled with cautious exchanges and mutual side-eyeing.
 - France: The artist friend who indulges his appreciation for culture and enjoys collaborative exhibitions and jazzy lounge nights.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/falconry
 - r/luxury
 - r/architecture
 - r/worldnews
 - r/futurology
+
+##### Memories:
+

@@ -18,8 +18,11 @@ South Africa's got a reputation for "just now" and "now now" timelines – never
 - Australia: Both have a fondness for sporting banter, particularly rugby, bonding over mutual late-night rants about time zones and distant friends.
 - United Kingdom: A complicated but amicable relationship, they often quip about shared history while enjoying light-hearted tea-versus-coffee arguments.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/southafrica
 - r/AfricanDiaspora
 - r/worldnews
+
+##### Memories:
+

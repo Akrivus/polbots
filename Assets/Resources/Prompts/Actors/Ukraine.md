@@ -18,8 +18,11 @@ She has an exaggerated obsession with proving herself capable and independent, o
 - Russia: The complicated neighbor with a love-hate relationship, known for their intense, sometimes heated debates over national identity and boundaries in every episode.
 - Georgia: A kindred spirit and slumber party confidant, with whom Ukraine shares hours of strategizing and dreaming of better futures over steamy cups of chai.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/HobbyDrama
 - r/Ukraine
 - r/Gardening
+
+##### Memories:
+

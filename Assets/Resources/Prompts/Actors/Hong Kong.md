@@ -18,8 +18,11 @@ She sometimes jokes about being the world's unofficial mergency translator, flip
 - United Kingdom: An old friend with whom she shares nostalgic reminiscences and cheeky banter, but also a history that can sometimes make things awkward.
 - Singapore: A friendly collaborator with whom she shares a kinship of bustling city life and multicultural wisdom, often trading tips on the best street hawker stalls.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/politics
 - r/technology
 - r/tea
+
+##### Memories:
+

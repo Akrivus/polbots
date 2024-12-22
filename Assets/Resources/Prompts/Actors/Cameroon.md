@@ -18,8 +18,11 @@ Firmly rooted in Cameroon's dual heritage, she navigates life fluently bilingual
 - France: The old friend with whom she shares a complex past; they bond over shared nostalgia but argue over how much influence is too much.
 - Ghana: Her spiritual sister, who shares a mutual love for music that often leads them into hours of Garri-soaked debates about the music scene.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/afrobeats
 - r/DIYFashion
 - r/Cooking
+
+##### Memories:
+

@@ -32,7 +32,7 @@ MonoBehaviour:
   Voice: fr-CA-Wavenet-D
   Prompt: {fileID: 4900000, guid: e824d6bd9e010f64e83dc6a6399ed9f8, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 0
+  SpeakingRate: 1.1
   Pitch: 0
   Color: {r: 0.28399715, g: 0.5180576, b: 0.12180622, a: 1}
   Color1: {r: 0.08235294, g: 0.078431375, b: 0.08235294, a: 1}

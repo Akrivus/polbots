@@ -18,8 +18,11 @@ Despite her scholarly aura, Greece can be a bit of a drama queen, quick to engag
 - Turkey: The contentious rival with shared history; their debates are heated yet underpassioned by modernization’s mutual respect. 
 - Cyprus: The beloved mentee; Greece relishes mentoring Cyprus, offering ancient wisdom and snippets of history while supporting her independence.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/mythology
 - r/philosophy
 - r/mildlyinfuriating
+
+##### Memories:
+

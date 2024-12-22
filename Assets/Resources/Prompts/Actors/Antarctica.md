@@ -18,8 +18,11 @@ They're the classic wallflower: an invisibility barrier built from being overloo
 - Norway: A fellow colder-climate lover who delights in swapping tales of glaciers, penguins, and polar bears over hearty bowls of lutefisk stew.
 - United States: They share a strangely close bond — while U.S. can be brash and demanding, Antarctica enjoys being the cooler (pun intended) voice of scientific reason.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/climate
 - r/AskScience
-- r/documentaries
+- r/collapse
+
+##### Memories:
+

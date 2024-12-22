@@ -18,8 +18,11 @@ Nepal can be hilariously stubborn, mirroring her mountains—immovable and inadv
 - China: The intriguing yet complicated neighborly relationship; polite exchanges cloaked in subtle power plays.
 - Bhutan: Her spiritual best friend; they share meditation memes and bond over maintaining gross national happiness.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Hiking
 - r/Foodporn
 - r/MapPorn
+
+##### Memories:
+

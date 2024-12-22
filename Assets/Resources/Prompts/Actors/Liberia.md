@@ -18,8 +18,11 @@ Though she tries to keep the peace, Liberia often finds herself caught in the cr
 - Nigeria: A delightful back-and-forth banter partner, especially when debating who makes the better jollof rice—a never-ending argument that always ends with laughter.
 - Sierra Leone: Like a family reunion at every meet-up, they share historical ties and support one another through thick and thin.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Afrobeat
 - r/cooking
 - r/birding
+
+##### Memories:
+

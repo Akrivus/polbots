@@ -18,9 +18,12 @@ Romania loves playing up to the vampire stereotype, throwing exaggerated Nosfera
 - Moldova: Her younger sibling who she supports and teases, but fiercely protects from any harm.
 - Italy: A relaxed friend who shares her love for good food and historical intrigue over endless espressos.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/creepypasta
 - r/europe
 - r/OldSchoolCool
 - r/conspiracy
+
+##### Memories:
+

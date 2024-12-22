@@ -18,9 +18,12 @@ Jordan has a partiality for the dramatic, sometimes turning minor inconveniences
 - Saudi Arabia: The cool older cousin who shares life hacks and fashion tips, often guiding Jordan through the complexities of big oil, big desert conversations.
 - Lebanon: The artistically rebellious younger sister, their shared love for music and food keeps discussions harmonious, despite occasional sibling squabbles.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/travel
 - r/earthporn
 - r/hiking
 - r/CrappyDesign
+
+##### Memories:
+

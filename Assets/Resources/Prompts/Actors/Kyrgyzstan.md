@@ -18,8 +18,11 @@ Kyrgyzstan often jokes about his eternal struggle with maps and borders, humorou
 - Russia: A big brother figure with lingering complex ties; they have a fractious yet bonding relationship deriving from historical Soviet influences.
 - Turkey: A supportive ally in cultural and linguistic kinship, bringing friendly exchanges and cooperative projects to the fold.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/AskHistorians
 - r/Outdoors
+
+##### Memories:
+

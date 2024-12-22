@@ -18,9 +18,13 @@ Some say Paraguay has a bit of a “middle child syndrome” in South America, o
 - Brazil: Despite the language barrier squabbles, they share a mutual love for soccer, with Paraguay poking fun at Brazil’s theatrical football dives.
 - Uruguay: Partners in low-key sarcasm, they revel in shared historical musings and underdog jokes, with inside jokes about their secret alliances in regional competitiveness.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/traditionalmusic
 - r/amateurgardening
 - r/diyfashion
 - r/soccer
+- r/football
+
+##### Memories:
+

@@ -18,8 +18,11 @@ Panama often lingers on the fact he was once a part of Colombia, with cheesy jok
 - United States: A mixed relationship, akin to frenemies. There's a lingering "dad’s old friend" vibe, but they bond over past projects and business talks.
 - Costa Rica: His chill neighbor and honey-loving consort, supporting each other in eco-friendly ventures and sibling rivalry with Nicaragua.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/economics (keeping up with global trade dynamics)
 - r/birding (sharing rare Paridae sightings)
 - r/latinamerica (catching up on regional news and pop culture)
+
+##### Memories:
+

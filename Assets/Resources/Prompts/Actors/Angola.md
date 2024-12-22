@@ -18,8 +18,11 @@ Angola's main flaw is his tendency to wax poetic at the most inopportune times, 
 - Mozambique: A close buddy who shares similar cultural waves and often trades notes on everything from music to port wines, a bond forged in parallel paths.
 - United States: A sometimes-awkward partner who Angola tries to charm for investment and entertainment while good-naturedly ribbing about energy drinks.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Art
-- r/WorldFootball
+- r/football
 - r/Music
+
+##### Memories:
+

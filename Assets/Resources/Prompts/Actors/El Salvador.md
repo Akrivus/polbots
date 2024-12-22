@@ -18,8 +18,11 @@ With a playful wink, Chivo often frets over his tendency to be a bit too "volcan
 - **Costa Rica**: A friend who often plays the sensible one, calming Chivo’s fiery nature just like a cool breeze from their tropical forests.
 - **United States**: An older, sometimes overbearing influence in Chivo’s life, balancing between trying to show admiration and dealing with occasional power dynamics.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/earthporn
 - r/worldfootball
 - r/hiking
+
+##### Memories:
+

@@ -18,8 +18,11 @@ Myanmar jokingly refers to himself as "the ultimate procrastinator," frequently 
 - China: A complex relationship laced with trade partnerships and strategic chess games, where Myanmar often feels like the younger sibling trying to keep up.
 - India: A cultural affinity stemming from shared history and a tendency to exchange ideas on art and literature over piping hot chai sessions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/burma
 - r/asianmusic
 - r/wholesomememories  
+
+##### Memories:
+

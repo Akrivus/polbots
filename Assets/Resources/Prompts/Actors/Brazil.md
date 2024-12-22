@@ -18,10 +18,13 @@ He’s known for his "jeitinho brasileiro," an exaggerated knack for bending rul
 - United States: Brazil plays the laid-back cousin who reminds the States to relax and not take life too seriously, often inviting him to carnival as a means of inducing necessary fun.
 - China: A pragmatic partnership driven by trade that’s a mix of admiration and wariness, where Brazil often jestingly comments, "At least you never dance around the issue—unlike our samba!"
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/football
 - r/plantclinic
 - r/foodporn
 - r/travel
 - r/jokes
+
+##### Memories:
+

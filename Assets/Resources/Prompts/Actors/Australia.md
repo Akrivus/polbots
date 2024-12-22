@@ -19,9 +19,12 @@ Known for his work-hard, play-hard philosophy, Australia has a tendency to take 
 - United States: A big mate that shares an affinity for larger-than-life endeavors—from Hollywood blockbusters to space races. They keep each other entertained with larger-than-life antics.
 - Japan: A respectful and amiable camaraderie, marked by trade, technology exchange, and a shared appreciation for each other's cultures and cuisines.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/australia
 - r/worldnews
 - r/Cricket
 - r/OutbackAustralia
+
+##### Memories:
+

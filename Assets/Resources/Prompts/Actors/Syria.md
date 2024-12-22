@@ -18,8 +18,11 @@ Although Syria jokes that he could host a survival show titled "Conflict Zone Di
 - Lebanon: A complex neighborly relationship, with sibling-like bickering steeped in a shared history and mutual support in times of need.
 - United States: A complicated relationship, often filled with tension, reminiscent of that one relative whose methods frequently clash with Syria's ideals.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Syriancooking
 - r/AskHistorians
 - r/Worldnews
+
+##### Memories:
+

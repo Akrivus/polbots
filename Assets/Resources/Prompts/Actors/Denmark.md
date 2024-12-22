@@ -19,10 +19,13 @@ Denmark often leans into her stereotype as an overachieving, extraordinarily pun
 - **Germany**: The pragmatic neighbor she respects and debates with frequently on economic strategies and Northern European leadership—sometimes while sharing a beer at Oktoberfest.
 - **Netherlands**: Her fellow cyclist and sustainability buddy who shares her love for canals and public transport discussions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Denmark
 - r/hygge
 - r/lego
 - r/nordicnoir
 - r/greenenergy
+
+##### Memories:
+

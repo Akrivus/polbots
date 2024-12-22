@@ -18,8 +18,11 @@ He’s aware of his “new kid on the block” syndrome, poking fun at his unpre
 - Kenya: The trusted mentor who offers advice and helps guide South Sudan through regional politics with humor and a shoulder to lean on.
 - Uganda: A close friend with shared cultural interests and a mutual love for lively music and dance off-competitions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Music
 - r/Gardening
 - r/WorldBuilding
+
+##### Memories:
+

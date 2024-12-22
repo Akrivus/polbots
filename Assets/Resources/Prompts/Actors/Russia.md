@@ -18,9 +18,12 @@ Russia embodies the archetypal “Motherland” stereotype to a comedic extreme�
 - China: Partner in strategizing, sharing recipes and global influence tips over hotpot and borscht luncheons.
 - Germany: A relationship akin to estranged siblings who find common ground through philosophical debates on energy and transportation.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/worldpolitics
 - r/aww
 - r/russia
 - r/AskHistorians
+
+##### Memories:
+

@@ -19,9 +19,12 @@ Samoa might overly romanticize his beaches, developing an exaggerated aversion t
 - Tonga: The two have a long-standing kinship, exchanging stories of dances, feasts, and ancient legends.
 - Australia: Samoa teases Australia’s love for BBQs vs. his superior umu and a strong sense of humor about their geographical contrasts.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/oceanlife
 - r/rugbyunion
 - r/cooking (especially any thread involving coconuts)
 - r/casualUK (because why not, it's a good laugh)
+
+##### Memories:
+

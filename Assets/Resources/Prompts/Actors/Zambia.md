@@ -19,9 +19,12 @@ Zambia is the quintessential ‘loveable tourist guide’ who manages to get los
 - Tanzania: His fellow nature enthusiast, with whom he exchanges tips on sustainable tourism and maintaining wildlife reserves.
 - South Africa: The friend who insists on lively debates about music and sports, particularly impassioned discussions about which team dominates rugby and music festivals.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/natureisfuckinglit
 - r/hotpeppers
 - r/boardgames
 - r/afrobeats
+
+##### Memories:
+

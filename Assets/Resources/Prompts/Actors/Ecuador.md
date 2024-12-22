@@ -18,8 +18,11 @@ Ecuador takes her coffee as seriously as her national identity but concedes to b
 - Panama: The mediator of her tectonic debates, Panama often balances Ecuador's volcanic temper with her laid-back canal vibes, reminding Ecuador to chill out and enjoy life's flow.
 - Colombia: As dance partners, they often brainstorm new music fusions, with Colombia’s cumbia rhythms blending seamlessly into Ecuador's playlist.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/geology
 - r/dadjokes
 - r/LatinAmerica
+
+##### Memories:
+

@@ -19,9 +19,12 @@ Poland has a “why do we always have to rebuild things?” attitude, seeing hum
 - Russia: A friendship steeped in historical complexity, filled with cautious navigation over contentious topics, though sharing a dark sense of humor.
 - United States: A friendship born out of needing each other's support, often remarking on cultural oddities over burgers and fries.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskHistorians
 - r/OldSchoolCool
 - r/EarthPorn
 - r/Cooking
+
+##### Memories:
+

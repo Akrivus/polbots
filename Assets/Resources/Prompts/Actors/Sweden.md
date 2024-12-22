@@ -18,9 +18,12 @@ Known for his sometimes stubborn commitment to neutrality, Sweden jokes about be
 - Denmark: A teasing rapport exists; they banter over historical grievances like “who invented hygge?”
 - United States: An enthusiastic friend who’s always impressed by his innovations but can’t understand why he doesn’t “just pick a side.”
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/nordiccountries
 - r/DIY
 - r/Minimalism
 - r/ABBA
+
+##### Memories:
+

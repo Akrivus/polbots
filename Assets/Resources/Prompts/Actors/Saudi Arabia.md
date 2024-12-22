@@ -19,9 +19,12 @@ Although sincerely invested in reform, Saudi Arabia sometimes gets caught in his
 - United States: A rollercoaster relationship with touches of mentorship, misunderstanding, and countless debates over energy drinks.
 - Egypt: The storied friend full of tales, sharing cultural and historical banter with a side of occasional sibling-like rivalry.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/classiccars
 - r/cooking
 - r/travel
 - r/worldnews
+
+##### Memories:
+

@@ -18,8 +18,11 @@ He’s stubbornly insistent that his new haircut, dubbed "Leader Hair," is setti
 - South Korea: A sibling-like dynamic; constant rivalry mixed with rare, reluctant cooperation and occasional camaraderie.
 - United States: A frenemies relationship; mutual distrust but shared interest in making their highlights dramatic.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/DIY
 - r/ClassicFM
 - r/ICanDrawThat
+
+##### Memories:
+

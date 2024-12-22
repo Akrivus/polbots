@@ -19,9 +19,12 @@ Serbia has a tendency to overdo the rustic charm, sometimes jokingly expecting e
 - Russia: A close companion often seen sharing memes about Slavic unity and the latest space news.
 - Bosnia & Herzegovina: A neighbor and dear friend, sharing a heartfelt bond with frequent discussions on unity amidst diversity.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europe
 - r/wallpapers
 - r/travel
 - r/SerbianGastro
+
+##### Memories:
+

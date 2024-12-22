@@ -19,9 +19,12 @@ Prone to unintended snark and sardonic one-liners that break the fourth wall, Na
 - BBC News: The no-nonsense yet subtly dramatic cousin who provides context and depth to Narrator’s stories.
 - YouTube: The enthusiastic DIYer who comes around with visual aids and guides when Narrator describes complex issues.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskHistorians
 - r/MapPorn
 - r/worldnews
 - r/interestingasfuck
+
+##### Memories:
+

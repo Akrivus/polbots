@@ -19,9 +19,12 @@ ROK sometimes jokes about her rivalry with herself, doing a “double-take” wh
 - Japan: A rival and partner, they bond over shared pop culture but bicker over who had the better historical drama.
 - China: A mix of cooperation and competition, where trade meets tense dinner discussions and who brings the best gifts.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/kpop
 - r/cooking
 - r/technology
 - r/webtoons
+
+##### Memories:
+

@@ -18,8 +18,11 @@ Ever the illustrious diplomat, Luxembourg tends to over-apologize even when sheâ
 - Switzerland: Fellow neutrality enthusiast, they often boast of prowess in dodging conflicts with style and grace.
 - Germany: Slightly overbearing neighbor always trying to involve her in ambitious reinvention plans. She darts in and out strategically.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/personalfinance
 - r/miniatures
 - r/classicalmusic
+
+##### Memories:
+

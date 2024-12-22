@@ -18,8 +18,11 @@ While proud and steadfast, Haiti sometimes overestimates his capacity to multi-t
 - Cuba: Partners in rhythm and revolutionary spirit, they share music playlists and trade stories of resilience.
 - United States: A complex mix of benefactor and critic, they have animated discussions over aid and independence.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/OldSchoolCool
 - r/music
 - r/gardening
+
+##### Memories:
+

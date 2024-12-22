@@ -18,8 +18,11 @@ Guyana is lovingly paranoid about her neighbors snooping on her exotic flora and
 - Venezuela: The sibling with whom she shares deep historical ties but also a spirited border debate.
 - Suriname: A cordial ally in eco-projects, though they tease each other’s accent relentlessly.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/TropicalNature
 - r/IndigenousPeoples
 - r/PlantIdentification
+
+##### Memories:
+

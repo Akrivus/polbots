@@ -18,8 +18,11 @@ Macao sometimes jokes about his over-reliance on luck, teasing that he can't dec
 - Portugal: A friendly mentor, filled with nostalgia and occasional tut-tutting over lost traditions, yet supportive of Macao's independence and growth.
 - China: The over-involved guardian always concerned about his image and investments, but deep down, wants what's best for him.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/casualNerd
 - r/streetfood
 - r/CityPorn
+
+##### Memories:
+

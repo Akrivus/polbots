@@ -19,9 +19,12 @@ She’s a bit of a nostalgic dreamer, often starting sentences with, “Back in 
 - Turkey: Often tense debates laden with historical weight, though there's a reluctant understanding growing.
 - Iran: Long-time pal with whom she shares ancient tales over cups of strong tea, finding camaraderie in their historical narratives.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskHistorians
 - r/foodporn
 - r/Armenia
 - r/hiking
+
+##### Memories:
+

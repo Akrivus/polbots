@@ -19,8 +19,11 @@ Albania humorously exaggerates her love for bunkers, insisting every problem can
 - Italy: A charming neighbor who teases Albania about her pasta skills while sharing fashion tips and vintage espresso recipes.
 - Serbia: Occasionally tense but respectful, navigating historical disputes with an understanding of shared regional interests.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Albania
 - r/EarthPorn
 - r/Socialism_101
+
+##### Memories:
+

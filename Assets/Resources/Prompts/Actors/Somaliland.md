@@ -18,8 +18,11 @@ He playfully acknowledges his "international invisibility cloak," making light o
 - Ethiopia: A reliable neighbor and confidant, offering stable camaraderie and the occasional shoulder to lean on.
 - Taiwan: A fellow member of the “overlooked duo,” with whom he shares tips on forging recognition without backup plans.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/nomads
 - r/photography
 - r/freefolk
+
+##### Memories:
+

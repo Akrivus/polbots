@@ -18,9 +18,12 @@ She has an adorable tendency to defend her identity at the drop of a hat, someti
 - Kosovo: The supportive neighbor she shares new beginnings with, often bonding over mutual struggles and aspirations for recognition on global stages, like two breakfast buddies planning a world tour.
 - Bulgaria: The sibling-like rival whose squabbles are as intense as their shared cultural recipes, yet underneath lies a genuine love and unspoken understanding.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/travel
 - r/Europe
 - r/Foodporn
 - r/EscapefromTarkov
+
+##### Memories:
+

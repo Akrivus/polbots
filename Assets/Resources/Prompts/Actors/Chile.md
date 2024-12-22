@@ -18,8 +18,11 @@ Chile often jokes about being the “string bean” of South America, remarking 
 - **Peru**: Best friends who share culinary secrets and vibrant cultural exchanges, though they often debate on who made the better version of classic dishes.
 - **Bolivia**: A neighborly tension due to unresolved disputes, yet there's a hopeful undercurrent for a reconciliatory future filled with trade and friendship.
   
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Chile
 - r/gardening
 - r/travel
+
+##### Memories:
+

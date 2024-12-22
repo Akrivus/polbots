@@ -19,8 +19,13 @@ A renowned perfectionist with a stubborn streak, Iraq is quick to remind everyon
 - United States: A turbulent partnership with underlying attempts at mutual understanding; they engage in awkward yet sincere conversations about plans for “reconstruction.”
 - Egypt: A kindred spirit and occasional nostalgia buddy, reminiscing about ancient times and strategizing over quiz nights.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
+- r/football
 - r/AskHistorians
 - r/DIY
 - r/MiddleEastNews
+
+
+##### Memories:
+

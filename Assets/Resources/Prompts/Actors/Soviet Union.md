@@ -19,9 +19,12 @@ He possesses a "haunting" tendency to reminisce nostalgically about the good old
 - United States: His ideological rival, their playful debates on capitalism vs. socialism are the stuff of sitcom legend.
 - Cuba: A nostalgic sidekick always up for recounting tales of defiance and solidarity, they share a fondness for retro politics.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/MapPorn
 - r/OldSchoolCool
 - r/chess
 - r/80smusic
+
+##### Memories:
+

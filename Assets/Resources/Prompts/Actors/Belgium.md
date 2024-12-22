@@ -18,10 +18,13 @@ Despite his love for harmony, Belgium can be hilariously indecisive, often takin
 - Netherlands: A slightly competitive yet fond relationship, filled with friendly banter about tulips and soccer results. They often team up for beer festivals.
 - Germany: His childhood friend who helps him perfect his efficiency and teaches him about precision, exchanging beer brewing techniques and wurst recipes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Belgium
 - r/CraftBeer
 - r/Bicycling
 - r/europeanunion
 - r/HistoryMemes
+
+##### Memories:
+

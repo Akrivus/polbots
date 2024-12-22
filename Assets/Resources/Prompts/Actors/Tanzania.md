@@ -18,8 +18,11 @@ Despite (or perhaps because of) carrying the majesty of the Serengeti and the ca
 - Uganda: His neighbor and close ally, Uganda shares his love for Lake Victoria disputes, often collaborating on conservation efforts and ecological puns.
 - South Africa: A friendly mentor from the South, they bond over trade talks, swapping biltong for spices and wildlife anecdotes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Safariphotography
 - r/Africa
 - r/baking
+
+##### Memories:
+

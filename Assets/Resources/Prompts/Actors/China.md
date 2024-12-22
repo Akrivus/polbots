@@ -19,9 +19,12 @@ China is a perfectionist with a notorious knack for red tape, known to veto kara
 - India: Playful neighbors with a sibling-like rivalry, often compete at the virtual arcade. They exchange memes and spicy food challenges.
 - Japan: A historic rivalry laced with modern trade ties, the two occasionally bond over anime and shared youth culture across the East China Sea.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/progressivewebapps
 - r/ChinaTech
 - r/tai_ji
 - r/koreanmusic
+
+##### Memories:
+

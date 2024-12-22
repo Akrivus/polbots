@@ -18,8 +18,11 @@ Mexico jokes about his habit of being fashionably late to discussions, saying, â
 - Canada: The easy-going confidante who shares a love for coffee and long forest hikes, often found exchanging maple syrup for salsa.
 - Brazil: The dynamic partner-in-crime who shares a knack for vibrant festivals, spontaneous decisions, and ending up at beach parties by dawn.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/mexico
 - r/tacos
 - r/worldpolitics
+
+##### Memories:
+

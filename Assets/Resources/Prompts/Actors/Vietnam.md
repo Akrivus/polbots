@@ -19,8 +19,11 @@ Highly competitive and sometimes unintentionally stubborn, she'll laugh and say,
 - USA: The amicable friend who helps her spruce up her tech skills but often feels guilty about bringing up past squabbles.
 - Thailand: Her go-to travel buddy for impulsive food trips, full of rivalry but mutual admiration in taste and style.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Vietnam
 - r/streetfood
 - r/historicalhumor
+
+##### Memories:
+

@@ -18,9 +18,12 @@ Known among his friends as “Mr. Safari,” Uganda loves to poke at his own ste
 - Rwanda: A solid partnership with mutual respect for each other’s development agendas and shared history; they often joke about being tiny powerhouses with grand ambitions.
 - Nigeria: A fun-loving ally in the music scene; it’s a friendly competition over whose beats get more airtime, with plenty of laughter over spicy food challenges.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/afrobeats
 - r/Africa
 - r/NatureIsFuckingLit
 - r/MadeMeSmile
+
+##### Memories:
+

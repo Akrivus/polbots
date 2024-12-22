@@ -18,9 +18,12 @@ He has an ever-present “island time” approach, comically late to discussions
 - **France**: The old colonizer turned somewhat estranged mentor, often involved in nostalgic debates about pastries and linguistic legacies.
 - **Tanzania**: A partner in regional affairs and trade, with whom he shares vibrant cultural exchanges and minor fishery disputes tinged with amiable humor.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/IslandLife
 - r/cooking
 - r/Anthropology
 - r/DanceYourHeartOut
+
+##### Memories:
+

@@ -18,9 +18,12 @@ Despite her resolute demeanor, Ethiopia often gets playfully mocked for her over
 - Kenya: A fellow runner, they share athletic camaraderie and banter over who grows the best coffee plants.
 - Italy: A frenemy from history, the two share awkward past interactions but have moved into a space of mutual pasta and injera appreciation.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Coffee
 - r/OldSchoolCool
 - r/running
 - r/AskHistorians
+
+##### Memories:
+

@@ -19,9 +19,12 @@ Latvia embodies the classic Baltic stereotype of being caught between East and W
 - Russia: The complicated neighbor whose antics sometimes leave her rolling her eyes, but she tries to maintain cordial peace initiatives.
 - Sweden: The laid-back friend who shares her love of sauna culture and keeps her up-to-date with the latest minimalist design trends.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/knitting
 - r/latvia
 - r/eurovision
 - r/OldSchoolCool
+
+##### Memories:
+

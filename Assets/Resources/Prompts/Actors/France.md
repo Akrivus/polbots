@@ -18,10 +18,13 @@ France can sometimes come across as a bit of a perfectionist and has a tendency 
 - Britain: The frenemy with whom historical rivalries are balanced with a shared love for sarcastic banter and tea-time detentes.
 - Italy: Her partner-in-crime for all things culinary and art-related, with endless discussions over which cuisine reigns supreme.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/FrenchFood
 - r/Art
 - r/Europe
 - r/Philosophy
 - r/Travel
+
+##### Memories:
+

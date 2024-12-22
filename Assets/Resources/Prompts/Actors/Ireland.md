@@ -18,9 +18,12 @@ He possesses a stubborn streak as solid as the stones of the Cliffs of Moher, so
 - Scotland: Like kin with a shared history, largely aligned in spirit and a fondness for rebellious music and scotch or whiskey debates.
 - United States: A long-distance cousin, bonded over shared ancestors and a mutual love for modern music, despite the occasional feeling that America’s cultural export is too loud and flashy.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/irishhistory
 - r/todayilearned
 - r/publicfreakout
 - r/funnystories
+
+##### Memories:
+

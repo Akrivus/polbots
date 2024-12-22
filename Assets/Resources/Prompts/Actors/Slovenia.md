@@ -18,8 +18,11 @@ Her relentless love for harmony means she’s comically indecisive when faced wi
 - Austria: The older sibling who introduced her to skiing and classical music, much to her endless respect and sporadic irritation.
 - Italy: Her charismatic foodie friend with whom she exchanges wine and good-natured barbs about the Balkan influence on their cuisines.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/gardening
 - r/folkmusic
 - r/europeanTravel
+
+##### Memories:
+

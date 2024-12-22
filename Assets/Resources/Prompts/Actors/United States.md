@@ -19,9 +19,12 @@ Often perceived as the noisy neighbor with always-on, overbearing enthusiasm, he
 - China: A frenemy whose trade banter often begins peaceful but can escalate to economic jousting; calls for cooperation punctuated with fierce competition.
 - Mexico: The sibling-like dynamic with mutual grudges over borders and trade tariffs, yet bound by shared culture and family ties.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskReddit
 - r/politics
-- r/AmericanHistory
+- r/nottheonion
 - r/grilling
+
+##### Memories:
+

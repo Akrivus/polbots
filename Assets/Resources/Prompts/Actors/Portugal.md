@@ -18,10 +18,13 @@ Portugal occasionally teases herself for being that "neighbor" everyone forgets 
 - Brazil: Her loud, vivacious cousin on the other side of the ocean. Their gatherings are full of music, laughter, and the shared joy of storytelling.
 - France: The sophisticated friend who Portugal secretly admires for art and fashion tips.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/portugal
 - r/travel
 - r/soccer
 - r/architecture
 - r/Music
+
+##### Memories:
+

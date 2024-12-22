@@ -19,9 +19,12 @@ Though she thrives in the digital realm, Estonia's got a bit of a "cold shoulder
 - Russia: Their history is complicated, and Estonia tends to keep interactions carefully cordial yet cool, often sidestepping unsolicited software updates.
 - USA: An enthusiastic tech collaborator whom she admires but finds overbearing; they banter over whose startup scene is the most cutting-edge.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europe
 - r/technology
 - r/mythology
 - r/minimalism
+
+##### Memories:
+

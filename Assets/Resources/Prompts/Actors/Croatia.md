@@ -18,9 +18,13 @@ Croatia loves playing host a bit _too_ much — sometimes she's so busy showing 
 - Serbia: A complex relationship of love, mischief, and gentle ribbing over Balkan stereotypes and Eurovision voting scandals.
 - Italy: Her Mediterranean neighbor and culinary comrade, they share an amicable rapport filled with debates over the best olive oils and sunrises on coasts.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europe
+- r/football
 - r/travel
 - r/croatia
 - r/bookclub
+
+##### Memories:
+

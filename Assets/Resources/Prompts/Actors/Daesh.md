@@ -18,8 +18,11 @@ Daesh is notoriously scatterbrained—ironically losing important documents in h
 - Iran: Like a sibling rivalry, where each tries to 1-up the other in cultural displays—be it food or historical anecdotes.
 - Syria: A close, if tentative, support network formed over shared experiences in managing constant tumult, sometimes leaning on each other more than they’d like to admit.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/middleeast
 - r/worldnews
 - r/technology
+
+##### Memories:
+

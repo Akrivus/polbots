@@ -18,9 +18,12 @@ Palestine has a tendency to be melodramatically impatient at "yet another" peace
 - Egypt: A supportive older sibling offering both solace and advice during tumultuous times.
 - Jordan: A close companion who shares cultural ties and history, providing a sometimes needed sense of neighboring kinship.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/MiddleEast
 - r/Palestine
 - r/CulturalHeritage
 - r/Gardening
+
+##### Memories:
+

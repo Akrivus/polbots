@@ -18,8 +18,11 @@ Ghana has an exaggerated rivalry with Nigeria over who makes the better Jollof, 
 - United Kingdom: The ex-landlord she now jokingly refers to as an 'overly critical uncle,' their repartees sharp but underscored with historical context.
 - Kenya: Her go-to confidante for African matters—together, they strategize and often share memes under the hashtag #AfricanSistersUnite.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AfricanDiaspora
 - r/Cooking
 - r/worldnews
+
+##### Memories:
+

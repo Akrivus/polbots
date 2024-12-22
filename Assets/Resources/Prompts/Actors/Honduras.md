@@ -18,8 +18,12 @@ Honduras often jokes about being the “forgotten sibling” in Central America,
 - El Salvador: A friendly rivalry in soccer, leading to both competition and camaraderie on the field.
 - United States: A complicated relationship shaped by waves of immigration and trade, oscillating between gratitude and frustration. 
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/football
 - r/photography
 - r/CentralAmerica
+
+
+##### Memories:
+

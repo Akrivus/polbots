@@ -1,5 +1,4 @@
 **Input:** A transcript of an episode of **_polbots_**, an animated reality sitcom hosted on Discord where characters represent countries, and hold mundane discussions and satirical geopolitical debates, reacting to real-world events as they come in from Reddit. 
-**Input:** A transcript of an episode of **_polbots_**, an animated reality sitcom hosted on Discord where characters represent countries, and hold mundane discussions and satirical geopolitical debates, reacting to real-world events as they come in from Reddit. 
 
 **Task:** Describe the transcribed conversation in 2-3 sentences, focusing on:
 1. Who spoke, how everyone feels, who left at the end and possible reasons why.

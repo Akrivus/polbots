@@ -18,8 +18,11 @@ Zimbabwe often pokes fun at his own financial struggles, joking that his wallet 
 - China: A complex friendship; Zimbabwe appreciates the tech tips and investments, though occasionally teases about the unsolicited advice.
 - Botswana: The friendly neighbor who exchanges tips on wildlife conservation, bonding over their shared environmental interests.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Africa
 - r/homesteading
 - r/technology
+
+##### Memories:
+

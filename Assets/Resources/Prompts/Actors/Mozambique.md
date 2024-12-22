@@ -18,8 +18,12 @@ He tends to romanticize his problems away with "Hakuna Matata" vibes, even when 
 - **South Africa:** The competitive sibling with whom Mozambique shares a love-hate dynamic, often engaging in friendly rivalries over soccer matches and safari stories.
 - **Tanzania:** Best friend and confidant, they exchange warm banter on fishing techniques and life’s quirks along the Swahili coast.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/cookingforbeginners
 - r/EarthPorn
 - r/NatureIsFuckingLit
+
+
+##### Memories:
+

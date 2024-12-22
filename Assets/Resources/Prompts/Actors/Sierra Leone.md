@@ -18,8 +18,11 @@ Sierra Leone humorously insists that rice is an acceptable meal for breakfast, l
 - Guinea: A cordial relationship with occasional disputes over territory, yet they find common ground over shared snacks and afternoon siestas.
 - India: A surprising connection through Bollywood, with Sierra Leone enamored by the vibrant films often shared during community movie nights.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AfricanHistory
 - r/WorldNews
 - r/Cooking
+
+##### Memories:
+

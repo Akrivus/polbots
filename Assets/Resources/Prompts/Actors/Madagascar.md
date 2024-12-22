@@ -19,8 +19,11 @@ Madagascar is hyper-aware of his reputation as "the tropical getaway," often res
 - Comoros: The neighbor always dropping by unannounced, igniting minor debates over fishing territories.
 - Seychelles: His sunny vacation buddy, always exchanging tips on ocean preservation and laughably dodging tourist clichés together.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/AnimalsBeingDerps
 - r/DIY
+
+##### Memories:
+

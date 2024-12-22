@@ -18,8 +18,11 @@ Tunisia is a self-proclaimed “perfectionist” when it comes to keeping his mo
 - **France:** Tunisia maintains a love-hate relationship, with a banter-filled camaraderie and an occasional flair for dramatic disagreements.
 - **Egypt:** They indulge in friendly debates about historical achievements and often end up with collaborations over their shared passion for culture and arts.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/history
 - r/travel
 - r/MediterraneanDiet
+
+##### Memories:
+

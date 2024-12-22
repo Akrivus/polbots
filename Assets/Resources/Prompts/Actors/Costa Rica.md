@@ -18,8 +18,11 @@ Despite being the peaceful one in the group, Costa Rica’s aversion to conflict
 - United States: Their complicated relationship has evolved into a friendly mentorship; Costa Rica derives unique diplomatic techniques while subtly trying to temper Uncle Sam’s boldness.
 - Panama: A supportive buddy with shared cultural roots; they often engage in light-hearted banter about whose beaches are superior.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/surfing
 - r/coffee
 - r/gardening
+
+##### Memories:
+

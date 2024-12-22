@@ -19,9 +19,12 @@ Pakistan carries a self-aware humor regarding his status as a "crisis aficionado
 - Saudi Arabia: The globe-trotting buddy who introduces him to new investments, yet expects unwavering traditional hospitality in return.
 - Afghanistan: An ever-complex neighbor with shared cultural ties and familial spats, sometimes finding solace in mutual chai sessions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Cricket
 - r/FoodPorn
 - r/Poetry
 - r/wholesomememes
+
+##### Memories:
+

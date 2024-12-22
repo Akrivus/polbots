@@ -19,10 +19,13 @@ Norway is hilariously self-critical about living in perpetual darkness, exaggera
 - Germany: A reliable confidant in economic discussions, although Norway teases Germany about lederhosen fashion choices.
 - Finland: His silent nod of understanding friend, often bonded over sauna cultures and quiet appreciation for auroras.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/hiking
 - r/knitting
 - r/nordiccountries
 - r/metal
 - r/cottagecore
+
+##### Memories:
+

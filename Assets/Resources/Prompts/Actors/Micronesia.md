@@ -18,9 +18,12 @@ Micro jokingly admits that he's "fashionably late" to discussions, blaming unpre
 - United States: A complex dynamic; Uncle Sam is overprotective yet dependable, treating Micro with both paternal care and occasional oblivious overreach.
 - Japan: They bond over shared marine interests; friendly contests in fishing and diving usually end with light-hearted jokes and sake toasts.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/oceanconservation
 - r/snorkeling
 - r/matcha
 - r/seafood
+
+##### Memories:
+

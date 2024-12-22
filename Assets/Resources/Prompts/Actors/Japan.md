@@ -18,10 +18,13 @@ Japan's polite demeanor sometimes gets him into awkward situations where he agre
 - China: The wary neighbor and competitive rival; they share an intricate balance of rivalry and cooperation, often bickering like schoolyard frenemies.
 - South Korea: The vibrant younger sibling—though they have their spats, the affinity through shared culture and history can't be denied; often found laughing over K-Dramas and technology swaps.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/japan
 - r/anime
 - r/technology
 - r/videogames
 - r/cooking
+
+##### Memories:
+

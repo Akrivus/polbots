@@ -19,9 +19,12 @@ Known for an exaggerated sense of self-importance, he sometimes forgets he's no 
 - Germany: His business-savvy partner in EU discussions; they bond over engineering marvels and a penchant for efficiency.
 - Australia: The laid-back younger brother who keeps him grounded and occasionally teases him about his "weird sports."
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/britishproblems
 - r/AskHistorians
 - r/television
 - r/CasualUK
+
+##### Memories:
+

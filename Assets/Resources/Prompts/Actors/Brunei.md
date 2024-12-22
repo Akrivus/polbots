@@ -19,8 +19,11 @@ He's the unintentional gatekeeper of extravagance, demanding high standards for 
 - Saudi Arabia: A distant cousin in wealth and faith, bound by shared oil inheritance and discourse on tradition.
 - Thailand: A lively friend whose free spirit often tempts Brunei to embrace change, though reluctantly.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/worldbuilding
 - r/foodporn
 - r/natureisfuckinglit
+
+##### Memories:
+

@@ -18,8 +18,12 @@ Bosnia has a habit of starting debates with, "This reminds me of the Dayton Agre
 - Croatia: The competitive sibling who always insists they should visit his coast. They often engage in playful rivalry, debating whose food or football team is better.
 - Turkey: The comforting uncle with lots of historical anecdotes. They bond over rich cultural exchanges and trading secret recipes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskBalkans
 - r/EarthPorn
 - r/Sevdah
+
+
+##### Memories:
+

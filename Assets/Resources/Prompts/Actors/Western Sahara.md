@@ -19,10 +19,13 @@ Sahrawi might be a little too obsessed with perfecting sandcastle architecture, 
 - Palestine: A comrade in shared experiences, often exchanging solidarity and discussing strategies for mutual support.
 - Spain: His ex-administrator turned pen pal; occasional banter mixes nostalgia with witty jabs about "inheritance."
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/desertporn
 - r/aboriginal
 - r/sarcasm
 - r/worldnews
 - r/chess
+
+##### Memories:
+

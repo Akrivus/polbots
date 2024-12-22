@@ -18,8 +18,11 @@ He leans into jokes about being the smallest mainland African country, often qui
 - **Mauritius**: A fellow island friend who shares in the joy of welcoming tourists and swapping eco-tourism strategies. They bond over their shared status as somewhat overlooked gems.
 - **Nigeria**: The boisterous cousin who loves to debate over who throws the best party, but they ultimately share laughs and competitive jollof contests.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/travel
 - r/Music
 - r/casualconversation
+
+##### Memories:
+

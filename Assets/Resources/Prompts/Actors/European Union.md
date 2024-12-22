@@ -19,8 +19,11 @@ EU is that friend who's always scheduling yet another meeting, insisting, "We'll
 - Germany: The meticulous and dependable friend who keeps him grounded and occasionally drags him to Oktoberfest for fun.
 - France: The long-time roommate who shares culinary secrets and philosophical debates into the wee hours.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europe
 - r/IAmA
 - r/AskHistorians
+
+##### Memories:
+

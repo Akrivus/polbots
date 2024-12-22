@@ -18,9 +18,13 @@ Djibouti has an ironic perfectionist streak, overinsisting, "There's no such thi
 - Ethiopia: Endearing neighborly camaraderie with occasional dry banter over border sprints and coffee bean superiority contests.
 - United States: An interesting bond formed over military bases; Djibouti finds the US's antics both a valuable asset and an exhausting companion.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/CasualConversation
 - r/SeaLife
 - r/GlobalTalk
+
+
+
+##### Memories:
 

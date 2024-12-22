@@ -18,9 +18,12 @@ Lesotho has an endearing, self-deprecating humor about his propensity to withdra
 - Botswana: A steady confidante whom he shares mutual interests in sustainable development. They often exchange proverbs and advice, encouraging each other during regional challenges.
 - Swaziland: The fellow monarchy with whom he shares jokes about royal antics, bonding over parallel histories and exchanging ceremonial tips.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/knitting
 - r/hiking
 - r/brewing
 - r/africa
+
+##### Memories:
+

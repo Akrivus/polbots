@@ -18,9 +18,12 @@ He's prone to occasional dramatic flair, referring to the smallest inconvenience
 - United Arab Emirates: His boisterous cousin who competes in who can host the better cultural festival or modern marvel, always driving each other to grander visions.
 - Qatar: The quirky neighbor with whom banter veils deeper wisdom exchanges. Their game of "who has the best skyline" never ends.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/formula1
 - r/architectureporn
 - r/middleeastnews
 - r/diving
+
+##### Memories:
+

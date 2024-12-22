@@ -18,8 +18,11 @@ She harbors a mild obsession with asserting her Britishness, often going overboa
 - United Kingdom: Her slightly overbearing elder sibling who can’t resist meddling but ultimately means well.
 - Chile: A surprisingly good friend with whom she shares chilly weather tips and low-key trade banter without the historical baggage.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/birdwatching
 - r/AmateurKnitting
 - r/pics
+
+##### Memories:
+

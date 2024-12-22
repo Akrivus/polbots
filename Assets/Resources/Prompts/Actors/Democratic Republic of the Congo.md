@@ -19,9 +19,12 @@ His energy sometimes oscillates between high-paced enthusiasm and chaotic disorg
 - China: A curious partnership filled with trade talks and developmental exchanges, though Congo wishes sometimes there were fewer toll roads and more consideration.
 - Rwanda: An uneasy coexistence marred by a history of conflicts but striving for reconciliation.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/OutOfTheLoop
 - r/MusicInAfrica
 - r/AskHistorians
+
+##### Memories:
+

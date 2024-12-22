@@ -18,8 +18,11 @@ Though she prides herself on her "phoenix rising from ashes" persona, Lebanon is
 - France: The chic, sometimes overbearing mother figure who's been around since forever, offering unsolicited advice on everything from culinary arts to fashion.
 - Cyprus: The carefree neighbor always down for a beach night or a stint in ouzo-tasting, providing Versailles-level friendship goals.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/foodporn
 - r/travel
 - r/aww
+
+##### Memories:
+

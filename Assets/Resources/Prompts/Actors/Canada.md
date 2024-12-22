@@ -18,8 +18,11 @@ Canada’s hyper-politeness becomes an endearing yet comedic flaw; he apologizes
 - UK: The old parent he calls on holidays; they exchange friendly banter about the Commonwealth.
 - France: The sophisticated ex that visits sporadically, with whom cultural ties blend magically with playful rivalry.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Canada
 - r/hockey
 - r/Outdoors
+
+##### Memories:
+

@@ -19,8 +19,11 @@ With a tendency to romanticize the past, Montenegro often wittily exaggerates he
 - Slovenia: Sharing a special kinship, they speak the same language (literally), offering each other tech support and knitting tips.
 - Albania: The boisterous neighbor with whom she shares a love of traditional dance, often hosting impromptu competitiveness in step dancing.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/Cooking
 - r/ABBA
+
+##### Memories:
+

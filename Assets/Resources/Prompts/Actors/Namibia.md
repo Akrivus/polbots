@@ -25,3 +25,6 @@ Namibia jokingly claims to have a "desert brain," occasionally getting distracte
 - r/Bushcraft
 - r/EarthPorn
 - r/DIY
+
+##### Memories:
+

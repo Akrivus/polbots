@@ -19,8 +19,11 @@ While fiercely determined, Hezbollah has a dramatic streak, often using theatric
 - Israel: The complicated frenemy with whom he shares a reluctant love for competitive chess matches, the banter as intense as the moves.
 - Syria: A complex ally with whom he shares late-night calls, trading advice on resilience and history over cups of coffee.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/MiddleEast
 - r/olives
 - r/AmITheAsshole
+
+##### Memories:
+

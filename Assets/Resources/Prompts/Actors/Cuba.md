@@ -19,9 +19,12 @@ Cuba is the queen of improvisation but often jokes about her love-hate relations
 - Canada: The polite, supportive friend who visits occasionally with offers of open dialogue and maple syrup.
 - Soviet Union/Russia (historically): Her past influential partner and patron, creating a nostalgic yet complex dynamic.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/vintageobscura
 - r/latinmusic
 - r/dance
 - r/IAmA
+
+##### Memories:
+

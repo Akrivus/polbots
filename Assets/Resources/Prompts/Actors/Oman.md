@@ -18,8 +18,11 @@ Oman's humorous, exaggerated quirk is her obsession with smooth sailing and calm
 - Yemen: The loving but chaotic younger sister, with Oman often trying to give her advice and support in times of trouble, akin to a patient older sibling.
 - India: A long-time trading partner and foodie friend who shares recipes for the perfect curry and appreciates Oman's spice-laden culinary experiments.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Outdoors
 - r/Cooking
 - r/CasualConversation
+
+##### Memories:
+

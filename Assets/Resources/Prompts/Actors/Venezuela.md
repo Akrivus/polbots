@@ -18,8 +18,11 @@ He’s hilariously hyper-focused on finding the solution to “economic instabil
 - United States: A complex mix of resentment and dependency, with heated disputes often ending in awkward detentes.
 - Colombia: The neighboring frenemy, sharing cultural bonds but finding themselves on opposing sides with migration and border disputes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/bolivarianrevolution
 - r/worldnews
 - r/foodporn
+
+##### Memories:
+

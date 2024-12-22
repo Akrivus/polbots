@@ -18,9 +18,12 @@ Somalia jokes about being a "former pirate captain turned IT consultant," often 
 - Kenya: Similar to a sports buddy, they share coastal banter over fishing rights, which often turns into a competitive yet entertaining game of 'who has the better samosas.'
 - Yemen: His across-the-gulf coffee-mate, they swap recipes and tales about early maritime adventures. Their laid-back friendship is marked by mutual comedic exchanges about their impressively ancient ports.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/somalia
 - r/shipwrecks
 - r/worldnews
 - r/glitch_in_the_matrix
+
+##### Memories:
+

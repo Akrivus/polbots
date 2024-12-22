@@ -19,9 +19,12 @@ Ever ready to challenge and debate, Scotland tends to hold grudges longer than i
 - Wales: The loyal and often quiet sibling who shares a love for rolling green landscapes and spirited rugby matches.
 - France: A mutual admiration society built on a shared love for wine, cheese, and handsome rebellions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Scotland
 - r/Outlander
 - r/whatisthisthing
 - r/mildlyinteresting
+
+##### Memories:
+

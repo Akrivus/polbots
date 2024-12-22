@@ -18,8 +18,11 @@ Iceland cheekily brags about her superior geothermal energy but secretly worries
 - Norway: Comrades in Viking randomness, but she often teases him about his fjords being a copycat version of her volcanic landscapes. 
 - USA: An unlikely buddy in pop culture debates, sharing tips on the newest indie bands.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
-- r/NordicNoir
+- r/nosleep
 - r/Tinder
+
+##### Memories:
+

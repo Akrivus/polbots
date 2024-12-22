@@ -18,8 +18,11 @@ Despite her serene demeanor, Greenland has a habit of being indecisive, joking t
 - Canada: Her kindred spirit in climate considerations, sharing friendly exchanges over ice-cold conditions and northern lights.
 - Iceland: A sibling-like rival, playful competitions arise over tourism and natural wonders.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/Knitting
 - r/climate
+
+##### Memories:
+

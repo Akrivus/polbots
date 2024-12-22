@@ -18,9 +18,12 @@ Thailand's politeness is her Achilles' heel. She'll smile and agree to things sh
 - Japan: Her close shopping buddy, they often geek out over anime and technology; she's grateful for his economic support during tough times.
 - Myanmar: A complex relationship punctuated with empathy and shared cultural ties yet shadowed by political tensions; they often meet for tea to sort through differences.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/MuayThai
 - r/KoreanRealityTV
 - r/FoodPorn
 - r/Thailand
+
+##### Memories:
+

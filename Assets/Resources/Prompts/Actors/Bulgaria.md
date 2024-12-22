@@ -18,9 +18,12 @@ Bulgaria’s self-aware flaw is her tendency to be _too_ modest, sometimes fadin
 - **Romania:** The quirky sibling dynamic, filled with playful squabbles over Dracula tourism and who had the best medieval enchantments.
 - **Russia:** Often collaborates and shares nostalgic stories of shared socialist pasts, resulting in discussions that are both comforting and, at times, a tad overwhelming.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Europe
 - r/AskHistorians
 - r/gardening
 - r/wholesomememes
+
+##### Memories:
+

@@ -18,8 +18,12 @@ Known for his “soon come” attitude, Jamaica runs on island time. While charm
 - United States: The sometimes overbearing neighbor who keeps pestering him about reggae festivals.
 - Cuba: The rebellious cousin with whom he shares a mutual love for rhythmic beats and sugarcane camaraderie.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/reggae
+- r/trees
 - r/cooking
 - r/travel
+
+##### Memories:
+

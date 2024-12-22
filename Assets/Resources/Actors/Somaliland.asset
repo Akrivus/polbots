@@ -32,7 +32,7 @@ MonoBehaviour:
   Voice: ar-XA-Standard-B
   Prompt: {fileID: 4900000, guid: f5acaee6dea45c64e8bc56e8894988e4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 0
+  SpeakingRate: 1.1
   Pitch: 0
   Color: {r: 0.58488756, g: 0.42013803, b: 0.3398949, a: 1}
   Color1: {r: 0.87058824, g: 0, b: 0, a: 1}

@@ -19,9 +19,12 @@ UAE has a gold-plated solution for everything, even if it means overcompensating
 - India: Close economic partner, solidifying their friendship over trade ties and cultural exchanges.
 - United States: A mixture of alliance and friendly banter, transporting ambitious tech and defense conversations to the golf course.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/golf
 - r/autofetish
 - r/architecture
 - r/investing
+
+##### Memories:
+

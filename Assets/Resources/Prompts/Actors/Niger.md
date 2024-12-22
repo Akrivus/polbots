@@ -19,8 +19,11 @@ Niger jokingly claims he has the Midas touch for making simple tasks unbearably 
 - Chad: His desert neighbor with whom he exchanges ideas and solutions for environmental resilience.
 - Mali: Fellow Sahel-dweller; they discuss cultural music and strategies for regional peace.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Africa
 - r/TalesFromYourCountry
 - r/worldnews
+
+##### Memories:
+

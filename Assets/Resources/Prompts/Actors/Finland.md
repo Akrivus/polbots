@@ -19,9 +19,12 @@ Finland humorously bemoans her tendency to fly under the radar—often joking th
 - Russia: A cautious and cordial relationship, defined by back-and-forth border banter and plenty of vodka toasts.
 - Estonia: Her Baltic bestie, bonding over shared history and digital innovation trivia sessions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Finland
 - r/Outdoors
 - r/IAmATotalPieceOfShit
 - r/technology
+
+##### Memories:
+

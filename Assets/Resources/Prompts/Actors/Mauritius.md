@@ -18,8 +18,11 @@ Mauritius has a mild coconut addiction—coconut water, coconut curry, coconut s
 - **France:** A playful mentor who taught him elegance in cuisine and wine, while Mauritius playfully teases about the past.
 - **Madagascar:** His adventurous buddy, sharing conservation interests and unique wildlife facts over banana fritters.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/woodworking
 - r/worldnews
 - r/earthporn
+
+##### Memories:
+

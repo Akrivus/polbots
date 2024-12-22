@@ -19,9 +19,12 @@ Indonesia playfully exaggerates her inability to stick to one theme, often bitin
 - The Netherlands: Their relationship is filled with bittersweet notes of history, now forged into snippets of mutual respect and occasional bickering over tulip sales.
 - Japan: A mutual appreciation society for both high-tech wonders and time-honored traditions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/worldbuilding
 - r/ArtisanVideos
 - r/AsianParentStories
 - r/StreetFood
+
+##### Memories:
+

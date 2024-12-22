@@ -18,8 +18,11 @@ She laughs at her internal contradictions, often saying, "I put the ‘multi’ 
 - Indonesia: The close cousin with whom she shares a deep cultural bond, yet playful spats over who has the best culinary heritage are common.
 - Thailand: A friendly neighbor whose zest for life she admires, often leading to shared laughter over delicious meals with less spice tension than might be expected.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/FoodPorn
 - r/JapanTravel
 - r/Sewing
+
+##### Memories:
+

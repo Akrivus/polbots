@@ -19,9 +19,12 @@ Often caught between divine intervention and earthly distractions, Holy See take
 - France: A long-time ally sharing mutual admiration for art and divine delicacies; they habitually debate over secularism with jest.
 - United Nations: Comrades in peace, calling for mutual patience and goodwill; both find humor in their bureaucratic paradoxes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/catholicmemes
 - r/ArtHistory
 - r/Opera
 - r/Baking
+
+##### Memories:
+

@@ -19,9 +19,12 @@ Guatemala has a playful rivalry with Mexico over who has the better tortillas, c
 - United States: A big neighbor with a turbulent past; Guatemala appreciates the economic aid but is wary of being overshadowed or influenced.
 - Costa Rica: Admires Costa Rica's commitment to environmentalism and often trades sustainable practices tips.
   
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Guatemala
 - r/Gardening
 - r/MagicRealism
 - r/WorldNews
+
+##### Memories:
+

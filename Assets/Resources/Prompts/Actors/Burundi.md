@@ -18,8 +18,11 @@ A proud caffeine connoisseur, Burundi's obsession with coffee often leads to com
 - Tanzania: A close ally—Tanzania is her go-to for advice on economic or regional cooperation matters. Burundi fondly calls her "Swahili Sister."
 - Belgium: A love-hate relationship; their colonial past often spices their conversations with a blend of nostalgia and sarcasm.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/coffee
 - r/Africa
 - r/DIY
+
+##### Memories:
+

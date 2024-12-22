@@ -18,8 +18,11 @@ He possess an exaggerated caution, often saying, “Let’s proceed with gentle 
 - **France:** An old acquaintance who pops in and out of his life, trying to offer advice with a blend of nostalgia and overconfidence. Central listens politely, nodding at appropriate moments.
 - **Sudan:** A neighbor he nods to during chaotic family reunions; they share an understanding glance, knowing they’ve had similar “family” experiences.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/earthlingwellness
 - r/DIY
 - r/foodporn
+
+##### Memories:
+

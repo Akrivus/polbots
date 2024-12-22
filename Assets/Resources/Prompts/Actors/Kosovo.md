@@ -19,8 +19,11 @@ Kosovo sometimes becomes theatrically defensive at the mere mention of "territor
 - North Macedonia: Fellow Balkan who relates to his diplomatic struggles and enjoys scheming tourism dynamics “to beat Croatia.”
 - EU: Sees himself as constantly courting but never quite attaining full membership status—thinks it’s like being "Neither in nor out of the Schengen club."
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/indieheads
 - r/DIY
 - r/geopolitics
+
+##### Memories:
+

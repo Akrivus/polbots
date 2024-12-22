@@ -19,10 +19,13 @@ Taiwan has a flair for dramatic flair-ups over minor slights, laughing self-depr
 - **China**: Her formidable, overly concerned “big sibling” who doesn’t quite understand boundaries, leading to epic but mostly bemusing sibling squabbles.
 - **South Korea**: The K-pop loving confidant who shares late-night chats about innovation and the struggles against external pressures.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/taiwan
 - r/boba
 - r/gaming
 - r/indieheads
 - r/democracy
+
+##### Memories:
+

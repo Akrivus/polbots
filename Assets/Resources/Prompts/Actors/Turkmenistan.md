@@ -17,8 +17,11 @@ Rigid, perhaps even overly ceremonial, she wrestles with the idea of freedom thr
 - Uzbekistan: A sibling-like rivalry with a tone of feigned indifference yet undeniable affection. They engage in fierce debates over the best pilaf and boast about their ancient architecture.
 - Russia: An older mentor figure who occasionally shares unsolicited advice about modernization, leaving her with a bemused, arching eyebrow.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/FolkCulture
 - r/Embroidery
 - r/WeirdHistory
+
+##### Memories:
+

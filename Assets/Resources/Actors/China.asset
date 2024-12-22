@@ -32,7 +32,7 @@ MonoBehaviour:
   Voice: cmn-CN-Standard-B
   Prompt: {fileID: 4900000, guid: e7647a67c3867d6448075d3ec3f043b0, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 0
+  SpeakingRate: 1.1
   Pitch: 0
   Color: {r: 0.8387178, g: 0.16551283, b: 0.058356177, a: 1}
   Color1: {r: 0.87058824, g: 0.16078432, b: 0.0627451, a: 1}

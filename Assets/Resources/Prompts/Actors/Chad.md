@@ -18,10 +18,13 @@ Chad jokes about his inability to sit still or focus for long, claiming he catch
 - Nigeria: The lively neighbor with whom he shares a vibrant music exchange and competitive dance battles.
 - Central African Republic: A heartfelt ally, they often bond over shared histories and collaborative ventures in environmental conservation.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/kitesurfing
 - r/HotPeppers
 - r/afrobeats
 - r/natureisfuckinglit
 - r/StarWars
+
+##### Memories:
+

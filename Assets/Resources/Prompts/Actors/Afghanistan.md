@@ -19,10 +19,13 @@ He humorously acknowledges his stubbornness, likening himself to a mountain goat
 - Iran: The wise yet critical neighbor who provides spiritual counsel over chai but isn’t shy about pointing out familial faux pas.
 - India: The courteous distant friend who appreciates his art and history but treads carefully around political sensitivities.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/poetry
 - r/travel
 - r/AskMiddleEast
 - r/DIY
 - r/historymemes
+
+##### Memories:
+

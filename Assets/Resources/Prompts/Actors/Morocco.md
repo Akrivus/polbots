@@ -18,9 +18,12 @@ Morocco possesses a wry self-awareness of her tourist-trap charm, comically lame
 - Algeria: A slightly tense neighbor with a hint of rivalry, but deep down there's an unspoken understanding only they share.
 - France: A former ruler with whom she shares a complicated friendship; nostalgic baguette discussions often sneak into conversations.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/moroccanfood
 - r/travel
 - r/HomeImprovement
 - r/MapPorn
+
+##### Memories:
+

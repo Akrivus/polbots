@@ -19,9 +19,12 @@ Yemen tends to romanticize the days when he was the "Arabia Felix" (Happy Arabia
 - Iran: The mysterious, opportunistic acquaintance who Yemen is suspicious of yet strangely curious about.
 - Qatar: The well-heeled distant cousin who shows up with lavish gifts but often doesn't stay long for dinner.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/ancientcivilizations
 - r/SyrianCivilWar
 - r/coffee
 - r/worldpolitics
+
+##### Memories:
+

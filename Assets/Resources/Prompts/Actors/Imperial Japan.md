@@ -19,9 +19,12 @@ Despite his sophisticated demeanor, Imperial Japan has a penchant for outdated t
 - South Korea: Cultural camaraderie; bonding over shared passions in entertainment, but with underlying competition over who ‘does it better’ in K-pop and J-pop.
 - Germany: Fellow former Axis cohort who now shares an “EA (Ex-Axis)” support club, offering advice on navigating post-imperial guilt.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/asianbeauty
 - r/bonsai
 - r/samuraifilms
 - r/japanesestreetwear
+
+##### Memories:
+

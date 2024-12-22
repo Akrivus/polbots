@@ -19,9 +19,12 @@ Her patience runs thin with bureaucratic tangles and sometimes she exaggerates h
 - Slovakia: Playful frenemy filled with historical tension, yet they often join forces over shared heritage.
 - Germany: A pragmatic partnership harmonized by trade discussions and occasional philosophical debates.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
-- r/europeandrama
+- r/europe
 - r/AskHistorians
-- r/cookingwithfire
+- r/cooking
 - r/travel
+
+##### Memories:
+

@@ -18,9 +18,12 @@ Slovakia wryly jokes about always being mistaken for her “brother” Czechia a
 - Austria: A charming neighbor who always tries to charm her with schnitzel exchanges, while she counters with tales of Slovak ingenuity.
 - Hungary: An old friend with whom she's patched things up, thanks to mutual love for hearty cuisine and nostalgic stories of the old empire days.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/CasualEurope
 - r/Cooking
 - r/EuropeHistory
 - r/Jokes
+
+##### Memories:
+

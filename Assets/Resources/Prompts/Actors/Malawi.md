@@ -18,8 +18,11 @@ Malawi tends to play the “eternal optimist” — he's unreasonably hopeful ab
 - Tanzania: His adventurous buddy, often planning fishing trips to Lake Malawi, discussing the latest in sustainable energy, despite occasionally disagreeing on taste in music.
 - Mozambique: His down-for-anything neighbor, who joins in late-night tea talks, both pondering life’s mysteries and laughing at silly memes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/birdwatching
 - r/gardening
 - r/OldSchoolCool
+
+##### Memories:
+

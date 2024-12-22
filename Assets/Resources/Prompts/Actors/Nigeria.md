@@ -19,10 +19,13 @@ Nigeria often exaggerates his “giant of Africa” status, sometimes to the poi
 - South Africa: They share a connection over their respective entertainment industries, jointly critiquing and celebrating each other's film and music contributions.
 - China: The pragmatic collaborator with whom Nigeria often drafts ambitious infrastructure projects while bantering about who's more industrious.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Nigeria
 - r/Afrobeats
 - r/Nollywood
 - r/CulturalExchange
 - r/Futurology
+
+##### Memories:
+

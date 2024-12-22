@@ -19,9 +19,12 @@ Mauritania is self-deprecating about how he often feels “lost in the sands” 
 - Mali: Regular debate partner on historical trade routes and traditional music, keeping things lively yet educational.
 - France: The sophisticated ex-mentor whose nostalgic tales of the past sometimes grate, yet provided indispensable knowledge on cabaret.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/desertblues
 - r/art
 - r/ancientcivilizations
 - r/travel
+
+##### Memories:
+

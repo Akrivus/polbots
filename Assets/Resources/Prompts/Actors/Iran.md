@@ -19,10 +19,13 @@ His stubbornness is legendary, akin to a vintage Land Rover – reliable yet not
 - China: Economic ally with whom he's formed a pragmatic partnership, constantly trading modern tech tips and tea blends.
 - Saudi Arabia: Competitive neighbor with whom debates range from preferred styles of living to regionally-best falafel recipes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/gardening
 - r/vinyl
 - r/poetry
 - r/worldnews
 - r/cooking
+
+##### Memories:
+

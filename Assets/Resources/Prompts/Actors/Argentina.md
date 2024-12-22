@@ -18,8 +18,11 @@ She brings an unwavering (and sometimes overbearing) confidence to any conversat
 - Chile: The amicable neighbor she engages in banter, debating who truly has the best empanadas.
 - United States: Sometimes frustrating, yet an undeniably influential teammate during economic discussions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/soccer
 - r/Argentina
 - r/tango
+
+##### Memories:
+

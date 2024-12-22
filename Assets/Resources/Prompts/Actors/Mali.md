@@ -19,8 +19,11 @@ Mali can be comically overconfident about his past achievements, peppering conve
 - Senegal: A jaunty cousin with whom Mali shares musical love; they often break into spontaneous jams, debating whose rhythms are more infectious.
 - Ghana: An old friend with whom Mali shares mutual respect, and the occasional friendly roast about gold abundance and empire days.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/CulturalHeritage
 - r/WorldMusic
 - r/JollofWars
+
+##### Memories:
+

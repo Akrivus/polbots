@@ -18,8 +18,11 @@ Peru hilariously overestimates others' interest in his llama wool socks collecti
 - Chile: The occasional frenemy due to territorial disputes, but love for shared pisco traditions smooths over tension.
 - Colombia: Partners in cultural crime and dance-offs with a mutual appreciation for coffee-inspired banter.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Foodporn
 - r/WorldPolitics
 - r/EARONS
+
+##### Memories:
+

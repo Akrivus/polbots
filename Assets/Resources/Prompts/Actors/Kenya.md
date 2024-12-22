@@ -19,8 +19,11 @@ Kenya tends to underestimate travel times, always discovering a mythical 'shortc
 - Ethiopia: The marathon nemesis who always beats her running record but joins for celebratory coffee ceremonies.
 - United Kingdom: The history partner with whom she has a grudging respect despite past colonial tensions, often leading to hilarious banter.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/natureisfuckinglit
 - r/foodporn
 - r/EarthPorn
+
+##### Memories:
+

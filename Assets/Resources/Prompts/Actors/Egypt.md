@@ -19,9 +19,12 @@ Egypt is a sentimental hoarder of cultural treasures—or, as friends joke, "Liv
 - Israel: A complex, evolving relationship marked by historical tension yet underscored by cautious collaboration.
 - Saudi Arabia: A business partner with shared strategies over a Gulf chessboard, balancing economic and cultural exchanges.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskHistorians
 - r/Egypt
 - r/MapPorn
 - r/Music
+
+##### Memories:
+

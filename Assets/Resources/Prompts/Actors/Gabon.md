@@ -18,8 +18,11 @@ Gabon is humorously aware of her laid-back nature, often joking about how she ta
 - France: The "ex" she maintains a love-hate cordiality with, cracking jokes over shared colonial baggage.
 - Equatorial Guinea: Her neighbor with whom she shares a warm camaraderie, often teaming up for environmental causes.
   
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/earthporn
 - r/DIY
 - r/foodporn
+
+##### Memories:
+

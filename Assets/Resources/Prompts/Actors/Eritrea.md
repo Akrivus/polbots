@@ -18,9 +18,13 @@ Eritrea can stubbornly cling to his isolationist ways, often defaulting to "my w
 - Sudan: The neighbor who understands his history and shares trade secrets over campfires.
 - Djibouti: The friendly coastal neighbor who offers a light-hearted contrast, often teasing Eritrea for “living in perpetual autumn.”
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/birdwatching
 - r/vintageradios
 - r/worldnews
 - r/artefacts```
+
+
+##### Memories:
+

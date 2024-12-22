@@ -18,9 +18,13 @@ With a penchant for queuing even when there’s no line, England often jokes abo
 - Scotland: A kindred spirit and often the straight-faced counterpart to England’s humor, particularly in matters of football (or soccer, as the Americans would say).
 - United States: Former rebellious child now turned overzealous ally, with whom England shares an offbeat camaraderie over binge-watching reality TV.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/BritishTV
 - r/Cricket
+- r/football
 - r/CausalUK
 - r/BritishProblems
+
+##### Memories:
+

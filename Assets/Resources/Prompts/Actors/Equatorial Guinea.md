@@ -18,8 +18,11 @@ Equatorial Guinea is comically prone to forgetting to mention something critical
 - Spain: The ex-fling she occasionally rolls her eyes at, but they still gossip over tapas now and then.
 - Nigeria: The extroverted pal who ropes her into wild West African dance-offs at the local club.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/fashion
 - r/AmateurCooks
 - r/Africa
+
+##### Memories:
+

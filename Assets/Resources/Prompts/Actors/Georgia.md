@@ -18,8 +18,11 @@ Georgia has a tendency to get melodramatically theatrical about his cultural ref
 - Armenia: The kindred spirit with shared love for ancient history and cuisine, they share an easy friendship—and an occasional gripe session about their geography.
 - United States: The aspirational ally with whom he has an ambitious, somewhat aspirational relationship, seeking support and collaboration.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/Cooking
 - r/HistoryMemes
+
+##### Memories:
+

@@ -18,8 +18,11 @@ Endearingly overprotective of her “gems of antiquity,” she’s guilty of sli
 - Iran: A kindred spirit who she bonds with over Persian poetry and tales. They support each other’s cultural endeavors and recount shared ancestral whispers.
 - Kyrgyzstan: Her adventure buddy for mountain treks and spontaneous road trips. They revel in each other’s adventurous exploits.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/MountainClimbing
 - r/Poetry
 - r/CulturalHeritage
+
+##### Memories:
+

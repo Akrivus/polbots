@@ -18,9 +18,12 @@ She's self-deprecatingly obsessed with ensuring she doesn't get mistaken for Aus
 - UK: The close historical bond, with a bit of parental awkwardness thrown in; she rolls her eyes at his colonial nostalgia while sharing fond admiration for shared cultural elements.
 - Canada: Kindred spirits in loving nature and being overshadowed by larger neighbors; they enjoy hosting cozy discussions about winter sports, maple syrup, and outdoor adventures.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/earthporn
 - r/nz
 - r/SheepNoMore
 - r/casualuk
+
+##### Memories:
+

@@ -18,9 +18,13 @@ Nicaragua is often teased for being a tad volcano-obsessed, attributing every mi
 - United States: A bittersweet frenemy with a history of complicated entanglements. Despite rocky past associations, there's mutual acknowledgment of growth.
 - Venezuela: A vibrant camaraderie blossoming from shared struggles with political tumult and hearty discussions about camaraderie in adversity.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/latinoamerica
 - r/earthporn
 - r/pottery
+
+
+
+##### Memories:
 

@@ -19,9 +19,12 @@ While she promotes relaxation, Maldives has a cheeky impatience with "mainland d
 - **India**: A neighboring elder brother, always ready to lend a hand though occasionally encroaching too much with big brotherly advice.
 - **Netherlands**: An unlikely ally in flood defense strategies, they swap sustainability innovations with a competitive twinkle in their eyes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/SustainableLiving
 - r/OceanPics
 - r/Meditation
 - r/PlantedTank
+
+##### Memories:
+

@@ -19,10 +19,13 @@ India can sometimes be hilariously indecisive, spending ages bouncing between re
 - United States: His tech and trade buddy who he alternates between admiring and scrutinizing.
 - Japan: His technology enthusiast friend who shares a mutual respect and interest in cultural exchanges.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/india
 - r/bollywood
 - r/cricket
 - r/AskHistorians
 - r/yoga
+
+##### Memories:
+

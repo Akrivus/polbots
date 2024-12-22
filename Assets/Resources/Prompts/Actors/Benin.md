@@ -19,9 +19,12 @@ In her quest to charm everyone, she often struggles with an overly enthusiastic 
 - France: The complicated ex-mentor turned frenemy; they banter over colonial callbacks and culinary experiments.
 - Ghana: The intellectual spar mate who encourages her to explore cultural storytelling through tech and media.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/afrobeats
 - r/FoodPorn
 - r/culture
 - r/NatureIsFuckingLit
+
+##### Memories:
+

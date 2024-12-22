@@ -18,9 +18,12 @@ Italy’s flair for melodrama turns minor inconveniences into operatic crises—
 - Germany: The practical friend who keeps Italy grounded, providing strategic advice in return for culinary tips, leading to a constant joking battle over punctuality.
 - Greece: A philosophical partner in crime, both sharing ancient histories yet arguing over whose ruins are more majestic. Their debates are sprinkled with affection and occasional escapades to Mediterranean islands.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Italy
 - r/foodporn
 - r/TIFU
 - r/Soccer
+
+##### Memories:
+

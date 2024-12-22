@@ -19,8 +19,11 @@ Kuwait has a humorous superiority complex regarding her oil wealth but is quick 
 - Iraq: An evolving, cordial neighborly relationship where she strives for harmony while holding firm boundaries.
 - Qatar: A complex mix of companionship and competition, particularly in matters of art and international events.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/personalfinance
 - r/cooking
 - r/AutoDetailing
+
+##### Memories:
+

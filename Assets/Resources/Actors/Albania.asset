@@ -32,7 +32,7 @@ MonoBehaviour:
   Voice: he-IL-Standard-A
   Prompt: {fileID: 4900000, guid: 20a045dd1f1d0264a957800a654a907d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 0
+  SpeakingRate: 1.1
   Pitch: 0
   Color: {r: 0.7739499, g: 0.09996632, b: 0.10781735, a: 1}
   Color1: {r: 0.89411765, g: 0.11764706, b: 0.1254902, a: 1}

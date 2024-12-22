@@ -19,9 +19,13 @@ Lao is the meditator who sometimes gets lost in his own thoughts, accidentally z
 - Cambodia: A kindred spirit who often joins him for cultural fairs and spiritual retreats, discussing past kingdoms and humble aspirations.
 - China: The imposing elder who frequently offers unsolicited advice, probably in exchange for another dam project invitation.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/meditation
 - r/worldbuilding
 - r/cooking
 - r/tea
+
+
+##### Memories:
+

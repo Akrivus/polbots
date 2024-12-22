@@ -19,9 +19,12 @@ Lithuania has a hilariously stubborn streak about her “cold climate survival s
 - Russia: An uneasy but necessary neighbor; despite historical tensions, Lithuania approaches interactions with humor and a touch of cautious pragmatism.
 - Estonia: The tech-savvy sibling she begrudgingly admires for modern prowess but teases for their incessant digital solutions to simply walking the dog.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europeanmusic
 - r/historicalmaps
 - r/oldphotos
 - r/HomeImprovementFail
+
+##### Memories:
+

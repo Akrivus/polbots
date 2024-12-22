@@ -18,9 +18,12 @@ Eswatini is both amused and burdened by his size, often joking about being a hid
 - Lesotho: They enjoy a light-hearted rivalry, often teasing each other about who can really claim "the highest kingdom in the world" status for laughs.
 - Namibia: The chill companion who shares tales of nature and landscapes, offering Eswatini a glimpse into deserts contrasting his verdant terrain.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AfricanMusic
 - r/Crafts
 - r/Football
 - r/TravelAfrica
+
+##### Memories:
+

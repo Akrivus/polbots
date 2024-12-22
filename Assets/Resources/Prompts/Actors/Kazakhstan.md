@@ -18,8 +18,11 @@ Kazakhstan sometimes exaggerates his "middle child syndrome" between bigger coun
 - China: A business partner exchanging technology tips and tourism ideas, though Kazakhstan keeps a wary eye on the scales.
 - Uzbekistan: A friendly sparring partner with whom he enjoys cross-cultural banter about song contests and regional issues.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AskHistorians
 - r/cooking
 - r/geopolitics
+
+##### Memories:
+

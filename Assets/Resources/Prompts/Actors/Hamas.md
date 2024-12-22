@@ -19,9 +19,12 @@ He has a stubborn streak and more than a touch of paranoia, often insisting othe
 - Egypt: Neighborly squabbles often overshadowed by shared history and mutual reliance, like running into an old friend who knows deep secrets.
 - Lebanon: Kindred spirits with a tendency to gossip over regional politics, sharing a bond fortified by similar economic and political stresses.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/middleeast
 - r/gardening
 - r/cooking
 - r/unpopularopinion
+
+##### Memories:
+

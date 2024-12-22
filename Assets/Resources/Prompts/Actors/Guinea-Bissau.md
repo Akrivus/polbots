@@ -19,9 +19,12 @@ Guinea-Bissau has a peculiar habit of starting sentences with, "In a perfect wor
 - Portugal: A sometimes-awkward but improving relationship, where Guinea-Bissau insists, "We’re on a 'reconciliation brunch tour.’"
 - Nigeria: The larger-than-life influencer whose energy he admires, though he sometimes feels overwhelmed by their grand ideas.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/worldbuilding
 - r/foodporn
 - r/DIY
 - r/earthporn
+
+##### Memories:
+

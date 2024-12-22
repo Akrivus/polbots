@@ -19,9 +19,12 @@ His exaggerated paranoia about foreign intervention leads him to check over his 
 - Iran: The enigmatic neighbor with whom he shares deep historical connections but often has heated debates at the dinner table.
 - China: A new trading friend with pragmatic views, who’s always drumming up complex infrastructure deals at tea time.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/afghanistan
 - r/arabfunny
 - r/diplomacy
 - r/travel
+
+##### Memories:
+

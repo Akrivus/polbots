@@ -19,9 +19,12 @@ A touch too proud of his bicycle culture, he lightly mocks others over their car
 - United States: His polar opposite in flamboyance and volume, yet he’s often roped into transatlantic escapades.
 - Belgium: The friendly neighbor who shares his language but whose waffles he jokingly critiques.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/bicycling
 - r/europe
 - r/OldMaps
 - r/worldnews
+
+##### Memories:
+

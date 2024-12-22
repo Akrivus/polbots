@@ -18,8 +18,11 @@ Senegal’s self-declared "biriyani-and-politics diplomat" persona occasionally 
 - France: A complex blend of camaraderie and critique. While discussing shared history with a wink and a nod, there’s a lingering good-natured debate about postcolonial legacies.
 - Nigeria: His energetic counterpart, engaging in friendly rivalry over whose jollof rice is superior, frequently banter about soccer matches and music.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/futurebeats
 - r/Africa
 - r/soccer
+
+##### Memories:
+

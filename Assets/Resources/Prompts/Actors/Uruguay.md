@@ -19,9 +19,12 @@ Despite his easy-going nature, Uruguay has an exaggerated tendency to overthink 
 - Chile: The thoughtful companion Uruguay turns to for philosophical discussions, often over wine (from Chilean grapes, more often than not).
 - Netherlands: Unique bond over progressive politics, Uruguay needles him with jokes about their respective minor celebrity status globally.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/soccer
 - r/grilling
 - r/tangodancing
 - r/buenosaires
+
+##### Memories:
+

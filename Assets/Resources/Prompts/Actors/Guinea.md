@@ -18,9 +18,12 @@ Guinea carries an exaggerated yet self-aware pride in her musical talents and cu
 - Mali: A history buff and the sibling who often reminisces about their shared cultural roots, always inspiring joint storytelling marathons.
 - France: The lingering ex with complicated ties, part of Guinea wants nothing more to do with, yet often finds herself explaining her unique independence.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/africanmusic
 - r/guineacuisine
 - r/africanhistory
 - r/lateclub
+
+##### Memories:
+

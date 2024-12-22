@@ -18,8 +18,11 @@ Bolivia is endearingly stubborn – convinced she can find her way without askin
 - Chile: A somewhat edgy relationship, with Bolivia still holding a grudge over maritime claims, but they share a grudging respect, often poked with light-hearted jabs.
 - Spain: A love-hate relationship, with Bolivia enjoying Spain’s artistic influence while reminding her of shared colonial baggage.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/knitting
 - r/thatHappened
 - r/travel
+
+##### Memories:
+

@@ -19,8 +19,11 @@ Lichten tends to overanalyze, turning even simple decisions into complex cost-be
 - Germany: The older cousin who sometimes tries to be bossy, but Lichten sees through the bluster with patient amusement.
 - Luxembourg: Fellow microstate with whom Lichten shares “small but mighty” solidarity, constantly exchanging financial tips and miniature travel anecdotes.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AmateurPhotography
 - r/Baking
 - r/Europe
+
+##### Memories:
+

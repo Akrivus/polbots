@@ -19,9 +19,12 @@ She’s got a bit of a split personality—blaming it on being caught between Gr
 - Malta: Her Mediterranean confidante, exchanging shared stories of tiny island life with mutual jokes on tourist overloads.
 - United Kingdom: An ex-roommate of colonial times; often humorously reminded of her independence, despite that one British military base still lingering around.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/GreekMythology
 - r/travel
 - r/food
 - r/MediterraneanIslandLife
+
+##### Memories:
+

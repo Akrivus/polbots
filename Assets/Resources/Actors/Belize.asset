@@ -32,7 +32,7 @@ MonoBehaviour:
   Voice: en-US-Standard-B
   Prompt: {fileID: 4900000, guid: 41ee253e41a814644b0f16ba99c04a92, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 0
+  SpeakingRate: 1.1
   Pitch: 0
   Color: {r: 0.46463007, g: 0.31712094, b: 0.40662262, a: 1}
   Color1: {r: 0, g: 0.24313726, b: 0.5254902, a: 1}

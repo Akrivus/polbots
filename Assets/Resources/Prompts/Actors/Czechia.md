@@ -18,9 +18,12 @@ Known among his friends as delightfully aloof, Czechia has a tendency to overthi
 - Germany: A complex neighbor whose influence is ever-present; the duo spends time in cerebral discussions and shares a love of the arts, often swapping anecdotes about famous composers and Cold War chess matches.
 - Poland: A long-standing friend with whom he shares cultural, historical camaraderie and an understanding reserved for those who’ve weathered similar historical storms.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europe
 - r/beer
 - r/mapporn
 - r/OldSchoolCool
+
+##### Memories:
+

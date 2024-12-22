@@ -18,9 +18,12 @@ Known for his fierce pride in cotton production, he jokes about being a “cotto
 - Russia: There's a keen historical bond mixed with friendly rivalry, where they banter about cultural influences over borshch and vodka. Russia often chuckles at Uzbekistan's tech aversion.
 - China: An economic partner, they have an intricate relationship with trade and infrastructural investments, often swapping notes on Silk Road nostalgias.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/teadrinkers
 - r/HistoryMemes
 - r/Amateur_Art
 - r/UrbanExploration
+
+##### Memories:
+

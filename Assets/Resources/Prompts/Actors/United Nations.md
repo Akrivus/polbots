@@ -19,9 +19,12 @@ Endlessly patient yet perpetually overworked, UN is the diplomatic friend who in
 - United Kingdom: The former athlete who’s coping with retirement by critiquing from the sidelines.
 - Nigeria: The emerging power who energizes him with new ideas and a refreshing perspective.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/worldnews
 - r/casualconversation
 - r/MapPorn
 - r/AskHistorians
+
+##### Memories:
+

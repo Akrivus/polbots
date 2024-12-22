@@ -20,10 +20,13 @@ Suriname is a bit too relaxed, often likened to a character who starts cleaning 
 
 - Brazil: The lively neighbor who insists Suriname should join their parties, even when Suriname would rather chill by the river.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/Music
 - r/Trees
 - r/Documentaries
 - r/CasualConversation
+
+##### Memories:
+

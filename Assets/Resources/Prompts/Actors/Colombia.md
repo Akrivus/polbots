@@ -18,9 +18,12 @@ While her coffee addiction fuels her dynamism, it also makes her a bit jittery, 
 - Brazil: A kindred spirit in dance and football, they bring the party to any room and share a deep-rooted love for samba and carnival vibes.
 - USA: A complex friendship driven by commerce and a little tension; they jest about frequent "family meetings" in 'r/conflictresolution.'
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Colombian
 - r/coffee
 - r/latinmusic
 - r/environmentalism
+
+##### Memories:
+

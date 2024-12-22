@@ -18,9 +18,12 @@ Sometimes she can be a bit “too” diplomatic, strategically dodging direct co
 - Namibia: Her closest confidante, sharing ecosystem challenges, they have camping getaways in the Namib Desert, exchanging tales under starlit skies.
 - Zimbabwe: An old friend with whom she shares tales of ancient kingdoms, although Botswana often teases Zimbabwe about their competitive streak.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/crafts
 - r/jazz
 - r/gardening
 - r/AskHistorians
+
+##### Memories:
+

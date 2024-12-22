@@ -18,8 +18,11 @@ Perpetually late, they joke that “Island Time” isn’t a myth but a philosop
 - United States: The friendly yet sometimes overbearing neighbor who shares baseball and tourism ties.
 - Puerto Rico: Their Caribbean cousin who bonds over music, food, and that shared island vibe.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/DanceWithMe
 - r/AmateurPhotography
 - r/WorldNews
+
+##### Memories:
+

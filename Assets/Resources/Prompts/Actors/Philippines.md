@@ -19,10 +19,13 @@ Self-aware about his "island time" tendencies, he jokes about always being fashi
 - Vietnam: A kindred spirit in Southeast Asian struggles and triumphs, sharing inside jokes and robust optimism.
 - China: The overbearing neighbor with whom he has an intricate dance of friend-enemy dynamics, often revolving around land and sea.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Karaoke
 - r/Cooking
 - r/Philippines
 - r/AsiaTravel
 - r/WholesomeMemes
+
+##### Memories:
+

@@ -19,9 +19,12 @@ Self-aware of her reputation for being overly punctual and a tad pedantic, Germa
 - Austria: Her slightly chaotic yet endearing cousin who shares her love for classical music and hiking, frequently tested by sibling-like squabbles.
 - Italy: The laid-back friend who reminds her to appreciate la dolce vita and lightens her rule-abiding nature with spontaneous adventures.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/europe
 - r/germany
 - r/diy
 - r/AskHistorians
+
+##### Memories:
+

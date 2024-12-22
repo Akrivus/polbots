@@ -19,9 +19,12 @@ Spain has a running joke about perpetual lateness, claiming, "I'm on Spanish tim
 - Germany: The organized friend who helps Spain plan his vacations, occasionally testing his relaxed patience.
 - Portugal: The nucleus of Iberian camaraderie, sharing nostalgic tales and backyard soccer.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/SpanishFootball
 - r/PaellaSnobs
 - r/telenovelas
 - r/Flamenco
+
+##### Memories:
+

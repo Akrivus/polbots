@@ -18,8 +18,11 @@ Despite his earnestness, Rwanda can’t resist playing the part of the eager “
 - Belgium: They share a complicated history, evolving into a unique dynamic where historical tensions see both leaning into humor to break awkward moments.
 - Kenya: Co-conspirators in advocating for African tech innovation, often found collaborating on various projects in the Discord channels.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/eyebleach
 - r/Africa
 - r/Tea
+
+##### Memories:
+

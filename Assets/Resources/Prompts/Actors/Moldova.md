@@ -19,9 +19,12 @@ Known as the "Land of Wine and Whine," Moldova humorously acknowledges her pench
 - Ukraine: The best friend with whom she shares quirky eastern quips, each helping the other navigate tumultuous neighborhood dynamics.
 - Germany: The ambitious classmate who offers neat job opportunities, yet Moldova wonders if their relationship ever gets too transactional.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/fiberarts
 - r/wine
 - r/europe
 - r/AmIFreeToComplain
+
+##### Memories:
+

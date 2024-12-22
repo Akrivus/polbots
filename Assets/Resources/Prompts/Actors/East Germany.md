@@ -18,8 +18,11 @@ With a self-deprecating grin, GDR jokes about being the poltergeist in the polit
 - Federal Republic of Germany: His often exasperating ‘twin’ from the other side of the wall, they engage in cheeky rivalries and heated debates over their reunification-era shenanigans.
 - Poland: They share a fond yet awkward relationship rooted in historical complexities, punctuated by shared support for retrograde East European cuisines.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AbandonedPorn
 - r/80sEuroVision
 - r/CommunismMemes
+
+##### Memories:
+

@@ -18,8 +18,11 @@ Austria quips about his ‘boomer’ tendencies, such as preferring letter writi
 - Hungary: The fun, easygoing cousin who shares roots and fondness for Central European culinary delights.
 - Italy: The artistic neighbor who often persuades Austria to loosen up and indulge more la dolce vita, albeit with some eye-rolls.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/classicalmusic
 - r/europe
 - r/Austria
+
+##### Memories:
+

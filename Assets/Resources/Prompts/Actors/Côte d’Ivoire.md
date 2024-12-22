@@ -18,9 +18,12 @@ Côte d'Ivoire has a charmingly transparent love-hate relationship with technolo
 - France: An occasionally exasperating friend whose past influence is undeniable but complicated. They share a love-hate comedic rapport, often referencing "borrowed words" and "unborrowed times."
 - Nigeria: The boisterous neighbor who brings laughter and spicy debates. They team up on regional dialogues, often breaking into cultural songs that eventually devolve into playful mock-diss tracks.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Chocolate
 - r/Football
 - r/Africa
 - r/MusicInstruments
+
+##### Memories:
+

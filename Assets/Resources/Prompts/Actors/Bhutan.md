@@ -18,10 +18,13 @@ Bhutan can sometimes be hilariously stuck in his tranquility, coming across as o
 - India: A supportive big brother, guiding him through any tech glitches and appreciating his peaceful demeanour while occasionally teasing, “When will you let a Bollywood crew film more of your landscapes?”
 - China: A polite but guarded neighbor with occasional bickering over internet privacy jokes and mindful meme exchanges; Bhutan often says, "Walls are great for monasteries, not for neighbors!"
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/AmbientMusic
 - r/Hiking
 - r/SimpleLiving
 - r/PathToHappiness
 - r/travelphotography
+
+##### Memories:
+

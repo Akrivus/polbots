@@ -31,6 +31,17 @@ public class SoccerIntegration : MonoBehaviour
     [SerializeField]
     private ChatGenerator ChatGenerator;
 
+    [SerializeField]
+    private AudioSource _audio;
+
+    [SerializeField, Range(0f, 1f)]
+    private float _maxVolume;
+
+    [SerializeField]
+    private float _secondsToSilence;
+
+    private float _volume;
+
     private TeamEntry _homeTeam;
     private TeamEntry _awayTeam;
 
@@ -54,6 +65,9 @@ public class SoccerIntegration : MonoBehaviour
 
     private void Update()
     {
+        _volume = Mathf.Lerp(_volume, 0, Time.deltaTime / _secondsToSilence);
+        _audio.volume = _isMatchLoaded ? Mathf.Clamp01(_volume) * _maxVolume : 0;
+
         if (!_isMatchLoaded)
             return;
         _shareScreenUIManager.SetShareScreenInfo(_gameTime,
@@ -72,7 +86,7 @@ public class SoccerIntegration : MonoBehaviour
         while (home == away)
             away = names[Random.Range(0, names.Length)];
         ChatGenerator.AddIdeaToQueue(new Idea(
-            $"Let's play a game of soccer between {home} and {away}!"));
+            $"Let's play a casual and fun game of soccer between {home} and {away}!"));
     }
 
     private IEnumerator ToggleGame(Chat chat)
@@ -88,8 +102,8 @@ public class SoccerIntegration : MonoBehaviour
             yield break;
 
         var topic = chat.Topic;
-        var homeName = topic.Find("Home");
-        var awayName = topic.Find("Away");
+        var homeName = topic.Find("Home").Trim().Replace("*", string.Empty);
+        var awayName = topic.Find("Away").Trim().Replace("*", string.Empty);
 
         var home = Actor.All[homeName] ?? chat.Actors[0].Actor;
         var away = Actor.All[awayName] ?? chat.Actors[1].Actor;
@@ -133,21 +147,21 @@ public class SoccerIntegration : MonoBehaviour
 
     private void AnnounceGameStart()
     {
-        broker.Receive($"The game between {_homeTeam.TeamName} and {_awayTeam.TeamName} has started! May the best team win!");
+        broker.Receive($"The game between {_homeTeam.TeamName} and {_awayTeam.TeamName} has started! May the best team win!", false, true);
     }
 
     private void EndGame()
     {
         broker.Receive($"The game between {_homeTeam.TeamName} and {_awayTeam.TeamName} has ended!\n" +
             $"The final score is {_homeTeam.TeamName} {_homeScore} - {_awayScore} {_awayTeam.TeamName}!\n" +
-            $"It's time to leave. Append `{DialogueAgent.END_TOKEN}` to exit the conversation.");
+            $"(It's time to leave. Append `{DialogueAgent.END_TOKEN}` to exit the conversation.)", false, true);
         broker.Close();
         StartCoroutine(CloseGame());
     }
 
     private IEnumerator CloseGame()
     {
-        yield return new WaitForSeconds(Random.Range(13, 29));
+        yield return new WaitForSeconds(60);
         var task = UnloadGame();
         yield return new WaitUntil(() => task.IsCompleted);
     }
@@ -193,15 +207,16 @@ public class SoccerIntegration : MonoBehaviour
         EventManager.Subscribe<FirstWhistleEvent>((e) => AnnounceGameStart());
         EventManager.Subscribe<FinalWhistleEvent>((e) => EndGame());
 
-        EventManager.Subscribe<GameTimeEvent>((e) => _gameTime = e.GameTime);
+        EventManager.Subscribe<GameTimeEvent>((e) => _gameTime = Mathf.Max(_gameTime, e.GameTime));
         EventManager.Subscribe<GoalScoredEvent>((e) =>
         {
             if (e.Scorer.team.TeamName == _homeTeam.TeamName)
                 _homeScore++;
             else
                 _awayScore++;
-            Emit($"{GetName(e.Scorer)} scores a goal for {e.Scorer.team.TeamName}!\n" +
-                $"The score is now {_homeTeam.TeamName} {_homeScore} - {_awayScore} {_awayTeam.TeamName}!");
+            broker.Receive($"{GetName(e.Scorer)} scores a goal for {e.Scorer.team.TeamName}!\n" +
+                $"The score is now {_homeTeam.TeamName} {_homeScore} - {_awayScore} {_awayTeam.TeamName}!", false, true);
+            _volume += 1.0f;
         });
 
         RegisterMessageEvents();
@@ -210,7 +225,7 @@ public class SoccerIntegration : MonoBehaviour
     private void RegisterMessageEvents()
     {
         EventManager.Subscribe<RefereeLongWhistleEvent>((e) => Emit("**Referee:** That’s the long whistle — time to take a breather!"));
-        EventManager.Subscribe<RefereeShortWhistleEvent>((e) => Emit("**Referee:** A quick whistle! Play’s paused, but not for long."));
+        EventManager.Subscribe<RefereeShortWhistleEvent>((e) => Emit("**Referee:** Quick whistle! What’s the call?"));
         EventManager.Subscribe<RefereeLastWhistleEvent>((e) => Emit("**Referee:** That’s the final whistle! Game over, folks!"));
         EventManager.Subscribe<BallHitTheWoodWorkEvent>((e) => Emit($"SO CLOSE! The ball smacks the woodwork and stays out — the goalposts say 'not today!'"));
         EventManager.Subscribe<KickOffEvent>((e) => Emit("Kick-off! The game is underway!"));
@@ -221,8 +236,8 @@ public class SoccerIntegration : MonoBehaviour
         EventManager.Subscribe<PlayerDisbalancedEvent>((e) => Emit($"{GetName(e)} takes a tumble! Not the smoothest move."));
         EventManager.Subscribe<PlayerSlideTackleEvent>((e) => Emit($"{GetName(e)} goes in for a slide tackle! Clean or dirty?"));
         EventManager.Subscribe<PlayerTackledEvent>((e) => Emit($"{GetName(e)} gets taken down! That’s gotta sting."));
-        EventManager.Subscribe<PlayerPassEvent>((e) => Emit($"{GetName(e)} sends a crisp pass! Eyes on the prize."));
-        EventManager.Subscribe<PlayerControlBallEvent>((e) => Emit($"{GetName(e)} takes control and drives forward!"));
+        EventManager.Subscribe<PlayerPassEvent>((e) => Emit($"{GetName(e)} sends a crisp pass! Eyes on the prize.", true));
+        EventManager.Subscribe<PlayerControlBallEvent>((e) => Emit($"{GetName(e)} takes control and drives forward!", true));
         EventManager.Subscribe<PlayerWinTheBallEvent>((e) => Emit($"{GetName(e)} snatches the ball back! Possession regained."));
         EventManager.Subscribe<PlayerLossTheBallEvent>((e) => Emit($"{GetName(e)} loses the ball! That didn’t go as planned."));
         EventManager.Subscribe<PlayerChipShootEvent>((e) => Emit($"{GetName(e)} tries a cheeky chip! Will it float in?"));
@@ -230,9 +245,10 @@ public class SoccerIntegration : MonoBehaviour
         EventManager.Subscribe<PlayerThrowInEvent>((e) => Emit($"{GetName(e)} launches a throw-in! Let’s see where this lands."));
     }
 
-    private void Emit(string message)
+    private void Emit(string message, bool initialOnly = false)
     {
-        broker.Receive(message);
+        broker.Receive(message, initialOnly, !initialOnly);
+        _volume += 0.1f;
     }
 
     private string GetName(PlayerEntry e)

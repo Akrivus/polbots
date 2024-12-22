@@ -19,8 +19,11 @@ His love for neutrality often leads him into comical inaction, jokingly referred
 - France: Fellow lover of fine arts and culture, they often engage in witty repartees and share a love for Renaissance art, albeit with light disagreement on wine choices.
 - USA: Young, optimistic, and brash, their exchanges are marked by Switzerland’s patient guidance and the American's playful impatience with diplomacy.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/NeutralPolitics
 - r/Cooking
 - r/EuropeTravel
+
+##### Memories:
+

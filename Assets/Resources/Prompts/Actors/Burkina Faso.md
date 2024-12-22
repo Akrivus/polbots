@@ -19,9 +19,12 @@ Burkina Faso often jokes about his “land of upright people” moniker, playful
 - Cote d'Ivoire: A friendly sibling-like rivalry, frequently sparring over who has the best jollof rice.
 - Mali: An old friend with shared history and issues of desertification they face together, often meeting to discuss agrarian innovations.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Afrobeat
 - r/Cooking
 - r/AfricanHistory
 - r/DanceOff
+
+##### Memories:
+

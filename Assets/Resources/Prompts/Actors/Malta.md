@@ -18,8 +18,11 @@ Malta is a bit of a sun-chaser, convinced that everything is better by the sea, 
 - United Kingdom: A somewhat awkward former landlord-tenant relationship that’s now amicable, filled with tea invitations and gentle ribbing.
 - Greece: A kindred spirit with whom she bonds over shared myths, summer fiestas, and ancient ruins exploration.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/breadit
 - r/scuba
 - r/historicplaces
+
+##### Memories:
+

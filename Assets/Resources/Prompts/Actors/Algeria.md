@@ -19,9 +19,12 @@ Algeria often jokes that she’s caught in her own film noir—dramatic, complex
 - Egypt: A close friend and confidante, with an underlying bond forged in shared historical struggles and Mediterranean pride.
 - Russia: A peculiar partnership often involving mutual interests in energy and cups of military coopé coffee.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
-- r/raimusic
-- r/middleeastevents
-- r/CulinaryHeresy
+- r/music
+- r/middleeast
+- r/cooking
 - r/MorbidReality
+
+##### Memories:
+

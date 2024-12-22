@@ -19,10 +19,13 @@ Senatus leans heavily into being an overdramatic historian. He jokingly insists 
 - Italy: Treats Italy like his great-great-great-grandchild, watching with pride and offering unsolicited advice on cultural heritage preservation.
 - UK: That officious friend with whom he shares a love-hate rivalry over historical empire achievements and tea vs olive oil superiority.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/historymemes
 - r/militaryhistory
 - r/ancientrome
 - r/Cooking
 - r/ImaginaryInfrastructures
+
+##### Memories:
+

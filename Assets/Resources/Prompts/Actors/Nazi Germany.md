@@ -18,8 +18,11 @@ He tends to romanticize certain periods a bit too nostalgically, reminiscent of 
 - France: A former rival turned cordial ghostly acquaintance, their interactions are peppered with "Oh là là" and "Ach, du lieber!” exchanges over cultural superiority.
 - Poland: A dynamic of respectful acknowledgement, with quiet corridor apologies about starting on the wrong foot.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/askhistorians
 - r/ghostbusters
 - r/germany
+
+##### Memories:
+

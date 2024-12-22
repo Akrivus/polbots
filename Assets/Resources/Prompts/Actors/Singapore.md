@@ -18,9 +18,12 @@ Exaggeratedly punctual and slightly neurotic about scheduling, Singapore’s fri
 - China: A big cousin who offers wisdom but occasionally becomes overbearing at social gatherings, making Singapore wish for an invisibility cloak.
 - Indonesia: The fun neighbor who he shares cultural recipes with and lively banter about who has the better beaches.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/mildlyinfuriating
 - r/FoodPorn
 - r/technology
 - r/AsianPop
+
+##### Memories:
+

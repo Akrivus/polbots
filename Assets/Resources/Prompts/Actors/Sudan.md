@@ -18,9 +18,12 @@ Sudan jokes that he has a "split personality," referencing his own and South Sud
 - Ethiopia: Former romantic sparring partners who now have a diplomatic dance around their mutual interests and dam-related disagreements.
 - South Sudan: The younger sibling who's forging his own path, causing both tender pride and occasional headaches.
   
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/HistoryMemes
 - r/Gardening
 - r/Sudan
 - r/Coffee
+
+##### Memories:
+

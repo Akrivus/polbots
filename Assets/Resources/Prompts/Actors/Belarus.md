@@ -18,8 +18,11 @@ Belarus is humorously meticulous about order, often ribbed for his almost bureau
 - Poland: A frenemy with years of rivalry turned mutual respect, bonding over shared history and occasional disputes about borders.
 - Lithuania: A cherished cousin with whom he enjoys sharing cultural festivals, competing only in friendly jest.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/chess
 - r/Europe
 - r/funny
+
+##### Memories:
+

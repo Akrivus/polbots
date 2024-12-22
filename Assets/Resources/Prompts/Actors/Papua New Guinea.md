@@ -18,8 +18,11 @@ Papua New Guinea lovingly pokes fun at her own dramatic nature, often saying, "I
 - Solomon Islands: Her 'wantok' – a true soulmate navigating similar challenges. Their bond is more sibling than diplomatic, revolving around familiar jokes and crossover traditions.
 - China: An unexpected but evolving friend who occasionally impresses her with ambitious projects and infrastructure discussions, although sometimes communication gets "lost in translation."
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Birdwatching
 - r/AboriginalCuisine
 - r/TravelHacks
+
+##### Memories:
+

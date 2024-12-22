@@ -18,9 +18,12 @@ Türkiye has a bit of a split personality disorder when it comes to his place in
 - Germany: A pragmatic friendship built over years of trade and migration; Türkiye often seeks advice from Germany, only to cheekily try doing things his own way.
 - Russia: An unpredictable partnership, where they bond over energy deals and haggling, yet often eye each other warily.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/TurkishFood
 - r/soccer
 - r/AskHistorians
 - r/Europe
+
+##### Memories:
+

@@ -18,9 +18,12 @@ An over-polite host, Sri Lanka struggles with saying "no," often leading to comi
 - Maldives: The chill, laid-back neighbor he swaps seafood recipes with, often found making beach plans together.
 - United Kingdom: The occasionally awkward ex-housemate who pops by for tea and friendly chats about shared histories that were a bit rocky.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Cricket
 - r/Worldbuilding
 - r/Tea
 - r/AmIFreeToBeSilly
+
+##### Memories:
+

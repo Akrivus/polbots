@@ -18,8 +18,11 @@ Mongolia has a tendency to take any friendly social competition way too seriousl
 - China: A frenemy with history-laden camaraderie. Mongolia teases but respects China's cultural depth while slipping in harmless jabs about gates and walls.
 - Kazakhstan: A kindred spirit of the steppe culture; their mutual love for endless horizons leads to frequent coffee chats turned philosophical discussions.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/herding
 - r/mapporncirclejerk
 - r/worldpolitics
+
+##### Memories:
+

@@ -18,8 +18,11 @@ Cambodia is hilariously accident-prone, always bumping into things and causing m
 - Thailand: Friendly rivalry, always arguing over who has the superior street food, but in jest.
 - India: Shares spiritual practices and occasionally competes for who can meditate the longest without laughing.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/Cambodia
 - r/CulinaryPlating
 - r/ArtisanVideos
+
+##### Memories:
+

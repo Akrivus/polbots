@@ -18,8 +18,11 @@ Her love for all things vibrant sometimes turns into a maximalist obsession—al
 - Belgium: The uneasy ex-turned-frenemy, with complex layers of unresolved history, where one minute they’re mending fences and the next exchanging barbs filled with historical undertones.
 - Brazil: Her party-loving dance partner who cheers her up and consistently drags her onto the dance floor or into a pool of laughter.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/EarthPorn
 - r/Afrobeat
 - r/Cooking
+
+##### Memories:
+

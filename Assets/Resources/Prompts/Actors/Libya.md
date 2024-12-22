@@ -18,8 +18,11 @@ Libya humorously refers to herself as a "walking CNN breaking news alert" due to
 - Egypt: A sibling-like relationship filled with affection yet friendly bickering over whose history is cooler.
 - France: An on-and-off friend who makes grand gestures only to ghost for a while.
 
-##### Favorite Subreddits:
+##### Today On Reddit:
 
 - r/damnthatsinteresting
 - r/wholesomeentertainment
 - r/middleeasternmusic
+
+##### Memories:
+
