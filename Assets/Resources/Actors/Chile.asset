@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Chile
   m_EditorClassIdentifier: 
   Title: Chile
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Chile
   Aliases:
   - Chile
@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Tom\xE1s Alarc\xF3n"
   - "Mar\xEDa Jos\xE9 Castro"
   Voice: es-ES-Standard-C
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: dda5d4c5ebfea6c479e931df9ba4fa96, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

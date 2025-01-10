@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Bosnia and Herzegovina
   m_EditorClassIdentifier: 
   Title: Bosnia and Herzegovina
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Bosnia and Herzegovina
   Aliases:
   - Bosnia and Herzegovina
@@ -31,6 +31,7 @@ MonoBehaviour:
   - "Aleksandar Mitrovi\u0107"
   - "Mirza Teletovi\u0107"
   Voice: tr-TR-Standard-E
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: ec83a2fce92c0284a9a5c3455d460b0e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

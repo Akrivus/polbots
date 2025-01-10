@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Saudi Arabia
   m_EditorClassIdentifier: 
   Title: Saudi Arabia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Saudi Arabia
   Aliases:
   - Saudi Arabia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Hisham Al-Faqih
   - Thamir Al-Sharif
   Voice: ar-XA-Standard-C
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 51ef16207e2cded40a4abfde7baac7a6, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Brazil
   m_EditorClassIdentifier: 
   Title: Brazil
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Brazil
   Aliases:
   - Brazil
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Fernanda Lima
   - Chico Buarque
   Voice: pt-BR-Standard-B
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: e2f64c6296ea8284d9cfe1832031780e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

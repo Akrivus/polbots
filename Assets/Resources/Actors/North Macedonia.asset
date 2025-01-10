@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: North Macedonia
   m_EditorClassIdentifier: 
   Title: North Macedonia
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: North Macedonia
   Aliases:
   - North Macedonia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Aleksandar Vasilevski
   - Snezana Ristevska
   Voice: bg-BG-Standard-A
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: 46ac60915c736564f9145e1679dfaa9e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Japan
   m_EditorClassIdentifier: 
   Title: Japan
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Japan
   Aliases:
   - Japan
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Katsunobu Kato
   - Ryu Murakami
   Voice: ja-JP-Standard-D
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 23cd8051bc725b248ae40019e77a181e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

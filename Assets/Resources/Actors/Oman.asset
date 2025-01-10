@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Oman
   m_EditorClassIdentifier: 
   Title: Oman
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Oman
   Aliases:
   - Oman
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Awatif Al Harthy
   - Khalid Al Zadjali
   Voice: ar-XA-Standard-A
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: 1dd3a6edb6d37c94ebff7444c6bd10f2, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

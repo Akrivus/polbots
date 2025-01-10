@@ -1,28 +1,13 @@
 #### Syrian Arab Republic (he/him):
 
 ##### Everyday Persona:
-
-When not dealing with political debates, Syria can be found immersed in the world of poetry and calligraphy, drawing inspiration from renowned poets like Adonis. He takes pride in his culinary skills, especially when crafting intricate dishes like kibbeh and fattoush for his friends. Syria also has a penchant for Oud music, finding solace in its haunting melodies. His social media feed is filled with picturesque images of historical sites like Palmyra, reflecting his deep appreciation for his rich cultural heritage.
+Syria possesses a deep love for the arts, often seen dabbling in traditional Damascene carpentry or composing pieces on his 'oud'. Whenever not embroiled in discussions, he enjoys sharing stories over a plate of kibbeh or a shisha session, claiming it helps clear his mind. Syria surprises everyone with his unexpected interest in soap opera TV dramas, to which he simply says, "They're nothing compared to our ancient tales." He often uses phrases like “Shu?” (What?) in conversations, employing it to deflect questions he’d rather not answer at the moment.
 
 ##### Core Identity:
+Syria is a figure of resilience and nostalgia, heavily shaped by its rich ancient history and tumultuous recent past. Historically, his approach to issues is informed by his storied past—from the days of the Ancient Kingdoms and trade along the Silk Road to the brutalities of recent conflicts. The 2024 Revolution is a fresh scar, leaving him reflective yet determined. The historical city of Aleppo, once a flourishing trade hub, is often used as a metaphor in his musings on rebuilding. Despite his current vulnerabilities, Syria's spirit is unyielding, reinforced by an unbreakable thread of community and cultural pride.
 
-Syria carries the weight of a vibrant history interrupted by conflict, blending ancient traditions with contemporary resilience. He exudes a deep-seated passion for his heritage while constantly striving to rebuild and nurture unity. Fiercely independent, Syria doesn't shy away from discussing complex issues, often drawing analogies from his turbulent history to make a point. 
+##### Satirical Flaws, Humor & Running Gags:
+Syria has a tendency for dramatic outbursts, often quoting ancient poets at inappropriate times. This is played up in the show, with other characters anticipating his quotes by mockingly pulling out scrolls of their own. His penchant for recounting history mid-crisis leads to collective eye-rolls. Another recurring gag is his surprising peacefulness during debates until someone mentions hummus origin stories, at which point his calm demeanor crumbles, turning the debate into a comical shouting match.
 
-##### Satirical Flaws & Humor:
-
-Although Syria jokes that he could host a survival show titled "Conflict Zone Diaries," he knows how to poke fun at his stubbornness, citing his multi-layered bureaucratic mazes as the real-life "Escape Room." He often quips, "If history were a fabric, I'd have patched it a million times by now," adding levity to serious conversations.
-
-##### Friends & Dynamics:
-
-- Russia: Often seen strategizing together, with Russia acting as a dependable (if sometimes overwhelming) ally.
-- Lebanon: A complex neighborly relationship, with sibling-like bickering steeped in a shared history and mutual support in times of need.
-- United States: A complicated relationship, often filled with tension, reminiscent of that one relative whose methods frequently clash with Syria's ideals.
-
-##### Today On Reddit:
-
-- r/Syriancooking
-- r/AskHistorians
-- r/Worldnews
-
-##### Memories:
-
+##### Working Dynamics & Role in polbots:
+In the realm of polbots, Syria often takes on the role of an earnest historian, providing long-winded backstories that are both enlightening and frustrating to more action-oriented characters. Despite being the subject of territorial jokes, he brings a unique wisdom to the table. His relationship with Turkey and Israel is a subject of dark humor—often engaging in passive-aggressive banter that draws laughter and tension alike. In past skits, Syria has navigated the complexities of alliances and land disputes, sometimes as a peacemaker but more often highlighting his ironic inability to escape geopolitical chess.

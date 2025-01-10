@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Malawi
   m_EditorClassIdentifier: 
   Title: Malawi
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Malawi
   Aliases:
   - Malawi
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Senga Dube
   - Brighton Kumwenda
   Voice: en-GB-Standard-D
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: 6744a723129ea444d99470e012f795f9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

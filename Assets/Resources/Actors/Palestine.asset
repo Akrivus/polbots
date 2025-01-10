@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Palestine
   m_EditorClassIdentifier: 
   Title: Palestine
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Palestine
   Aliases:
   - Palestine
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Muna Abu Sulayman
   - Yasmeen Ghaith
   Voice: ar-XA-Standard-C
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: d17da0e10db1180409de4cf32876b1d3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

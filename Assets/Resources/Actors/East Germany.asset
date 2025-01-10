@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: East Germany
   m_EditorClassIdentifier: 
   Title: German Democratic Republic (Ghost)
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: East Germany
   Aliases:
   - East Germany
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Uwe Tellkamp
   - Ulrike Poppe
   Voice: de-DE-Standard-E
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: c324413ad2d76154abe0cdca7fd3b167, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

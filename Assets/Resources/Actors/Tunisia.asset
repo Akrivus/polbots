@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Tunisia
   m_EditorClassIdentifier: 
   Title: Tunisia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Tunisia
   Aliases:
   - Tunisia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Mourad Ben Romdhane
   - Najet Zgarni
   Voice: ar-XA-Standard-B
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: 50729c1f4d3cea846b4bd49454d1d96b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

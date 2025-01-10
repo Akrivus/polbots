@@ -13,23 +13,24 @@ MonoBehaviour:
   m_Name: Guyana
   m_EditorClassIdentifier: 
   Title: Guyana
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Guyana
   Aliases:
   - Guyana
   Players:
-  - Barbados Prime Minister Mia Mottley
-  - Former President Bharrat Jagdeo
-  - Former Prime Minister Sam Hinds
-  - Activist Dr. Ivelaw Griffith
-  - Businessman and economist Yesu Persaud
-  - Politician and environmentalist Anthony Vieira
-  - Former Minister of Education Priya Manickchand
-  - Cricket legend Shivnarine Chanderpaul
-  - Author and poet Grace Nichols
-  - Activist and journalist Janette Bulkan
-  - Politician and lawyer Khemraj Ramjattan
+  - Mia Mottley
+  - Bharrat Jagdeo
+  - Sam Hinds
+  - Dr. Ivelaw Griffith
+  - Yesu Persaud
+  - Anthony Vieira
+  - Priya Manickchand
+  - Shivnarine Chanderpaul
+  - Grace Nichols
+  - Janette Bulkan
+  - Khemraj Ramjattan
   Voice: en-US-Standard-C
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: b7d709882ced9e94098eb96d2487d417, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

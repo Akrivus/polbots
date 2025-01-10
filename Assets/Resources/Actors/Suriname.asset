@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Suriname
   m_EditorClassIdentifier: 
   Title: Suriname
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Suriname
   Aliases:
   - Suriname
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Marlon E. G. D. K. Stimulus
   - Rogier Armand
   Voice: nl-NL-Standard-C
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: 80ac9de604b21014da14da439ff6ccd9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

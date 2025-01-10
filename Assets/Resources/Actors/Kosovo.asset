@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Kosovo
   m_EditorClassIdentifier: 
   Title: Kosovo
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Kosovo
   Aliases:
   - Kosovo
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Artan Hoxha
   - Nexhmedin Spahiu
   Voice: he-IL-Standard-D
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 75abddda27b88c04ea6189cc844d59e6, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

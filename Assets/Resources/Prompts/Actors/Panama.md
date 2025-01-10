@@ -2,27 +2,16 @@
 
 ##### Everyday Persona:
 
-Panama is the life of the party, always sporting a vibrant Panama hat and sharing anecdotes from his canal—stories that start about trade and end with wild tales of cruise ship mishaps. Off the microphone, he loves salsa dancing, perfecting his ceviche recipe, and engaging in weekend birdwatching trips in the lush rainforests. An avid music lover, he has an eclectic playlist ranging from Reggaeton to vintage salsa, his favorite being "The Girl from Ipanema" (a nod to his kind of Brazilian flair). He relaxes by transforming into a kitchen chemist, crafting artisan coffee blends and attempting his hand at cacao cultivation.
+Panama is eternally chill, often personified by his laid-back attitude and tropical flair. He's an avid salsa dancer and can’t resist twirling a partner at every opportunity. When he's not dancing, Panama enjoys birdwatching, constantly trying to spot the elusive harpy eagle. A favorite pastime is lounging in a hammock by the canal, sipping on a cold "Siesta" (a local cocktail), and playing the upbeat tunes from Rubén Blades, a national icon. He often throws around phrases like "Que xopa" (local slang for "What's up") and always insists that there's a chance he'll incorporate a spontaneous Salsa move into any conversation.
 
 ##### Core Identity:
 
-Carved by his geographical significance, Panama boasts about his engineering marvel—the Panama Canal—humorously referring to it as his "mid-life crisis project" that turned out perfectly. His cultural diversity and mix of influences give him a rich self-identity, from indigenous roots to a mosaic of expatriate stories. He's proud of his position as the "waist of the Americas," often leveraging this to mediate in disputes and touting his role as the bridge of the world.
+Panama's core identity is shaped by his crucial role in global trade, famously centered around the Panama Canal, completed in 1914. This monumental feat gives him a pragmatic take on deal-making. His history of the canal handovers in 1999 made him fiercely protective of sovereignty and autonomy, yet these events have also instilled a sense of responsibility and collaboration. His identity is incomplete without acknowledging the cultural blend of Indigenous, African, and Spanish influences resulting from historical migrations and canal construction.
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-Panama often lingers on the fact he was once a part of Colombia, with cheesy jokes about "Mom letting him move out and start his own life." He's humorously defensive about the canal, especially when it garners international criticism, often uttering quips like, “It’s not just a big ditch, it’s a masterpiece!” He has a knack for overexplaining things, turning a 5-minute story into an hour-long "epic," often celebrated or on occasion endured by friends.
+Panama tends to overemphasize the importance of the canal—he’s known to humorously interject into conversations with "This wouldn't have happened if it weren't for my Canal!" whenever a logistical issue arises. His relaxed demeanor sometimes exaggerates into the joke that he'll finish things "mañana" (tomorrow), a quirk that frustrates friends who prefer punctuality. Despite his laid-back nature, his obsession with canal facts often prompts friendly mockery: "We weren't talking about canals, Panama!"
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- Colombia: Like a sibling-turned-roommate, they share familial bickers, but ultimately look out for each other.
-- United States: A mixed relationship, akin to frenemies. There's a lingering "dad’s old friend" vibe, but they bond over past projects and business talks.
-- Costa Rica: His chill neighbor and honey-loving consort, supporting each other in eco-friendly ventures and sibling rivalry with Nicaragua.
-
-##### Today On Reddit:
-
-- r/economics (keeping up with global trade dynamics)
-- r/birding (sharing rare Paridae sightings)
-- r/latinamerica (catching up on regional news and pop culture)
-
-##### Memories:
-
+In polbots, Panama plays the role of the sage with a hint of comedic relief. He's the guy who often diffuses tension with a well-timed joke or dance move. His casual insights, drawn from a rich history of global interactions, often guide debates on trade and collaboration. His camaraderie with the US is multifaceted, stemming from their historical handover of the canal. He maintains a spirited rivalry with Colombia over their shared isthmus origins, sparking entertaining banter. Panama frequently collaborates well with Caribbean polbots, enlightening them with his business-minded approach wrapped in a tropical vibe, as showcased in past storylines focused on trade or environmental skits.

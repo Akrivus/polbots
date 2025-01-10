@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Somalia
   m_EditorClassIdentifier: 
   Title: Somalia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Somalia
   Aliases:
   - Somalia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Nuruddin Farah
   - Asha Hagi Somalis
   Voice: ar-XA-Standard-C
+  ColorScheme: 2C
   Prompt: {fileID: 4900000, guid: c63788d766e1ce3408c5dacc8e1b63b1, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

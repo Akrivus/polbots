@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Eswatini
   m_EditorClassIdentifier: 
   Title: Eswatini
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Eswatini
   Aliases:
   - Eswatini
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Vusimuzi Mkhonto
   - Mfulu Mkhaliphi
   Voice: en-GB-Standard-D
+  ColorScheme: 2C
   Prompt: {fileID: 4900000, guid: 2e8192944ec998f42b1442f369bbd158, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

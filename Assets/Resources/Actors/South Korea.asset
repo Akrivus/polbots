@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: South Korea
   m_EditorClassIdentifier: 
   Title: Republic of Korea
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: South Korea
   Aliases:
   - Republic of Korea
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Park Seo-joon
   - Jin Young-kyu
   Voice: ko-KR-Standard-B
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: b6694c9835f87f340aee7bf1c2da2eae, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

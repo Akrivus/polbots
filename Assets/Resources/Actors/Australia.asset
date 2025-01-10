@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Australia
   m_EditorClassIdentifier: 
   Title: Australia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Australia
   Aliases:
   - Australia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Adam Goodes
   - Shane Warne
   Voice: en-AU-Standard-D
+  ColorScheme: 2A
   Prompt: {fileID: 4900000, guid: d76b9ecd21e89e448b306f0adfcd5d8f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

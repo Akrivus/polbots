@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Zambia
   m_EditorClassIdentifier: 
   Title: Zambia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Zambia
   Aliases:
   - Zambia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Bishop Edward Chomba
   - Grace Nkoza
   Voice: de-DE-Standard-H
+  ColorScheme: 3C
   Prompt: {fileID: 4900000, guid: eb7d1b665a5a1464587e8a133b9e3d0b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

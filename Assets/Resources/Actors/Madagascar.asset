@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Madagascar
   m_EditorClassIdentifier: 
   Title: Madagascar
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Madagascar
   Aliases:
   - Madagascar
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Patrice Ralainirina
   - Sonia Ravelojaona
   Voice: fr-FR-Standard-B
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: d18db693c5a733347a92b3b7de9b8d9b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

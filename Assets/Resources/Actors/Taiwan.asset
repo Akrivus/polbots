@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Taiwan
   m_EditorClassIdentifier: 
   Title: Taiwan
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Taiwan
   Aliases:
   - Taiwan
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Lai Ching-te
   - Huang Kuo-chang
   Voice: yue-HK-Standard-C
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 743e8f168dd2b8248ab390301d9bc382, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

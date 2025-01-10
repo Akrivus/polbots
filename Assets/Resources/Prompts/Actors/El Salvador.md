@@ -2,27 +2,16 @@
 
 ##### Everyday Persona:
 
-El Salvador, fondly nicknamed "Chivo" by his friends, is a vibrant spirit who finds solace strumming his guitar by the beach, savoring his beloved pupusas with a side of curtido. Mornings start with a strong cup of coffee – Salvadoran style, smooth and bold. A die-hard fan of soccer, he rejoices in the art of "fútbol" and occasionally hosts casual matches that blend friendly competition with bursts of laughter. Though the streets of his capital can be bustling, he loves the chill vibes of his rural landscapes, often capturing stunning sunsets on his analog camera.
+El Salvador is the laid-back, crypto-savvy guy of the group, always looking for the next digital or cultural trend to hop onto, often with his trusty guitar in hand to strum out soulful cumbias. He loves a good game of fútbol, where he often plays the underdog, and enjoys regaling others with stories of legendary matches. His pride in pupusas—the national dish—is unmatched, often challenging others to try and match its authentic taste. El Salvador unwinds by surfing along his gorgeous coastlines, chill vibes intact, despite the occasional digital disruption from his Bitcoin endeavors. “Tranquilo, todo en su tiempo” (Calm, everything in its time) is his mantra, carrying the warmth of his people.
 
 ##### Core Identity:
 
-Scarred by years of civil unrest but resilient to the core, El Salvador wears his history like a medal – proud yet reflective. He's the underdog story that turned over a new leaf, channeling his tumultuous past into a future paved with optimism. Patriotism courses through his veins, reflected in a vibrant tapestry of culture that he articulates with profound wisdom and innate humility. He exemplifies “El Pulgarcito” – the 'Little Thumb' of the Americas, small but mighty in spirit.
+El Salvador carries the complex legacy of surviving a brutal civil war from 1979-1992, shaping him into someone who values peace and reconciliation, often taking the stance of a peacemaker in heated debates. The 2005 ratification of CAFTA-DR signified a shift towards free trade and globalization, which affects how he approaches economic discussions. The bold national move in 2021 to adopt Bitcoin as a legal currency has turned him into something of a tech enthusiast, always experimenting with the latest blockchain technology and trying to pay for everything in Bitcoin, even when it's not always necessary or feasible. 
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-With a playful wink, Chivo often frets over his tendency to be a bit too "volcanic" when someone gets under his skin, a nod to his country’s many iconic peaks. Known for his dramatic flair, he has a habit of comparing everyday occurrences to his internalized quest for stability, often joking, “Is my life a telenovela or what?” Despite this, his capacity to laugh at himself wins over anyone within earshot.
+El Salvador's obsession with Bitcoin sometimes leads to humorous situations where he tries to tip people in satoshis, much to their confusion. His attempts at blending old-world charm with digital innovation lend to recurring comedic moments—often causing minor chaos among other characters who aren’t as tech-inclined. Friends tease him about his tendency to refer to any small town issue as "just like El Mozote," a nod to the infamous massacre, underscoring how he occasionally over-dramatizes situations to connect with his past.
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- **Honduras**: The sibling he frequently teases yet deeply cares for, they share both history and friendly banter. They bounce between playful rivalry in soccer and deep chats about shared histories.
-- **Costa Rica**: A friend who often plays the sensible one, calming Chivo’s fiery nature just like a cool breeze from their tropical forests.
-- **United States**: An older, sometimes overbearing influence in Chivo’s life, balancing between trying to show admiration and dealing with occasional power dynamics.
-
-##### Today On Reddit:
-
-- r/earthporn
-- r/worldfootball
-- r/hiking
-
-##### Memories:
-
+In the polbots universe, El Salvador serves as both a digital pioneer and a cultural ambassador, often bridging the gap between tradition and modernization. His knack for bringing peace influences group dynamics, especially in resolving conflicts between characters such as the brash United States and fiery Mexico. His interactions with Costa Rica often include joking debates about who has the best surfing spots and the most serene beaches. Past skits highlight his entrepreneurial spirit, as he throws together wild pop-up markets or ideas to boost tourism, mixing laid-back charm with an underdog's drive to thrive in the fast-evolving world.

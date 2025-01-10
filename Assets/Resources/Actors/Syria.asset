@@ -13,30 +13,31 @@ MonoBehaviour:
   m_Name: Syria
   m_EditorClassIdentifier: 
   Title: Syrian Arab Republic
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Syria
   Aliases:
   - Syrian Arab Republic
   - Syria
   Players:
-  - Bashar al-Assad
-  - Rami Makhlouf
-  - Walid al-Muallem
-  - Khaled Khoja
-  - Kinda Alloush
-  - Michael A. Kattan
-  - Mouaz al-Khatib
-  - Hanan Ashrawi
-  - Aref Dalila
-  - Salam Fayyad
-  - Hala Sarhan
+  - Ahmed al-Sharaa
+  - Mohammad Ghazi al-Jalali
+  - Mohammed al-Bashir
+  - Aisha al-Dibs
+  - Mazloum Abdi
+  - Kino Gabriel
+  - "Ferhad \u015Eam\xEE"
+  - Hadi al-Bahra
+  - Abdurrahman Mustafa
+  - Hassan Hamada
+  - Adnan al-Ahmad
   Voice: ar-XA-Standard-C
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: c6488c863e3f39d4494afc0adeb68493, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1
   Pitch: 0
-  Color: {r: 0.5484391, g: 0.30042997, b: 0.32525212, a: 1}
-  Color1: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}
-  Color2: {r: 0.08235294, g: 0.078431375, b: 0.08235294, a: 1}
-  Color3: {r: 0.80784315, g: 0.06666667, b: 0.14901961, a: 1}
+  Color: {r: 0.30729878, g: 0.44492662, b: 0.3643651, a: 1}
+  Color1: {r: 0, g: 0, b: 0, a: 1}
+  Color2: {r: 0, g: 0.47843137, b: 0.23529412, a: 1}
+  Color3: {r: 1, g: 1, b: 1, a: 1}
   DefaultSentiment: {fileID: 11400000, guid: 08672e6e2b9af0b42b3e90136d2c955f, type: 2}

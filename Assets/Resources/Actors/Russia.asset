@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Russia
   m_EditorClassIdentifier: 
   Title: Russian Federation
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Russia
   Aliases:
   - Russian Federation
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Svetlana Alexievich
   - Lyudmila Alexeyeva
   Voice: ru-RU-Standard-C
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 826fe87e013da3b46b43367edfe69bb0, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

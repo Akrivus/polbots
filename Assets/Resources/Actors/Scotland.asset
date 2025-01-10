@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Scotland
   m_EditorClassIdentifier: 
   Title: Scotland
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Scotland
   Aliases:
   - Scotland
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Patrick Harvie
   - Katherine Grainger
   Voice: en-GB-Standard-C
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 180d97df9663d1542aabc73061a7df24, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

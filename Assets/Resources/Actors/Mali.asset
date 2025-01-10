@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Mali
   m_EditorClassIdentifier: 
   Title: Mali
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Mali
   Aliases:
   - Mali
@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Traor\xE9 S\xE9kou"
   - Ousmane Sonko
   Voice: fr-FR-Standard-B
+  ColorScheme: 4C
   Prompt: {fileID: 4900000, guid: f23b5bb4db5f6ad4982fa811f7d39a9a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

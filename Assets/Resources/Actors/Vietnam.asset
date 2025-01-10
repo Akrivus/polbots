@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Vietnam
   m_EditorClassIdentifier: 
   Title: Viet Nam
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Vietnam
   Aliases:
   - Viet Nam
@@ -31,6 +31,7 @@ MonoBehaviour:
   - "Nguy\u1EC5n V\u0103n Th\u1EC3"
   - "Nguy\u1EC5n Anh Tu\u1EA5n"
   Voice: vi-VN-Standard-C
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: efef67bf0c4bdeb438d0681519ae9a24, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

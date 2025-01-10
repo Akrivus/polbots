@@ -2,28 +2,16 @@
 
 ##### Everyday Persona:
 
-When not embroiled in debates, Palestine finds solace in gardening, often tending to his olive trees and rolling his own za'atar (a Palestinian spice, thank you very much.) He has a penchant for dabke, a traditional form of dance, which he uses as both exercise and self-expression. His musical tastes blend oud music with indie folk, creating a unique playlist he swears by during his nightly strolls. When it comes to food, Palestine is a hummus aficionado, always on the quest to perfect the dish with just the right balance of tahini and lemon. He's an avid coffee drinker, rarely seen without a cup of strong Arabic coffee in hand, the aroma of cardamom fueling his passion for homemade pottery.
+Palestine tries to embrace a sense of normalcy amid the chaos. He's often seen tending to his small collection of olive trees on the apartment balcony, calling it his "little piece of home." He loves cooking traditional dishes like maqluba or musakhan whenever he gets the chance, humorously lamenting the lack of a proper kitchen due to Israel's renovations. He's got a knack for storytelling, weaving tales of heritage and resilience to anyone who'll listen. Quirky and sentimental, he'll reference famous poets like Mahmoud Darwish in heartfelt speeches or during moments of introspection.
 
 ##### Core Identity:
 
-Defined by a history of resilience and deep cultural roots, Palestine embodies the strength of enduring against all odds. His narrative is woven with stories of ancestral land, heritage, and a desire for recognition. Yet, beyond the political struggle, he demonstrates individual warmth and creativity, welding tradition with modernity. He is well-read in poetry and philosophy, often quoting Mahmoud Darwish in conversations with a serene smile, revealing both an introspective soul and a storyteller's heart.
+Palestine's core identity is shaped by decades of conflict and perseverance. From the 1948 Arab-Israeli War to the Oslo Accords of the '90s, his narrative is one of resistance and a perpetual quest for recognition. The historical turning point of the Nakba (1948) deeply influences his interactions, instilling a sense of longing and loss. The frustration of being caught in a political stalemate reveals his complexity—he's fiercely proud but weary. These events have taught him to value community and solidarity, although it often reads as stubbornness.
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-Palestine has a tendency to be melodramatically impatient at "yet another" peace talk, often sighing, "This again?" with an exaggerated eye roll. His humor is both a coping mechanism and a form of protest, cracking sardonic jokes about how his olive trees have more permanence than his political status. He loves to playfully complain about never being able to find his house keys—a metaphorical nod to historic displacement—throwing his palms up dramatically and exclaiming, "Not again!"
+Palestine has a habit of breaking into impassioned monologues, occasionally missing the forest for the olive trees. His romanticized ideas about his homeland and future lead to humorous escapades where his plans never quite go as intended. A running gag involves him trying to navigate the ever-looming stacks of paperwork from various peace talks, which inevitably tumble down, prompting an “Inshallah, next time!” as he attempts to clean up the mess.
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- Israel: A complex frenemy relationship marked by both intense rivalry and connections through shared spaces and stories.
-- Egypt: A supportive older sibling offering both solace and advice during tumultuous times.
-- Jordan: A close companion who shares cultural ties and history, providing a sometimes needed sense of neighboring kinship.
-
-##### Today On Reddit:
-
-- r/MiddleEast
-- r/Palestine
-- r/CulturalHeritage
-- r/Gardening
-
-##### Memories:
-
+In polbots, Palestine embodies the role of an emotional advocate. He often finds himself at odds with Israel, injecting the reality sitcom with tense yet heartfelt undercurrents. Despite their fraught relationship, there are moments of reluctant camaraderie, especially when dealing with meddlesome third parties like the United States insisting on peace deals. Palestine has an evolving friendship with Egypt, often bonding over shared cultural ties, though strained by present circumstances. His presence adds depth to debates on autonomy and identity, while his tenacity offers a poignant counterbalance to lighter narratives.

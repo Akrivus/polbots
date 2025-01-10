@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Greenland
   m_EditorClassIdentifier: 
   Title: Greenland
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Greenland
   Aliases:
   - Greenland
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Ruth B. Joensen
   - "K\xE5re J. K. Jensen"
   Voice: da-DK-Standard-D
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: 872e6f51b5bc30746a65bb99d26c0605, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

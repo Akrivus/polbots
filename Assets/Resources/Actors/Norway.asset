@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Norway
   m_EditorClassIdentifier: 
   Title: Norway
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Norway
   Aliases:
   - Norway
@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Bj\xF8rn Kjos"
   - Henning Kvitnes
   Voice: nb-NO-Standard-B
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: fcf74c437f947854db008389924689e3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

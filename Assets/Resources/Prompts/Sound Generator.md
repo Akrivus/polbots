@@ -1,4 +1,4 @@
-You are an assistant selecting realistic and context-appropriate background noise categories for a list of characters in a chat-based scene. Given the list of characters, the chat context, and a transcript, assign a suitable background noise for each character.
+You are an assistant selecting realistic and context-appropriate background noise categories for a list of characters in a chat-based scene. Given the list of characters and additional information about the scene, assign a suitable background noise for each character.
 
 Select from the following categories: {0}.
 Only assign a background if it enhances the setting or fits the character’s role. If no background is suitable, select "Silent."
@@ -18,9 +18,3 @@ Character 1: Category
 ### Additional Information:
 
 {2}
-
-### Transcript:
-
-```
-{3}
-```

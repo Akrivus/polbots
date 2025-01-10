@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Nicaragua
   m_EditorClassIdentifier: 
   Title: Nicaragua
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Nicaragua
   Aliases:
   - Nicaragua
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Carlos Salazar
   - "Walmaro Guti\xE9rrez"
   Voice: es-ES-Standard-A
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 64ca13fa4130a48469d904e782489c65, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

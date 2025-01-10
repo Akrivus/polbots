@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: United Nations
   m_EditorClassIdentifier: 
   Title: United Nations
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: United Nations
   Aliases:
   - United Nations
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Malala Yousafzai
   - Greta Thunberg
   Voice: pt-PT-Standard-C
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 2cc7e27fcc13f1c4ea6437aefe17efcc, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

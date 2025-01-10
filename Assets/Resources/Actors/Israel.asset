@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Israel
   m_EditorClassIdentifier: 
   Title: Israel
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Israel
   Aliases:
   - Israel
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Diana Buttu
   - Eran Zaslow
   Voice: he-IL-Standard-B
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 8b6fa97fadd537348b4ae24df99709cc, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

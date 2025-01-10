@@ -23,6 +23,9 @@ public class DiscordIntegration : MonoBehaviour, IConfigurable<DiscordConfigs>
 
     private void ReportChatNodeActivation(ChatNode node)
     {
+        if (node.Line == null)
+            return;
+
         var reaction = node.Reactions.FirstOrDefault(r => r.Actor == node.Actor);
         var sentiment = node.Actor.DefaultSentiment.Name;
         if (reaction != null)

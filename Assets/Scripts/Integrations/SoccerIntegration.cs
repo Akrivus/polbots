@@ -29,9 +29,6 @@ public class SoccerIntegration : MonoBehaviour
     private ChatEventBroker broker;
 
     [SerializeField]
-    private ChatGenerator ChatGenerator;
-
-    [SerializeField]
     private AudioSource _audio;
 
     [SerializeField, Range(0f, 1f)]
@@ -59,8 +56,8 @@ public class SoccerIntegration : MonoBehaviour
 
     private void Start()
     {
+        // ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
         ChatManager.Instance.OnIntermission += (chat) => ToggleGame(chat);
-        ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
     }
 
     private void Update()
@@ -85,31 +82,28 @@ public class SoccerIntegration : MonoBehaviour
 
         while (home == away)
             away = names[Random.Range(0, names.Length)];
-        ChatGenerator.AddIdeaToQueue(new Idea(
-            $"Let's play a casual and fun game of soccer between {home} and {away}!"));
+        new Idea($"Let's play a casual and fun game of soccer between {home} and {away}!");
     }
 
     private IEnumerator ToggleGame(Chat chat)
     {
+        if (!chat.NewEpisode || chat.IsLocked)
+            yield break;
         if (_isMatchLoaded)
         {
             var task = UnloadGame();
             yield return new WaitUntil(() => task.IsCompleted);
         }
-        if (chat.Type != "SOCCER")
-            yield break;
-        if (chat.Actors.Length < 2)
-            yield break;
 
         var topic = chat.Topic;
         var homeName = topic.Find("Home").Trim().Replace("*", string.Empty);
         var awayName = topic.Find("Away").Trim().Replace("*", string.Empty);
 
-        var home = Actor.All[homeName] ?? chat.Actors[0].Actor;
-        var away = Actor.All[awayName] ?? chat.Actors[1].Actor;
+        var home = Actor.All[homeName] ?? chat.Actors[0].Reference;
+        var away = Actor.All[awayName] ?? chat.Actors[1].Reference;
 
         while (home == away)
-            away = chat.Actors[Random.Range(0, chat.Actors.Length)].Actor;
+            away = chat.Actors[Random.Range(0, chat.Actors.Length)].Reference;
         
         LoadGame(home, away);
     }

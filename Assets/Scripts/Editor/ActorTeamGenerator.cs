@@ -9,14 +9,73 @@ using UnityEngine;
 
 public static class ActorTeamGenerator
 {
+    [MenuItem("Tools/Generate Character Spreadsheet")]
+    public static async void GenerateActorSpreadsheet()
+    {
+        var csv = new List<string> { "Name,Note" };
+        var actors = Resources.LoadAll<Actor>("Actors");
+
+        foreach (var actor in actors)
+            csv.Add($"{actor.Name},");
+        await File.WriteAllLinesAsync("./Assets/Resources/Actors.csv", csv);
+    }
+
     [MenuItem("Tools/Generate Character Prompts")]
     public static async void GenerateActorPrompts()
     {
         var asset = Resources.Load<TextAsset>($"Prompts/Tools/Actor Prompts");
         var actors = Resources.LoadAll<Actor>("Actors");
 
+        var csv = File.ReadAllLines("./Assets/Resources/Actors.csv");
+        for (var i = 1; i < csv.Length; ++i)
+        {
+            var columns = csv[i].Split(',');
+
+            var actor = actors.FirstOrDefault(x => x.Name == columns[0]);
+            var note = string.Join(",", columns.Skip(1));
+
+            if (!string.IsNullOrWhiteSpace(note))
+                note = "#### Writer's Note:\n\n" + note;
+
+            if (actor)
+                await GenerateActorPrompt(asset, actor, note);
+        }
+
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
+    [MenuItem("Tools/Generate Character Color Schemes")]
+    public static async void GenerateActorColorSchemes()
+    {
+        var asset = Resources.Load<TextAsset>($"Prompts/Tools/Skin Tones");
+        var actors = Resources.LoadAll<Actor>("Actors");
+
         foreach (var actor in actors)
-            await GenerateActorPrompt(asset, actor);
+            await GenerateActorColorScheme(asset, actor);
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
+    [MenuItem("Tools/Fix Character Pronouns")]
+    public static void FixActorPronouns()
+    {
+        var actors = Resources.LoadAll<Actor>("Actors");
+
+        foreach (var actor in actors)
+        {
+            if (actor.Pronouns.Contains("they/them"))
+                actor.Pronouns = "they/them";
+            else if (actor.Pronouns.Contains("she/her"))
+                actor.Pronouns = "she/her";
+            else if (actor.Pronouns.Contains("he/him"))
+                actor.Pronouns = "he/him";
+            else
+                actor.Pronouns = "they/them";
+            // mark the object as dirty so it gets saved
+            EditorUtility.SetDirty(actor);
+        }
+
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
     }
@@ -49,7 +108,7 @@ public static class ActorTeamGenerator
                 .ToArray();
         }
 
-        var texture = Resources.Load<Texture2D>($"Actors/{actor.Name}");
+        var texture = Resources.Load<Texture2D>($"Flags/{actor.Name}");
         if (!texture)
             return;
         var pixels = texture.GetPixels();
@@ -109,11 +168,22 @@ public static class ActorTeamGenerator
         return sortedColors[i];
     }
 
-    private static async Task GenerateActorPrompt(TextAsset asset, Actor actor)
+    private static async Task GenerateActorPrompt(TextAsset asset, Actor actor, string note)
     {
-        var prompt = asset.Format(actor.Title, actor.Pronouns);
+        var prompt = asset.Format(actor.Title, actor.Pronouns, note);
         var output = await OpenAiIntegration.CompleteAsync(prompt, false);
 
+        output = output.Replace("```", string.Empty).Trim();
+
         File.WriteAllText($"./Assets/Resources/Prompts/Actors/{actor.Name}.md", output);
+    }
+
+    private static async Task GenerateActorColorScheme(TextAsset asset, Actor actor)
+    {
+        var prompt = asset.Format(actor.Name);
+        var output = await OpenAiIntegration.CompleteAsync(prompt, true);
+
+        actor.ColorScheme = output.Find("Color Scheme");
+        EditorUtility.SetDirty(actor);
     }
 }

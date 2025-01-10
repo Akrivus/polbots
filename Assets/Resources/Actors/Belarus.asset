@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Belarus
   m_EditorClassIdentifier: 
   Title: Belarus
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Belarus
   Aliases:
   - Belarus
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Siarhei Tsikhanouski
   - Svetlana Alexievich
   Voice: ru-RU-Standard-B
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 97c3c93d640f3af46b9216ea727d1ef8, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

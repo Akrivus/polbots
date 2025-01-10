@@ -28,9 +28,3 @@ America: 🥯
 ### Additional Information:
 
 {1}
-
-### Transcript:
-
-```
-{2}
-```

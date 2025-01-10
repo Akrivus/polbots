@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Portugal
   m_EditorClassIdentifier: 
   Title: Portugal
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Portugal
   Aliases:
   - Portugal
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Nuno Ribeiro
   - Fado do Mundo
   Voice: pt-PT-Standard-A
+  ColorScheme: 4A
   Prompt: {fileID: 4900000, guid: 0d1c209a9851512459d7f1cadcacfbdf, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

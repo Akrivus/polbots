@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Taliban
   m_EditorClassIdentifier: 
   Title: Islamic Emirate of Afghanistan
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Taliban
   Aliases:
   - Islamic Emirate of Afghanistan
@@ -32,6 +32,7 @@ MonoBehaviour:
   - Mohammad Ali Zaman
   - Bashir Ahmad Hanzala
   Voice: pa-IN-Standard-D
+  ColorScheme: 4A
   Prompt: {fileID: 4900000, guid: 1dadebcbb0ebad4489b183b63747a18a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

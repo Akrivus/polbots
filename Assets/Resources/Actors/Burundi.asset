@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Burundi
   m_EditorClassIdentifier: 
   Title: Burundi
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Burundi
   Aliases:
   - Burundi
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Anastase Murekezi
   - Aimable Karirima
   Voice: fr-FR-Standard-A
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: c7f7ae098227e1f4db12d9f6f4e67117, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Lesotho
   m_EditorClassIdentifier: 
   Title: Lesotho
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Lesotho
   Aliases:
   - Lesotho
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Mokhothu K. A.
   - '''Manthabiseng Phoofolo'
   Voice: en-GB-Standard-D
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: 6ab03508d564d2a47ab07888cbd8283d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

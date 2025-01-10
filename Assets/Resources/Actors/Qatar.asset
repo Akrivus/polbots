@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Qatar
   m_EditorClassIdentifier: 
   Title: Qatar
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Qatar
   Aliases:
   - Qatar
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Alia Ibrahim
   - Dr. Ali Al-Ahmed
   Voice: ar-XA-Standard-B
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 42dc8553d88892e41b19e9b7b10e3768, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

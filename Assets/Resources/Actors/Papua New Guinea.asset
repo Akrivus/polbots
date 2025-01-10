@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Papua New Guinea
   m_EditorClassIdentifier: 
   Title: Papua New Guinea
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Papua New Guinea
   Aliases:
   - Papua New Guinea
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Allan Bird
   - Louise A. L. Hahai
   Voice: en-AU-Standard-C
+  ColorScheme: 2C
   Prompt: {fileID: 4900000, guid: c1f9c3caa56ab494c8ecaf6e36f5b3f3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

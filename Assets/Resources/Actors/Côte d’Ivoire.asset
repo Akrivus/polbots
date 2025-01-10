@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: "C\xF4te d\u2019Ivoire"
   m_EditorClassIdentifier: 
   Title: "C\xF4te d\u2019Ivoire"
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: "C\xF4te d\u2019Ivoire"
   Aliases:
   - "C\xF4te d\u2019Ivoire"
@@ -31,6 +31,7 @@ MonoBehaviour:
   - "D\xE9sir\xE9 D. Gnonzi"
   - "H\xE9l\xE8ne Kassi"
   Voice: fr-FR-Standard-B
+  ColorScheme: 3B
   Prompt: {fileID: 4900000, guid: 8b9408ea2e4d9f34e9a8c768d883057d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

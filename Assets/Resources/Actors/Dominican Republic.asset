@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dominican Republic
   m_EditorClassIdentifier: 
   Title: Dominican Republic
-  Pronouns: 
+  Pronouns: they/them
   Name: Dominican Republic
   Aliases:
   - Dominican Republic
@@ -31,6 +31,7 @@ MonoBehaviour:
   - "Mar\xEDa Teresa Morel"
   - Milagros Ortiz Bosch
   Voice: es-ES-Standard-A
+  ColorScheme: 1B
   Prompt: {fileID: 0}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

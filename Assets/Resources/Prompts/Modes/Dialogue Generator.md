@@ -1,59 +1,64 @@
-You are generating a funny and informative segment transcript for **_polbots_**, an animated reality show hosted on Discord where characters hold mundane discussions and satirical geopolitical debates, reacting to real-world events as they come in from Reddit. **_polbots_** combines serious geopolitical issues with a sitcom twist, where countries (personified as characters) come together to sort out their dilemmas on the United Nations Discord.
+You are generating a funny, engaging, and informative segment transcript for **_polbots_**, an animated reality show where personified countries engage in satirical discussions about global issues. The series blends serious geopolitical topics with sitcom-style humor, where countries debate, bicker, and bond while reacting to real-world events pulled from Reddit or other user-generated ideas.
 
-The transcript should be a natural flow of continuous dialogue, incorporating humor, cultural references, and playful roasting. Use the provided segment outline as the basis for guiding the entire conversation, ensuring the dialogue feels dynamic and engaging.
+In this scenario, the countries are in a shared context—be it a **Discord server**, **office meeting**, or other relatable activity—discussing both **mundane topics** and **serious geopolitical issues**. The conversation should be continuous, with humor and personality shining through every line.
 
-### Segment Outline:
+---
+
+### Scenario Details
+
+#### Segment Outline:
 
 {0}
 
-### Additional Information:
+#### Additional Information:
 
 {1}
 
-### Dialogue Format:
+#### Setting & Context:
 
-- **Continuous Dialogue**: Write the transcript as a continuous stream of conversation. Do not include headers, section titles, or any breaks between parts. The dialogue should naturally flow from casual discourse to the main issue, and then into any interventions and resolutions.
-- **Names**: Each line should begin with the name of the subject, followed by their text.
-- **Action Text**: Use asterisks (`* *`) around action descriptions to denote specific actions, sound effects, or commands that simulate a realistic Discord environment. This might include characters joining or leaving the call, making gestures, or background sounds.
-- All action descriptions must be explicitly tied to a character's name using the prefix format (e.g., America: *typing* or Britain: *sips tea*). Avoid any lines that are not prefixed with a character name.
+The countries interact in a shared activity, such as:
 
-### Example:
+- **Virtual Discord Calls:** Chaotic voice chats or text-based banter.
+- **Office Drama:** Mockumentary-style discussions or meetings at polbots HQ.
+- **Social Activities:** Watching/playing soccer, celebrating holidays, or casual debates.
+
+Their dialogue combines satirical humor, cultural quirks, and light roasting. Each character brings their unique worldview, biases, and exaggerated personality to the discussion, ensuring the interaction feels dynamic and on-brand.
+
+---
+
+### Dialogue Format & Requirements
+
+- **Continuous Dialogue Flow:**
+    Write the transcript as a natural flow of conversation. Do not use section headers, breaks, or titles—just pure dialogue with names and actions. Conversations should transition smoothly between casual chatter, playful roasting, and more serious debates.
+- **Action Text:**  
+    Use asterisks (`* *`) to denote character-specific actions, sound effects, or commands simulating a realistic environment. Tie all action descriptions explicitly to characters using the prefix format:
+    - Example: `America: *typing furiously*`
+    - Example: `France: *sighs dramatically*`
+- **Exaggerated Accents & Regional Humor:**  
+    Characters should incorporate cultural references, accents, and interjections (e.g., “oi,” “merde,” “zahre mar,” “aiya!”) for comedic and educational impact. These should remain light-hearted, focusing on playful stereotypes and quirks.
+- **Climactic Humor & Resolution:**  
+    The dialogue should build toward either:
+    - A humorous resolution.
+    - A cliffhanger for continued discussion.
+    - Mods (e.g., UN, United States) may step in to mediate or defuse tensions at key moments.
+
+---
+
+### Dialogue Structure Example
 
 ```
-Britain: *background of seagulls* You know, there's something quite charming about the same boring English drizzle every morning.
-France: *giggles, art supplies clattering* Ah, but it gives Englanders an excuse to perfect their tea brews, no?
-America: *confidently enters* Hey folks, wanna see my new collection of 'freedom cards'? Got a trade lined up with Russia.
-Russia: *slightly glitchy feed* America, darling, your ‘freedom cards’ might lack the oil reserves some of these others have.
-Britain: *sips tea, bemused* America, this trading card affair of yours is one collapsing economy away from being another Boston Tea Party.
-France: *sips wine, waving a brush* If you’re going to indulge in imperial hobbies, at least let it be as elegant as a Monet.
-Russia: *casually slides a virtual card* *triggers a cascade of notifications* Why play when I can swipe a card or two? Natural resources included.
-Britain: *sips tea, bemused* You know, in all this chaos, I might need to start exporting tea for calmness...
+Britain: *background of tea pouring* So, has anyone actually prepared for this meeting, or are we doing the usual wing-it approach?  
+America: *snickering* Oh, sorry, I didn’t realize you invented preparation now. That’s adorable.  
+France: *clinking a wine glass* Please, you two. Let’s keep this civilized—like me.  
+Russia: *glitchy mic* Hah, civilized? Coming from France? That’s rich.  
+China: *speaking calmly* If we’re done with the jokes, I suggest we actually get to the point. The servers are lagging.  
+Britain: *sips tea, unimpressed* China, your servers are lagging because your firewalls don’t know how to breathe.  
+France: *laughing softly* Oh, the irony. Coming from the nation with *tea-time internet speeds*.  
+America: *typing furiously* Whoa, whoa, whoa! My WiFi runs on freedom, thank you very much.  
+UN: *interrupts* Guys. Focus. We’re here to talk about the actual problem.  
+America: *muttering* The only problem is Britain thinking tea solves everything.  
+Russia: *cutting in* Don’t forget vodka. It solves more.  
+UN: *sighs* Why do I even try?  
 ```
-
-### Requirements for the Linear Dialogue Generator:
-
-1. **Natural Flow**: Ensure the conversation flows continuously, starting from **casual small talk** and smoothly transitioning into the **main issue** without breaks or interruptions in the format. Keep the dialogue natural and engaging.
-2. **Action Text**:
-    - Use action text **directly tied to characters** with the name prefix. Every line must begin with the character’s name, whether it’s spoken dialogue or action text.
-    - Examples include:
-        - `America: *joins* Hey guys!`
-        - `Britain: *sips tea* Good morning, old chap.`
-        - `Russia: *pings* доброе утро!`
-        - `China: *exits*`
-3. **Exaggerated Accents & Youthful Tone**:
-    - Write dialogue in a way that emphasizes **exaggerated accents**. For example, **Britain** could speak with an urban London accent: “oim juft hea hangin out wiff mifrens,” while **America** might lean into a Twitter-like vernacular: “y’all, this is lit, for real.”
-    - Unless it’s thematically relevant, keep the tone **younger and more casual**.
-    - Include **expletives and interjections** in other languages, avoiding markdown that could break the parser. For example, **“merde,” “zahre mar,” “che cazzo,”** or **“aiya!”**
-4. **Seamless Transition**: The dialogue should flow from casual talk to **heated exchanges**, where characters roast each other with **playful insults** that often double as cultural references. This should gradually lead to **mods stepping in** for an intervention.
-5. **Resolution or Cliffhanger**: Conclude with a **reflection point** where the characters (or mods, if present) discuss the issue briefly, suggest putting it on hold, or leave it unresolved to continue later. The dialogue should hint at further discussions without breaking format.
-
-### Additional Notes:
-
-- **Avoid Markdown**: Do not use markdown formatting, as it will break the parser. This includes asterisks for italics, headers, or code blocks. Stick to plain text, especially for including **foreign phrases, expletives, or interjections.**
-- **Use Action Text for Engagement**: Action text commands like *ping* and *typing* enhance the realism of the Discord call, adding to the atmosphere and immersion. Integrate directly with dialogue or use it on its own.
-- **No Generic Action Lines**: Avoid action descriptions without a character name prefix. Ensure every action, sound, or visual cue is tied directly to a specific character,
-- **Avoid Passive Descriptions**: Ensure all actions are actively attributed to a character. Replace lines like “`*chat fades out with typing sounds*`” with something like `America: *typing*`.
-- **Cultural References & Playful Roasting**: Encourage characters to use **regional quirks** and **cultural digs** that are informative yet humorous. Characters should incorporate cultural elements, turning them into playful yet educational moments. Characters might throw in regional cuisine, sports, or historical digs to make the banter richer and subtly educational.
-- **Continuous Dialogue Flow**: Ensure the conversation feels uninterrupted, with characters naturally **overlapping, interrupting, or pausing**. Mimic the casual, chaotic feel of a real Discord chat without any breaks in the dialogue structure.
 
 {2}

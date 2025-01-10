@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: El Salvador
   m_EditorClassIdentifier: 
   Title: El Salvador
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: El Salvador
   Aliases:
   - El Salvador
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Carlos Lazo
   - Ana Vilma de Escobar
   Voice: es-US-Standard-C
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: 03f38003336344d4e873e311e8c7fc26, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

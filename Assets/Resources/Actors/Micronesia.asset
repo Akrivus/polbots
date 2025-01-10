@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Micronesia
   m_EditorClassIdentifier: 
   Title: Federated States of Micronesia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Micronesia
   Aliases:
   - Federated States of Micronesia
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Eldrin C. K. K. Kitu
   - Daniel F. S. W. Tetiro
   Voice: en-US-Standard-B
+  ColorScheme: 2A
   Prompt: {fileID: 4900000, guid: 280625716d22f9f4ba2e15af2228f627, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

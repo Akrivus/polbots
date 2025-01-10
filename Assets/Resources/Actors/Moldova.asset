@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Moldova
   m_EditorClassIdentifier: 
   Title: Republic of Moldova
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Moldova
   Aliases:
   - Republic of Moldova
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Victor Ponta
   - Oleg Serebrian
   Voice: ro-RO-Standard-B
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: ed123fa2958807848830c77e84f45ace, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -12,7 +12,7 @@ public class FlagController : AutoActor, ISubActor
 
     private Texture2D LoadTexture(string name)
     {
-        flagTexture = Resources.Load<Texture2D>($"Actors/{name}");
+        flagTexture = Resources.Load<Texture2D>($"Flags/{name}");
         return flagTexture;
     }
 

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Gabon
   m_EditorClassIdentifier: 
   Title: Gabon
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Gabon
   Aliases:
   - Gabon
@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Eug\xE8ne Dossou"
   - "Val\xE9rie D'Aboiga"
   Voice: fr-FR-Standard-A
+  ColorScheme: 2C
   Prompt: {fileID: 4900000, guid: b5eb4343645227c4ba6b36432a7873c9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

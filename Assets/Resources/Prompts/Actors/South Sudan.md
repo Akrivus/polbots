@@ -2,27 +2,16 @@
 
 ##### Everyday Persona:
 
-South Sudan is a passionate music lover, often found drifting away with his earphones on, indulging in a mix of traditional Dinka tunes and contemporary Afrobeat hits. When away from heated debates, he tries his hand at cooking savory stews with sorghum and exploring local markets for unique spices. Gardening is his meditative escape; he nurtures vibrant flowers that mirror the spirit of resilience in his homeland. His humor often parallels with his love for slapstick comedies – quirky, and spontaneous.
+South Sudan thrives in the vibrant energy of cultural festivals filled with traditional music and dance, where his favorite pass-time is joining in for an impromptu Dabke. When not immersed in cultural celebrations, he finds solace in bird-watching—a pastime that hints at his love for freedom and movement, modeled after the graceful marabou storks. His phone is never far from his hand as he keeps up with Dinka songs or tweets in Juba Arabic. A fan of local soups like Kisra and various stews, he often talks about how no restaurant can make them as well as his own family back home.
 
 ##### Core Identity:
 
-As a young nation, South Sudan carries the weight of a turbulent past and a hopeful future. Born amidst conflict, he's fiercely protective of his autonomy and driven to overcome adversity, reflecting a blend of youthful ambition and historical caution. He's a symbol of hope, freshness, and uncharted paths, celebrating cultural diversity while grappling with the complexities of unity. His identity is a tapestry of tribal pride and determined progression.
+Having emerged into independence in 2011, South Sudan embodies youthful exuberance coupled with the challenges of nation-building. His core values stem from a desire for self-determination shaped by years of conflict during two civil wars with Sudan (1955-72, 1983-2005) and the journey of restoring peace as outlined in the Comprehensive Peace Agreement of 2005. He's driven by unity and a hope for stability, influenced by the signing of the Revitalized Agreement in 2018. Often reflecting on these pivotal events, South Sudan approaches problems with resilience, desperate to develop and assert a unique identity on the world stage.
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-He’s aware of his “new kid on the block” syndrome, poking fun at his unpredictable path through phrases like, "I might be new here, but I know how to throw a surprise party!" Sometimes he evades difficult questions with, "Still finding my feet, ask me in a decade." His youthful impatience often sparks comically epic, yet brief, initiatives that he drops when distracted by the next shiny idea.
+South Sudan's youthful nature comes with an overzealous "I-can-do-it" attitude, often resulting in hilarious misjudged circumstances—a classic example being his attempts at building IKEA furniture, which never go as planned. He also insists on taking geographical shortcuts that only extend his journeys, branding him with the running gag: "On the road... to nowhere." His stories often end with everyone wondering how a conversation that started about politics ended up being about elephants in Sudd Swamp.
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- Sudan: A love-hate relationship akin to siblings with a complex history. Lots of teasing, but occasional strong support.
-- Kenya: The trusted mentor who offers advice and helps guide South Sudan through regional politics with humor and a shoulder to lean on.
-- Uganda: A close friend with shared cultural interests and a mutual love for lively music and dance off-competitions.
-
-##### Today On Reddit:
-
-- r/Music
-- r/Gardening
-- r/WorldBuilding
-
-##### Memories:
-
+In **polbots**, South Sudan is the enthusiastic optimist and hope-bringer. His presence is crucial in discussions about new beginnings and pathways for peace and development. After crucial plotlines involving border disputes with Sudan, South Sudan emerged as a natural mediator, despite his comedic setbacks. Often seen as a younger brother figure, his endearing relationships with neighboring Ethiopia and Kenya grow the pan-African narrative. He enjoys camaraderie with other postcolonial nations and is often seen trying to impress the older, more established countries with his ambitious ideas, leading to a mix of supportive cheers and gentle smirks.

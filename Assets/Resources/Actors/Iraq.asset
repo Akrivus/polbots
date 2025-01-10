@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Iraq
   m_EditorClassIdentifier: 
   Title: Iraq
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Iraq
   Aliases:
   - Iraq
@@ -28,8 +28,9 @@ MonoBehaviour:
   - Hoshyar Zebari
   - Hanan al-Fatlawi
   - Kadhim al-Jubouri
-  - Zaha Hadid (notable architect, deceased but recent notable figure)
+  - Zaha Hadid
   Voice: ar-XA-Standard-B
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: af13e886977e71347b002de66ab710fb, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

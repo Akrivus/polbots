@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Bahrain
   m_EditorClassIdentifier: 
   Title: Bahrain
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Bahrain
   Aliases:
   - Bahrain
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Sadiq Al-Shahrani
   - Ali Al-Darazi
   Voice: ar-XA-Standard-B
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: bfa87bd8b64ae8240ab3dbcbd6126c7c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

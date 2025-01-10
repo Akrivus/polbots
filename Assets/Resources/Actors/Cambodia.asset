@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Cambodia
   m_EditorClassIdentifier: 
   Title: Cambodia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Cambodia
   Aliases:
   - Cambodia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Sik Chhay
   - Seth Keth
   Voice: vi-VN-Standard-B
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 7aac910e3b007e74d8dba8b96d90adfb, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

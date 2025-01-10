@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Roman Empire
   m_EditorClassIdentifier: 
-  Title: Senatus Populusque Romanus (Ghost)
+  Title: Senatus Populusque Romanus
   Pronouns: he/him
   Name: Roman Empire
   Aliases:
@@ -33,6 +33,7 @@ MonoBehaviour:
   - Scipio Africanus
   - Lucius Cornelius Sulla
   Voice: it-IT-Standard-D
+  ColorScheme: 1A
   Prompt: {fileID: 0}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

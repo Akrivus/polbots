@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Gambia
   m_EditorClassIdentifier: 
   Title: Republic of The Gambia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Gambia
   Aliases:
   - Republic of The Gambia
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Alieu Fadera
   - Seedy Njie
   Voice: en-GB-Standard-D
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 16ca2e312e6a4ac46bf289c73604041e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

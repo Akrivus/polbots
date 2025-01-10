@@ -680,7 +680,7 @@ MonoBehaviour:
   _videoScreen: {fileID: 7445963184954900168}
   _muteButton: {fileID: 2071882216162887102}
   _caption: {fileID: 4345137387462791622}
-  _muteSound: {fileID: 8300000, guid: c531ba3bc77ed2f46a5bb530be77236a, type: 3}
-  _unmuteSound: {fileID: 8300000, guid: cb52eae06ee1e8c46ba08a0153bb6595, type: 3}
-  _joinSound: {fileID: 8300000, guid: 6ef9293aa0bceae4b9569eabbc800c26, type: 3}
-  _exitSound: {fileID: 8300000, guid: f4aca8e947dfcab41be6834e74d0d8b6, type: 3}
+  _muteSound: {fileID: 8300000, guid: 164b2852939954544bd52cdbdca78ff0, type: 3}
+  _unmuteSound: {fileID: 8300000, guid: 5c174a043888e4840940b8f5e9ef1e0e, type: 3}
+  _joinSound: {fileID: 8300000, guid: cfe708027893f634e83a6904dc318883, type: 3}
+  _exitSound: {fileID: 8300000, guid: c69c06afd415202478ca728990055a75, type: 3}

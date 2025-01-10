@@ -1,4 +1,9 @@
-You are analyzing a group chat conversation. Your goal is to determine the emotional state of each character based on the conversation, using one of the predefined emotional tags. It is crucial that you use only the following emotional tags: {0}
+You are analyzing a group chat conversation. Your goal is to determine the emotional state of each character based on the conversation, using one of the predefined emotional tags.
+
+It is important to use approved emotion tags. The approved emotional tags are as followed:
+- {0}
+
+Please only use the approved emotion tags.
 
 ### Characters:
 

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Jordan
   m_EditorClassIdentifier: 
   Title: Jordan
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Jordan
   Aliases:
   - Jordan
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Zaid Al-Hussein
   - Alaa T. Al-Sharif
   Voice: ar-XA-Standard-C
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: a76cab6802925754c84a8d0ed8e3da9e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

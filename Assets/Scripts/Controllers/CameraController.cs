@@ -9,7 +9,10 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
     }
 
     [SerializeField]
-    private Vector2 distances;
+    private Vector2 depthRange;
+
+    [SerializeField]
+    private Vector2 heightRange;
 
     [SerializeField]
     private Vector3 maximumRotation;
@@ -28,6 +31,8 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
     private float _volume;
     private Color _color = Color.black;
 
+    private bool _enabled;
+
     private void Awake()
     {
         var rotation = _camera.transform.parent.rotation.eulerAngles;
@@ -37,17 +42,22 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
         _camera.transform.parent.rotation = Quaternion.Euler(rotation);
 
         var position = _camera.transform.localPosition;
-        position.x = Random.Range(distances.x, distances.y);
+        position.x = Random.Range(depthRange.x, depthRange.y);
+        position.y = Random.Range(heightRange.x, heightRange.y);
         _camera.transform.localPosition = position;
     }
 
     private void Start()
     {
-        _ui = VideoCallUIManager.Instance.RegisterUI(ActorController, _camera);
+        if (VideoCallUIManager.Instance == null || transform.parent.gameObject.layer != LayerMask.NameToLayer("UI"))
+            DisableCamera();
+        if (_enabled)
+            _ui = VideoCallUIManager.Instance.RegisterUI(ActorController, _camera);
     }
 
     private void Update()
     {
+        if (!_enabled) return;
         if (!ActorController.IsTalking && !_ui.IsMuted && _volume > 0.1f)
             _ui.Mute();
         var d = Time.deltaTime;
@@ -78,18 +88,21 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
 
     public void UpdateSentiment(Sentiment sentiment)
     {
+        if (!_enabled) return;
         if (sentiment == null) return;
         AddColor(sentiment.Color);
     }
 
     public void UpdateActor(ActorContext context)
     {
-        _camera.backgroundColor = context.Actor.Color
+        if (!_enabled) return;
+        _camera.backgroundColor = context.Reference.Color
             .Darken();
     }
 
     public void Activate(ChatNode node)
     {
+        if (!_enabled) return;
         if (!_ui.IsVisible)
             _ui.Show();
         if (_ui.IsMuted)
@@ -99,6 +112,13 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
 
     public void Deactivate()
     {
+        if (!_enabled) return;
         VideoCallUIManager.Instance.RemoveUI(_ui);
+    }
+
+    public void DisableCamera()
+    {
+        _camera.gameObject.SetActive(false);
+        _enabled = false;
     }
 }

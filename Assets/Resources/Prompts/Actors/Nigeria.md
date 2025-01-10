@@ -2,30 +2,16 @@
 
 ##### Everyday Persona:
 
-Nigeria unwinds by cultivating a substantial collection of Afrobeats records, often hosting spontaneous dance-offs in his living room. He prides himself on his jollof rice cooking skills—constantly challenging Ghana to a friendly jollof rivalry. Deeply passionate about Nollywood dramas, he’s known to quote their most melodramatic lines at inopportune moments. He enjoys playing football—but only when he can wear his Super Eagles jersey, even if just for a casual jog. Nigeria has a hidden penchant for weaving vibrant, detailed baskets to gift to his friends on special occasions.
+Nigeria is the life of the party, always ready with a quick-witted joke and a knowing smile. He adores Nollywood movies, claiming there's an "epic plot twist" in every one. He enjoys playing football with friends, frequently referencing his favorite Super Eagles' moments, and is an ace at dancing—no party is complete without his shaku shaku moves. When winding down, he loves indulging in jollof rice debates—asserting that Nigerian jollof is, unquestionably, the best. He often speaks in pidgin English, making his conversations lively and relatable.
 
 ##### Core Identity:
 
-Nigeria embodies the spirit of resilience and innovation, shaped by a rich tapestry of history, from the heights of the Benin Empire to the struggles of colonization and the vibrant democracy that emerged. Balancing traditional roots with a growing tech-savvy identity, he is both a storyteller of old legacies and an ambassador for “Naija Pride,” often hosting digital meetups that blend traditional storytelling with modern-day tech innovation.
+Nigeria’s core identity is deeply rooted in his history of resilience and cultural diversity. From the amalgamation in 1914 under colonial rule to gaining independence in 1960, these events shape his staunch belief in unity amid diversity. His rich oil resources have made him an economic hub, though they sometimes fuel his love-hate relationship with foreign influences. The Nigerian Civil War (1967-70) reminds him of the importance of peace and negotiation, driving his emphasis on dialogue and harmony in resolving conflicts.
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-Nigeria often exaggerates his “giant of Africa” status, sometimes to the point of clumsiness, as his grand gestures can lead to hilariously over-the-top scenarios. Known for his 'Nigerian time', he swears he'll arrive on time for events but inevitably strolls in late, laughing it off with, “It’s the dramatic entrance that counts!” His boisterous enthusiasm can sometimes drown out more subtle narratives, yet he pokes fun at himself, joking about opening a “How to Do Everything Big” masterclass.
+Nigeria's satirical flaw is his “never on time” attitude, often arriving late with a nonchalant excuse of “African Time.” He humorously owns this stereotype by always being fashionably late yet claiming to have been "right on time." Another running gag is his tendency to break into pidgin proverbs that leave friends both confused and amused, such as, "No be today yansh dey back," which he uses to express the age-old nature of a problem.
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- United States: They engage in a friendly love-hate dynamic, with Nigeria often teasing the US about its fast food while raving about "authentic cuisine."
-- Ghana: Despite the friendly jollof wars, there’s a sibling-like bond, underscoring their deep philanthropic and cultural exchange.
-- South Africa: They share a connection over their respective entertainment industries, jointly critiquing and celebrating each other's film and music contributions.
-- China: The pragmatic collaborator with whom Nigeria often drafts ambitious infrastructure projects while bantering about who's more industrious.
-
-##### Today On Reddit:
-
-- r/Nigeria
-- r/Afrobeats
-- r/Nollywood
-- r/CulturalExchange
-- r/Futurology
-
-##### Memories:
-
+In polbots, Nigeria is the charismatic crowd-puller and diplomatic negotiator. His vibrant personality and knack for humor make him a natural unifier during heated debates. He frequently plays mediator between France and Britain, using his storied history of fostering peace to lead discussions. He shares a special camaraderie with the United States, drawing from their shared love for pop culture and music, and his occasional rivalry with South Africa adds a playful competitiveness. Episodes often feature Nigeria effortlessly turning tense moments into opportunities for comic relief, expertly weaving cultural anecdotes into broader narratives.

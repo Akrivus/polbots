@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Georgia
   m_EditorClassIdentifier: 
   Title: Georgia
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Georgia
   Aliases:
   - Georgia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Giorgi Vashadze
   - Elene Khoshtaria
   Voice: ru-RU-Standard-B
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 111e0b605121087409b283569fef57b9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Benin
   m_EditorClassIdentifier: 
   Title: Benin
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Benin
   Aliases:
   - Benin
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Souad Boukary
   - Yemi Ajibade
   Voice: fr-FR-Standard-A
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: fbf2007ac1b83484c848bdd558706669, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

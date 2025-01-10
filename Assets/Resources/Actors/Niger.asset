@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Niger
   m_EditorClassIdentifier: 
   Title: Niger
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Niger
   Aliases:
   - Niger
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Hadia Mahamadou
   - Mahamadou Issoufou Boubacar
   Voice: fr-FR-Standard-B
+  ColorScheme: 4A
   Prompt: {fileID: 4900000, guid: b7e93d83cbf2d3345a657760e645126f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Zimbabwe
   m_EditorClassIdentifier: 
   Title: Zimbabwe
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Zimbabwe
   Aliases:
   - Zimbabwe
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Sibongile M. Moyo
   - Obert A. Mpofu
   Voice: en-GB-Standard-D
+  ColorScheme: 4C
   Prompt: {fileID: 4900000, guid: b1137f1bb3ebb314f82beffebed14211, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

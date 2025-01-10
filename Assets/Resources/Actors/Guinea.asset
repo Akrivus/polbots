@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Guinea
   m_EditorClassIdentifier: 
   Title: Guinea
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Guinea
   Aliases:
   - Guinea
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Bah Oury
   - Nafissatou Diallo
   Voice: fr-FR-Standard-A
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: 879d49c6bf7611741b3e8e81b004f31d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

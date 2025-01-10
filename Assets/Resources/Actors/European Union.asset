@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: European Union
   m_EditorClassIdentifier: 
   Title: European Union
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: European Union
   Aliases:
   - European Union
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Francois Hollande
   - Jean-Claude Juncker
   Voice: nl-NL-Standard-C
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 515bc1cf7aebd9e41a9b9830813b968a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

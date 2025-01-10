@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Slovakia
   m_EditorClassIdentifier: 
   Title: Slovakia
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Slovakia
   Aliases:
   - Slovakia
@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Daniela \u0160mihulov\xE1"
   - "Martin Kov\xE1\u010D"
   Voice: sk-SK-Standard-A
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 9e2d2849ff6685940990ff015d6162fc, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

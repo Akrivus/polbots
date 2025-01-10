@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Ireland
   m_EditorClassIdentifier: 
   Title: Ireland
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Ireland
   Aliases:
   - Ireland
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Fintan O'Toole
   - Ross O'Carroll-Kelly
   Voice: en-US-Standard-B
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 5d024b89ed57040408bd117665961413, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

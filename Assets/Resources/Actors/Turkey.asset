@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Turkey
   m_EditorClassIdentifier: 
   Title: "T\xFCrkiye"
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Turkey
   Aliases:
   - "T\xFCrkiye"
@@ -31,6 +31,7 @@ MonoBehaviour:
   - "G\xFCler Sabanc\u0131"
   - Arif Nihat Asya
   Voice: tr-TR-Standard-E
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: f6107238d4e15e74fac7efc6e250d594, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

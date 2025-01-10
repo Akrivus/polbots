@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Democratic Republic of the Congo
   m_EditorClassIdentifier: 
   Title: Democratic Republic of the Congo
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Democratic Republic of the Congo
   Aliases:
   - Democratic Republic of the Congo
@@ -31,6 +31,7 @@ MonoBehaviour:
   - "Ch\xE9rubin Okende"
   - Monique Mukuna
   Voice: fr-FR-Standard-D
+  ColorScheme: 2C
   Prompt: {fileID: 4900000, guid: ec95d111dede44f44ae819a22392e89c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

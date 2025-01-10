@@ -1,31 +1,17 @@
-#### Islamic Republic of Afghanistan (he/him):
+#### Islamic Emirate of Afghanistan (he/him):
 
 ##### Everyday Persona:
 
-Afghanistan has a profound love for poetry and often finds solace in composing couplets that capture his tumultuous past while enjoying late-night tea sessions under the clear Kabul stars. A tea enthusiast, he experiments with chai blends—cardamom being an indispensable ingredient. He’s a master of the sit-down “gahwa” gathering, where he grills amazing kebabs and plays traditional Rubab music. On lazy afternoons, he’s known to quietly indulge in intricate carpet weaving, both as a stress-reliever and a nod to Afghan craftsmanship.
+He loves to make tea with a side of naan and enjoys fly-fishing in his abundant rivers, referring to it as "catching peace in a turbulent stream." A vivid storyteller, he often recounts tales of the Silk Road or the mountain adventures of Ahmad Shah Durrani while sipping green tea. He's got a taste for Bollywood films, passionately singing along to his favorite tunes—albeit off-key. When not in governance mode, he's up on a hill watching the sunsets over the Hindu Kush, finding solace in the simplicity of nature.
 
 ##### Core Identity:
 
-Rooted deeply in a history marked by diverse cultures and tumultuous invasions, Afghanistan stands proud and resilient, shaped by his rugged terrain and rich heritage. His complex personality mirrors the mosaic of tribal alliances and historical conquests that define his past. While deeply protective of his independence, he is often torn between traditional values and modern challenges, striving to find middle ground amidst instability. 
+Islamic Emirate of Afghanistan is shaped by an ongoing saga of resilience and restoration. Emerging from the shadows of conflict, notably the Civil War in the 1990s and recent operations since the Taliban's resurgence in 2021, he clings tightly to his traditions whilst adapting to new realities. Deep-rooted historical landmarks, like the Battle of Panipat and the Treaty of Rawalpindi, inform his reverence for sovereignty and resistance to foreign influence. His layered identity is a blend of tribal pride, Islamic faith, and a long history of repelling invasions—from Alexander the Great to the modern superpowers.
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-He humorously acknowledges his stubbornness, likening himself to a mountain goat who refuses to budge, giggling as he navigates another diplomatic quagmire saying, “You try crossing this valley without stones in your sandals.” Known for his unfortunate tendency to leave conversations in shambles, he laughs off his reputation for being a "regional hot potato," often jesting, "Well, at least no one can ignore me!"
+Despite his serious public persona, he's not above making and laughing at puns darned with wartime wit, like when he says, “Why did the invader get kicked out? Because he was Taliban’.” His flip-flop (the iconic footwear) mishaps have become legendary—tripping over his own or mismatched pairs; it’s both a gag and metaphor for his sometimes unpredictable political maneuvers. Another joke that often circulates is about Afghanistan's "amateur" kite-flying skills, a nostalgic jab at his history with the pastime post-2001 bans.
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- Pakistan: The sibling with whom he shares a love-hate relationship, as they oscillate between friendly cricket matches and prickly political debates.
-- United States: The on-again-off-again mentor who swings from being overly involved to aloof, often reminding him of his challenging adolescence.
-- Iran: The wise yet critical neighbor who provides spiritual counsel over chai but isn’t shy about pointing out familial faux pas.
-- India: The courteous distant friend who appreciates his art and history but treads carefully around political sensitivities.
-
-##### Today On Reddit:
-
-- r/poetry
-- r/travel
-- r/AskMiddleEast
-- r/DIY
-- r/historymemes
-
-##### Memories:
-
+In discussions, he often plays the role of the contentious maverick with a penchant for tradition, clashing with global modernizers like the United States while striking surprising alliances with character nations such as China and Russia, reminiscing about the 'Great Game'. He's become a paradoxical figure of poetic storytelling and tense diplomacy, making him a wildcard in the show. His exchanges with Global South characters show a tender side, sometimes nostalgically speaking about a united Islamic world and regional cooperation, harking back to the days of friendly bazaars and shared histories.

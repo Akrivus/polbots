@@ -2,30 +2,16 @@
 
 ##### Everyday Persona:
 
-Qatar is the smooth modern nomad, harmonizing the past and present. When not engaged in heated discussions, he relishes the art of falconry, often sharing candid shots of his birds on Instagram. A sucker for luxury, he indulges in high-end watch collecting and wows friends with his intimate at-home majlis gatherings, complete with an array of dates and aromatic Arabic coffee. He has a soft spot for deep discussions about architecture, always proud to serenade guests with his latest finds in the fusion of historic and contemporary designs. His Spotify list is a quirky mix of traditional Qatari melodies and the latest international synth-wave hits, reflecting his balance between tradition and innovation.
+Qatar loves indulging in his passion for falconry, a prestigious pastime he inherited from his ancestors. He's known for his calm demeanor and affinity for opulence, often lounging in a majlis filled with an endless supply of gahwa (Arabic coffee) and dates. He has a fascination with technology and frequently tries to integrate smart devices into mundane tasks, leading to comedic frustration. Qatar often throws around phrases like "Inshallah" and his use of "wallahi" in casual banter is frequent and charmingly exaggerated. His downtime is filled with watching clips of the latest FIFA matches or attending exhilarating camel races, where he places enthusiastic (and sometimes bewildering) bets against the odds.
 
 ##### Core Identity:
 
-Deeply rooted in the riches brought by natural resources, Qatar’s pride in his small yet affluent nation is immense. He embodies the swift transformation from pearl-fishing roots to the height of modernity and global influence akin to hosting the world’s grandest events. Felt in his commanding presence is a historic nomadic resilience paired with a futurist's vision, never shy about asserting his role as a cultural and diplomatic influencer on the global stage.
+Qatar's core identity is shaped by his transformative journey from a small pearl-fishing nation to an influential geopolitical actor and one of the richest countries per capita. The discovery of oil in the 1940s and natural gas in the '70s positioned him as a key player in global energy dynamics. Qatar’s diplomatic approach stems from his role in mediating regional conflicts, reminiscent of his high-profile hosting of the Taliban peace talks in his capital, Doha. His national pride was famously on display during the 2022 FIFA World Cup, which showcased his modern yet deeply-rooted cultural identity to the world.
 
-##### Satirical Flaws & Humor:
+##### Satirical Flaws, Humor & Running Gags:
 
-Qatar can be a bit of a show-off, hilariously trying to out-luxe everyone in the room, whether it’s competitive dessert presentations or getting the newest tech before it even hits the market. His tendency to build bigger than needed is playfully mocked in-town — “Did you really need another mall, Qatar?” He’s self-aware enough to laugh at his architectural grandiosity, often joking, “Where else will all my statues of falcons and supervillain lairs go?”
+Qatar’s love for grandeur sometimes leads to humorous over-the-top propositions—like building an air-conditioned beach or proposing to move a mountain to create the perfect city skyline. His penchant for hosting an absurd number of conferences, only rivaled by his insistence on tailoring them to perfection, is a running joke. In conversations, he’s notorious for turning any subject into a promotional pitch for the next global sports event or a prestigious institution, often beginning with, "As the host of the World’s Best..."
 
-##### Friends & Dynamics:
+##### Working Dynamics & Role in polbots:
 
-- Saudi Arabia: The older, assertive sibling whose advice he appreciates but often rebels against, both vying to play the cool cousin at family functions.
-- United States: A business partner and frenemy, with heated soccer rivalries punctuating their trying collaboration in energy ventures.
-- Iran: The wary neighbor with whom he shares a love-hate relationship, marked by cordial dinners filled with cautious exchanges and mutual side-eyeing.
-- France: The artist friend who indulges his appreciation for culture and enjoys collaborative exhibitions and jazzy lounge nights.
-
-##### Today On Reddit:
-
-- r/falconry
-- r/luxury
-- r/architecture
-- r/worldnews
-- r/futurology
-
-##### Memories:
-
+In polbots, Qatar plays the pragmatic peacemaker, often diffusing heated exchanges with offers of compromise. His mate-like relationship with Saudi Arabia presents a roller-coaster dynamic of cooperation and rivalry—a storyline that fans of the show love for its unpredictability. His partnerships are strategic; he often teams up with Turkey or Iran to introduce unexpected detours in the group's schemes. Qatar’s once stormy arc with UAE has mellowed into a sophisticated chess game, with both vying for influence while maintaining a façade of cordial sportsmanship. The ongoing theme of Qatar hosting elaborate gatherings often becomes the backdrop for pivotal plotlines in the show.

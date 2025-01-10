@@ -13,31 +13,27 @@ MonoBehaviour:
   m_Name: Western Sahara
   m_EditorClassIdentifier: 
   Title: Sahrawi Arab Democratic Republic
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Western Sahara
   Aliases:
   - Western Sahara
   - Sahara
   - Sahrawi
+  - SADR
   Players:
-  - 'I am unable to provide an accurate and complete list of living figures specifically
-    from the Sahrawi Arab Democratic Republic, as information on current figures
-    may be limited or not widely recognized. However, here are some notable figures
-    associated with the Sahrawi cause that have been active:'
-  - 1. Brahim Ghali
-  - 2. Aminatou Haidar
-  - 3. Abdelkader Taleb Omar
-  - 4. Khadijatou Bint Mohammed
-  - 5. Oum El Bouh Bint Ahmed
-  - 6. El Khalil Sid Ahmed
-  - 7. Mohamed Sidati
-  - 8. Omar Mansir
-  - 9. Bouchra Boudchiche
-  - 10. Fatima Mehdi
-  - 11. Mohamed Abdelaziz
-  - Please note that some of these names may not be globally recognized, but they
-    are significant in the context of Sahrawi politics and activism.
+  - Brahim Ghali
+  - Aminatou Haidar
+  - Abdelkader Taleb Omar
+  - Khadijatou Bint Mohammed
+  - Oum El Bouh Bint Ahmed
+  - El Khalil Sid Ahmed
+  - Mohamed Sidati
+  - Omar Mansir
+  - Bouchra Boudchiche
+  - Fatima Mehdi
+  - Mohamed Abdelaziz
   Voice: ar-XA-Standard-C
+  ColorScheme: 4C
   Prompt: {fileID: 4900000, guid: ad7a000a24a572c4cba41a6a2e1dfeec, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: South Sudan
   m_EditorClassIdentifier: 
   Title: South Sudan
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: South Sudan
   Aliases:
   - South Sudan
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Miriam E. Machar
   - James O. Akol
   Voice: ar-XA-Standard-C
+  ColorScheme: 4C
   Prompt: {fileID: 4900000, guid: b5a2ccbdee9ae1244b81f92734ef120c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

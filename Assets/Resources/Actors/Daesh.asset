@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Daesh
   m_EditorClassIdentifier: 
   Title: Daesh
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Daesh
   Aliases:
   - Daesh
@@ -35,6 +35,7 @@ MonoBehaviour:
   - Muhammad Yusuf
   - Abu Musab al-Barnawi
   Voice: en-GB-Standard-D
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: a92d2020ebaca534f9d4480fa14cf902, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

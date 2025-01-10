@@ -13,23 +13,24 @@ MonoBehaviour:
   m_Name: Pakistan
   m_EditorClassIdentifier: 
   Title: Pakistan
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Pakistan
   Aliases:
   - Pakistan
   Players:
   - Imran Khan
   - Malala Yousafzai
-  - Benazir Bhutto (posthumously recognized but her legacy influences current politics)
+  - Benazir Bhutto
   - Shahid Afridi
-  - Asma Jahangir (posthumously recognized but her influence is still significant)
-  - Abdul Sattar Edhi (posthumous influence, humanitarian legacy)
+  - Asma Jahangir
+  - Abdul Sattar Edhi
   - Fawad Chaudhry
   - Hina Rabbani Khar
   - Sajal Aly
   - Adnan Malik
   - Sophie Anjum
   Voice: pa-IN-Standard-D
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 57edcac1fe87aa2419a2c4a4a3cf4ea7, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

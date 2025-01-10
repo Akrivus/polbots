@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Uganda
   m_EditorClassIdentifier: 
   Title: Uganda
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Uganda
   Aliases:
   - Uganda
@@ -30,6 +30,7 @@ MonoBehaviour:
   - David Bahati
   - Moses Kaggwa
   Voice: en-GB-Standard-D
+  ColorScheme: 4C
   Prompt: {fileID: 4900000, guid: aa9784910deaa6747ad44f72d2752f59, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Macao
   m_EditorClassIdentifier: 
   Title: Macao
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Macao
   Aliases:
   - Macao
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Wong Kit Meng
   - Alfredo Wong
   Voice: yue-HK-Standard-B
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: da44063c59d9e47478b730ec1c9d8af4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

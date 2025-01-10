@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Guatemala
   m_EditorClassIdentifier: 
   Title: Guatemala
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Guatemala
   Aliases:
   - Guatemala
@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Mar\xEDa Consuelo Porras"
   - "Pablo de Le\xF3n"
   Voice: es-US-Standard-B
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: 5c38b59590ac35c489d9ca0fdfad0547, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

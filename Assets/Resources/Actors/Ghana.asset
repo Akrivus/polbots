@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Ghana
   m_EditorClassIdentifier: 
   Title: Ghana
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Ghana
   Aliases:
   - Ghana
@@ -23,13 +23,14 @@ MonoBehaviour:
   - Abena Busia
   - Serwaah Amihere
   - Yvonne Nelson
-  - Kofi Annan (historical figure, passed away)
+  - Kwame Nkrumah
   - Nana Addo Dankwa Akufo-Addo
-  - Kofi Annan (historical figure, passed away)
+  - Kofi Annan
   - Nana Osei Bonsu
   - Mohammed bin Abdulai
   - Osei Kyei-Mensah-Bonsu
   Voice: en-GB-Standard-C
+  ColorScheme: 4C
   Prompt: {fileID: 4900000, guid: 06aa9edb60f8adc4398ab65176ce3d8a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

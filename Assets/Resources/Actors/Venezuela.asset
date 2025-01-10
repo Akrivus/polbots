@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Venezuela
   m_EditorClassIdentifier: 
   Title: Bolivarian Republic of Venezuela
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Venezuela
   Aliases:
   - Bolivarian Republic of Venezuela
@@ -31,6 +31,7 @@ MonoBehaviour:
   - Antonio Ledezma
   - Tamara Adrian
   Voice: es-US-Standard-C
+  ColorScheme: 4B
   Prompt: {fileID: 4900000, guid: 0ff8bc50ed1c50d48b75ea5d7a4a150e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

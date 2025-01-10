@@ -13,23 +13,24 @@ MonoBehaviour:
   m_Name: Comoros
   m_EditorClassIdentifier: 
   Title: Comoros
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Comoros
   Aliases:
   - Comoros
   Players:
-  - 1. Azali Assoumani
-  - 2. Ghazali Aboubacar
-  - "3. Dhoihirou Cha\xEFbi"
-  - 4. Souef Mohamed El Amine
-  - 5. Ahamada Abdallah
-  - 6. Zalimane Ibrahim
-  - 7. Abdallah Maoulana
-  - 8. Hamada Madi
-  - 9. Salami Ahmed
-  - "10. Sa\xEFd Ali Badi"
-  - 11. Youssouf Mohamed
+  - Azali Assoumani
+  - Ghazali Aboubacar
+  - "Dhoihirou Cha\xEFbi"
+  - Souef Mohamed El Amine
+  - Ahamada Abdallah
+  - Zalimane Ibrahim
+  - Abdallah Maoulana
+  - Hamada Madi
+  - Salami Ahmed
+  - "Sa\xEFd Ali Badi"
+  - Youssouf Mohamed
   Voice: ar-XA-Standard-C
+  ColorScheme: 2B
   Prompt: {fileID: 4900000, guid: ff80e0d04cb429349a4bcb9aeeba6d70, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: North Korea
   m_EditorClassIdentifier: 
   Title: Democratic People's Republic of Korea
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: North Korea
   Aliases:
   - Democratic People's Republic of Korea
@@ -25,12 +25,13 @@ MonoBehaviour:
   - Ri Pyong-chol
   - Pak Pong-ju
   - Kim Yong-nam
-  - Kim Il-sung (historical figure, included as last resort)
-  - Kim Jong-suk (historical figure, included as last resort)
+  - Kim Il-sung
+  - Kim Jong-suk
   - Hwang Pyong-so
   - O Su-song
   - Yang Hyong-sop
   Voice: ko-KR-Standard-C
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: e50f4c2fad89a2a4aaf70f9acf19261c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

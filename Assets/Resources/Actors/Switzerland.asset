@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Switzerland
   m_EditorClassIdentifier: 
   Title: Switzerland
-  Pronouns: "he/him\r"
+  Pronouns: he/him
   Name: Switzerland
   Aliases:
   - Switzerland
@@ -30,6 +30,7 @@ MonoBehaviour:
   - Nicolas Bideau
   - Nadia Battie
   Voice: de-DE-Standard-D
+  ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 49e3b16e2339e9840a91023800d2b33f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1

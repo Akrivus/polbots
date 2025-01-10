@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Nepal
   m_EditorClassIdentifier: 
   Title: Nepal
-  Pronouns: "she/her\r"
+  Pronouns: she/her
   Name: Nepal
   Aliases:
   - Nepal
@@ -28,8 +28,9 @@ MonoBehaviour:
   - Sanjay Kumar Sharma
   - Madhav Kumar Nepal
   - Pratiksha Sitaula
-  - Puspa Kamal Dahal (Prachanda)
+  - Puspa Kamal Dahal
   Voice: hi-IN-Standard-A
+  ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: a39be41609e251740a39a875e97e8926, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1
