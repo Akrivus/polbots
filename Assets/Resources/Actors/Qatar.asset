@@ -33,7 +33,7 @@ MonoBehaviour:
   ColorScheme: 1B
   Prompt: {fileID: 4900000, guid: 42dc8553d88892e41b19e9b7b10e3768, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.1
+  SpeakingRate: 1.0810641
   Pitch: 0
   Color: {r: 0.6608077, g: 0.38852438, b: 0.46558845, a: 1}
   Color1: {r: 0.54901963, g: 0.10980392, b: 0.23529412, a: 1}

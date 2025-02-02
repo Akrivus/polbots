@@ -1,0 +1,7 @@
+Create a cartoon-style digital wallpaper of a personal space for Thailand, a Countryball character from the show "polbots". The scene is a room viewed from a webcam perspective, reflecting Thailand's vibrant yet serene lifestyle. The background is set in a warm, inviting living room that embodies her duality of lively energy and tranquility. 
+
+The room features a woven floor mat in the center, traditional wooden furniture, and cushions with ornate Thai silk designs scattered around. A corner showcases Muay Thai gloves placed neatly with a rolled-up yoga mat next to it, indicating her love for martial arts and meditation. On the side table, there's a plate with remnants of a meal, suggesting a recent indulgence in street food like Pad Thai or spicy chilies. 
+
+Ornate temple-inspired decor pieces adorn the shelves, alongside an ASEAN flag folded neatly. A TV, paused on an old clip of "Bang Rajan," sits prominently to suggest her appreciation for storytelling and history. There's a small karaoke machine with a microphone stand tucked in the corner, a nod to her humorous karaoke outbursts. 
+
+A window shows a hint of a sunset sky, evoking the calm of Chao Phraya River evenings. The overall color scheme blends warm oranges and calming mid-tones, to allow for hue shifting without losing the essence of her persona. The scene is filled with objects representing her humor, culture, and role as an adaptable diplomat, all harmonious yet hinting at her love for lively and peaceful interactions.

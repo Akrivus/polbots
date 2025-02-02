@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
+using Utilities.WebRequestRest;
 
 public static class ActorTeamGenerator
 {
@@ -41,6 +42,21 @@ public static class ActorTeamGenerator
                 await GenerateActorPrompt(asset, actor, note);
         }
 
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
+    [MenuItem("Tools/Generate Character Backgrounds")]
+    public static async void GenerateActorBackgrounds()
+    {
+        var asset = Resources.Load<TextAsset>($"Prompts/Tools/Actor Backgrounds");
+        var actors = Resources.LoadAll<Actor>("Actors");
+
+        foreach (var actor in actors)
+            if (actor.Prompt == null)
+                Debug.LogWarning($"Actor {actor.Name} has no personality.");
+            else if (!File.Exists($"./Assets/Resources/Backgrounds/{actor.Name}.png"))
+                await GenerateActorBackground(asset, actor);
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
     }
@@ -92,6 +108,21 @@ public static class ActorTeamGenerator
         AssetDatabase.Refresh();
     }
 
+    [MenuItem("Tools/Randomize Actor Voice")]
+    public static void RandomizeActorVoice()
+    {
+        var actors = Resources.LoadAll<Actor>("Actors");
+
+        foreach (var actor in actors)
+        {
+            actor.SpeakingRate = UnityEngine.Random.Range(100f, 111f) / 100f;
+            EditorUtility.SetDirty(actor);
+        }
+
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
     private static async Task GenerateActorTeam(TextAsset asset, Actor actor)
     {
         if (actor.Players.Length < 11)
@@ -121,6 +152,42 @@ public static class ActorTeamGenerator
 
         EditorUtility.SetDirty(actor);
     }
+
+    private static async Task GenerateActorBackground(TextAsset asset, Actor actor, bool retried = false)
+    {
+        try
+        {
+            var metaprompt = asset.Format(actor.Name, actor.Pronouns, actor.Prompt.text);
+            var prompt = await OpenAiIntegration.CompleteAsync(metaprompt, false);
+
+            prompt = prompt.Replace("```", string.Empty).Trim();
+
+            // write prompt to file
+            File.WriteAllText($"./Assets/Resources/Prompts/Backgrounds/{actor.Name}.md", prompt);
+
+            try
+            {
+                var request = await OpenAiIntegration.API.ImagesEndPoint.GenerateImageAsync(
+                    new OpenAI.Images.ImageGenerationRequest(prompt, model: "dall-e-3", size: "1792x1024"));
+                var image = request.First();
+
+                // save the texture to resources
+                var texture = image.Texture;
+                File.WriteAllBytes($"./Assets/Resources/Backgrounds/{actor.Name}.png", texture.EncodeToPNG());
+            }
+            catch (RestException e)
+            {
+                if (e.Response.Code == 400 || !retried) // usually means the prompt triggered a safety filter, so we try again
+                    await GenerateActorBackground(asset, actor, true);
+                else
+                    Debug.LogError($"Failed for {actor.Name}.");
+            }
+        }
+        catch (Exception e)
+        {
+            Debug.LogError(e);
+        }
+    }   
 
     private static Color GenerateColor(Color[] colors)
     {

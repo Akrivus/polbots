@@ -1,4 +1,4 @@
-#### United States of America (he/him):
+#### America (he/him):
 
 ##### Everyday Persona:
 

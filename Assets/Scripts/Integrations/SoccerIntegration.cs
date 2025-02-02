@@ -14,10 +14,13 @@ using static AgenticDialogueGenerator;
 
 public class SoccerIntegration : MonoBehaviour
 {
-    public string GameScene => "_FootballSimulator/_StartingScene";
+    public string GameScene => "3rdParty/FootballSimulator/_StartingScene";
+
     private List<string> AddedScenes = new List<string>();
 
     public bool UnloadScenes = false;
+
+    public ChatGenerator ChatGenerator;
 
     [SerializeField]
     private ShareScreenUIManager _shareScreenUIManager;
@@ -49,15 +52,18 @@ public class SoccerIntegration : MonoBehaviour
     private bool _isMatchLoaded;
     private bool _isSceneLoaded;
 
-    private void Awake()
+    private bool _broken;
+
+    public void Configure(SoccerConfigs c)
     {
-        RegisterEmissionEvents();
+        ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
+        ChatManager.Instance.OnIntermission += (chat) => ToggleGame(chat);
     }
 
-    private void Start()
+    private void Awake()
     {
-        // ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
-        ChatManager.Instance.OnIntermission += (chat) => ToggleGame(chat);
+        ConfigManager.Instance.RegisterConfig(typeof(SoccerConfigs), "soccer", (config) => Configure((SoccerConfigs) config));
+        RegisterEmissionEvents();
     }
 
     private void Update()
@@ -74,15 +80,17 @@ public class SoccerIntegration : MonoBehaviour
 
     private void BreakTheSilence()
     {
-        if (ChatManager.Instance.NowPlaying == null)
+        if (_broken)
             return;
-        var names = ChatManager.Instance.NowPlaying.Names;
+        var names = Actor.All.List.Select(a => a.Name).ToArray();
         var home = names[Random.Range(0, names.Length)];
         var away = names[Random.Range(0, names.Length)];
 
         while (home == away)
             away = names[Random.Range(0, names.Length)];
-        new Idea($"Let's play a casual and fun game of soccer between {home} and {away}!");
+        var idea = new Idea($"Let's play a casual and fun game of soccer between {home} and {away}!");
+        ChatGenerator.AddIdeaToQueue(idea);
+        _broken = true;
     }
 
     private IEnumerator ToggleGame(Chat chat)
@@ -156,8 +164,8 @@ public class SoccerIntegration : MonoBehaviour
     private IEnumerator CloseGame()
     {
         yield return new WaitForSeconds(60);
-        var task = UnloadGame();
-        yield return new WaitUntil(() => task.IsCompleted);
+        yield return UnloadGame();
+        _broken = false;
     }
 
     private async Task UnloadGame()

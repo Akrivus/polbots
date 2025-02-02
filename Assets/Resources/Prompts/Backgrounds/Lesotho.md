@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background for Lesotho's personal room in the show "polbots". The scene is a cozy, culturally-rich apartment reflecting Lesotho's unique lifestyle and quirks.
+
+The room is filled with personality and vibrant cultural elements, with a slight humorous touch. Picture the Maloti Mountains framed in a simple artwork on one wall, evoking his love for pony trekking and his mountainous homeland. A traditional Basotho blanket is draped over a comfy chair, exuding warmth and cultural pride. On a small coffee table sits a steaming cup of ginger tea, beside a modern smartphone dubbed the "message stick", subtly hinting at Lesotho's blend of tradition and modernity.
+
+The walls are adorned with earthy tones, and a small window lets in gentle natural light, suggesting a high-altitude setting. There's an understated sense of independence echoed by a small, framed '66' art piece, celebrating his year of independence. 
+
+In the corner, a shelf displays a collection of local music memorabilia — drums, records, and a portable radio, hinting at his musical interests. A sly nod to his running spatial jokes, a small telescope is cheekily tucked away, hinting at "landlocked but never love-locked" winks.
+
+Reflecting his diplomatic skills, a chessboard sits partially played on a second small table, symbolizing strategic thinking and mediation. This backdrop is captured in a neat, webcam-style view, with a charming, cartoonish simplicity and humor, immersing viewers in Lesotho's world without any characters present. The style is reminiscent of MS Paint, with flat shapes and simple details for clarity.

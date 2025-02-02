@@ -1,0 +1,7 @@
+Create a cartoon-style digital wallpaper that presents a webcam view of Côte d’Ivoire's personal space, reflecting his vibrant and cultural personality. Picture a cozy living room with colorful, patterned fabrics draping over the sofa and cushions, showcasing the lively Ivorian style. The walls are adorned with intricately crafted masks, hinting at Côte d’Ivoire's hobby of mask-making and his deep cultural roots.
+
+A corner of the room features a small collection of cocoa beans and chocolate bars, humorously stacked as if ready for Côte d’Ivoire's passionate cocoa discussions. On a side table, there's a retro-style record player spinning an Alpha Blondy reggae album, filling the room with music, next to an open book titled "The Art of Coupé-Décalé." Scattered around are small remnants of an impromptu gathering: plates with remnants of attiéké and grilled fish, and a vibrant fabric-lined basket filled with fresh fruit.
+
+In one section of the room, a disco ball hangs from the ceiling—a cheeky nod to his "disco diplomacy" in polbots. There's a friendly rivalry vibe with a framed photo of jollof rice with a fork and a spork crossed underneath, hinting at ongoing food debates with Ghana. The room radiates warmth with softly lit standing lamps, casting cozy shadows perfect for storytelling and gatherings.
+
+Overall, the space appears lively and vibrant, yet carries a sense of historical pride and resilience, offering revealing details about Côte d’Ivoire's everyday persona and core identity.

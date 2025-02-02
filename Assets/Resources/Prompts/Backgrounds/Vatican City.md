@@ -1,0 +1,7 @@
+Create a cartoon-style digital wallpaper background for a character from the show **polbots**. The character is Holy See, represented as Vatican City Countryball. Imagine a webcam view of his personal space, like his office or living room.
+
+The room exudes a serene blend of opulence and simplicity. The backdrop features fresco-style art inspired by the Sistine Chapel, adding a touch of historical gravitas. On one side, you see an antique pipe organ tucked into the corner, hinting at his love for composing choral music. Near the window, there's a small garden tray with vibrant Vatican oranges, reflecting his cultivation hobby.
+
+A grand library shelf stacked with classic theology and philosophy books occupies one wall, while a posh yet understated armchair sits invitingly nearby with a chessboard on a side table, set mid-game, as though waiting for his next thoughtful move. A subtle aroma seems to emanate from an espresso cup left on the arm of the chair, next to a small plate with biscotti crumbs, indicating his passion for sharing recipes.
+
+For humor, capture small eccentricities: an ornate clock frozen in a perpetual "Amen" position, signaling the end of lengthy debates. Amidst this tranquility, a placard with a peace dove sketch humorously mimics Nobel Peace aspirations hangs skewed. Ensure lighting is even, reflecting an indoor setting with a calming atmosphere that echoes Holy See’s contemplative yet humorous nature, without any direct symbolism of his country beyond these personal touches.

@@ -1,0 +1,9 @@
+Create a whimsical cartoon-style digital wallpaper background that captures the unique essence and personality of the Countryball character Bangladesh from the show **polbots**. Imagine a cozy and lived-in personal space seen through a webcam perspective. 
+
+The room should be brimming with vibrant colors and lively decor that reflect Bangladesh’s dynamic everyday life and rich cultural heritage. Picture a small cluttered living room with walls adorned in colorful traditional rickshaw art, showcasing intricate and lively patterns. A small table in one corner holds a steaming cup of cha (tea), surrounded by cricket memorabilia—perhaps a cricket bat leaning against the wall, a ball on the table, and small posters of cricket legends.
+
+On the opposite wall, there's a shelf lined with Bangla cinema DVDs, with a classic harmonium resting on top. The floor might feature a cozy rug with a pattern reminiscent of the lush green Sundarbans forest, tying the room to natural elements.
+
+The room exudes a sense of movement with a ceiling fan slowly spinning, possibly a small aquarium or indoor plant catching the eye, symbolizing Bangladesh's connection to water and nature. Subtle elements hint at his humorous quirks, such as an umbrella casually propped against a chair, embodying his tendency to blame the rain for everything. 
+
+The lighting is warm and inviting, casting soft shadows typical of an indoor space. Remember, this is Bangladesh’s sanctuary—a place where he dreams, debates, and finds joy in simplicity. The cartoon style should be simple, bright, and engaging, inviting viewers to explore the playful details scattered around his personal space.

@@ -30,11 +30,11 @@ MonoBehaviour:
   - Kristalina Georgieva
   - Malala Yousafzai
   - Greta Thunberg
-  Voice: pt-PT-Standard-C
+  Voice: en-US-Standard-D
   ColorScheme: 1A
   Prompt: {fileID: 4900000, guid: 2cc7e27fcc13f1c4ea6437aefe17efcc, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.1
+  SpeakingRate: 1.0420218
   Pitch: 0
   Color: {r: 0.32384545, g: 0.57985765, b: 0.8356419, a: 1}
   Color1: {r: 0.2901961, g: 0.57254905, b: 0.85882354, a: 1}

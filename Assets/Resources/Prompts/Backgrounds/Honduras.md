@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background for a character named Honduras from the show **polbots**. The setting is a cozy, colorful living room that captures the essence of his laid-back and vibrant personality. Imagine a typical webcam perspective: the scene is panoramic, like a wide shot of the room you’d see during a virtual call, featuring the natural lighting and focus one would expect in a personal, indoor setting. 
+
+The room is filled with tropical plants and has a guitar propped up against the wall, indicating his musical side. A small coffee table holds an unfinished cup of coffee along with a plate of baleadas—a nod to his appreciation for comfort food. Shelves are adorned with mementos from the Mayan civilization, like small replicas of ancient statues, reflecting his pride in his cultural heritage.
+
+Scattered about the space, you’ll notice an eclectic mix of soccer memorabilia: a jersey casually hung over a chair and a soccer ball resting in a corner. The walls display art pieces resembling lush landscapes reminiscent of Copán and Lake Yojoa, subtly emphasizing his advocacy for environmental preservation.
+
+In line with his humorous nature, one corner of the room features a small indoor garden overtaken by a humorous amount of jungle-like growth, alluding to his comedic mishap in landscaping. The room has a cozy feel, with colorful salsa music posters on the wall to highlight his love for dance and song.
+
+The style is distinctly cartoonish, using flat shapes and simple details to evoke a sense of whimsy. The neutral lighting enhances the cozy atmosphere without overpowering it, providing a balanced backdrop for the character’s webcam chats and storytelling. All these elements come together to tell the story of Honduras’s easygoing nature and cultural pride without the clutter of excessive details or realism.

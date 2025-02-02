@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background suitable for a character named Tunisia from the show "Polbots." The scene depicts his personal space as seen from a webcam, designed to reflect his habits, personality, and cultural influences. Imagine a colorful, cozy room with a distinctive Mediterranean flair. 
+
+Positioned in a seaside-themed apartment, the view reveals a charming blend of modern and traditional elements. The walls are adorned with intricate, vibrant Tunisian carpets and colorful pottery that add depth to the space. A low table holds a teapot and mint tea cups alongside a small silver tray filled with almonds, capturing Tunisia's love for this relaxing ritual. 
+
+To the left, a replica of a souk-inspired bookshelf brims with eclectic items like small urns and spices, hinting at his curiosity and love for diverse narratives. On the floor, an elaborate kousha—showcasing his interest in traditional adornments—adds a touch of cultural heritage. A window view hints at the calm sea beyond, strewn with olive trees underlining his comedic obsession with olive oil. Random bottles with olive-themed labels are playfully placed around the room, alluding to his belief in its miraculous uses.
+
+A cozy hammock chair is set in a corner, inviting relaxation. Nearby, a small pile of books with titles readable if one leans closely focus on Mediterranean cooking, hinting at his love for couscous debates. Tuned-in yet quaint, there's a subtle nod to technology with a small, old-style TV beside a sleek laptop, symbolizing his balance of tradition and modern advances.
+
+The ambiance radiates warmth with soft pastel hues, while the cartoon-style simplicity rings through with flat shapes and simple details, reminiscent of MS Paint. Ensure the perspective remains natural, capturing the feel of a lived-in, inviting space—all in a panoramic view, void of characters, but rich with hints of Tunisia's vibrant, laid-back essence.

@@ -1,0 +1,11 @@
+Create a digital cartoon-style panoramic background for the character Canada from the show "polbots," showcasing a webcam-style view of his personal space, capturing his unique personality and cultural influences. This room, possibly a cozy living room or office, should visibly reflect Canada's everyday persona and core identity. 
+
+Incorporate a rustic wooden atmosphere to echo the essence of Canadian wilderness, with textured wooden floors and a large plush rug in the center. A fireplace sits at one side of the room, gently crackling, with a few logs stacked nearby emphasizing his love for campfire gatherings. Above the fireplace, mounted are crossed hockey sticks—a nod to his beloved sport.
+
+Scattered throughout the room, small items like a well-worn red flannel shirt drapes over a cushy armchair—indicative of his iconic style—and a pair of snowshoes leaning against the wall, suggesting his interest in outdoor adventures. On a small table, an open box of s’mores supplies sits next to a guitar, highlighting his penchant for cozy sing-alongs.
+
+A bookshelf filled with nature guides and titles on diplomacy and peacekeeping stands prominently in one corner, alongside a globe, which symbolizes his balancing role between continental and cultural divides. An inviting aroma of pancakes almost seems to waft through, with a maple syrup bottle casually placed on the kitchen counter.
+
+Mounted on the neutral-toned walls are paintings depicting vast, sweeping Canadian landscapes and serene waterfalls, capturing the country’s spirit of environmental stewardship. In one section of the room, a small flag with dual French and English colors gently sways, illustrating Canada's bilingual nature and cultural balance.
+
+Avoid clutter, honing in on charming, yet essential details that speak to his character. Opt for flat cartoon-style, simple design lines with a playful yet clear color scheme. The room should appear lived-in but left unoccupied, without any real person or character present, ensuring it feels like a natural and authentic extension of Canada's personality in the show "polbots."

@@ -9,14 +9,10 @@ Please only use the approved emotion tags.
 
 - {1}
 
-### Additional Information:
-
-{2}
-
-### Chat Log:
+### Transcript:
 
 ```
-{3}
+{2}
 ```
 
 ### Instructions:
@@ -35,8 +31,6 @@ Only use the predefined emotional tags. Be as accurate as possible and make sure
 
 ### Example Output:
 
-```
 America: Frustrated
 Iran: Smug
 France: Worried
-```

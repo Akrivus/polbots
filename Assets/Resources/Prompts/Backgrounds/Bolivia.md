@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for a character from the show **polbots**. The scene is a cozy, lived-in room belonging to Bolivia, a character represented as a Countryball.
+
+The room is styled with a vibrant blend of traditional Andean influences and modern touches. On a tablet table, there's an assortment of colorful, hand-woven textiles draped over furniture, adding warmth and cultural richness to the space. A set of panpipes rests on a small wooden shelf, hinting at Bolivia's musical spirit. Nearby, a full-length mirror reflects a rack of traditional clothing, showcasing the intricate patterns and vibrant colors that define her personal fashion statement.
+
+In a corner, a small kitchen area is visible, featuring a pot simmering on the stove, exuding the aroma of traditional Andean cuisine. Ingredients like quinoa and a few Salteñas on a plate suggest a recent cooking adventure. A cozy couch is positioned to face a television, with a stack of telenovela DVDs filling a shelf beneath it. Several coca tea cups are scattered around the coffee table, remnants of leisurely weekend afternoons.
+
+The walls are adorned with the Wiphala flag and a few historical map prints, illustrating Bolivia's profound connection to her indigenous heritage and complex past. House plants and a few traditional Andean crafts, like carved wooden llamas and ceramic pots, are scattered around, linking her to the natural world and her multifaceted culture.
+
+A window view shows a glimpse of the beautiful Cochabamba sun, framed by simple white curtains. The lighting reflects a warm, inviting ambiance with earth tones predominating, echoing her mixed heritage and commitment to multiculturalism. Small comical touches include a treadmill with clearly little use, playfully nodding to Bolivia’s humorous struggle with altitude.
+
+This personal space exudes Bolivia's earnest, peacemaking nature, mixing historical depth with modern quirks, in line with her role in **polbots**. The room is devoid of any characters, maintaining a perspective as if looking through a webcam, ensuring all humorous and personal details remain clear and resonant.

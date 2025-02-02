@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper depicting a personal space for the **polbots** character Azerbaijan. Visualize a charming blend of modernity and tradition in a cozy, lived-in room that conveys her lifestyle and quirks. 
+
+Imagine a panoramic view, as if seen through a webcam, capturing the eclectic mix of Azerbaijani culture and influences. The walls are a warm, inviting hue, adorned with woven tapestries and vibrant carpets scattered intricately across the hardwood floor. A samovar takes pride of place on a wooden table, surrounded by a set for tea with delicate china and small bowls of saffron-infused treats. Nearby, a balaban rests casually on a plush armchair, hinting at recent musical practice. 
+
+Bookshelves line one wall, filled with tales of her storied past and diplomatic endeavors, while a small antique radio plays softly, hinting at mugham music echoing through the space. In a nod to her boisterous love for wrestling, a framed poster of a traditional wrestling match hangs prominently. A teapot lid sits stubbornly on a counter, humorously alluding to her comedic struggles with stubborn lids. On a shelf lies a little trophy-shaped object, perhaps celebrating a Eurovision victory.
+
+The room’s décor is accented with items showcasing Azerbaijan's dual Eastern and Western influences—small, elegant, cultural trinkets and modern gadgets. A window view glimpses the silhouette of distant Flame Towers, symbolizing her forward-looking ambition. Keep the atmosphere light, infused with a humorous touch reflective of her vibrant storytelling, with small details telling tales of cultural debates and culinary supremacy. 
+
+**Remember:** This digital wallpaper should be cartoon-style with simple detailing, creating a background full of character without the presence of any people.

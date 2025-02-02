@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background designed for a Countryball character from the show "polbots." This scene should portray the personal space of Costa Rica, depicting it as a living room or office that exudes his laid-back and eco-friendly lifestyle. The view is webcam-style, capturing a natural, panoramic shot without any characters present.
+
+The room is brightly lit with sunlight streaming through large windows, showcasing lush greenery outside. The walls are painted in soothing, tropical shades of green and blue. A surfboard leans against one wall, hinting at his love for the ocean, while a handcrafted wooden coffee table is adorned with a traditional café chorreado and a steaming cup of coffee.
+
+In one corner, a small desk cluttered with solar-powered gadgets and eco-friendly tech items reflects Costa Rica's quirky passion for technology. There's a hammock chair swaying gently, suggesting his relaxed and peaceful lifestyle. Bookshelves lined with literature on biodiversity and sustainability, accompanied by framed pictures of rainforests, add to the eco-aficionado vibe.
+
+Scattered around the room are potted tropical plants and banana bunches, a nod to his infamous fruit jokes and pride in agriculture. A simple compost bin sits unobtrusively near an organic gardening kit, playing to his environmental advocacy, while a turntable spinning cumbia or reggae records adds a musical touch.
+
+The entire room maintains a comedic yet serene vibe, filled with eco-centric humor such as solar panel coasters or a quirky compost-inspired wall art. The visuals should be cartoonish, with flat shapes and simple details, akin to drawings made with MS Paint—giving it a charming, lighthearted feel without appearing realistic. Remember to capture a sense of personality through thoughtful decorations without the use of text, focusing instead on visual clues that hint at Costa Rica's peaceful, environmental ethos.

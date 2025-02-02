@@ -1,0 +1,9 @@
+Create a digital, cartoon-style wallpaper background showcasing a webcam-style view of Finland's personal space from the show "polbots." Picture a cozy yet modern apartment space reflecting Finland’s personality and cultural quirks. The room is furnished with sleek, minimalist Scandinavian furniture – a comfortable-looking armchair, simplistic bookshelves, and a small vintage-looking radio playing softly in the background. 
+
+To the left, you'll find a window with a picturesque view of a serene lake surrounded by dense forest. The window ledge holds a small potted pine tree and a decorative wooden reindeer. On the right, there's a fireplace exuding warmth, with a colorful handmade quilt draped over the backrest and several pairs of intricately knit wool socks hanging stylishly above the fire.
+
+In the center, a playful clutter of board games hint at Finland’s competitive spirit alongside a low wooden coffee table topped with a steaming mug of glögi left amidst several open books and a half-finished knit project. Nearby, a sleek, vintage Nokia phone is humorously lodged in a pile of snow nestled by the window – a playful nod to its frequent misplacement.
+
+The walls are adorned with understated art pieces, possibly abstract Nordic landscapes, and a digital clock showing a time that humorously reads 19:39, subtly referencing the Winter War. Scattered around the room are small plush versions of her Nordic companions, a friendly jab at their notorious pranking escapades. A trusty dog bed lies casually at one corner, hinting at Mökki’s faithful presence.
+
+Overall, ensure the room atmosphere exudes Finland's traits – resilience, warmth, and a blend of traditional and modern influences, all presented in a humorous yet organized mess that pays tribute to her endearing quirks and strong sense of self. Remember to keep cartoon-style details simple but expressive, with natural webcam-perspective lighting to fit the indoor polbots setting.

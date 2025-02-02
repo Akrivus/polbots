@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for a character's living space from the show "polbots," specifically for the character Argentina, who is a lively Countryball with a love for tango, fútbol, and social justice. Picture the scene as a webcam-view of Argentina's cozy and vibrant living room, full-width and panoramic, with natural perspective as if viewed from one wall of the room.
+
+In the space, decorate it with an eclectic mix of items that reflect Argentina's personality and cultural background. Include a tango music record player surrounded by scattered vinyl covers, suggesting recent use. A small table off to one side holds a traditional mate set, complete with a kettle and bombilla, indicating her shared moments of camaraderie. 
+
+Art adorns the walls, including abstract pieces and portraits homage to Maradona, capturing the reverence in her collection. An open cabinet filled with fútbol trophies and memorabilia reside next to a bookshelf, which is slightly askew, filled with telenovela DVDs and economic journals, showcasing her varied interests.
+
+Create a sense of warmth with a plush sofa, draped casually with a blue and white checkered blanket, resonating with Argentina's national colors. A low coffee table has remnants of a dulce de leche dessert left intentionally unfinished, perhaps for a future debate. There's a subtle nod to her rivalry with Brazil through a half-hidden fútbol magazine featuring an Argentina vs. Brazil match on the cover.
+
+Incorporate playful references to her humor, such as a miniature soccer field wool rug and an unopened tango competition trophy peeking from a crate, covered with dust. The rivalry with Brazil is subtly hinted with two mismatched, yet similarly-styled, garden gnomes watching the room's activities from opposite corners—a spirited nod to asado supremacy jokes.
+
+Offering a cartoonish, yet personal glimpse into Argentina's vibrant lifestyle, balance simplicity with liveliness. Integrate humorous, but subtle gags and warm motifs, echoing her spirited dynamics within the polbots narrative—all seamlessly blending without words or unrealistic detail.

@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background for a character in a show called "polbots." The character is a Countryball named Cuba (she/her). Design the scene from a webcam-style view of her personal space, like a living room. Capture Cuba’s vibrant zest for life and cultural influences in a bright and lively cartoon style reminiscent of MS Paint.
+
+In the room, place a vintage car model on a shelf and an old radio playing imaginary salsa tunes. Nearby, a small table holds half-emptied mojito glasses and domino pieces mid-game. A cozy, colorful hammock strewn with cushions sits in one corner, symbolizing her laid-back charm. A second-hand fan lazily spins above, setting a relaxed pace known as "Cuban Time."
+
+The walls display spirited, playful artworks—stylized portraits of revolutionary heroes and bright, abstract street scenes. A compact kitchenette counter is cluttered with coffee cups and ingredients, hinting at impromptu cafecito sessions with friends. In a satirical nod, use the wall shelves to stage her “perfect” cigars with varied sizes and colors, drawing humor from her excitable taste tests.
+
+Add tropical houseplants near the window, symbolizing her resourcefulness and love for outdoors while opting for sustainability and defiance through décor choices. The muted, neutral lighting is perfect for mood manipulation through hue shifting while ensuring details mimic what a webcam would naturally capture—soft focus with no sharp definition.
+
+This lived-in, unoccupied space tells Cuba's story, balancing historical pride with personality quirks and forming a perfect cartoon wallpaper for polbots.

@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background depicting the personal living space of Malaysia, a Countryball character from the show "polbots." Design this space as if viewed through a webcam lens, capturing a cozy, colorful room infused with cultural and personal elements that reflect Malaysia's personality and quirks.
+
+The room features a vibrant mix of influences, with a cozy seating area adorned with plush cushions that hint at her love for comfort and social gatherings. A small table is adorned with a steaming cup of teh tarik, exuding a friendly and welcoming vibe. Nearby, a collection of potted plants rests on a sunny windowsill, suggesting her ongoing quest to nurture a durian tree, adding a humorous touch with a sign that reads "still trying!"
+
+The walls are tastefully decorated with Bollywood movie posters and framed scenes from classic Malaysian dramas, paying homage to her cinematic dreams. A bookshelf noticeably displays a P. Ramlee film collection, emphasizing her rich cultural heritage.
+
+Scattered throughout the room are various memorabilia from the night markets she adores—tiny figurines of exotic food, colorful textiles, and other playful knick-knacks. A weathered umbrella and sunhat rest casually by the door, alluding to her playful obsession with the unpredictable Malaysian weather.
+
+A small, cluttered workspace showcases her diplomatic side, with maps alluding to trade routes like the Strait of Malacca, and a globe highlighting her strategic prowess. Papers with scribbles of plans and ideas reflect her mediation role, while the computer screen shows faint outlines of ongoing polbot negotiations.
+
+The entire space should be vibrantly decorated, yet slightly out of focus, as seen from a webcam. The environment humorously reflects Malaysia's boundless optimism with the excess use of culinary references in her décor and the pervasive "boleh" spirit visible in the room's playful details. Make sure the scene is devoid of any characters, text, or explicit national symbols, focusing only on the essence of Malaysia's unique, diverse, and humorous character through her personal domain.

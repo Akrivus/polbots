@@ -1,0 +1,7 @@
+Create a cartoon-style digital wallpaper background for Tanzania, a Countryball in a show called **polbots**. Imagine a vibrant living room that radiates warmth and cultural heritage. The walls are adorned with colorful kanga patterns. There's a wooden coffee table surrounded by cozy seating, which would be ideal for hosting coffee and tea gatherings. The floor is scattered with Tanzanian coffee beans.
+
+Near one corner, a well-loved turntable plays Bongo Flava music, with vinyl records casually strewn around. A section of the room displays intricate Makonde wood carvings, celebrating Tanzania's artistry. A large window offers a view of Mount Kilimanjaro, infusing the room with natural inspiration. Near the window, a small indoor plant sits, testament to Tanzania's enthusiastic conservation spirit.
+
+Small humorous touches are evident—a telescope nearby, hinting at Tanzania's pretend tours, and a tangled set of internet cables symbolizing his running gag about connectivity woes. For comic flair, a hiking backpack leans casually against a wall, always ready for spontaneous adventures.
+
+The space exudes diplomacy and unity, with a small globe and cooperative game board subtly displayed to hint at Tanzania’s mediator role in **polbots**. The panorama captures the essence of Tanzania's lively, welcoming, and culturally rich persona in a dash of cartoon simplicity without compromising his unique quirks and contributions to the show.

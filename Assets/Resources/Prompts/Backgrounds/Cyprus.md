@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for a character in a show called "polbots," focused on Cyprus, a Countryball known for her unique and contrasting personality. This scene captures her personal space, offering a peek into her lifestyle and traits.
+
+The setting is Cyprus's cozy yet lively living room, reflecting her Mediterranean heritage and everyday habits. The walls are painted in a calming pastel turquoise, hinting at the nearby sea. A large, plush armchair, embroidered with olive branch patterns, is strategically positioned to catch the Mediterranean sunlight streaming in through a wide open window, adorned with lace curtains. A table beside the chair holds a traditional Κυπριακός καφές set, coffee pot included, and a small plate of gleaming green olives and crispy slices of halloumi cheese. 
+
+On the opposite wall, a vintage bouzouki hangs as both decoration and often-used instrument, ready for impromptu dance moments to Zorba the Greek. Surrounding the room are memorabilia of Cyprus’s storied history: a small shelf displaying classical Greek amphora replicas, a Byzantine-style icon of a saint, and a quaint Ottoman lantern casting warm shadows. 
+
+Scattered on a nearby coffee table are printed Reddit feeds on political discussions, a few empty coffee cups, and an ashtray with a lone stub from a hookah session. A cheeky nod to her humorous and diplomatic side is a dartboard hanging on one side of the room, featuring infamous political figures from both the north and south regions, indicating many humorous and indecisive moments. 
+
+Fragments of her joking love triangle tale are subtly presented: a stuffed British bulldog toy and a miniature Israeli flag propped against a photo frame showing her along with friends in a playful setting. The room is completed with a scatter of cozy cushions, patterned with geometric Mediterranean designs, inviting guests into conversation, debate, or a shared meze platter. 
+
+The webcam-style view captures the whimsical, cluttered, and deeply cultural ambiance of Cyprus’s personal space, inviting the viewer into the world of "polbots" with humor and character ingrained into every detail.

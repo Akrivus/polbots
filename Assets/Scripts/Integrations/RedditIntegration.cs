@@ -30,8 +30,8 @@ public class RedditIntegration : MonoBehaviour
     private Dictionary<string, DateTime> fetchTimes = new Dictionary<string, DateTime>();
     private DateTime lastBatchTime = DateTime.Now;
 
-    private int i = 0;
     private int batchLifetimeTotal = 0;
+    private int i = 0;
 
     public void Configure(RedditConfigs c)
     {
@@ -80,9 +80,9 @@ public class RedditIntegration : MonoBehaviour
             return;
         
         var ideas = new List<Idea>();
-        for (var _ = 0; _ < SubReddits.Count; _++)
+        for (var _ = i; _ < SubReddits.Count; _++)
         {
-            var range = await FetchAsync(SubReddits[i++]);
+            var range = await FetchAsync(SubReddits[_]);
             ideas.AddRange(range
                 .Select(post => {
                     history.Add(post.Value<string>("id"));
@@ -99,14 +99,11 @@ public class RedditIntegration : MonoBehaviour
                 ).ToList());
             if (ideas.Count >= BatchMax)
                 break;
-
-            if (i >= SubReddits.Count)
-            {
-                i = 0;
-                break;
-            }
+            i = _;
         }
 
+        if (i == SubReddits.Count - 1)
+            i = 0;
         lastBatchTime = DateTime.Now;
         batchLifetimeTotal += ideas.Count;
 

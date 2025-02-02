@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background of Sudan's personal space for the show "polbots." This lived-in room captures Sudan’s vibrant and eclectic personality, bringing together elements of art, music, and history with his characteristic humor and quirks. 
+
+Imagine the scene as viewed naturally through a webcam, showing a cozy, colorful nook perhaps in Sudan’s apartment. The center of the room features a low, round coffee table adorned with beautiful, hand-painted Nubian pottery reflecting intricate patterns and rich colors. Around the table lay plush floor cushions in a mix of earth tones, reminiscent of desert sands, designed to foster intimate storytelling sessions. 
+
+Against one wall stands a wooden bookshelf filled with a diverse collection of storybooks, historical tomes, and handmade trinkets. A vibrant Sufi tapestry hangs above the shelves, slightly askew, adding a touch of whimsical character to the scene. Next to this bookshelf, an ornate stand gently cradles a carefully cared-for tumbi and a small collection of well-thumbed music sheets.
+
+The opposite wall hosts a charmingly cluttered kitchen nook. Colorful spice jars hint at Sudan’s love for cooking, complemented by a small dish covered with an embroidered cloth, indicating a freshly made meal of ful medames. Tacked to the wall, a large, sprawling map of Africa with playful notations scribbled in various places, including a cheerful arrow pointing to the Nile with ‘Problem Solver’ humorously inscribed next to it (without using text).
+
+In the far corner, a worn, comfortable armchair tells of many evenings spent in lively conversation. An eclectic mix of African and Islamic art hangs on the surrounding walls, weaving his cultural influences into the very fabric of the room.
+
+The lighting is soft and neutral, enhancing the homely warmth, with details slightly out of focus, emulating the natural perspective of a webcam shot. This setup allows for hue adjustments while maintaining the background's inviting and humorous spirit, perfectly reflective of Sudan's wise and colorful nature in **polbots**.

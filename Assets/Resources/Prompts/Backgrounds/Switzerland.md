@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for the character Switzerland in the show "Polbots." Picture his personal living room captured in a relaxed webcam-style view, with a cozy, lived-in atmosphere. 
+
+The room is anchored by a large, inviting sofa with plush cushions adorned with small, alpine mountain patterns. In the corner, a fondue pot simmers gently on a small, traditional-looking wooden table, surrounded by an array of cheeses. A half-finished jigsaw puzzle depicting a scenic Swiss landscape is spread over another table, with a single piece humorously missing.
+
+Along the walls, shelves are lined with meticulously organized wristwatches, each catching the light in their own unique manner, portraying "Schweizer Präzision." Nearby, an Alphorn is propped against the wall, next to a mountain hiking backpack leaning with an attached yodeling guidebook peeking out. A large window reveals just a portion of mountain peaks in the distance, indicating his passion for alpine hikes.
+
+To add a humorous touch, a perfectly aligned row of multi-tool pocket knives, each one slightly larger than the next, decorate one of the shelves—a nod to Switzerland's running gag. A coffee table holds a neutral-looking mug, halfway filled with hot chocolate, next to a miniature cowbell.
+
+The decor is subtly culturally influenced, with a Swiss flag-shaped throw casually draped over the side of the couch, and posters of various peaceful international treaties partially visible on the walls. As a touch of whimsy, there's a tiny house plant wearing miniature sunglasses, sitting on the windowsill, giving the room a slightly humorous edge.
+
+Every element in the scene should have clear, cartoon-style lines and flat color filling typical of MS Paint creations; the lighting is evenly distributed to highlight this inviting, personal space without adding dramatic shadows or realism. Despite the many personalized details, ensure the focus remains on Switzerland's unique personality, humor, and lifestyle.

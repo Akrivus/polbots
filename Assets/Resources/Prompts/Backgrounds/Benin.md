@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for the character Benin from the show **polbots**. This should resemble a webcam view of her personal space, possibly an eclectic living room or home office that showcases her unique personality, interests, and cultural heritage.
+
+The room is cozy and welcoming, featuring a mix of historical and modern elements. The walls are adorned with vibrant, Afrobeat-inspired art prints and a framed photo of Angélique Kidjo, Benin's musical hero. An inviting corner has a small shelving unit displaying her collection of traditional voodoo artifacts, each piece carefully curated and dusted, lending a mystical yet respectful ambiance.
+
+A well-loved, wooden djembe drum sits by a window framed by lush green forest views, suggestive of the Abomey-Calavi woods that Benin adores. The drum hints at her passion for passing down rhythmic tales. A vintage radio, tuned to an Afrobeat station, rests on a low table nearby, next to a pile of vinyl records, adding to the room's musical theme.
+
+Scattered around the room are playful nods to her humorous quirks—perhaps a traffic jam toy car under a playful voodoo doll's gaze, or an old, decorative map of the Kingdom of Dahomey pinned carefully on a corkboard beside a miniature flag marking the 1960 independence year.
+
+Furniture is strategically arranged to suggest a communal vibe—a comfortable sofa with a colorful, handwoven throw sits across from a simple, wooden coffee table, all inviting spontaneous discussions. A basket filled with Jollof rice cookbooks highlights her sibling-like rivalry with Nigeria, another character in the show.
+
+The lighting is neutral, consistent with an indoor webcam shot, with some environmental clutter to indicate a well-lived-in space—perhaps a few music sheets peeking out from under the drum or a forgotten teacup resting on the coffee table. Ensure the scene captures Benin's flair for history, culture, and humor in simple, cartoon-style graphics, without text, focusing on rich colors and personality-driven details.

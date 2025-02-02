@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background for the character Liechtenstein from the show **polbots**. Picture an inviting living space with a serene and cozy atmosphere, capturing Liechtenstein's love for the quaint and traditional. A large window offers a gentle view of the Alps, hinting at his passion for hiking. The room is designed with both rustic elements and a sense of European charm, emphasizing a comfortable alpine lodge feel.
+
+On the walls, display a collection of postage stamps in ornate frames, a nod to his treasured hobby. A small bookshelf holds classic literature and intriguing tales, alluding to his fondness for recounting historical stories. Nearby, a phonograph plays soft cowbell music, humorously echoing his ringtone antics, while a warm fondue set waits on a vintage coffee table, hinting at his shared culinary moments with his Swiss neighbor.
+
+The décor features subtle yet engaging homages to diplomacy and finance, like decorative scales symbolizing his balanced financial strategies and a small treaty replica, symbolizing historical neutrality. A small banner in the room depicts "Rhein in Flammen," adding color and festive cheer.
+
+In the foreground, a plush armchair draped with a cozy blanket sits beside a charming side table adorned with yodeling competition medallions. A small, elegant tea set waits for cozy evenings animated by gentle greetings of "Grüezi." The overall color palette is muted yet rich, suggesting both a regal heritage and a modest flair, while the clutter is minimal, fostering an air of calm independence.
+
+The entire scene is captured in a flat cartoon-style with soft lines and bright colors, as if seen through a webcam—personal, humorous, and filled with the unique nuances of Liechtenstein's charming persona.

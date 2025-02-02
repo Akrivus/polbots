@@ -31,7 +31,7 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
     private float _volume;
     private Color _color = Color.black;
 
-    private bool _enabled;
+    private bool _enabled = true;
 
     private void Awake()
     {
@@ -49,7 +49,7 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
 
     private void Start()
     {
-        if (VideoCallUIManager.Instance == null || transform.parent.gameObject.layer != LayerMask.NameToLayer("UI"))
+        if (VideoCallUIManager.Instance == null)
             DisableCamera();
         if (_enabled)
             _ui = VideoCallUIManager.Instance.RegisterUI(ActorController, _camera);

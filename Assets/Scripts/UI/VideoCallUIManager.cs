@@ -5,12 +5,15 @@ using UnityEngine;
 
 public class VideoCallUIManager : MonoBehaviour
 {
-    public static VideoCallUIManager Instance => _instance ?? (_instance = FindObjectOfType<VideoCallUIManager>());
+    public static VideoCallUIManager Instance => _instance ?? (_instance = FindFirstObjectByType<VideoCallUIManager>());
     private static VideoCallUIManager _instance;
 
     public GameObject Container;
     public GameObject VideoScreenPrefab;
     public AudioSource AudioSource;
+
+    [SerializeField]
+    private UIGridLayoutGroup _gridLayoutGroup;
 
     [SerializeField]
     private SoundProfile _profile;
@@ -24,7 +27,7 @@ public class VideoCallUIManager : MonoBehaviour
 
     private void Start()
     {
-        ChatManager.Instance.OnChatQueueAdded += chat => Play(VideoCallSound.Ping);
+
     }
 
     private void Update()
@@ -34,6 +37,7 @@ public class VideoCallUIManager : MonoBehaviour
 
     private void UpdateUI()
     {
+        if (_controllers.Count <= _gridLayoutGroup.MaxChildren) return;
         _controllers = _controllers.OrderByDescending(c => c.Controller.ScreenOrder).ToList();
         for (var i = 0; i < _controllers.Count; i++)
             _controllers[i].transform.SetSiblingIndex(i);

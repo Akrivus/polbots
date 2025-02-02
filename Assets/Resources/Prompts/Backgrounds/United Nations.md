@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background that depicts the cozy living room of United Nations, a Countryball character from the show **polbots**. The scene captures a whimsical, inviting atmosphere with colorful, flat shapes and simple details, reminiscent of MS Paint aesthetics. 
+
+The room is moderately cluttered but organized, reflecting United Nations' penchant for over-organization. In the foreground, a large round table spread with an array of international cuisine makes it clear he’s ready for another potluck dinner; plates with exotic food symbols hinting at global diversity.
+
+On a bookshelf, you can see the tops of various flag miniatures poking out between assorted international films on DVDs, while some diplomas and historic peace accord replicas hang slightly askew on the wall, nodding to his diplomatic history. A globe sits prominently on a side table, surrounded by comic books about sustainable development and climate solutions.
+
+A comfy, slightly worn couch with throw pillows showcases different flags, including Sweden’s, signaling amicable partnerships, while the USA flag pillow is humorously squished into a corner, hinting at their diplomatic ups and downs. A projector with slides depicting a recent botched Friday Night Football event adds a comedic touch, with one slide left stuck displaying a friendly pandemonium on the field.
+
+Scattered sticky notes with numbers are stuck to an eco-friendly bamboo lamp, symbolizing reminders of upcoming dialogues or deliberations, and to emphasize his running joke of endless committees. A small indoor plant in a recycled pot shows his commitment to eco-friendliness, yet it looks a bit neglected— alluding to his habit of taking on more than he can handle. 
+
+The room is well-lit but with a neutral tone to suit the indoor setting, and details remain slightly out of focus as would be seen through a webcam from a wall facing the display. This panoramic view, humorously cluttered yet clearly reflecting various cultural influences, perfectly embodies United Nations' personality: optimistic, international, and a touch bureaucratic.

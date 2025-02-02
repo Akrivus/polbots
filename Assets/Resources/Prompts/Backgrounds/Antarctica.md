@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for the character Antarctica from the show "polbots," capturing their unique habitat and personality in a cozy, webcam-style view. Imagine a charming, slightly cluttered living room filled with quirky decor that embodies Antarctica's love for polar life and environmentalism. 
+
+Picture a comfy armchair draped with a soft, penguin-patterned throw, situated next to a small table adorned with unfinished ice sculpture models and an array of chisels. Off to the side, an old-school TV screen continuously displaying a muted documentary about icebergs, titled “The Unknown Ice Giants,” silently narrates in the background. 
+
+Nearby, a shelf holds an impressive collection of penguin figurines, each embodying different national attires, hinting at Antarctica's passive-aggressive "penguin post" habit. A low coffee table bears the weight of unopened letters addressed to various international leaders, half-covered in stamps of global landmarks depicted humorously in a melting state.
+
+The walls are lined with whimsical artworks of ice landscapes, drawn humorously as if the glaciers are playfully escaping the frames, further juxtaposing the looming reality of climate change with an air of cartoon deliberateness. On the floor, a cozy rug mimics the patterns of ice cracks, while a space heater prominently sits unplugged under the window, blanketed by a layer of frost, emphasizing Antarctica's love for the cold.
+
+Nearby potted plants look slightly out of place, encased in glass terrariums resembling miniature greenhouses, symbolizing Antarctica's fight for nature under her icy realm. A messy corner holds a stack of environmental books and a globe with the southernmost pole prominently bearing a small flag, labeled only with the number ‘59’—a nod to the Antarctic Treaty.
+
+The room's lighting stays neutral, capturing a lived-in, warm-yet-cool atmosphere, blending Antarctica's icy nature with their deeply empathetic character. The overall decor serves as a perfect backdrop for an introspective, quirky, yet slightly dramatic persona, appropriate for this polbot's cartoon universe.

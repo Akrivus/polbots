@@ -1,0 +1,11 @@
+Create a whimsical, cartoon-style digital wallpaper background that reflects the colorful and laid-back personality of the character Zambia from the show "polbots." The scene is set within the personal space of Zambia's living room, captured in a cozy, lived-in aesthetic that resembles a webcam view. The room is a testament to Zambia's easy-going nature and cultural roots, with hints of his interests and quirks scattered throughout.
+
+The space features a comfortable, worn-in armchair near the window, from which the faint sound of Zamrock tunes might be imagined coming from a retro-styled, turquoise radio on a nearby wooden side table. Next to the chair, an eclectic mix of vinyl records is neatly stacked, suggesting Zambia's passion for music. A fishing rod leans casually against the wall, alongside an array of hanging carved wooden sculptures, each with a slightly amusing or imperfect appearance—emblems of Zambia’s hobby and humor.
+
+The walls of the room are adorned with framed, cartoon-style representations of serene landscapes, perhaps reminiscent of Victoria Falls, bringing a sense of peace and unity into the space. A small, sunlit reading nook, cluttered with books on regional politics and history, underscores Zambia's mediation role within "polbots."
+
+A bowl filled with fresh bream and nshima sits on a rustic wooden coffee table, symbolizing his hospitality. The room is dotted with quirky touches, like a potted plant overgrown in a slightly comedic fashion, its leaves sprawling in various directions, mirroring Zambia's occasional procrastination with a touch of humor.
+
+The overall atmosphere is warm and inviting, with a few whimsical, cartoon-style details that capture Zambia's unique character traits, such as his famous knack for storytelling—which are, of course, visualized through playful decorations like a small marketplace diorama displaying tiny market stalls and fruits scattered amusingly across a shelf.
+
+Neutral lighting sets the tone, and the colors are vibrant yet calming, with blues, greens, and earth tones dominating the space to hint at Zambia's natural affinity and peaceful core identity. The scene is panoramic and full-width, maintaining a natural webcam-like perspective, without any human presence, allowing the room's charm and Zambia's essence to shine through in every whimsical detail.

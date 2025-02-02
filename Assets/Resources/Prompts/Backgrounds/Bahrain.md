@@ -1,0 +1,11 @@
+Create a cartoon-style digital wallpaper background for a character named Bahrain from the show "polbots." Picture his personal space as a webcam-style view, capturing a cozy living room that's infused with his unique blend of tradition and modernity. Imagine a room with a rich cultural vibe, showcasing his love for the sea and crafts, like a small wooden table holding a beautifully crafted pearl necklace, alongside an ornate shisha pipe.
+
+The room's décor features a plush, comfortable sofa with intricate patterns, reminiscent of Middle Eastern textiles. A large window offers a hint of ocean, letting in a soft, warm light that reflects Bahrain's peaceful, sea-loving nature. Close by, a display shelf houses miniature dhows—wooden vessels used for pearl diving—echoing his heritage.
+
+His obsession with Formula 1 is evident through a modest collection of racing memorabilia: a small model Formula 1 car perched on a side table, alongside a vintage racing poster on the wall, subtly nodding at his passion for speed.
+
+Adorning another section of the room, a traditional tea set is placed snugly on a low table, ready for bridging discussions over rich Arabian tea. A tray of baklava adds a playful touch, hinting at Bahrain's trademark peace offerings and his lightly comedic rivalry over the last piece.
+
+The room's ambiance is completed with some potted palms adding greenery, and a colorful mosaic rug covering the floor, anchoring the space with warmth and character. The overall setup illustrates Bahrain's knack for blending diplomacy with history, tradition with innovation, all wrapped in a cozy, charming, and slightly humorous personal space.
+
+Ensure the space is cartoonishly styled with flat shapes and simple details, maintaining a humorous yet insightful atmosphere that encourages viewers to explore the smaller details of Bahrain's character without being overtly busy or realistic. The lighting is neutral to suit its portrayal on a digital screen, and environmental details should tell the story of Bahrain's life and quirks without any lettering or busy public scenes.

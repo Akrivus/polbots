@@ -192,7 +192,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8962010934072233688
 RectTransform:
   m_ObjectHideFlags: 0
@@ -213,7 +213,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 410, y: 238}
+  m_SizeDelta: {x: 1374, y: 768}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &5694503548559956552
 GameObject:
@@ -247,10 +247,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 6516567284957319148}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 8, y: -109}
+  m_SizeDelta: {x: 180.55, y: 101}
   m_Pivot: {x: 0, y: 0}
 --- !u!222 &2981432443587571260
 CanvasRenderer:
@@ -280,7 +280,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\U0001F1FA\U0001F1F8"
+  m_text: '<size=300%><b>00:45<b></size>
+
+    South Korea - Djibouti
+
+    <size=150%><b>0
+    - 0</b></size>'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -323,15 +328,17 @@ MonoBehaviour:
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
+  m_TextWrappingMode: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
   parentLinkedComponent: {fileID: 0}
   m_enableKerning: 1
+  m_ActiveFontFeatures: 6e72656b
   m_enableExtraPadding: 1
   checkPaddingRequired: 0
   m_isRichText: 1
+  m_EmojiFallbackSupport: 1
   m_parseCtrlCharacters: 1
   m_isOrthographic: 1
   m_isCullingEnabled: 0
@@ -388,7 +395,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 10, y: -10}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 196.55, y: 117}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &4269804877656339416
 CanvasRenderer:

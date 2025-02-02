@@ -1,0 +1,9 @@
+Create a cartoon-style digital wallpaper background for a character in a show called **polbots**. The scene features the personal space of a Countryball character named Sweden (he/him), reflecting his personality and lifestyle:
+
+Visualize Sweden's apartment with cozy, minimalist Swedish decor. The room feels calm and inviting, reminiscent of a serene IKEA showroom but with a quirky, personal touch. The focal point is a comfortable couch draped with a hand-knit Lapland sweater in soft, earthy tones. Nearby, a small coffee table is adorned with a plate of delicious-looking cinnamon buns and a steaming coffee mug, capturing Sweden's love for fika breaks.
+
+The surroundings highlight Sweden's passion for both nature and technology. A kayak paddle leans casually against the wall, hinting at his love for archipelago adventures. On a sleek, modern shelf are tech gadgets like headphones and a tablet, symbolizing Sweden's innovation streak and interest in Nordic noir binge-watching. Playfully juxtaposed are a few IKEA assembly instructions, half-hidden underneath a loose-knit sock—suggestive of his humorous mishaps with flat-pack furniture.
+
+The room's palette is soothing with neutral colors, but pops of yellow and blue (Sweden's national colors) subtly catch the eye in throw pillows or a small rug on the wooden floor. A minimalist lamp next to a simple chair illuminates the space, casting a soft, warm glow. Nearby, a small potted plant and an elk-shaped décor piece add a touch of whimsy and nature, both essential to Sweden's persona.
+
+Maintain the perspective as though seen from a webcam, emphasizing the lived-in yet clean vibe. The panoramic view should capture the essence of Sweden's cool, collected demeanor with a hint of comedic undertones, reflected in the small details of organized chaos.
