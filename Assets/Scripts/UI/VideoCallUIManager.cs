@@ -38,7 +38,8 @@ public class VideoCallUIManager : MonoBehaviour
     private void UpdateUI()
     {
         if (_controllers.Count <= _gridLayoutGroup.MaxChildren) return;
-        _controllers = _controllers.OrderByDescending(c => c.Controller.ScreenOrder).ToList();
+        // TODO: I need to fix this.
+        _controllers = _controllers.OrderBy(c => c.Controller.ScreenOrder).ToList();
         for (var i = 0; i < _controllers.Count; i++)
             _controllers[i].transform.SetSiblingIndex(i);
     }

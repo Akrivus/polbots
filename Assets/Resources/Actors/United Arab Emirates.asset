@@ -19,19 +19,20 @@ MonoBehaviour:
   - United Arab Emirates
   - UAE
   Players:
-  - Sheikh Mohammed bin Rashid Al Maktoum
-  - Sheikh Mohamed bin Zayed Al Nahyan
+  - Mohammed bin Rashid Al Maktoum
+  - Mohamed bin Zayed Al Nahyan
   - Reem Al Hashimy
-  - Dr. Sultan Ahmed Al Jaber
-  - H.H. Sheikh Abdullah bin Zayed Al Nahyan
-  - Dr. Amina Al Rustamani
+  - Ahmed Al Jaber
+  - Abdullah bin Zayed Al Nahyan
+  - Amina Al Rustamani
   - Khaldoon Khalifa Al Mubarak
   - Muna Abdulmassey
   - Badr Jafar
   - Fatima Al Jaber
-  - Dr. Thani Al Zeyoudi
+  - Thani Al Zeyoudi
   Voice: ar-XA-Standard-C
   ColorScheme: 1A
+  Costume: 
   Prompt: {fileID: 4900000, guid: 8ee404bded198a641b478d54d22f3d1d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0725757

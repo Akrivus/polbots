@@ -73,4 +73,8 @@ crashlytics-build.properties
 
 # polbots specific
 /[Aa]ssets/3rdParty/*
+/Memories/
+context.txt
+reddit.txt
+replays.txt
 config.json

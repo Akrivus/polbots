@@ -19,19 +19,20 @@ MonoBehaviour:
   - Holy See
   - Vatican City
   Players:
-  - Pope Francis
-  - Cardinal Pietro Parolin
-  - Cardinal Luis Antonio Tagle
-  - Cardinal Robert Sarah
-  - Cardinal Reinhard Marx
-  - Cardinal Blaise Cupich
-  - "Cardinal Antonio Maria Vegli\xF2"
-  - Cardinal Joseph Tobin
-  - Cardinal Marc Ouellet
-  - Cardinal Giovanni Battista Re
-  - Cardinal Vincent Nichols
+  - Francis
+  - Pietro Parolin
+  - Luis Antonio Tagle
+  - Robert Sarah
+  - Reinhard Marx
+  - Blaise Cupich
+  - "Antonio Maria Vegli\xF2"
+  - Joseph Tobin
+  - Marc Ouellet
+  - Giovanni Battista Re
+  - Vincent Nichols
   Voice: it-IT-Standard-D
   ColorScheme: 4A
+  Costume: 
   Prompt: {fileID: 4900000, guid: a99be22af63ad884c81b1561bc761435, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0278764

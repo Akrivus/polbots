@@ -16,12 +16,8 @@ public class ShareScreenUIManager : MonoBehaviour
     [SerializeField]
     private int minVideoScreens = 3;
 
-    private TextMeshProUGUI _text;
-
     private void Start()
     {
-        _text = _shareScreenPrefab
-            .GetComponentInChildren<TextMeshProUGUI>();
         ShareScreenOff();
     }
 
@@ -32,6 +28,7 @@ public class ShareScreenUIManager : MonoBehaviour
             GridLayoutGroup.Axis.Vertical,
             TextAnchor.MiddleRight,
             minVideoScreens);
+        ChatManager.Instance.RemoveActorsOnCompletion = false;
     }
 
     public void ShareScreenOff()
@@ -41,6 +38,7 @@ public class ShareScreenUIManager : MonoBehaviour
             GridLayoutGroup.Axis.Horizontal,
             TextAnchor.MiddleCenter,
             maxVideoScreens);
+        ChatManager.Instance.RemoveActorsOnCompletion = true;
     }
 
     private void SetShareScreen(GridLayoutGroup.Corner corner, GridLayoutGroup.Axis axis, TextAnchor alignment, int childCount)
@@ -62,18 +60,5 @@ public class ShareScreenUIManager : MonoBehaviour
                 _shareScreenPrefab.SetActive(true);
                 break;
         }
-    }
-
-    public void SetShareScreenInfo(float time, string homeTeam, int homeScore, string awayTeam, int awayScore)
-    {
-        var minutes = Mathf.FloorToInt(time / 60);
-        var seconds = Mathf.FloorToInt(time % 60);
-        var minutesString = minutes < 10 ? $"0{minutes}" : minutes.ToString();
-        var secondsString = seconds < 10 ? $"0{seconds}" : seconds.ToString();
-        var timeString = $"{minutesString}:{secondsString}";
-
-        _text.text = $"<size=300%><b>{timeString}<b></size>\r\n" +
-            $"{homeTeam} - {awayTeam}\r\n" +
-            $"<size=150%><b>{homeScore} - {awayScore}</b></size>";
     }
 }
