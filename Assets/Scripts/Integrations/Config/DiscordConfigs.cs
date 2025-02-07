@@ -1,7 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 
 public class DiscordConfigs : IConfig
 {
     public string Type => "discord";
-    public string WebhookURL { get; set; }
+    public Dictionary<string, string> WebhookURLs { get; set; }
 }

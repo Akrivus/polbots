@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Georgia
   Players:
-  - Salome Zourabichvili
-  - Irakli Garibashvili
-  - 'Bidzina Ivanishvili '
-  - Khatia Dekanoidze
-  - 'Nika Melia '
-  - Tea Tsulukiani
-  - 'David Bakradze '
-  - Mamuka Khazaradze
-  - Zurab Japaridze
-  - Giorgi Vashadze
-  - Elene Khoshtaria
+  - Salome
+  - Irakli
+  - Bidzina
+  - Khatia
+  - Nika
+  - Tea
+  - David
+  - Mamuka
+  - Zurab
+  - Giorgi
+  - Elene
   Voice: ru-RU-Standard-B
   ColorScheme: 1B
+  Costume: flag_ge
   Prompt: {fileID: 4900000, guid: 111e0b605121087409b283569fef57b9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0840759

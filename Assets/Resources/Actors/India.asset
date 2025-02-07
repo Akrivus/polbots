@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - India
   Players:
-  - Narendra Modi
-  - Rahul Gandhi
-  - Mamata Banerjee
-  - Sonia Gandhi
-  - Arvind Kejriwal
-  - Ratan Tata
-  - Kiran Bedi
-  - Ravi Shankar Prasad
-  - Amit Shah
-  - Shashi Tharoor
-  - Dr. A. P. J. Abdul Kalam
+  - Narendra
+  - Rahul
+  - Mamata
+  - Sonia
+  - Arvind
+  - Ratan
+  - Kiran
+  - Ravi
+  - Amit
+  - Shashi
+  - Priya
   Voice: en-IN-Standard-C
   ColorScheme: 4B
+  Costume: flag_in
   Prompt: {fileID: 4900000, guid: 63d3b29b979b8574e9558f269ddaf7f3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0284541

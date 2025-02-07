@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Morocco
   Players:
-  - Aziz Akhannouch
-  - Saadeddine Othmani
-  - Abdelilah Benkirane
-  - Nabila Mounib
-  - Moulay Hicham
-  - Amin Maalouf
-  - Khalid Sahli
-  - Yasmina Khadra
-  - Leila Slimani
-  - Hassan II
-  - Mohammed VI
+  - Aziz
+  - Saadeddine
+  - Abdelilah
+  - Nabila
+  - Moulay
+  - Amin
+  - Khalid
+  - Yasmina
+  - Leila
+  - Hassan
+  - Mohammed
   Voice: ar-XA-Standard-D
   ColorScheme: 4B
+  Costume: flag_ma
   Prompt: {fileID: 4900000, guid: 23f0fc9916c4ddc44af7ce0bf136da4c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0021497

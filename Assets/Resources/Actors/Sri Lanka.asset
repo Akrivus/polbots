@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Sri Lanka
   Players:
-  - Gotabaya Rajapaksa
-  - Mahinda Rajapaksa
-  - Ranil Wickremesinghe
-  - Sajith Premadasa
-  - Chaminda Vaas
-  - Kumar Sangakkara
-  - Maithripala Sirisena
-  - Shirani Bandaranayake
-  - Hakeem Olajuwon
-  - Mahatma Ghandhi
-  - Dilrukshi Handunetti
+  - Gotabaya
+  - Mahinda
+  - Ranil
+  - Sajith
+  - Chaminda
+  - Kumar
+  - Maithripala
+  - Shirani
+  - Hakeem
+  - Mahatma
+  - Dilrukshi
   Voice: ta-IN-Standard-B
   ColorScheme: 4B
+  Costume: flag_lk
   Prompt: {fileID: 4900000, guid: fcaca571ebf5be041837ea294848cbd5, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0719844

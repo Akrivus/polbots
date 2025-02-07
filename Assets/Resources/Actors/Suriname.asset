@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Suriname
   Players:
-  - Chandrikapersad Santokhi
-  - Ronny Asabina
-  - Khadija Arshad
-  - Mia Ensberg
-  - Carl Breeveld
-  - Jennifer van Dijk-Silos
-  - Soekarno Abdoel
-  - Antoinette Gijsbertha
-  - Edwin Abdoel
-  - Marlon E. G. D. K. Stimulus
-  - Rogier Armand
+  - Chandrikapersad
+  - Ronny
+  - Khadija
+  - Mia
+  - Carl
+  - Jennifer
+  - Soekarno
+  - Antoinette
+  - Edwin
+  - Marlon
+  - Rogier
   Voice: nl-NL-Standard-C
   ColorScheme: 4B
+  Costume: flag_sr
   Prompt: {fileID: 4900000, guid: 80ac9de604b21014da14da439ff6ccd9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0331149

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - North Macedonia
   Players:
-  - Zoran Zaev
-  - Stevo Pendarovski
-  - "Du\u0161an Lajovi\u0107"
-  - Teona Strugar Mitevska
-  - Vladimir Georgievski
-  - Bujar Nishani
-  - Violeta Jovanovska
-  - "Maja D\u017Eole"
-  - "Simona Kosti\u0107"
-  - Aleksandar Vasilevski
-  - Snezana Ristevska
+  - Zoran
+  - Stevo
+  - "Du\u0161an"
+  - Teona
+  - Vladimir
+  - Bujar
+  - Violeta
+  - Maja
+  - Simona
+  - Aleksandar
+  - Snezana
   Voice: bg-BG-Standard-A
   ColorScheme: 4B
+  Costume: flag_mk
   Prompt: {fileID: 4900000, guid: 46ac60915c736564f9145e1679dfaa9e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0329251

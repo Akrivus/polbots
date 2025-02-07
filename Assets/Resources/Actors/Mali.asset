@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Mali
   Players:
-  - "Boubou Ciss\xE9"
-  - "Souma\xEFla Ciss\xE9"
-  - Ras Bath
-  - "Oumou Sangar\xE9"
-  - "Amadou Hamp\xE2t\xE9 B\xE2"
-  - Moussa Tavele
-  - "Modibo Sidib\xE9"
-  - Kassoum Tapo
-  - Tiemoko Gakou
-  - "Traor\xE9 S\xE9kou"
-  - Ousmane Sonko
+  - Boubou
+  - "Souma\xEFla"
+  - Ras
+  - Oumou
+  - Amadou
+  - Moussa
+  - Modibo
+  - Kassoum
+  - Tiemoko
+  - "Traor\xE9"
+  - Ousmane
   Voice: fr-FR-Standard-B
   ColorScheme: 4C
+  Costume: flag_ml
   Prompt: {fileID: 4900000, guid: f23b5bb4db5f6ad4982fa811f7d39a9a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.073375

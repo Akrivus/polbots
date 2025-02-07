@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Palestine
   Players:
-  - Mahmoud Abbas
-  - Hanan Ashrawi
-  - Marwan Barghouti
-  - Sari Nusseibeh
-  - Sawsan Alian
-  - Rula Junkar
-  - Azmi Bishara
-  - Bashar Al-Masri
-  - Ahed Tamimi
-  - Muna Abu Sulayman
-  - Yasmeen Ghaith
+  - Mahmoud
+  - Hanan
+  - Marwan
+  - Sari
+  - Sawsan
+  - Rula
+  - Azmi
+  - Bashar
+  - Ahed
+  - Muna
+  - Yasmeen
   Voice: ar-XA-Standard-C
   ColorScheme: 4B
+  Costume: flag_ps
   Prompt: {fileID: 4900000, guid: d17da0e10db1180409de4cf32876b1d3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0005984

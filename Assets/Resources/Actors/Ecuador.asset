@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Ecuador
   Players:
-  - "Len\xEDn Moreno"
-  - Guillermo Lasso
-  - Rafael Correa
-  - "Andr\xE9s Arauz"
-  - "Mar\xEDa Paula Romo"
-  - Michelle Bachelet
-  - Jeannine Cruz
-  - Pablo Celi
-  - Cristina Reyes
-  - Tatiana Ariza
-  - "Hern\xE1n Noboa"
+  - "Len\xEDn"
+  - Guillermo
+  - Rafael
+  - "Andr\xE9s"
+  - "Mar\xEDa"
+  - Michelle
+  - Jeannine
+  - Pablo
+  - Cristina
+  - Tatiana
+  - "Hern\xE1n"
   Voice: es-US-Standard-A
   ColorScheme: 4B
+  Costume: flag_ec
   Prompt: {fileID: 4900000, guid: 838bc9b47d73f7249990b423adc26cb4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0281893

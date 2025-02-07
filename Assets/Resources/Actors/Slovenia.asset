@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Slovenia
   Players:
-  - Robert Golob
-  - "Marjan \u0160arec"
-  - Tanja Fajon
-  - Luka Doncic
-  - "Milan Ku\u010Dan"
-  - Maja Weiss
-  - "Zoran Jankovi\u0107"
-  - "Jure Zrim\u0161ek"
-  - Ivo Boscarol
-  - Nina Kuprijanov
-  - "Alenka Bratu\u0161ek"
+  - Robert
+  - Marjan
+  - Tanja
+  - Luka
+  - Milan
+  - Maja
+  - Zoran
+  - Jure
+  - Ivo
+  - Nina
+  - Alenka
   Voice: sk-SK-Standard-A
   ColorScheme: 1A
+  Costume: flag_si
   Prompt: {fileID: 4900000, guid: a35dd926e178af24aa072bca296804e1, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0204127

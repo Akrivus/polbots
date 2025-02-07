@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Lesotho
   Players:
-  - Mokhantso Bereng Seeiso
-  - Thabane Moeketsi
-  - Monyane Moleleki
-  - Nkoe Montsi
-  - Mokete L. W. Mohapi
-  - Lerato Mohale
-  - "T\u0161oinyana T\u0161ali"
-  - Nts'anelo K. P. Mokoena
-  - Khotso Mokoena
-  - Mokhothu K. A.
-  - '''Manthabiseng Phoofolo'
+  - Mokhantso
+  - Thabane
+  - Monyane
+  - Nkoe
+  - Mokete
+  - Lerato
+  - "T\u0161oinyana"
+  - Nts'anelo
+  - Khotso
+  - Mokhothu
+  - '''Manthabiseng'
   Voice: en-GB-Standard-D
   ColorScheme: 2B
+  Costume: flag_ls
   Prompt: {fileID: 4900000, guid: 6ab03508d564d2a47ab07888cbd8283d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.04265

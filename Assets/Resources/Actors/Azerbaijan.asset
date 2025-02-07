@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Azerbaijan
   Players:
-  - Ilham Aliyev
-  - Mehriban Aliyeva
-  - Javid Gurbanov
-  - Tofik Zulfugarov
-  - Rufat Mammadov
-  - Ramil Guliyev
-  - "Ayt\u0259n Mustafayeva"
-  - Lala Mammadova
-  - Gulara Guliyeva
-  - Rashad Nabiyev
-  - Teymur Mammadov
+  - Ilham
+  - Mehriban
+  - Javid
+  - Tofik
+  - Rufat
+  - Ramil
+  - "Ayt\u0259n"
+  - Lala
+  - Gulara
+  - Rashad
+  - Teymur
   Voice: tr-TR-Standard-C
   ColorScheme: 1B
+  Costume: flag_az
   Prompt: {fileID: 4900000, guid: cbc809e1f6b8f1940b6c54b76d33a48d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0490261

@@ -19,19 +19,20 @@ MonoBehaviour:
   - Czechia
   - Czech Republic
   Players:
-  - Petr Fiala
-  - "Milo\u0161 Zeman"
-  - "Mark\xE9ta Pekarov\xE1 Adamov\xE1"
-  - "Andrej Babi\u0161"
-  - Karel Gott
-  - "Eva Holubov\xE1"
-  - Bohuslav Sobotka
-  - Petr Pavel
-  - "Jana \u010Cernochov\xE1"
-  - "Ji\u0159\xED Draho\u0161"
-  - "Hana Holi\u0161ov\xE1"
+  - Petr
+  - "Milo\u0161"
+  - "Mark\xE9ta"
+  - Andrej
+  - Karel
+  - Eva
+  - Bohuslav
+  - Petr
+  - Jana
+  - "Ji\u0159\xED"
+  - Hana
   Voice: de-DE-Standard-D
   ColorScheme: 1A
+  Costume: flag_cz
   Prompt: {fileID: 4900000, guid: 3fa8e8e30f395c243acd7954a0bb0590, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0574843

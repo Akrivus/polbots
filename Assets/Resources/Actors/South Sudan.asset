@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - South Sudan
   Players:
-  - Salva Kiir Mayardit
-  - Riek Machar
-  - Rebecca Nyandeng de Mabior
-  - Abdallah M. Ali
-  - Felix Odhiambo
-  - Angela M. Khamis
-  - Simeon D. Nyachae
-  - Nabil Alhaj
-  - Nelson Makoi
-  - Miriam E. Machar
-  - James O. Akol
+  - Salva
+  - Riek
+  - Rebecca
+  - Abdallah
+  - Felix
+  - Angela
+  - Simeon
+  - Nabil
+  - Nelson
+  - Miriam
+  - James
   Voice: ar-XA-Standard-C
   ColorScheme: 4C
+  Costume: flag_ss
   Prompt: {fileID: 4900000, guid: b5a2ccbdee9ae1244b81f92734ef120c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.004977

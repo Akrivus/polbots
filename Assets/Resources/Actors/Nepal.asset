@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Nepal
   Players:
-  - Sher Bahadur Deuba
-  - KP Sharma Oli
-  - Pushpa Kamal Dahal
-  - Bishow Sharma
-  - Dinesh Subedi
-  - Sukra Raj Shastri
-  - Yogesh Bhattarai
-  - Sanjay Kumar Sharma
-  - Madhav Kumar Nepal
-  - Pratiksha Sitaula
-  - Puspa Kamal Dahal
+  - Sher
+  - KP
+  - Pushpa
+  - Bishow
+  - Dinesh
+  - Sukra
+  - Yogesh
+  - Sanjay
+  - Madhav
+  - Pratiksha
+  - Puspa
   Voice: hi-IN-Standard-A
   ColorScheme: 1B
+  Costume: flag_np
   Prompt: {fileID: 4900000, guid: a39be41609e251740a39a875e97e8926, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0037376

@@ -19,19 +19,20 @@ MonoBehaviour:
   - Republic of Moldova
   - Moldova
   Players:
-  - Ion Chicu
-  - Igor Dodon
-  - Maia Sandu
-  - "Andrei N\u0103stase"
-  - "Mariana Durle\u0219teanu"
-  - Vlad Plahotniuc
-  - Nicolae Timofti
-  - Tatiana Cazacu
-  - Dorin Recean
-  - Victor Ponta
-  - Oleg Serebrian
+  - Ion
+  - Igor
+  - Maia
+  - Andrei
+  - Mariana
+  - Vlad
+  - Nicolae
+  - Tatiana
+  - Dorin
+  - Victor
+  - Oleg
   Voice: ro-RO-Standard-B
   ColorScheme: 4B
+  Costume: flag_md
   Prompt: {fileID: 4900000, guid: ed123fa2958807848830c77e84f45ace, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0012085

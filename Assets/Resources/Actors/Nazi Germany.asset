@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Nazi Germany
   Players:
-  - Adolf Hitler
-  - Heinrich Himmler
-  - Joseph Goebbels
-  - "Hermann G\xF6ring"
-  - Rudolf Hess
-  - Martin Bormann
-  - Albert Speer
-  - "Ernst R\xF6hm"
-  - Joachim von Ribbentrop
-  - "Karl D\xF6nitz"
-  - Hans Frank
+  - Adolf
+  - Heinrich
+  - Joseph
+  - Hermann
+  - Rudolf
+  - Martin
+  - Albert
+  - Ernst
+  - Joachim
+  - Karl
+  - Hans
   Voice: de-DE-Standard-E
   ColorScheme: 1A
+  Costume: flag_nd
   Prompt: {fileID: 4900000, guid: 0c3622258bb0bce4483a3c5d56ef2d7a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1

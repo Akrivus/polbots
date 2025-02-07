@@ -19,19 +19,20 @@ MonoBehaviour:
   - Islamic Republic of Iran
   - Iran
   Players:
-  - Masoud Pezeshkian
-  - Zarif Mohammad Javad
-  - Masih Alinejad
-  - Mohsen Rezaei
-  - Abdolkarim Soroush
-  - Shirin Ebadi
-  - Roxane Farmanfarmaian
-  - Nasrin Sotoudeh
-  - Narges Mohammadi
-  - Ali Khamenei
-  - Ali Larijani
+  - Masoud
+  - Zarif
+  - Masih
+  - Mohsen
+  - Abdolkarim
+  - Shirin
+  - Roxane
+  - Nasrin
+  - Narges
+  - Ali
+  - Ali
   Voice: tr-TR-Standard-B
   ColorScheme: 1B
+  Costume: flag_ir
   Prompt: {fileID: 4900000, guid: e0a105c47d909884da7660008ac83178, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0863395

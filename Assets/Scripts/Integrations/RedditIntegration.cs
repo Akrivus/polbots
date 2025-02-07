@@ -54,8 +54,7 @@ public class RedditIntegration : MonoBehaviour
 
     private void Update()
     {
-        //if (Input.GetKeyDown(KeyCode.Space))
-        //    Forced = true;
+
     }
 
     private void OnDestroy()

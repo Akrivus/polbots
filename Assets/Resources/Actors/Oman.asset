@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Oman
   Players:
-  - Haitham bin Tariq Al Said
-  - Yusuf bin Alawi bin Abdullah
-  - Sayyid Badr bin Saud
-  - Asma bint Tariq
-  - Hanan Al Rubaie
-  - Nasser Al Kindi
-  - Mawali Al Mamari
-  - Fatma Al Kindi
-  - Ali Al Kindi
-  - Awatif Al Harthy
-  - Khalid Al Zadjali
+  - Haitham
+  - Yusuf
+  - Sayyid
+  - Asma
+  - Hanan
+  - Nasser
+  - Mawali
+  - Fatma
+  - Ali
+  - Awatif
+  - Khalid
   Voice: ar-XA-Standard-A
   ColorScheme: 4B
+  Costume: flag_om
   Prompt: {fileID: 4900000, guid: 1dd3a6edb6d37c94ebff7444c6bd10f2, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0804352

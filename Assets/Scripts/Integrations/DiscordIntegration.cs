@@ -1,19 +1,32 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using Discord;
+using FStudio.MatchEngine;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Threading.Tasks;
 using UnityEngine;
 
 public class DiscordIntegration : MonoBehaviour, IConfigurable<DiscordConfigs>
 {
-    public string WebhookURL;
+    public static Dictionary<string, DiscordWebhook> Webhooks => webhooks;
+    private static Dictionary<string, DiscordWebhook> webhooks;
+
+    public Dictionary<string, string> WebhookURLs { get; private set; }
+
+    private const string PremierRoleID = "<@&1277082258783604828>";
 
     public void Configure(DiscordConfigs c)
     {
-        WebhookURL = c.WebhookURL;
+        WebhookURLs = c.WebhookURLs;
+        webhooks = WebhookURLs.ToDictionary(k => k.Key, v => new DiscordWebhook(v.Value));
 
-        ChatManager.Instance.OnChatNodeActivated += ReportChatNodeActivation;
+        ChatManager.Instance.OnChatNodeActivated += SendChatNode;
+        ChatManager.Instance.AfterIntermission += SendChatUpdates;
+        SoccerIntegration.Instance.OnEmit += SendSportsUpdates;
+        StartCoroutine(UpdateWebhooks());
     }
 
     private void Awake()
@@ -21,11 +34,56 @@ public class DiscordIntegration : MonoBehaviour, IConfigurable<DiscordConfigs>
         ConfigManager.Instance.RegisterConfig(typeof(DiscordConfigs), "discord", (config) => Configure((DiscordConfigs) config));
     }
 
-    private void ReportChatNodeActivation(ChatNode node)
+    private IEnumerator UpdateWebhooks()
     {
-        if (node.Line == null)
-            return;
+        foreach (var webhook in webhooks.Values)
+            if (webhook.MessageQueue.Count > 0)
+                yield return webhook.SendAsync(webhook.MessageQueue.Dequeue());
+        yield return new WaitForSeconds(0.375f);
 
+        if (Application.isPlaying)
+            yield return UpdateWebhooks();
+    }
+
+    private void SendChatUpdates(Chat chat)
+    {
+        webhooks["#stream"].Send(new DiscordMessage
+        {
+            Embeds = new[]
+            {
+                new EmbedBuilder
+                {
+                    Title = $"New Episode: {string.Join(", ", chat.Names)} {(chat.NewEpisode ? PremierRoleID : string.Empty)}",
+                    Description = chat.Topic,
+                    Color = new Discord.Color(0, 0, 255),
+                    Fields = chat.Actors.Select(a => new EmbedFieldBuilder
+                    {
+                        Name = a.Name,
+                        Value = a.Context,
+                        IsInline = false
+                    }).ToList()
+                }.Build()
+            }
+        });
+    }
+
+    private void SendChatNode(ChatNode node)
+    {
+        webhooks["#stream"].Send(node.Line, node.Actor.Name, GetAvatarURL(node));
+    }
+
+    private void SendSportsUpdates(string message)
+    {
+        webhooks["#stream"].Send(message);
+    }
+
+    private void SendMatchStats()
+    {
+        var stats = MatchManager.Statistics;
+    }
+
+    private string GetAvatarURL(ChatNode node)
+    {
         var reaction = node.Reactions.FirstOrDefault(r => r.Actor == node.Actor);
         var sentiment = node.Actor.DefaultSentiment.Name;
         if (reaction != null)
@@ -33,135 +91,81 @@ public class DiscordIntegration : MonoBehaviour, IConfigurable<DiscordConfigs>
 
         var slug = node.Actor.Name.ToFileSafeString();
 
-        SendWebhookAsync(WebhookURL, new DiscordWebhookMessage
+        return $"https://raw.githubusercontent.com/Akrivus/polbol/refs/heads/main/WWW/{sentiment}-{slug}.png";
+    }
+}
+
+public class DiscordMessage
+{
+    public string Content { get; set; }
+    public string Username { get; set; }
+    public string AvatarUrl { get; set; }
+    public IEnumerable<Embed> Embeds { get; set; }
+
+    public override string ToString()
+    {
+        return JsonConvert.SerializeObject(new
         {
-            Username = node.Actor.Title,
-            Content = node.Line,
-            Avatar = $"https://raw.githubusercontent.com/Akrivus/polbol/refs/heads/main/WWW/{sentiment}-{slug}.png",
+            content = Content,
+            embeds = Embeds,
+            username = Username,
+            avatar_url = AvatarUrl
         });
     }
 
-    private void SendWebhookAsync(string uri, DiscordWebhookMessage message)
+    public static DiscordMessage operator +(DiscordMessage a, DiscordMessage b)
     {
-        var client = new WebClient();
-        client.Headers.Add(HttpRequestHeader.ContentType, "application/json");
-        client.UploadStringAsync(new Uri(uri),
-            JsonConvert.SerializeObject(message));
+        return new DiscordMessage
+        {
+            Content = a.Content + " " + b.Content,
+            Username = a.Username,
+            AvatarUrl = a.AvatarUrl,
+            Embeds = b.Embeds
+        };
     }
 }
 
-public class DiscordWebhookMessage
+public class DiscordWebhook
 {
-    [JsonProperty("content")]
-    public string Content { get; set; }
-    [JsonProperty("username")]
-    public string Username { get; set; }
-    [JsonProperty("avatar_url")]
-    public string Avatar { get; set; }
-    [JsonProperty("tts")]
-    public bool TTS { get; set; }
-    [JsonProperty("embeds")]
-    public List<DiscordEmbed> Embeds { get; set; }
-}
-
-public class DiscordEmbed
-{
-    [JsonProperty("title")]
-    public string Title { get; set; }
-
-    [JsonProperty("description")]
-    public string Description { get; set; }
-
-    [JsonProperty("url")]
     public string URL { get; set; }
+    public WebClient Client { get; set; }
+    public Queue<DiscordMessage> MessageQueue { get; private set; } = new Queue<DiscordMessage>();
 
-    [JsonProperty("timestamp")]
-    public DateTime Timestamp { get; set; }
+    private ulong _id = 0L;
+    private DiscordMessage _lastMessage;
 
-    [JsonProperty("color")]
-    public int Color { get; set; }
+    public DiscordWebhook(string url)
+    {
+        URL = url;
+        Client = new WebClient();
+        Client.Headers.Add(HttpRequestHeader.ContentType, "application/json");
+    }
 
-    [JsonProperty("footer")]
-    public DiscordEmbedFooter Footer { get; set; }
+    public void Send(string content, string username = null, string avatarUrl = null)
+    {
+        Send(new DiscordMessage
+        {
+            Content = content,
+            Username = username,
+            AvatarUrl = avatarUrl
+        });
+    }
 
-    [JsonProperty("image")]
-    public DiscordEmbedImage Image { get; set; }
+    public void Send(DiscordMessage message)
+    {
+        MessageQueue.Enqueue(message);
+    }
 
-    [JsonProperty("thumbnail")]
-    public DiscordEmbedThumbnail Thumbnail { get; set; }
+    public async Task SendAsync(DiscordMessage message)
+    {
+        _lastMessage = message;
+        await SendWebhookAsync(message);
+    }
 
-    [JsonProperty("video")]
-    public DiscordEmbedVideo Video { get; set; }
-
-    [JsonProperty("provider")]
-    public DiscordEmbedProvider Provider { get; set; }
-
-    [JsonProperty("author")]
-    public DiscordEmbedAuthor Author { get; set; }
-}
-
-public class DiscordEmbedFooter
-{
-    [JsonProperty("text")]
-    public string Text { get; set; }
-
-    [JsonProperty("icon_url")]
-    public string Icon { get; set; }
-}
-
-public class DiscordEmbedImage
-{
-    [JsonProperty("url")]
-    public string URL { get; set; }
-
-    [JsonProperty("height")]
-    public int Height { get; set; }
-
-    [JsonProperty("width")]
-    public int Width { get; set; }
-}
-
-public class DiscordEmbedThumbnail
-{
-    [JsonProperty("url")]
-    public string URL { get; set; }
-
-    [JsonProperty("height")]
-    public int Height { get; set; }
-
-    [JsonProperty("width")]
-    public int Width { get; set; }
-}
-
-public class DiscordEmbedVideo
-{
-    [JsonProperty("url")]
-    public string URL { get; set; }
-
-    [JsonProperty("height")]
-    public int Height { get; set; }
-
-    [JsonProperty("width")]
-    public int Width { get; set; }
-}
-
-public class DiscordEmbedProvider
-{
-    [JsonProperty("name")]
-    public string Name { get; set; }
-
-    [JsonProperty("url")]
-    public string URL { get; set; }
-}
-
-public class DiscordEmbedAuthor
-{
-    [JsonProperty("name")]
-    public string Name { get; set; }
-
-    [JsonProperty("url")]
-    public string URL { get; set; }
-
-    [JsonProperty("icon_url")]
-    public string Icon { get; set; }
+    private async Task SendWebhookAsync(DiscordMessage message)
+    {
+        var data = await Client.UploadStringTaskAsync(URL, message.ToString());
+        var response = JObject.Parse(data);
+        _id = ulong.Parse(response["id"].ToString());
+    }
 }

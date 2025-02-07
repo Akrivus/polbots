@@ -18,20 +18,20 @@ MonoBehaviour:
   Aliases:
   - Qatar
   Players:
-  - Tamim bin Hamad Al Thani
-  - Sheikha Moza bint Nasser
-  - Khalid bin Khalifa Al Thani
-  - Hanan Al Qaddumi
-  - Mariam Al-Maadeed
-  - Qatari Mohamed Al Thani
-  - Amal Al-Malki
-  - Saad Al-Mohannadi
-  - Nasser Al-Khalifa
-  - Alia Ibrahim
-  - Ali Al-Ahmed
+  - Tamim
+  - Sheikha
+  - Khalid
+  - Hanan
+  - Mariam
+  - Qatari
+  - Amal
+  - Saad
+  - Nasser
+  - Alia
+  - Ali
   Voice: ar-XA-Standard-B
   ColorScheme: 1B
-  Costume: 
+  Costume: flag_qa
   Prompt: {fileID: 4900000, guid: 42dc8553d88892e41b19e9b7b10e3768, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0810641

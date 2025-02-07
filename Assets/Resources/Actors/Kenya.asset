@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Kenya
   Players:
-  - Uhuru Kenyatta
-  - Raila Odinga
-  - William Ruto
-  - Wangari Maathai
-  - Amina Mohammed
-  - David Adedeji Adeleke
-  - Jomo Kenyatta
-  - Mukhisa Kituyi
-  - Juliet Achieng
-  - Fatuma Chebii
-  - Ababu Namwamba
+  - Uhuru
+  - Raila
+  - William
+  - Wangari
+  - Amina
+  - David
+  - Jomo
+  - Mukhisa
+  - Juliet
+  - Fatuma
+  - Ababu
   Voice: en-GB-Standard-C
   ColorScheme: 2B
+  Costume: flag_ke
   Prompt: {fileID: 4900000, guid: dae57bc1682241549b6290e2c37ba619, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1063735

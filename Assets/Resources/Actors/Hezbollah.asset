@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Hezbollah
   Players:
-  - Hassan Nasrallah
-  - Naim Qassem
-  - Mohamed Raad
-  - Ali Fayyad
-  - Hasan Ezzeddine
-  - Basil al-Amin
-  - Mohammad Rida
-  - Adnan Ayyoub
-  - Jamal Jawhar
-  - Fadya Khalil
-  - Ziad al-Makari
+  - Hassan
+  - Naim
+  - Mohamed
+  - Ali
+  - Hasan
+  - Basil
+  - Mohammad
+  - Adnan
+  - Jamal
+  - Fadya
+  - Ziad
   Voice: ar-XA-Standard-B
   ColorScheme: 4B
+  Costume: flag_lb_ha
   Prompt: {fileID: 4900000, guid: 8bb944b41fdd2c44c9bd840d24cf9bf7, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0429411

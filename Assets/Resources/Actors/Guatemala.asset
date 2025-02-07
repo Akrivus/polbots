@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Guatemala
   Players:
-  - Alfonso Cuaron
-  - "Rigoberta Mench\xFA"
-  - "Otto P\xE9rez Molina"
-  - Sandra Torres
-  - "Manuel Baldiz\xF3n"
-  - "Edna Itzel Gonz\xE1lez"
-  - "Jorge Mario Garc\xEDa Roca"
-  - Juan Francisco Sandoval
-  - "Iv\xE1n Vel\xE1squez"
-  - "Mar\xEDa Consuelo Porras"
-  - "Pablo de Le\xF3n"
+  - Alfonso
+  - Rigoberta
+  - Otto
+  - Sandra
+  - Manuel
+  - Edna
+  - Jorge
+  - Juan
+  - "Iv\xE1n"
+  - "Mar\xEDa"
+  - Pablo
   Voice: es-US-Standard-B
   ColorScheme: 2B
+  Costume: flag_gt
   Prompt: {fileID: 4900000, guid: 5c38b59590ac35c489d9ca0fdfad0547, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0048826

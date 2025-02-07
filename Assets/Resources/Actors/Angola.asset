@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Angola
   Players:
-  - "Jo\xE3o Louren\xE7o"
-  - "Louren\xE7o de Almeida"
-  - "Adalberto da Costa J\xFAnior"
-  - "Ana Dias Louren\xE7o"
-  - Carlos Fernando dos Santos
-  - Margarida Sita
-  - "M\xE1rio Pinto de Andrade"
-  - Manuel Vicente
-  - Fernando da Piedade Dias dos Santos
-  - Filomeno Vieira Lopes
-  - "M\xE1rio Ferreira"
+  - "Jo\xE3o"
+  - "Louren\xE7o"
+  - Adalberto
+  - Ana
+  - Carlos
+  - Margarida
+  - "M\xE1rio"
+  - Manuel
+  - Fernando
+  - Filomeno
+  - "M\xE1rio"
   Voice: pt-PT-Standard-C
   ColorScheme: 4B
+  Costume: flag_ao
   Prompt: {fileID: 4900000, guid: 512a09e4f493e50438bf6c58400ed491, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0519497

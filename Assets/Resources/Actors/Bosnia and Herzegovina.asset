@@ -19,19 +19,20 @@ MonoBehaviour:
   - Bosnia and Herzegovina
   - Bosnia
   Players:
-  - "Denis Zvizdi\u0107"
-  - "\u017Deljko Kom\u0161i\u0107"
-  - "Bakir Izetbegovi\u0107"
-  - "Sefik Dzaferovi\u0107"
-  - "Nermina Mujagi\u0107"
-  - "Adnan \u0106erimagi\u0107"
-  - "Jasmina Curi\u0107"
-  - "Milan Vukovi\u0107"
-  - "Sanja Vranjkovi\u0107"
-  - "Aleksandar Mitrovi\u0107"
-  - "Mirza Teletovi\u0107"
+  - Denis
+  - "\u017Deljko"
+  - Bakir
+  - Sefik
+  - Nermina
+  - Adnan
+  - Jasmina
+  - Milan
+  - Sanja
+  - Aleksandar
+  - Mirza
   Voice: tr-TR-Standard-E
   ColorScheme: 1B
+  Costume: flag_ba
   Prompt: {fileID: 4900000, guid: ec83a2fce92c0284a9a5c3455d460b0e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0642004

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Italy
   Players:
-  - Matteo Renzi
-  - Sergio Mattarella
-  - Giuseppe Conte
-  - Mario Draghi
-  - Giorgia Meloni
-  - Roberto Speranza
-  - Emma Bonino
-  - Beppe Grillo
-  - Antonio Tajani
-  - Mario Monti
-  - Enrico Letta
+  - Matteo
+  - Sergio
+  - Giuseppe
+  - Mario
+  - Giorgia
+  - Roberto
+  - Emma
+  - Beppe
+  - Antonio
+  - Mario
+  - Enrico
   Voice: it-IT-Standard-D
   ColorScheme: 1A
+  Costume: flag_it
   Prompt: {fileID: 4900000, guid: 9d1a631026933814191a4087595b4957, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0321505

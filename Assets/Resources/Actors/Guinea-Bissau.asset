@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Guinea-Bissau
   Players:
-  - "Umaro Sissoco Embal\xF3"
-  - "Carlos Gomes J\xFAnior"
-  - "Kassory Arag\xE3o"
-  - "Cec\xEDlia Vieira"
-  - Nuno Gomes Nabiam
-  - "M\xE1rio Pires"
-  - Jusefina Pereira
-  - Paulo Gomes
-  - Aristides Gomes
-  - Baciro Dja
-  - Soraia Almeida
+  - Umaro
+  - Carlos
+  - Kassory
+  - "Cec\xEDlia"
+  - Nuno
+  - "M\xE1rio"
+  - Jusefina
+  - Paulo
+  - Aristides
+  - Baciro
+  - Soraia
   Voice: pt-PT-Standard-B
   ColorScheme: 4B
+  Costume: flag_gw
   Prompt: {fileID: 4900000, guid: ade3e76b2eaf4ae41939fbeb5d16127d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1096333

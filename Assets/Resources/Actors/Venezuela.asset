@@ -19,19 +19,20 @@ MonoBehaviour:
   - Bolivarian Republic of Venezuela
   - Venezuela
   Players:
-  - "Nicol\xE1s Maduro"
-  - "Juan Guaid\xF3"
-  - "Leopoldo L\xF3pez"
-  - "Henri Falc\xF3n"
-  - Tibisay Lucena
-  - "Mar\xEDa Corina Machado"
-  - Diosdado Cabello
-  - Evo Morales
-  - "Carmen Mel\xE9ndez"
-  - Antonio Ledezma
-  - Tamara Adrian
+  - "Nicol\xE1s"
+  - Juan
+  - Leopoldo
+  - Henri
+  - Tibisay
+  - "Mar\xEDa"
+  - Diosdado
+  - Evo
+  - Carmen
+  - Antonio
+  - Tamara
   Voice: es-US-Standard-C
   ColorScheme: 4B
+  Costume: flag_ve
   Prompt: {fileID: 4900000, guid: 0ff8bc50ed1c50d48b75ea5d7a4a150e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0594256

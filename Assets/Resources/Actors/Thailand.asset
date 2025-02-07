@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Thailand
   Players:
-  - Prayuth Chan-o-cha
-  - Yingluck Shinawatra
-  - Abhisit Vejjajiva
-  - Srettha Thavisin
-  - Chalerm Yoovidhya
-  - Pita Limjaroenrat
-  - Thaksin Shinawatra
-  - Kanya Keomahathai
-  - Somkid Jatusripitak
-  - Chuan Leekpai
-  - Prawit Wongsuwan
+  - Prayuth
+  - Yingluck
+  - Abhisit
+  - Srettha
+  - Chalerm
+  - Pita
+  - Thaksin
+  - Kanya
+  - Somkid
+  - Chuan
+  - Prawit
   Voice: th-TH-Standard-A
   ColorScheme: 2B
+  Costume: flag_th
   Prompt: {fileID: 4900000, guid: 14c76b09628bf3e4badc39941af41188, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0042073

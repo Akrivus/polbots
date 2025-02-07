@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Macao
   Players:
-  - Ho Iat Seng
-  - Chui Sai On
-  - Fok Kun Tak
-  - Mak Soi Kun
-  - Duarte Cordeiro
-  - Liu Guixiong
-  - Angela Leong
-  - Edmund Ho
-  - Pansy Ho
-  - Wong Kit Meng
-  - Alfredo Wong
+  - Ho
+  - Chui
+  - Fok
+  - Mak
+  - Duarte
+  - Liu
+  - Angela
+  - Edmund
+  - Pansy
+  - Wong
+  - Alfredo
   Voice: yue-HK-Standard-B
   ColorScheme: 2B
+  Costume: flag_mo
   Prompt: {fileID: 4900000, guid: da44063c59d9e47478b730ec1c9d8af4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1039033

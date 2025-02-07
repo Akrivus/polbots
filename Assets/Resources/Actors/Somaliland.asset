@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Somaliland
   Players:
-  - Muse Bihi Abdi
-  - Abdirahman Mohamed Abdullahi
-  - Amina Mohamed
-  - Yusuf Garaad Omar
-  - Sahra Noor
-  - Fatimah Abdi
-  - Mohamed Abdullahi Mohamed
-  - Isma'il Omar Guelleh
-  - Khadra Ahmed
-  - Faisal Ali Warabe
-  - Sadiq M. Ali
+  - Muse
+  - Abdirahman
+  - Amina
+  - Yusuf
+  - Sahra
+  - Fatimah
+  - Mohamed
+  - Isma'il
+  - Khadra
+  - Faisal
+  - Sadiq
   Voice: ar-XA-Standard-B
   ColorScheme: 3B
+  Costume: flag_somaliland
   Prompt: {fileID: 4900000, guid: f5acaee6dea45c64e8bc56e8894988e4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0365938

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Japan
   Players:
-  - Shinzo Abe
-  - Yoko Ono
-  - Hayao Miyazaki
-  - Akira Kurosawa
-  - Haruki Murakami
-  - Naoto Kan
-  - Koichi Tanaka
-  - Masayoshi Son
-  - Shinya Yamanaka
-  - Katsunobu Kato
-  - Ryu Murakami
+  - Shinzo
+  - Yoko
+  - Hayao
+  - Akira
+  - Haruki
+  - Naoto
+  - Koichi
+  - Masayoshi
+  - Shinya
+  - Katsunobu
+  - Ryu
   Voice: ja-JP-Standard-D
   ColorScheme: 1A
+  Costume: flag_jp
   Prompt: {fileID: 4900000, guid: 23cd8051bc725b248ae40019e77a181e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0063293

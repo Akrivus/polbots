@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Djibouti
   Players:
-  - Guelleh Ismail
-  - Mohamed Silanyo
-  - Amina Abdi Aden
-  - Hassan A. Mahamoud
-  - Abdi Ibrahim
-  - Adan Mohamed Ali
-  - "Mamadou Demb\xE9l\xE9"
-  - Moussa Ahmed
-  - Moumine Ali Awaleh
-  - Hassouna H. A. Ahmed
-  - Omer Ahmed Djama
+  - Guelleh
+  - Mohamed
+  - Amina
+  - Hassan
+  - Abdi
+  - Adan
+  - Mamadou
+  - Moussa
+  - Moumine
+  - Hassouna
+  - Omer
   Voice: ar-XA-Standard-B
   ColorScheme: 2B
+  Costume: flag_dj
   Prompt: {fileID: 4900000, guid: 941860f509dcce44d8c107722368a208, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0956315

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Panama
   Players:
-  - "Danilo P\xE9rez"
-  - Laurentino Cortizo
-  - Ruben Blades
-  - Marta Linares
-  - Ebrahim Asgarian
-  - "Roc\xEDo Gonz\xE1lez"
-  - Geddy Lee
-  - Mario Godoy
-  - Anelisse Salas
-  - Carlos Vives
-  - Pedro Pablo Kuczynski
+  - Danilo
+  - Laurentino
+  - Ruben
+  - Marta
+  - Ebrahim
+  - "Roc\xEDo"
+  - Geddy
+  - Mario
+  - Anelisse
+  - Carlos
+  - Pedro
   Voice: es-US-Standard-B
   ColorScheme: 1B
+  Costume: flag_pa
   Prompt: {fileID: 4900000, guid: 8901b604d7e8cd6429c75cc3085aa7f3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0848947

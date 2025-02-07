@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Mauritania
   Players:
-  - Mokhtar Ould Daddah
-  - Brahim Ould Daddah
-  - Mohamed Ould Abdel Aziz
-  - Sidi Mohamed Ould Boubacar
-  - Boubacar Ould Messaoud
-  - Aminetou Sow Sidibe
-  - Ould Mohamedou Ould Slama
-  - Ould Abderrahmane Ould Ould Medoune
-  - Moulaye Ould Brahim
-  - Khadijetou Sow
-  - Ghazouani Ould El Moctar
+  - Mokhtar
+  - Brahim
+  - Mohamed
+  - Sidi
+  - Boubacar
+  - Aminetou
+  - Ould
+  - Ould
+  - Moulaye
+  - Khadijetou
+  - Ghazouani
   Voice: ar-XA-Standard-B
   ColorScheme: 4B
+  Costume: flag_mr
   Prompt: {fileID: 4900000, guid: be8fdcaafdf1588418a8400f378fa529, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0935585

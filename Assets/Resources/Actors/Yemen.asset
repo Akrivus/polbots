@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Yemen
   Players:
-  - Abdulmalik al-Mekhlafi
-  - Ahmed bin Dagher
-  - Mohammed Al-Hadhrami
-  - Amat al-Alla Ali al-Haidar
-  - Ali Abdullah Saleh
-  - Khaled Bahah
-  - Sadiq Amin Abu Ras
-  - Haidar al-Bukhaity
-  - Mohammed Mohsen Saeed
-  - Aicha Zaid
-  - Sanaa al-Sharabi
+  - Abdulmalik
+  - Ahmed
+  - Mohammed
+  - Amat
+  - Ali
+  - Khaled
+  - Sadiq
+  - Haidar
+  - Mohammed
+  - Aicha
+  - Sanaa
   Voice: ar-XA-Standard-D
   ColorScheme: 1B
+  Costume: flag_ye
   Prompt: {fileID: 4900000, guid: cd3d87267ac863441bf80f54e9336322, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0082306

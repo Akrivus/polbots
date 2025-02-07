@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Congo
   Players:
-  - Felix Tshisekedi
-  - Matata Ponyo
-  - Denis Mukwege
-  - Patrice Lumumba
-  - Corneille Nangaa
-  - Chantal Biya
-  - Augustin Matata
-  - Jean-Pierre Bemba
-  - Sidonie Nganga
-  - "L\xE9on Kengo Wa Dondo"
-  - Justine Kasavubu
+  - Felix
+  - Matata
+  - Denis
+  - Patrice
+  - Corneille
+  - Chantal
+  - Augustin
+  - Jean-Pierre
+  - Sidonie
+  - "L\xE9on"
+  - Justine
   Voice: fr-FR-Standard-A
   ColorScheme: 4B
+  Costume: flag_cg
   Prompt: {fileID: 4900000, guid: d1716a12992d3ac42ba5eadbf2afbdd7, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0434647

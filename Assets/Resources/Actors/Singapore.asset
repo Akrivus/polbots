@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Singapore
   Players:
-  - Lee Hsien Loong
-  - Vivian Balakrishnan
-  - Goh Chok Tong
-  - Tan Cheng Bock
-  - Tharman Shanmugaratnam
-  - Janil Puthucheary
-  - K Shanmugam
-  - Pritam Singh
-  - Ng Eng Hen
-  - Chan Chun Sing
-  - Teo Chee Hean
+  - Lee
+  - Vivian
+  - Goh
+  - Tan
+  - Tharman
+  - Janil
+  - K
+  - Pritam
+  - Ng
+  - Chan
+  - Teo
   Voice: ms-MY-Standard-B
   ColorScheme: 1A
+  Costume: flag_sg
   Prompt: {fileID: 4900000, guid: 0766a5890f2015945a81a9d1aa2dee6a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0510641

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Bhutan
   Players:
-  - Lotay Tshering
-  - Namgay Tshering
-  - Tshering Tobgay
-  - Dorji Choden
-  - Sonam Wangchuk
-  - Dechen Wangmo
-  - Pema Gyamtsho
-  - Buddha Dhan Khandu
-  - Jigme Khesar Namgyel Wangchuck
-  - Tashi Wangchuk
-  - Chimi Dorji
+  - Lotay
+  - Namgay
+  - Tshering
+  - Dorji
+  - Sonam
+  - Dechen
+  - Pema
+  - Buddha
+  - Jigme
+  - Tashi
+  - Chimi
   Voice: hi-IN-Standard-B
   ColorScheme: 4B
+  Costume: flag_bt
   Prompt: {fileID: 4900000, guid: c41a4e43e00caeb42bac652a7fdbde1b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0138414

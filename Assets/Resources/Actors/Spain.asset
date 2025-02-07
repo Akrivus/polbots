@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Spain
   Players:
-  - "Pedro S\xE1nchez"
-  - Pablo Iglesias
-  - "Mar\xEDa Jos\xE9 Campanario"
-  - Rafael Nadal
-  - Fernando Alonso
-  - "Arturo P\xE9rez-Reverte"
-  - "Ana Bot\xEDn"
-  - "Jos\xE9 Manuel Garc\xEDa-Margallo"
-  - "Montserrat Caball\xE9"
+  - Pedro
+  - Pablo
+  - "Mar\xEDa"
+  - Rafael
+  - Fernando
+  - Arturo
+  - Ana
+  - "Jos\xE9"
+  - Montserrat
   - "Rosal\xEDa"
-  - Javier Bardem
+  - Javier
   Voice: es-ES-Standard-B
   ColorScheme: 4B
+  Costume: flag_es
   Prompt: {fileID: 4900000, guid: a40ffb868079dc448a8ee550a82fff52, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0023097

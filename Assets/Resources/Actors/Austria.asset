@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Austria
   Players:
-  - Sebastian Kurz
-  - Alexander Van der Bellen
-  - Christina Kaufmann
-  - Elfriede Jelinek
-  - "Wolfgang Sch\xFCssel"
-  - Harald Schmidt
-  - Daniel Serafin
-  - Miriam Wimmer
-  - Robert Menasse
-  - Marina Weisband
-  - Peter Handke
+  - Sebastian
+  - Alexander
+  - Christina
+  - Elfriede
+  - Wolfgang
+  - Harald
+  - Daniel
+  - Miriam
+  - Robert
+  - Marina
+  - Peter
   Voice: de-DE-Standard-B
   ColorScheme: 1A
+  Costume: flag_at
   Prompt: {fileID: 4900000, guid: 4ec7309c621f82d4fa489f7f50b48b8c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0813377

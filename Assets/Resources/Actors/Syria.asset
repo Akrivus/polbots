@@ -19,19 +19,20 @@ MonoBehaviour:
   - Syrian Arab Republic
   - Syria
   Players:
-  - Ahmed al-Sharaa
-  - Mohammad Ghazi al-Jalali
-  - Mohammed al-Bashir
-  - Aisha al-Dibs
-  - Mazloum Abdi
-  - Kino Gabriel
-  - "Ferhad \u015Eam\xEE"
-  - Hadi al-Bahra
-  - Abdurrahman Mustafa
-  - Hassan Hamada
-  - Adnan al-Ahmad
+  - Ahmed
+  - Mohammad
+  - Mohammed
+  - Aisha
+  - Mazloum
+  - Kino
+  - Ferhad
+  - Hadi
+  - Abdurrahman
+  - Hassan
+  - Adnan
   Voice: ar-XA-Standard-C
   ColorScheme: 4B
+  Costume: flag_sy~1
   Prompt: {fileID: 4900000, guid: c6488c863e3f39d4494afc0adeb68493, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0761306

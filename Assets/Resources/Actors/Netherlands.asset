@@ -20,19 +20,20 @@ MonoBehaviour:
   - The Netherlands
   - Netherlands
   Players:
-  - Mark Rutte
-  - King Willem-Alexander
-  - Sigrid Kaag
-  - Geert Wilders
-  - Femke Halsema
-  - Joost van der Westhuizen
-  - Cynthia McLeod
-  - Marianne Thieme
-  - Ernest van der Haar
-  - Ronald Koeman
-  - Khadija Arib
+  - Mark
+  - King
+  - Sigrid
+  - Geert
+  - Femke
+  - Joost
+  - Cynthia
+  - Marianne
+  - Ernest
+  - Ronald
+  - Khadija
   Voice: nl-NL-Standard-B
   ColorScheme: 1A
+  Costume: flag_nl
   Prompt: {fileID: 4900000, guid: b683411fe143a7142ba4e9dd2eb90680, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0664222

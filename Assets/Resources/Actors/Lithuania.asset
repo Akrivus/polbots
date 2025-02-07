@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Lithuania
   Players:
-  - "Gitanas Naus\u0117da"
-  - "Ingrida \u0160imonyt\u0117"
-  - Vytautas Landsbergis
-  - Raimundas Karoblis
-  - "Violeta D\u016Bdaite"
-  - Andrius Kubilius
-  - "Dalia Grybauskait\u0117"
-  - Arvydas Sabonis
-  - "R\u016Bta \u0160\u010Diogolevait\u0117"
-  - Jonas Noreika
-  - Dainius Zubrus
+  - Gitanas
+  - Ingrida
+  - Vytautas
+  - Raimundas
+  - Violeta
+  - Andrius
+  - Dalia
+  - Arvydas
+  - "R\u016Bta"
+  - Jonas
+  - Dainius
   Voice: pl-PL-Standard-D
   ColorScheme: 1A
+  Costume: flag_lt
   Prompt: {fileID: 4900000, guid: 30c5d24f2fcc90649a3066fd301199a1, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0972989

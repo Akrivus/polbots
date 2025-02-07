@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Niger
   Players:
-  - Mahamadou Issoufou
-  - Bazoum Mohamed
-  - Hassoumi Massaoudou
-  - Aissatou Sow Sidibe
-  - Oumarou Dogari
-  - Souley Soumana
-  - Amadou Boukari
-  - Mahamane Lawali
-  - Moussa Tavele
-  - Hadia Mahamadou
-  - Mahamadou Issoufou Boubacar
+  - Mahamadou
+  - Bazoum
+  - Hassoumi
+  - Aissatou
+  - Oumarou
+  - Souley
+  - Amadou
+  - Mahamane
+  - Moussa
+  - Hadia
+  - Mahamadou
   Voice: fr-FR-Standard-B
   ColorScheme: 4A
+  Costume: flag_ne
   Prompt: {fileID: 4900000, guid: b7e93d83cbf2d3345a657760e645126f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0773054

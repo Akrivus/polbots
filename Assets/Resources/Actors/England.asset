@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - England
   Players:
-  - David Attenborough
-  - Boris Johnson
-  - Emma Watson
-  - David Beckham
-  - J.K. Rowling
-  - Rishi Sunak
-  - Simon Cowell
-  - Ed Miliband
-  - Dame Judi Dench
-  - Sir Elton John
-  - Margaret Atwood
+  - David
+  - Boris
+  - Emma
+  - David
+  - J.K.
+  - Rishi
+  - Simon
+  - Ed
+  - Dame
+  - Sir
+  - Margaret
   Voice: en-GB-Standard-B
   ColorScheme: 1A
+  Costume: flag_gb_en
   Prompt: {fileID: 4900000, guid: 1bf7028425a781a4794df9fe69422445, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0472417

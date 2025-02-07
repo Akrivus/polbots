@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Afghanistan
   Players:
-  - Hibatullah Akhundzada
-  - Mullah Abdul Ghani Baradar
-  - Sher Mohammad Abbas Stanikzai
-  - Ahmadullah Wasiq
-  - Zabihullah Mujahid
-  - Sayed Rahmatullah Haqbeen
-  - Maulvi Noorullah Noori
-  - Mullah Abdul Kabir
-  - Qari Mohammad Yousaf
-  - Mohammad Ali Zaman
-  - Bashir Ahmad Hanzala
+  - Hibatullah
+  - Mullah
+  - Sher
+  - Ahmadullah
+  - Zabihullah
+  - Sayed
+  - Maulvi
+  - Mullah
+  - Qari
+  - Mohammad
+  - Bashir
   Voice: pa-IN-Standard-B
   ColorScheme: 4B
+  Costume: flag_af~1
   Prompt: {fileID: 4900000, guid: 91bb3d8b3360010408c85416ead4d3b4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.014405

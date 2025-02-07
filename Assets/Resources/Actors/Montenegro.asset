@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Montenegro
   Players:
-  - "Milojko Spaji\u0107"
-  - "Zdravko Krivokapi\u0107"
-  - "Milo Djukanovi\u0107"
-  - "Dritan Abazovi\u0107"
-  - "Jelena Velja\u010Da"
-  - Vuk Vajgand
-  - "Branislav Mi\u0107unovi\u0107"
-  - "Rade \u0160erbed\u017Eija"
-  - "Svetlana Ceni\u0107"
-  - "Maja Mandi\u0107"
-  - "Vujica Diki\u0107"
+  - Milojko
+  - Zdravko
+  - Milo
+  - Dritan
+  - Jelena
+  - Vuk
+  - Branislav
+  - Rade
+  - Svetlana
+  - Maja
+  - Vujica
   Voice: sr-RS-Standard-A
   ColorScheme: 1B
+  Costume: flag_me
   Prompt: {fileID: 4900000, guid: 7aaf8d8bc815d154993cbeb28fa20cbe, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0896981

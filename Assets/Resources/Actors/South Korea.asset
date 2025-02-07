@@ -19,19 +19,20 @@ MonoBehaviour:
   - Republic of Korea
   - South Korea
   Players:
-  - Moon Jae-in
-  - Park Geun-hye
-  - Lee Myung-bak
-  - Yoon Suk-yeol
-  - Ban Ki-moon
-  - Kim Ki-duk
-  - Lee Hsien Loong
-  - Jeong Eun-kyeong
-  - Bong Joon-ho
-  - Park Seo-joon
-  - Jin Young-kyu
+  - Moon
+  - Park
+  - Lee
+  - Yoon
+  - Ban
+  - Kim
+  - Lee
+  - Jeong
+  - Bong
+  - Park
+  - Jin
   Voice: ko-KR-Standard-B
   ColorScheme: 1A
+  Costume: flag_kr
   Prompt: {fileID: 4900000, guid: b6694c9835f87f340aee7bf1c2da2eae, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0835015

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Estonia
   Players:
-  - Kersti Kaljulaid
-  - "J\xFCri Ratas"
-  - Kaja Kallas
-  - Marina Kaljurand
-  - Andres Anvelt
-  - Siim Kallas
-  - Tunne Kelam
-  - Indrek Tarand
-  - Ivari Padar
-  - Hennadi Dreeva
-  - Rein Raud
+  - Kersti
+  - "J\xFCri"
+  - Kaja
+  - Marina
+  - Andres
+  - Siim
+  - Tunne
+  - Indrek
+  - Ivari
+  - Hennadi
+  - Rein
   Voice: fi-FI-Standard-A
   ColorScheme: 2A
+  Costume: flag_ee
   Prompt: {fileID: 4900000, guid: 0f5f9a4868e8a894b96da3722a346e55, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0289232

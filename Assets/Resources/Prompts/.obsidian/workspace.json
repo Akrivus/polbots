@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soccer 2. Dialogue Generation.md",
+                "file": "1. Scenario Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soccer 2. Dialogue Generation"
+              "title": "1. Scenario Generation"
             }
           }
         ],
@@ -222,8 +222,15 @@
   },
   "active": "64983b65a50fe6e0",
   "lastOpenFiles": [
-    "Actors/America.md",
+    "2. Behavior Generation.md",
+    "3. Editor Process.md",
+    "1. Scenario Generation.md",
+    "Tools/Actor Backgrounds.md",
+    "Actors/Houthi.md.meta",
+    "Actors/Houthi.md",
+    "Tools/Actor Prompts.md",
     "Soccer 2. Dialogue Generation.md",
+    "Actors/America.md",
     "Soccer 1. Scenario Generation.md.meta",
     "Soccer 2. Dialogue Generation.md.meta",
     "Soccer Dialogue Agent.md",
@@ -232,13 +239,10 @@
     "Cue Generator.md",
     "Cue Generator.md.meta",
     "Prop Tagger.md",
-    "1. Scenario Generation.md",
     "Soccer Dialogue Agent.md.meta",
     "Archive/Default Context.md",
     "Archive/Dialogue Agent.md",
-    "3. Editor Process.md",
     "Actors/Greenland.md",
-    "2. Behavior Generation.md",
     "Archive/UN Office Hours Prompt.md",
     "Archive/Summarizer.md",
     "Archive/Location Selector.md",
@@ -248,15 +252,10 @@
     "Noise Tagger.md",
     "Actors/Persia.md.meta",
     "Backgrounds/Persia.md.meta",
-    "Tools/Actor Backgrounds.md",
     "Backgrounds/Persia.md",
     "Actors/Persia.md",
-    "Actors/Peru.md",
-    "Actors/Paraguay.md",
-    "Actors/Vietnam.md",
     "Backgrounds/Antarctica.md.meta",
     "Backgrounds/Roman Empire.md.meta",
-    "Backgrounds.meta",
-    "Backgrounds"
+    "Backgrounds.meta"
   ]
 }

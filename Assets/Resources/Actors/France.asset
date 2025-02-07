@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - France
   Players:
-  - Emmanuel Macron
-  - Brigitte Macron
-  - Marine Le Pen
-  - "Jean-Luc M\xE9lenchon"
-  - "Fran\xE7ois Hollande"
-  - Christine Lagarde
-  - Jean-Pierre Raffarin
-  - "S\xE9gol\xE8ne Royal"
-  - "Kylian Mbapp\xE9"
-  - "\xC9douard Philippe"
-  - Juliette Binoche
+  - Emmanuel
+  - Brigitte
+  - Marine
+  - Jean-Luc
+  - "Fran\xE7ois"
+  - Christine
+  - Jean-Pierre
+  - "S\xE9gol\xE8ne"
+  - Kylian
+  - "\xC9douard"
+  - Juliette
   Voice: fr-FR-Standard-C
   ColorScheme: 1A
+  Costume: flag_fr
   Prompt: {fileID: 4900000, guid: 5270720dc1a3b654d8c6eaed6eccf1f9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1

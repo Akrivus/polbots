@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Madagascar
   Players:
-  - Andry Rajoelina
-  - Marc Ravalomanana
-  - Naina Andriantsitohaina
-  - Saminath Soja
-  - Mamy Ranarison
-  - Lalao Ravalomanana
-  - Herizo Razafimahatratra
-  - Tovonjy Tsiranana
-  - Haja Ravelomanana
-  - Patrice Ralainirina
-  - Sonia Ravelojaona
+  - Andry
+  - Marc
+  - Naina
+  - Saminath
+  - Mamy
+  - Lalao
+  - Herizo
+  - Tovonjy
+  - Haja
+  - Patrice
+  - Sonia
   Voice: fr-FR-Standard-B
   ColorScheme: 2B
+  Costume: flag_mg
   Prompt: {fileID: 4900000, guid: d18db693c5a733347a92b3b7de9b8d9b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.032349

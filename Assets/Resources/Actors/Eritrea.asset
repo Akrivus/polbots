@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Eritrea
   Players:
-  - Isaias Afwerki
-  - Yemane Baria
-  - Ermias Amare
-  - Amanuel P. Mebrahtu
-  - Seleshi K. Yirga
-  - Hibret Menkerios
-  - Woldemichael Habtemariam
-  - Hanna Mebrhatu
-  - Selam Kidane
-  - Fozia Mohammed
-  - Semhal T. Mehari
+  - Isaias
+  - Yemane
+  - Ermias
+  - Amanuel
+  - Seleshi
+  - Hibret
+  - Woldemichael
+  - Hanna
+  - Selam
+  - Fozia
+  - Semhal
   Voice: it-IT-Standard-C
   ColorScheme: 2B
+  Costume: flag_er
   Prompt: {fileID: 4900000, guid: 003fcf8892b7a164d882a840e5e7aaa7, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0505999

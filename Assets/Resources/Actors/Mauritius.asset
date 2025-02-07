@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Mauritius
   Players:
-  - Pravind Jugnauth
-  - Navin Ramgoolam
-  - Ameenah Gurib-Fakim
-  - Xavier-Luc Duval
-  - Reza Uteem
-  - Maya Hanoomanjee
-  - Shankar Choolun
-  - Lesley S. Ashok
-  - Cynthia Beeharry
-  - Sheela Swaminathan
-  - Kumar Sunil
+  - Pravind
+  - Navin
+  - Ameenah
+  - Xavier-Luc
+  - Reza
+  - Maya
+  - Shankar
+  - Lesley
+  - Cynthia
+  - Sheela
+  - Kumar
   Voice: en-GB-Standard-D
   ColorScheme: 2B
+  Costume: flag_mu
   Prompt: {fileID: 4900000, guid: 2d2943712c1c326499a50e9acd629efa, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0607241

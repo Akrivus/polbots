@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Quebec
   Players:
-  - "Fran\xE7ois Legault"
-  - "Sophie Gr\xE9goire Trudeau"
-  - "C\xE9line Dion"
-  - Denis Villeneuve
-  - "Mitsou G\xE9linas"
-  - Julie Payette
-  - Richard Martineau
-  - "Dany Laferri\xE8re"
-  - "Genevi\xE8ve Guilbault"
-  - Marc Garneau
-  - "M\xE9lanie Joly"
+  - "Fran\xE7ois"
+  - Sophie
+  - "C\xE9line"
+  - Denis
+  - Mitsou
+  - Julie
+  - Richard
+  - Dany
+  - "Genevi\xE8ve"
+  - Marc
+  - "M\xE9lanie"
   Voice: fr-CA-Standard-A
   ColorScheme: 1A
+  Costume: flag_ca_qc
   Prompt: {fileID: 4900000, guid: b81400b7029a8914caf41374ffdbe24d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0602615

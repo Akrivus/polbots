@@ -14,6 +14,11 @@ using System.Diagnostics;
 
 public class SoccerIntegration : MonoBehaviour
 {
+    public static SoccerIntegration Instance => _instance ?? (_instance = FindAnyObjectByType<SoccerIntegration>());
+    private static SoccerIntegration _instance;
+
+    public event System.Action<string> OnEmit;
+
     public string GameScene => "3rdParty/FootballSimulator/_StartingScene";
 
     private List<string> AddedScenes = new List<string>();
@@ -32,10 +37,11 @@ public class SoccerIntegration : MonoBehaviour
     [SerializeField]
     private AudioSource teamAudio;
 
+    private Actor homeActor;
+    private Actor awayActor;
+
     private TeamEntry homeTeam;
-    private int homeScore;
     private TeamEntry awayTeam;
-    private int awayScore;
 
     [SerializeField, Range(0f, 1f)]
     private float maxVolume;
@@ -52,14 +58,15 @@ public class SoccerIntegration : MonoBehaviour
     [SerializeField]
     private int waitTimeBetweenMatches = 80;
 
+    private Dictionary<string, string[]> lines = new Dictionary<string, string[]>();
+
     private Stopwatch matchTimer = new Stopwatch();
-    private Stopwatch sceneTimer = new Stopwatch();
 
     private int timeSinceLastMatch => matchTimer.Elapsed.Minutes;
-    private float gameTime => sceneTimer.Elapsed.Minutes;
 
     public void Configure(SoccerConfigs c)
     {
+        lines = c.Lines;
         waitTimeBetweenMatches = c.WaitTimeBetweenMatches;
         matchTimer.Start();
 
@@ -69,6 +76,7 @@ public class SoccerIntegration : MonoBehaviour
 
     private void Awake()
     {
+        _instance = this;
         ConfigManager.Instance.RegisterConfig(typeof(SoccerConfigs), "soccer", (config) => Configure((SoccerConfigs) config));
         RegisterEmissionEvents();
     }
@@ -90,7 +98,7 @@ public class SoccerIntegration : MonoBehaviour
 
         while (home == away)
             away = names[Random.Range(0, names.Length)];
-        Emit($"{home} and {away} challenge each other to a game of soccer!", true);
+        Emit($"{home} and {away} challenge each other to a game of soccer!");
     }
 
     private IEnumerator ToggleGame(Chat chat)
@@ -108,13 +116,13 @@ public class SoccerIntegration : MonoBehaviour
         }
         else
         {
-            var home = Actor.All[homeName] ?? chat.Actors[0].Reference;
-            var away = Actor.All[awayName] ?? chat.Actors[1].Reference;
+            homeActor = Actor.All[homeName] ?? chat.Actors[0].Reference;
+            awayActor = Actor.All[awayName] ?? chat.Actors[1].Reference;
 
-            while (home == away)
-                away = chat.Actors[Random.Range(0, chat.Actors.Length)].Reference;
+            while (homeActor == awayActor)
+                awayActor = chat.Actors[Random.Range(0, chat.Actors.Length)].Reference;
 
-            LoadGame(home, away);
+            LoadGame(homeActor, awayActor);
         }
     }
 
@@ -131,9 +139,6 @@ public class SoccerIntegration : MonoBehaviour
         RenameTeam(homeTeam, home);
         RenameTeam(awayTeam, away);
 
-        homeScore = 0;
-        awayScore = 0;
-
         if (!isSceneLoaded)
             LoadGameScene();
     }
@@ -147,14 +152,6 @@ public class SoccerIntegration : MonoBehaviour
             new UpcomingMatchEvent(match), false, true);
         shareScreenUiManager.ShareScreenOn();
         isMatchLoaded = true;
-    }
-
-    private void EndGame()
-    {
-        Emit($"The game between {homeTeam.TeamName} and {awayTeam.TeamName} has ended in {gameTime} minutes!\n" +
-            $"The final score is {homeTeam.TeamName} {homeScore} - {awayScore} {awayTeam.TeamName}!",
-            true);
-        StartCoroutine(CloseGame());
     }
 
     private IEnumerator CloseGame()
@@ -190,7 +187,6 @@ public class SoccerIntegration : MonoBehaviour
             return;
         await StartGame();
         isSceneLoaded = true;
-        sceneTimer.Restart();
     }
 
     private void UnloadGameScene()
@@ -203,20 +199,15 @@ public class SoccerIntegration : MonoBehaviour
 
     private void RegisterEmissionEvents()
     {
-        EventManager.Subscribe<FirstWhistleEvent>((e) => Emit($"The game between {homeTeam.TeamName} and {awayTeam.TeamName} has started!" +
-            $"May the best team win!", true));
-        EventManager.Subscribe<FinalWhistleEvent>((e) => EndGame());
-
         EventManager.Subscribe<GoalScoredEvent>((e) =>
         {
-            if (e.Scorer.team.TeamName == homeTeam.TeamName)
-                homeScore++;
-            else
-                awayScore++;
-            Emit($"{GetName(e.Scorer)} scores a goal for {e.Scorer.team.TeamName} at {gameTime} minutes!\n" +
-                $"The score is now {homeTeam.TeamName} {homeScore} - {awayScore} {awayTeam.TeamName}!",
-                true);
+            Emit($"# **{Mathf.CeilToInt(MatchManager.Current.minutes)}'**: :{homeActor.Costume}: **{homeScore} - {awayScore}** :{awayActor.Costume}");
             volume += 1.0f;
+        });
+        EventManager.Subscribe<FinalWhistleEvent>((e) =>
+        {
+            Emit($"The game has ended! Final score: {homeScore} - {awayScore}!");
+            StartCoroutine(CloseGame());
         });
 
         RegisterMessageEvents();
@@ -224,34 +215,45 @@ public class SoccerIntegration : MonoBehaviour
 
     private void RegisterMessageEvents()
     {
-        EventManager.Subscribe<RefereeLongWhistleEvent>((e) => Emit("**Referee:** That�s the long whistle � time to take a breather!"));
-        EventManager.Subscribe<RefereeShortWhistleEvent>((e) => Emit("**Referee:** Quick whistle! What�s the call?"));
-        EventManager.Subscribe<RefereeLastWhistleEvent>((e) => Emit("**Referee:** That�s the final whistle! Game over, folks!"));
-        EventManager.Subscribe<BallHitTheWoodWorkEvent>((e) => Emit($"SO CLOSE! The ball smacks the woodwork and stays out � the goalposts say 'not today!'"));
-        EventManager.Subscribe<KickOffEvent>((e) => Emit("Kick-off! The game is underway!"));
-        EventManager.Subscribe<OutEvent>((e) => Emit("Out of bounds! The ball's gone rogue."));
-        EventManager.Subscribe<ShootWentOutEvent>((e) => Emit("Wild shot! That ball�s heading for the stands!"));
-        EventManager.Subscribe<KeeperHitTheBallButCouldNotControlEvent>((e) => Emit($"{GetName(e)} gets a touch but can�t keep hold of it! Danger still lurks!"));
-        EventManager.Subscribe<KeeperSavesTheBallEvent>((e) => Emit($"{GetName(e)} with a clutch save! The goal is still protected!"));
-        EventManager.Subscribe<PlayerDisbalancedEvent>((e) => Emit($"{GetName(e)} takes a tumble! Not the smoothest move."));
-        EventManager.Subscribe<PlayerSlideTackleEvent>((e) => Emit($"{GetName(e)} goes in for a slide tackle! Clean or dirty?"));
-        EventManager.Subscribe<PlayerTackledEvent>((e) => Emit($"{GetName(e)} gets taken down! That�s gotta sting."));
-        EventManager.Subscribe<PlayerPassEvent>((e) => Emit($"{GetName(e)} sends a crisp pass! Eyes on the prize."));
-        EventManager.Subscribe<PlayerControlBallEvent>((e) => Emit($"{GetName(e)} takes control and drives forward!"));
-        EventManager.Subscribe<PlayerWinTheBallEvent>((e) => Emit($"{GetName(e)} snatches the ball back! Possession regained."));
-        EventManager.Subscribe<PlayerLossTheBallEvent>((e) => Emit($"{GetName(e)} loses the ball! That didn't go as planned."));
-        EventManager.Subscribe<PlayerChipShootEvent>((e) => Emit($"{GetName(e)} tries a cheeky chip! Will it float in?"));
-        EventManager.Subscribe<PlayerShootEvent>((e) => Emit($"{GetName(e)} takes a shot! Boom, that�s power!"));
-        EventManager.Subscribe<PlayerThrowInEvent>((e) => Emit($"{GetName(e)} launches a throw-in! Let�s see where this lands."));
+        EventManager.Subscribe<RefereeLongWhistleEvent>((e) => Emit(e, "Referee"));
+        EventManager.Subscribe<RefereeShortWhistleEvent>((e) => Emit(e, "Referee"));
+        EventManager.Subscribe<RefereeLastWhistleEvent>((e) => Emit(e, "Referee"));
+        EventManager.Subscribe<FirstWhistleEvent>((e) => Emit(e));
+        EventManager.Subscribe<FinalWhistleEvent>((e) => Emit(e));
+        EventManager.Subscribe<BallHitTheWoodWorkEvent>((e) => Emit(e));
+        EventManager.Subscribe<KickOffEvent>((e) => Emit(e));
+        EventManager.Subscribe<OutEvent>((e) => Emit(e));
+        EventManager.Subscribe<ShootWentOutEvent>((e) => Emit(e));
+        EventManager.Subscribe<KeeperHitTheBallButCouldNotControlEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<KeeperSavesTheBallEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerDisbalancedEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerSlideTackleEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerTackledEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerPassEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerControlBallEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerWinTheBallEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerLossTheBallEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerChipShootEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerShootEvent>((e) => Emit(e, GetName(e)));
+        EventManager.Subscribe<PlayerThrowInEvent>((e) => Emit(e, GetName(e)));
     }
 
-    private void Emit(string message, bool forcePush = false)
+    private void Emit(IBaseEvent e, string name = null, bool push = false)
     {
-        gameEventLog += message + "\n";
+        var lineFormat = lines[e.GetType().Name].Random();
+        var line = string.Format(lineFormat, name);
+
+        Emit(line, push);
+    }
+
+    private void Emit(string log, bool push = true)
+    {
+        gameEventLog += $"{log}\n";
         volume += 0.1f;
 
-        if (forcePush)
+        if (push)
             Push();
+        OnEmit?.Invoke(log);
     }
 
     private void Push()
@@ -272,9 +274,8 @@ public class SoccerIntegration : MonoBehaviour
 
     private void RenameTeam(TeamEntry team, Actor actor)
     {
-        var names = actor.Players.Shuffle().Select(s => s.Split(' ')[0]).ToArray();
         for (var i = 0; i < team.Players.Length; ++i)
-            team.Players[i].Name = names[i];
+            team.Players[i].Name = actor.Players[i];
 
         team.TeamLogo.TeamLogoColor1 = actor.Color1;
         team.TeamLogo.TeamLogoColor2 = actor.Color2;

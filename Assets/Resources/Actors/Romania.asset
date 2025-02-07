@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Romania
   Players:
-  - Klaus Iohannis
-  - "Nicolae Ciuc\u0103"
-  - Dan Barna
-  - Marcel Ciolacu
-  - "Daciana S\xE2rbu"
-  - Victor Ponta
-  - "Laura Codru\u021Ba K\xF6vesi"
-  - "Mihai R\u0103zvan Ungureanu"
-  - "Andrei Ple\u0219u"
-  - Tudor Giurgiu
-  - Emil Boc
+  - Klaus
+  - Nicolae
+  - Dan
+  - Marcel
+  - Daciana
+  - Victor
+  - Laura
+  - Mihai
+  - Andrei
+  - Tudor
+  - Emil
   Voice: ro-RO-Standard-A
   ColorScheme: 1B
+  Costume: flag_ro
   Prompt: {fileID: 4900000, guid: 8d250fd2322a3224fb766061243dc39c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0645264

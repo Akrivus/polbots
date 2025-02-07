@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Kyrgyzstan
   Players:
-  - Sadyr Japarov
-  - Roza Otunbayeva
-  - Omurbek Babanov
-  - Bermet Akayeva
-  - Kanybek Imanaliev
-  - Asylbek Kozhoshev
-  - Myrzakan Subanov
-  - Ahnaz Kazybekov
-  - Arzybek Janybekov
-  - Zinaida Mamatova
-  - Kyrgyz Suyumbayev
+  - Sadyr
+  - Roza
+  - Omurbek
+  - Bermet
+  - Kanybek
+  - Asylbek
+  - Myrzakan
+  - Ahnaz
+  - Arzybek
+  - Zinaida
+  - Kyrgyz
   Voice: ru-RU-Standard-B
   ColorScheme: 4B
+  Costume: flag_kg
   Prompt: {fileID: 4900000, guid: 2abaca31360330840a0180185c85ba20, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0679654

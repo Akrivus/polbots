@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Armenia
   Players:
-  - Nicolas Pashinyan
-  - Serj Tankian
-  - Tigran Petrosian
-  - Davit Sargsyan
-  - Levon Ter-Petrosyan
-  - Aram Simonian
-  - Gagik Tsarukyan
-  - Henrikh Mkhitaryan
-  - Vigen Sargsyan
-  - Ara Malikian
-  - Sophie Gulumian
+  - Nicolas
+  - Serj
+  - Tigran
+  - Davit
+  - Levon
+  - Aram
+  - Gagik
+  - Henrikh
+  - Vigen
+  - Ara
+  - Sophie
   Voice: he-IL-Standard-A
   ColorScheme: 4B
+  Costume: flag_am
   Prompt: {fileID: 4900000, guid: 39c177d27fc4178418e165a2cb1b11d4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1001596

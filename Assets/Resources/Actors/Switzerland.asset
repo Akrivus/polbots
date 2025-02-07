@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Switzerland
   Players:
-  - Ursula von der Leyen
-  - Alain Berset
-  - Simonetta Sommaruga
-  - Michel Roth
-  - Carla del Ponte
-  - Didier Burkhalter
-  - Giorgio Moroder
-  - Hans Zimmer
-  - Peter Handke
-  - Nicolas Bideau
-  - Nadia Battie
+  - Ursula
+  - Alain
+  - Simonetta
+  - Michel
+  - Carla
+  - Didier
+  - Giorgio
+  - Hans
+  - Peter
+  - Nicolas
+  - Nadia
   Voice: de-DE-Standard-D
   ColorScheme: 1A
+  Costume: flag_ch
   Prompt: {fileID: 4900000, guid: 49e3b16e2339e9840a91023800d2b33f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0048672

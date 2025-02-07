@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Jordan
   Players:
-  - Abdullah II of Jordan
-  - Queen Rania of Jordan
-  - Ayman Safadi
-  - Bashir al-Khateeb
-  - Hanan Ashrawi
-  - Nadia Abu El-Haija
-  - Waleed Al-Muhtaseb
-  - "Rula Ma\u2019ayah"
-  - Salma Nims
-  - Zaid Al-Hussein
-  - Alaa T. Al-Sharif
+  - Abdullah
+  - Queen
+  - Ayman
+  - Bashir
+  - Hanan
+  - Nadia
+  - Waleed
+  - Rula
+  - Salma
+  - Zaid
+  - Alaa
   Voice: ar-XA-Standard-C
   ColorScheme: 4B
+  Costume: flag_jo
   Prompt: {fileID: 4900000, guid: a76cab6802925754c84a8d0ed8e3da9e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0215553

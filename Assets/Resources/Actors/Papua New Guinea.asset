@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Papua New Guinea
   Players:
-  - James Marape
-  - Liam Fox
-  - Gary Juffa
-  - Kekunianga Wali
-  - Ruth Kissam
-  - Andrew Kumbakor
-  - Kila Huli
-  - Max Dowan
-  - Josephine M. P. Loke
-  - Allan Bird
-  - Louise A. L. Hahai
+  - James
+  - Liam
+  - Gary
+  - Kekunianga
+  - Ruth
+  - Andrew
+  - Kila
+  - Max
+  - Josephine
+  - Allan
+  - Louise
   Voice: en-AU-Standard-C
   ColorScheme: 2C
+  Costume: flag_pg
   Prompt: {fileID: 4900000, guid: c1f9c3caa56ab494c8ecaf6e36f5b3f3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0532135

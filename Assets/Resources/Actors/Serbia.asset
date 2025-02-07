@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Serbia
   Players:
-  - "Aleksandar Vu\u010Di\u0107"
-  - "Ana Brnabi\u0107"
-  - "Vuk Jeremi\u0107"
-  - "Marina Abramovi\u0107"
-  - "Nikola \u0110uri\u010Dko"
-  - Mira Adanja-Polak
-  - "Goran Bregovi\u0107"
-  - "Boris Tadi\u0107"
-  - "Vlado \u0110uri\u0107"
-  - "Roksandra Gaji\u0107"
-  - "Nata\u0161a Kandi\u0107"
+  - Aleksandar
+  - Ana
+  - Vuk
+  - Marina
+  - Nikola
+  - Mira
+  - Goran
+  - Boris
+  - Vlado
+  - Roksandra
+  - "Nata\u0161a"
   Voice: sr-RS-Standard-A
   ColorScheme: 1B
+  Costume: flag_rs
   Prompt: {fileID: 4900000, guid: 6027b6ef91ee390429155c6c140c2627, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0560712

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Gabon
   Players:
-  - Ali Bongo Ondimba
-  - Pierre-Claver Maganga Moussavou
-  - "\xC9mile Nguema"
-  - Daniel Ona Ondo
-  - "L\xE9onard Andjembe"
-  - Mougang Ndong
-  - Bruno Ben Moubamba
-  - Jean-Pierre Nzue
-  - "C\xE9cile Gampory"
-  - "Eug\xE8ne Dossou"
-  - "Val\xE9rie D'Aboiga"
+  - Ali
+  - Pierre-Claver
+  - "\xC9mile"
+  - Daniel
+  - "L\xE9onard"
+  - Mougang
+  - Bruno
+  - Jean-Pierre
+  - "C\xE9cile"
+  - "Eug\xE8ne"
+  - "Val\xE9rie"
   Voice: fr-FR-Standard-A
   ColorScheme: 2C
+  Costume: flag_ga
   Prompt: {fileID: 4900000, guid: b5eb4343645227c4ba6b36432a7873c9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0722302

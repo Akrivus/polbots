@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Antarctica
   Players:
-  - Greta Thunberg
-  - James Hansen
-  - Jane Goodall
-  - David Attenborough
-  - Bill McKibben
-  - Naomi Klein
-  - Sylvia Earle
-  - Michael E. Mann
-  - Katharine Hayhoe
-  - Al Gore
-  - Wangari Maathai
+  - Greta
+  - James
+  - Jane
+  - David
+  - Bill
+  - Naomi
+  - Sylvia
+  - Michael
+  - Katharine
+  - Al
+  - Wangari
   Voice: en-US-Standard-H
   ColorScheme: 2A
+  Costume: flag_aq~1
   Prompt: {fileID: 4900000, guid: 7425c8ffdf9f19746b196c8f27f17204, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0063379

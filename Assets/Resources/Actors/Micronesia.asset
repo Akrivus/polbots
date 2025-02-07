@@ -19,19 +19,20 @@ MonoBehaviour:
   - Federated States of Micronesia
   - Micronesia
   Players:
-  - David Panuelo
-  - Simina D. K. Neth
-  - Yoshiko K. T. Chien
-  - Pitisone M. S. Nielson
-  - Benny E. C. T. Kedi
-  - Jude K. B. Sisior
-  - Elizabeth B. S. Kephan
-  - Marlon T. M. H. Taitano
-  - Ewe N. N. Napos
-  - Eldrin C. K. K. Kitu
-  - Daniel F. S. W. Tetiro
+  - David
+  - Simina
+  - Yoshiko
+  - Pitisone
+  - Benny
+  - Jude
+  - Elizabeth
+  - Marlon
+  - Ewe
+  - Eldrin
+  - Daniel
   Voice: en-US-Standard-B
   ColorScheme: 2A
+  Costume: flag_fm
   Prompt: {fileID: 4900000, guid: 280625716d22f9f4ba2e15af2228f627, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1022898

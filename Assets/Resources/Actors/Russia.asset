@@ -19,19 +19,20 @@ MonoBehaviour:
   - Russian Federation
   - Russia
   Players:
-  - Vladimir Putin
-  - Dmitry Medvedev
-  - Alexei Navalny
-  - Sergei Shoigu
-  - Maria Zakharova
-  - Leonid Slutsky
-  - Valentina Matviyenko
-  - Mikhail Khodorkovsky
-  - Grigory Yavlinsky
-  - Svetlana Alexievich
-  - Lyudmila Alexeyeva
+  - Vladimir
+  - Dmitry
+  - Alexei
+  - Sergei
+  - Maria
+  - Leonid
+  - Valentina
+  - Mikhail
+  - Grigory
+  - Svetlana
+  - Lyudmila
   Voice: ru-RU-Standard-C
   ColorScheme: 1A
+  Costume: flag_ru
   Prompt: {fileID: 4900000, guid: 826fe87e013da3b46b43367edfe69bb0, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0523179

@@ -23,19 +23,20 @@ MonoBehaviour:
   - Al-Shaab
   - Al-Qaeda
   Players:
-  - Osama bin Laden
-  - Ayman al-Zawahiri
-  - Saif al-Adel
-  - Abu Yahya al-Libi
-  - Nasir al-Wuhayshi
-  - Abu Khayr al-Masri
-  - Abu Bakr al-Baghdadi
-  - Abu Muslim al-Turkmani
-  - Abu Ali al-Anbari
-  - Muhammad Yusuf
-  - Abu Musab al-Barnawi
+  - Osama
+  - Ayman
+  - Saif
+  - Abu
+  - Nasir
+  - Abu
+  - Abu
+  - Abu
+  - Abu
+  - Muhammad
+  - Abu
   Voice: en-GB-Standard-D
   ColorScheme: 2B
+  Costume: flag_isis
   Prompt: {fileID: 4900000, guid: a92d2020ebaca534f9d4480fa14cf902, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1060379

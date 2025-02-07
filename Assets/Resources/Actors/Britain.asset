@@ -21,19 +21,20 @@ MonoBehaviour:
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   Players:
-  - David Attenborough
-  - Rishi Sunak
-  - Harry Styles
-  - Emma Watson
-  - Greta Thunberg
-  - Boris Johnson
-  - J.K. Rowling
-  - Richard Branson
-  - Elizabeth Hurley
-  - Benedict Cumberbatch
-  - David Beckham
+  - David
+  - Rishi
+  - Harry
+  - Emma
+  - Greta
+  - Boris
+  - J.K.
+  - Richard
+  - Elizabeth
+  - Benedict
+  - David
   Voice: en-GB-Standard-B
   ColorScheme: 1A
+  Costume: flag_gb
   Prompt: {fileID: 4900000, guid: af4566ca47b83f443b0911ddfbbbdb12, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1

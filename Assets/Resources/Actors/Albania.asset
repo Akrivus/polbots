@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Albania
   Players:
-  - Edi Rama
-  - Ilir Meta
-  - Lulzim Basha
-  - Monika Kryemadhi
-  - Edmond Haxhinasto
-  - Arben Ahmetaj
-  - Klement Zguri
-  - Taulant Balla
-  - Vasilika Hysi
-  - Ana Blazevic
-  - Cindy Hoxha
+  - Edi
+  - Ilir
+  - Lulzim
+  - Monika
+  - Edmond
+  - Arben
+  - Klement
+  - Taulant
+  - Vasilika
+  - Ana
+  - Cindy
   Voice: he-IL-Standard-A
   ColorScheme: 1A
+  Costume: flag_al
   Prompt: {fileID: 4900000, guid: 20a045dd1f1d0264a957800a654a907d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0636086

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Belgium
   Players:
-  - Alexander De Croo
-  - Charles Michel
-  - Elio Di Rupo
-  - Geert Bourgeois
-  - Jan Jambon
-  - Maggie De Block
-  - "Sophie Wilm\xE8s"
-  - Bart De Wever
-  - Jean-Claude Marcourt
-  - "Maxime Pr\xE9vot"
-  - Fleur Pierets
+  - Alexander
+  - Charles
+  - Elio
+  - Geert
+  - Jan
+  - Maggie
+  - Sophie
+  - Bart
+  - Jean-Claude
+  - Maxime
+  - Fleur
   Voice: nl-BE-Standard-B
   ColorScheme: 4B
+  Costume: flag_be
   Prompt: {fileID: 4900000, guid: ab8038ea36f2da247b3782ab76fe364c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1094005

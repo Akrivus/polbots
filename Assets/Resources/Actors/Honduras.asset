@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Honduras
   Players:
-  - Xiomara Castro
-  - Luis Redondo
-  - Manuel Zelaya
-  - Miriam Miranda
-  - "Rafael Alegr\xEDa"
-  - "Olivia Z\xFA\xF1iga"
-  - Julio Raudales
-  - Earl Banfield
-  - Rosa Elena Bonilla
-  - Nery Cerrato
-  - "C\xE9sar Ham"
+  - Xiomara
+  - Luis
+  - Manuel
+  - Miriam
+  - Rafael
+  - Olivia
+  - Julio
+  - Earl
+  - Rosa
+  - Nery
+  - "C\xE9sar"
   Voice: es-US-Standard-C
   ColorScheme: 2B
+  Costume: flag_hn
   Prompt: {fileID: 4900000, guid: 720d2c39a6c34d041ab18ee7183be5fe, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0928212

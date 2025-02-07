@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Kuwait
   Players:
-  - Amal Al-Awadhi
-  - Mohammed Al-Sabah
-  - Marzouq Al-Ghanem
-  - Sheikha Dhiab Khalifa Al-Ahmad Al-Jaber Al-Sabah
-  - Sultan Al-Duailij
-  - Nesreen Al-Fadhli
-  - Ali Al-Haifi
-  - Fahd Al-Fadli
-  - Dalal Al-Muthar
-  - Thamer Al-Enezi
-  - Hadi Al-Mutairi
+  - Amal
+  - Mohammed
+  - Marzouq
+  - Sheikha
+  - Sultan
+  - Nesreen
+  - Ali
+  - Fahd
+  - Dalal
+  - Thamer
+  - Hadi
   Voice: ar-XA-Standard-A
   ColorScheme: 1A
+  Costume: flag_kw
   Prompt: {fileID: 4900000, guid: bd682855bbc45b6409f118bcc4162904, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0217547

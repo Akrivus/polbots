@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Costa Rica
   Players:
-  - Francisco Mora
-  - Carlos Alvarado Quesada
-  - Laura Chinchilla
-  - "Oscar Arias S\xE1nchez"
-  - Roxana Duran
-  - Luis Fernando Santos
-  - "Jos\xE9 Mar\xEDa Figueres"
-  - Epsy Campbell Barr
-  - Claudia Dobles
-  - "Rodrigo S\xE1nchez"
-  - Gerardo Vargas Villeda
+  - Francisco
+  - Carlos
+  - Laura
+  - Oscar
+  - Roxana
+  - Luis
+  - "Jos\xE9"
+  - Epsy
+  - Claudia
+  - Rodrigo
+  - Gerardo
   Voice: es-US-Standard-B
   ColorScheme: 1B
+  Costume: flag_cr
   Prompt: {fileID: 4900000, guid: f57ba3e963d9ffa47912b6b23aca6e21, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0430048

@@ -19,19 +19,20 @@ MonoBehaviour:
   - Viet Nam
   - Vietnam
   Players:
-  - "Nguy\u1EC5n Ph\xFA Tr\u1ECDng"
-  - "Nguy\u1EC5n Xu\xE2n Ph\xFAc"
-  - "Ph\u1EA1m Minh Ch\xEDnh"
-  - "\u0110\u1ED7 V\u0103n Chi\u1EBFn"
-  - "Tr\u1EA7n \u0110\u1EA1i Quang"
-  - "Nguy\u1EC5n Th\u1ECB Kim Ng\xE2n"
-  - "Nguy\u1EC5n Thi\u1EC7n Nh\xE2n"
-  - "L\xEA Thanh Li\xEAm"
-  - "Nguy\u1EC5n Ho\xE0 B\xECnh"
-  - "Nguy\u1EC5n V\u0103n Th\u1EC3"
-  - "Nguy\u1EC5n Anh Tu\u1EA5n"
+  - "Nguy\u1EC5n"
+  - "Nguy\u1EC5n"
+  - "Ph\u1EA1m"
+  - "\u0110\u1ED7"
+  - "Tr\u1EA7n"
+  - "Nguy\u1EC5n"
+  - "Nguy\u1EC5n"
+  - "L\xEA"
+  - "Nguy\u1EC5n"
+  - "Nguy\u1EC5n"
+  - "Nguy\u1EC5n"
   Voice: vi-VN-Standard-C
   ColorScheme: 4B
+  Costume: flag_vn
   Prompt: {fileID: 4900000, guid: efef67bf0c4bdeb438d0681519ae9a24, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0025203

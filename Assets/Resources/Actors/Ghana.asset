@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Ghana
   Players:
-  - Nana Akufo-Addo
-  - Kwame Anthony Appiah
-  - Abena Busia
-  - Serwaah Amihere
-  - Yvonne Nelson
-  - Kwame Nkrumah
-  - Nana Addo Dankwa Akufo-Addo
-  - Kofi Annan
-  - Nana Osei Bonsu
-  - Mohammed bin Abdulai
-  - Osei Kyei-Mensah-Bonsu
+  - Nana
+  - Kwame
+  - Abena
+  - Serwaah
+  - Yvonne
+  - Kwame
+  - Nana
+  - Kofi
+  - Nana
+  - Mohammed
+  - Osei
   Voice: en-GB-Standard-C
   ColorScheme: 4C
+  Costume: flag_gh
   Prompt: {fileID: 4900000, guid: 06aa9edb60f8adc4398ab65176ce3d8a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1027749

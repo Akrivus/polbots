@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Norway
   Players:
-  - Erna Solberg
-  - Jens Stoltenberg
-  - Greta Thunberg
-  - "Sissel Kyrkjeb\xF8"
-  - "Jo Nesb\xF8"
-  - Liv Ullmann
-  - Kjell Magne Bondevik
-  - "Marit Bj\xF8rgen"
-  - "Karin S\xF8rg\xE5rd"
-  - "Bj\xF8rn Kjos"
-  - Henning Kvitnes
+  - Erna
+  - Jens
+  - Greta
+  - Sissel
+  - Jo
+  - Liv
+  - Kjell
+  - Marit
+  - Karin
+  - "Bj\xF8rn"
+  - Henning
   Voice: nb-NO-Standard-B
   ColorScheme: 1A
+  Costume: flag_no
   Prompt: {fileID: 4900000, guid: fcf74c437f947854db008389924689e3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0471549

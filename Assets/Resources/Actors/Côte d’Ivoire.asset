@@ -19,19 +19,20 @@ MonoBehaviour:
   - "C\xF4te d\u2019Ivoire"
   - Ivory Coast
   Players:
-  - Alassane Ouattara
-  - Laurent Gbagbo
-  - "Henri Konan B\xE9di\xE9"
-  - "Aminata Traor\xE9"
-  - Wole Soyinka
-  - Kandia Camara
-  - Aissatou Sow Sidibe
-  - Gervais Kouassi
-  - Wangari Maathai
-  - "D\xE9sir\xE9 D. Gnonzi"
-  - "H\xE9l\xE8ne Kassi"
+  - Alassane
+  - Laurent
+  - Henri
+  - Aminata
+  - Wole
+  - Kandia
+  - Aissatou
+  - Gervais
+  - Wangari
+  - "D\xE9sir\xE9"
+  - "H\xE9l\xE8ne"
   Voice: fr-FR-Standard-B
   ColorScheme: 3B
+  Costume: flag_ci
   Prompt: {fileID: 4900000, guid: 8b9408ea2e4d9f34e9a8c768d883057d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.021785

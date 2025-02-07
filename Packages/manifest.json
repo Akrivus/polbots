@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
     "com.hecomi.ulipsync": "https://github.com/hecomi/uLipSync.git#upm",
     "com.openai.unity": "8.5.3",
     "com.unity.addressables": "2.2.2",

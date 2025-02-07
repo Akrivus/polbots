@@ -24,30 +24,34 @@ Shader "PolBol/Flag"
             sampler2D _MainTex;
             sampler2D _MaskTex;
 
+            float4 _MainTex_ST;
+
             struct Attributes
             {
-                float4 positionOS : POSITION;
-                float2 uvMain : TEXCOORD0;
+                float4 pos : POSITION;
+                float2 uv : TEXCOORD0;
             };
 
             struct Varyings
             {
-                float4 positionCS : SV_POSITION;
-                float2 uvMain : TEXCOORD0;
+                float4 pos : SV_POSITION;
+                float2 uv : TEXCOORD0;
+                float2 uv_st : TEXCOORD1;
             };
 
             Varyings vert(Attributes IN)
             {
-                Varyings OUT;
-                OUT.positionCS = TransformObjectToHClip(IN.positionOS.xyz);
-                OUT.uvMain = IN.uvMain;
-                return OUT;
+                Varyings o;
+                o.pos = TransformObjectToHClip(IN.pos.xyz);
+                o.uv = IN.uv;
+                o.uv_st = TRANSFORM_TEX(IN.uv, _MainTex);
+                return o;
             }
 
             half4 frag(Varyings IN) : SV_Target
             {
-                half4 main = tex2D(_MainTex, IN.uvMain);
-                half4 mask = tex2D(_MaskTex, IN.uvMain);
+                half4 main = tex2D(_MainTex, IN.uv_st);
+                half4 mask = tex2D(_MaskTex, IN.uv);
 
                 half alpha = mask.a;
                 half3 color = main.rgb * mask.r;

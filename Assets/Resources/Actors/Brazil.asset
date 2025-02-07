@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Brazil
   Players:
-  - "Luiz In\xE1cio Lula da Silva"
-  - Dilma Rousseff
-  - Jair Bolsonaro
-  - Fernando Henrique Cardoso
-  - Marina Silva
-  - "A\xE9cio Neves"
-  - Walter Casagrande
+  - Luiz
+  - Dilma
+  - Jair
+  - Fernando
+  - Marina
+  - "A\xE9cio"
+  - Walter
   - "Rom\xE1rio"
-  - "S\xE9rgio Moro"
-  - Fernanda Lima
-  - Chico Buarque
+  - "S\xE9rgio"
+  - Fernanda
+  - Chico
   Voice: pt-BR-Standard-B
   ColorScheme: 2B
+  Costume: flag_br
   Prompt: {fileID: 4900000, guid: e2f64c6296ea8284d9cfe1832031780e, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0803893

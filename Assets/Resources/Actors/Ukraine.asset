@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Ukraine
   Players:
-  - Volodymyr Zelenskyy
-  - Yulia Tymoshenko
-  - Petro Poroshenko
-  - Olexandr Tkachenko
-  - Svyatoslav Vakarchuk
-  - Denys Shmyhal
-  - Andriy Shevchenko
-  - Olga Freimut
-  - Iryna Vereshchuk
-  - Serhiy Zhadan
-  - Anastasia Stetsenko
+  - Volodymyr
+  - Yulia
+  - Petro
+  - Olexandr
+  - Svyatoslav
+  - Denys
+  - Andriy
+  - Olga
+  - Iryna
+  - Serhiy
+  - Anastasia
   Voice: uk-UA-Standard-A
   ColorScheme: 1A
+  Costume: flag_ua
   Prompt: {fileID: 4900000, guid: 25561fe02a6229844a3a603cd8cd179f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0950047

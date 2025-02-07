@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Somalia
   Players:
-  - Hassan Sheikh Mohamud
-  - Abdirahman Duale Beyle
-  - Fawzia Yusuf Haji Adam
-  - Amina Mohamed
-  - Shukri Abdi
-  - Yusuf Garaad Omar
-  - Abdiweli Mohamed Ali
-  - Bilan Mohamed
-  - Sahra Halgan
-  - Nuruddin Farah
-  - Asha Hagi Somalis
+  - Hassan
+  - Abdirahman
+  - Fawzia
+  - Amina
+  - Shukri
+  - Yusuf
+  - Abdiweli
+  - Bilan
+  - Sahra
+  - Nuruddin
+  - Asha
   Voice: ar-XA-Standard-C
   ColorScheme: 2C
+  Costume: flag_so
   Prompt: {fileID: 4900000, guid: c63788d766e1ce3408c5dacc8e1b63b1, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0281883

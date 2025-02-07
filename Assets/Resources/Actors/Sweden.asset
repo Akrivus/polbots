@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Sweden
   Players:
-  - Greta Thunberg
-  - "Stefan L\xF6fven"
-  - "Zlatan Ibrahimovi\u0107"
-  - Olof Palme
-  - Maja Lunde
-  - Carl Bildt
-  - Hans Blix
-  - Alice Bah Kuhnke
-  - Noomi Rapace
+  - Greta
+  - Stefan
+  - Zlatan
+  - Olof
+  - Maja
+  - Carl
+  - Hans
+  - Alice
+  - Noomi
   - Avicii
-  - "Karin Nyg\xE5rd"
+  - Karin
   Voice: sv-SE-Standard-E
   ColorScheme: 1A
+  Costume: flag_se
   Prompt: {fileID: 4900000, guid: 95cfe5e0aec878a48be6fef48caa3513, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.029998

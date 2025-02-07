@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Cyprus
   Players:
-  - Nicos Anastasiades
-  - Andreas Mavroyiannis
-  - Christodoulos Kalamatianos
-  - Andros Kyprianou
-  - Karla E. L. Martin
-  - Angelina Panayiotou
-  - Stavros Malas
-  - Diko Papadopoulos
-  - Loukas Fourlas
-  - Irene K. Vasiliou
-  - Demetris Christofias
+  - Nicos
+  - Andreas
+  - Christodoulos
+  - Andros
+  - Karla
+  - Angelina
+  - Stavros
+  - Diko
+  - Loukas
+  - Irene
+  - Demetris
   Voice: he-IL-Standard-A
   ColorScheme: 2B
+  Costume: flag_cy
   Prompt: {fileID: 4900000, guid: 09a71c034336a6f44af8c04412f7a1cd, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0823146

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Tajikistan
   Players:
-  - Emomali Rahmon
-  - Zarif Alizoda
-  - Rustam Emomali
-  - Sirojiddin Aslov
-  - Sultan Rahimzoda
-  - Abdurahmonov Khurshed
-  - Daler Murodov
-  - Shodmonov Sherzod
-  - Nozim Hakimov
-  - Muhammadsharif Gofurov
-  - Nematullo Hikmatulloev
+  - Emomali
+  - Zarif
+  - Rustam
+  - Sirojiddin
+  - Sultan
+  - Abdurahmonov
+  - Daler
+  - Shodmonov
+  - Nozim
+  - Muhammadsharif
+  - Nematullo
   Voice: tr-TR-Standard-D
   ColorScheme: 1B
+  Costume: flag_tj
   Prompt: {fileID: 4900000, guid: 7ce57bfbf6a5e87478212a217e28b504, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1077533

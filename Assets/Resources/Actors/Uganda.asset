@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Uganda
   Players:
-  - Yoweri Museveni
-  - Kirsty Coventry
-  - Bobi Wine
-  - Rebecca Kadaga
-  - Jimmy Akena
-  - Betty Namboze
-  - Erias Lukwago
-  - Mahatma Ghandi
-  - Rukia Nakadama
-  - David Bahati
-  - Moses Kaggwa
+  - Yoweri
+  - Kirsty
+  - Bobi
+  - Rebecca
+  - Jimmy
+  - Betty
+  - Erias
+  - Mahatma
+  - Rukia
+  - David
+  - Moses
   Voice: en-GB-Standard-D
   ColorScheme: 4C
+  Costume: flag_ug
   Prompt: {fileID: 4900000, guid: aa9784910deaa6747ad44f72d2752f59, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0869201

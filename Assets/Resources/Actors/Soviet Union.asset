@@ -20,19 +20,20 @@ MonoBehaviour:
   - USSR
   - Soviet Union
   Players:
-  - Joseph Stalin
-  - Alexei Navalny
-  - Mikhail Gorbachev
-  - Sergei Lavrov
-  - Dmitry Medvedev
-  - Leonid Slutsky
-  - Gennady Zyuganov
-  - Valentina Matviyenko
-  - Garry Kasparov
-  - Vladimir Solovyov
-  - Svetlana Alexievich
+  - Joseph
+  - Alexei
+  - Mikhail
+  - Sergei
+  - Dmitry
+  - Leonid
+  - Gennady
+  - Valentina
+  - Garry
+  - Vladimir
+  - Svetlana
   Voice: ru-RU-Standard-D
   ColorScheme: 1A
+  Costume: flag_su
   Prompt: {fileID: 4900000, guid: c76fd5d06c8124445bc0b328651968f3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.024048

@@ -19,19 +19,20 @@ MonoBehaviour:
   - Democratic Republic of the Congo
   - DRC
   Players:
-  - "\xC9variste Kianza"
-  - "Mo\xEFse Katumbi"
-  - Jean-Pierre Bemba
-  - Antoine Gizenga
-  - Martin Fayulu
-  - Cleopa Kankolongo
-  - Catherine Nakalembe
-  - Augustin Matata Ponyo
-  - Stella Kivungura
-  - "Ch\xE9rubin Okende"
-  - Monique Mukuna
+  - "\xC9variste"
+  - "Mo\xEFse"
+  - Jean-Pierre
+  - Antoine
+  - Martin
+  - Cleopa
+  - Catherine
+  - Augustin
+  - Stella
+  - "Ch\xE9rubin"
+  - Monique
   Voice: fr-FR-Standard-D
   ColorScheme: 2C
+  Costume: flag_cd
   Prompt: {fileID: 4900000, guid: ec95d111dede44f44ae819a22392e89c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0146942

@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Eswatini
   Players:
-  - Amahle Mlangeni
-  - Thulani Msweli
-  - Phumzile Simelane
-  - Matsapha Dlamini
-  - Mduduzi Simelane
-  - Sibusiso Mamba
-  - Nhlanhla Ndzanga
-  - Sibongile Ndlela
-  - Tobeka Shongwe
-  - Vusimuzi Mkhonto
-  - Mfulu Mkhaliphi
+  - Amahle
+  - Thulani
+  - Phumzile
+  - Matsapha
+  - Mduduzi
+  - Sibusiso
+  - Nhlanhla
+  - Sibongile
+  - Tobeka
+  - Vusimuzi
+  - Mfulu
   Voice: en-GB-Standard-D
   ColorScheme: 2C
+  Costume: flag_sz
   Prompt: {fileID: 4900000, guid: 2e8192944ec998f42b1442f369bbd158, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0549803

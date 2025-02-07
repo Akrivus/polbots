@@ -19,19 +19,20 @@ MonoBehaviour:
   - "T\xFCrkiye"
   - Turkey
   Players:
-  - "Recep Tayyip Erdo\u011Fan"
-  - "Kemal K\u0131l\u0131\xE7daro\u011Flu"
-  - "Selahattin Demirta\u015F"
-  - "Ahmet Davuto\u011Flu"
-  - Fahrettin Koca
-  - Orhan Pamuk
-  - "Elif \u015Eafak"
-  - Canan Karatay
-  - "C\xFCneyt Ark\u0131n"
-  - "G\xFCler Sabanc\u0131"
-  - Arif Nihat Asya
+  - Recep
+  - Kemal
+  - Selahattin
+  - Ahmet
+  - Fahrettin
+  - Orhan
+  - Elif
+  - Canan
+  - "C\xFCneyt"
+  - "G\xFCler"
+  - Arif
   Voice: tr-TR-Standard-E
   ColorScheme: 1A
+  Costume: flag_tr
   Prompt: {fileID: 4900000, guid: f6107238d4e15e74fac7efc6e250d594, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0892218

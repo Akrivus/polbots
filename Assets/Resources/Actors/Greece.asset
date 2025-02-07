@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Greece
   Players:
-  - Alexis Tsipras
-  - Kyriakos Mitsotakis
-  - Nikos Kotzias
-  - Giorgos Kaminis
-  - Prokopis Pavlopoulos
-  - Maria Callas
-  - Yannis Varoufakis
-  - Daphne Koller
-  - Marios S. Kafentzis
-  - Constantinos Daskalakis
-  - Dimitris Koutouzis
+  - Alexis
+  - Kyriakos
+  - Nikos
+  - Giorgos
+  - Prokopis
+  - Maria
+  - Yannis
+  - Daphne
+  - Marios
+  - Constantinos
+  - Dimitris
   Voice: el-GR-Standard-A
   ColorScheme: 1A
+  Costume: flag_gr
   Prompt: {fileID: 4900000, guid: aef0dcf5e04f3df4d946e167dc590692, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1071395

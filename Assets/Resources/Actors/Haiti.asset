@@ -18,19 +18,20 @@ MonoBehaviour:
   Aliases:
   - Haiti
   Players:
-  - Michele Pierre-Louis
-  - Laurent Lamothe
-  - "Jean-Henry C\xE9ant"
-  - Garry Pierre-Paul Charles
-  - Edmonde Supplice Beauzile
-  - Ariel Henry
-  - "Dany Laferri\xE8re"
-  - Jimmy Jean-Louis
-  - Paulette Lenvers
-  - Frantz Duval
-  - "Magalie G. K\xE9vin"
+  - Michele
+  - Laurent
+  - Jean-Henry
+  - Garry
+  - Edmonde
+  - Ariel
+  - Dany
+  - Jimmy
+  - Paulette
+  - Frantz
+  - Magalie
   Voice: fr-CA-Standard-D
   ColorScheme: 1C
+  Costume: flag_ht
   Prompt: {fileID: 4900000, guid: 66b5d9a762afecc468211fc14f40b3c3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0233003

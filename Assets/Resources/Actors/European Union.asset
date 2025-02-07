@@ -19,19 +19,20 @@ MonoBehaviour:
   - European Union
   - EU
   Players:
-  - Ursula von der Leyen
-  - Emmanuel Macron
-  - Angela Merkel
-  - Mario Draghi
-  - Mark Rutte
-  - Alexis Tsipras
-  - Sanna Marin
-  - Leo Varadkar
-  - Antonio Costa
-  - Francois Hollande
-  - Jean-Claude Juncker
+  - Ursula
+  - Emmanuel
+  - Angela
+  - Mario
+  - Mark
+  - Alexis
+  - Sanna
+  - Leo
+  - Antonio
+  - Francois
+  - Jean-Claude
   Voice: nl-NL-Standard-C
   ColorScheme: 1A
+  Costume: flag_eu
   Prompt: {fileID: 4900000, guid: 515bc1cf7aebd9e41a9b9830813b968a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0311009

@@ -20,19 +20,20 @@ MonoBehaviour:
   - West Germany
   - Germany (West)
   Players:
-  - Angela Merkel
-  - Olaf Scholz
-  - Frank-Walter Steinmeier
-  - Ursula von der Leyen
-  - Robert Habeck
-  - Annalena Baerbock
-  - Christian Lindner
-  - "S\xFCleyman \xC7elik"
-  - Heiko Maas
-  - "B\xE4rbel Bas"
-  - "Hermann Gr\xF6he"
+  - Angela
+  - Olaf
+  - Frank-Walter
+  - Ursula
+  - Robert
+  - Annalena
+  - Christian
+  - "S\xFCleyman"
+  - Heiko
+  - "B\xE4rbel"
+  - Hermann
   Voice: de-DE-Standard-A
   ColorScheme: 1A
+  Costume: flag_de
   Prompt: {fileID: 4900000, guid: 7e3b51aac87629946af6292719c75062, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1
