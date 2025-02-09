@@ -31,7 +31,7 @@ MonoBehaviour:
   - "Mikl\xF3s"
   Voice: hu-HU-Standard-A
   ColorScheme: 1B
-  Costume: flag_hu
+  Costume: ':flag_hu:'
   Prompt: {fileID: 4900000, guid: 4de009e564f215d41ad5c7483adcd8b3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0339574

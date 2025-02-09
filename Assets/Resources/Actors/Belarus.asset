@@ -31,7 +31,7 @@ MonoBehaviour:
   - Svetlana
   Voice: ru-RU-Standard-B
   ColorScheme: 1B
-  Costume: blag_by
+  Costume: ':blag_by:'
   Prompt: {fileID: 4900000, guid: 97c3c93d640f3af46b9216ea727d1ef8, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0648228

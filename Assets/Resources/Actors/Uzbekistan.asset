@@ -31,7 +31,7 @@ MonoBehaviour:
   - Umida
   Voice: ru-RU-Standard-B
   ColorScheme: 1A
-  Costume: flag_uz
+  Costume: ':flag_uz:'
   Prompt: {fileID: 4900000, guid: 36670fdf36674924a8f7eca5f5c78530, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0642478

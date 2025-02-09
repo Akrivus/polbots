@@ -31,7 +31,7 @@ MonoBehaviour:
   - "L\xF3pez"
   Voice: es-US-Standard-C
   ColorScheme: 4B
-  Costume: flag_mx
+  Costume: ':flag_mx:'
   Prompt: {fileID: 4900000, guid: b4a883aeb54423e459f7019a0010624c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0410018

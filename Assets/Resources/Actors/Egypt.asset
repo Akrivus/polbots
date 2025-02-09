@@ -31,7 +31,7 @@ MonoBehaviour:
   - Mohamed
   Voice: ar-XA-Standard-B
   ColorScheme: 4B
-  Costume: flag_eg
+  Costume: ':flag_eg:'
   Prompt: {fileID: 4900000, guid: 4da706f691cafed4f80ced2cdc7ddccd, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0929008

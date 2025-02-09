@@ -32,7 +32,7 @@ MonoBehaviour:
   - Daniel
   Voice: en-US-Standard-B
   ColorScheme: 2A
-  Costume: flag_fm
+  Costume: ':flag_fm:'
   Prompt: {fileID: 4900000, guid: 280625716d22f9f4ba2e15af2228f627, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1022898

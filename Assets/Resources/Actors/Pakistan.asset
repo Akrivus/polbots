@@ -31,7 +31,7 @@ MonoBehaviour:
   - Sophie
   Voice: pa-IN-Standard-D
   ColorScheme: 1B
-  Costume: flag_pk
+  Costume: ':flag_pk:'
   Prompt: {fileID: 4900000, guid: 57edcac1fe87aa2419a2c4a4a3cf4ea7, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.092817

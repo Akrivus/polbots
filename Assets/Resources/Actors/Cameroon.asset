@@ -31,7 +31,7 @@ MonoBehaviour:
   - Marie-Claire
   Voice: fr-FR-Standard-C
   ColorScheme: 4B
-  Costume: flag_cm
+  Costume: ':flag_cm:'
   Prompt: {fileID: 4900000, guid: 93adb700e3e0aa64b9c93455a4e00b06, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0872196

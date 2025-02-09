@@ -31,7 +31,7 @@ MonoBehaviour:
   - Hanna
   Voice: fi-FI-Standard-A
   ColorScheme: 1A
-  Costume: flag_fi
+  Costume: ':flag_fi:'
   Prompt: {fileID: 4900000, guid: 90fbc0949720c704eb45e03c4f714dfa, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.062979

@@ -18,7 +18,6 @@ public class RedditIntegration : MonoBehaviour
     private TextAsset _prompt;
 
     public List<string> SubReddits = new List<string>();
-    public int PostsPerIdea = 1;
     public float MaxPostAgeInHours = 24;
     public int BatchMax = 20;
     public int BatchLifetimeMax = 2000;
@@ -36,7 +35,6 @@ public class RedditIntegration : MonoBehaviour
     public void Configure(RedditConfigs c)
     {
         SubReddits = c.SubReddits;
-        PostsPerIdea = c.PostsPerIdea;
         MaxPostAgeInHours = c.MaxPostAgeInHours;
         BatchMax = c.BatchMax * c.PostsPerIdea;
         BatchLifetimeMax = c.BatchLifetimeMax;
@@ -73,11 +71,10 @@ public class RedditIntegration : MonoBehaviour
     {
         if (BatchMax == 0 || BatchLifetimeMax == 0)
             return;
-        if (batchLifetimeTotal >= BatchLifetimeMax && !Forced)
-            return;
-        if (DateTime.Now.Subtract(lastBatchTime).TotalMinutes < BatchPeriodInMinutes && !Forced)
-            return;
-        
+        if (!Forced)
+            if (DateTime.Now.Subtract(lastBatchTime).Minutes < BatchPeriodInMinutes || batchLifetimeTotal >= BatchLifetimeMax)
+                return;
+
         var ideas = new List<Idea>();
         for (var _ = i; _ < SubReddits.Count; _++)
         {
@@ -87,21 +84,20 @@ public class RedditIntegration : MonoBehaviour
                     history.Add(post.Value<string>("id"));
                     return post;
                 })
-                .Select((post, i) => new { post, i })
-                .GroupBy(pair => pair.i / PostsPerIdea)
-                .Select(group => group.Select(pair => pair.post).ToList())
-                .Select(group => new Idea(
-                    string.Join("\n", group.Select(post => post.Value<string>("subreddit_name_prefixed") + ": " + post.Value<string>("title"))),
-                    string.Join(", ", group.Select(post => post.Value<string>("author"))),
-                    "r/" + string.Join("+", group.Select(post => post.Value<string>("subreddit_name"))),
-                    string.Join("-", group.Select(post => post.Value<string>("id")))).RePrompt(_prompt)
+                .Select(post => new Idea(
+                        post.Value<string>("title"),
+                        post.Value<string>("selftext"),
+                        post.Value<string>("author"),
+                        post.Value<string>("subreddit_name_prefixed"),
+                        post.Value<string>("id")
+                    ).RePrompt(_prompt)
                 ).ToList());
             if (ideas.Count >= BatchMax)
                 break;
             i = _;
         }
 
-        if (i == SubReddits.Count - 1)
+        if (i >= SubReddits.Count - 1)
             i = 0;
         lastBatchTime = DateTime.Now;
         batchLifetimeTotal += ideas.Count;
@@ -135,7 +131,7 @@ public class RedditIntegration : MonoBehaviour
             batchMax = BatchMax;
 
         return data.SelectTokens("$.data.children[*].data")
-            .OrderByDescending(post => post.Value<long>("created_utc"))
+            .OrderByDescending(post => post.Value<int>("score"))
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !history.Contains(post.Value<string>("id")))
             .Take(batchMax);

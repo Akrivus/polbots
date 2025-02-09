@@ -31,7 +31,7 @@ MonoBehaviour:
   - Margaret
   Voice: en-GB-Standard-B
   ColorScheme: 1A
-  Costume: flag_gb_en
+  Costume: <:flag_gb_en:1337103701252509768>
   Prompt: {fileID: 4900000, guid: 1bf7028425a781a4794df9fe69422445, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0472417

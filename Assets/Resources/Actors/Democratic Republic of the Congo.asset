@@ -32,7 +32,7 @@ MonoBehaviour:
   - Monique
   Voice: fr-FR-Standard-D
   ColorScheme: 2C
-  Costume: flag_cd
+  Costume: ':flag_cd:'
   Prompt: {fileID: 4900000, guid: ec95d111dede44f44ae819a22392e89c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0146942

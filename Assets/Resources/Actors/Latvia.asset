@@ -31,7 +31,7 @@ MonoBehaviour:
   - "M\u0101rti\u0146\u0161"
   Voice: pl-PL-Standard-E
   ColorScheme: 1A
-  Costume: flag_lv
+  Costume: ':flag_lv:'
   Prompt: {fileID: 4900000, guid: c3e6b3e308ec24b4b8cc59423425f81a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.072428

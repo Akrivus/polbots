@@ -31,7 +31,7 @@ MonoBehaviour:
   - Sadiq
   Voice: ar-XA-Standard-B
   ColorScheme: 3B
-  Costume: flag_somaliland
+  Costume: <:flag_somaliland:1337103834580783187>
   Prompt: {fileID: 4900000, guid: f5acaee6dea45c64e8bc56e8894988e4, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0365938

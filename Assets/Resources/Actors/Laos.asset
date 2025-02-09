@@ -32,7 +32,7 @@ MonoBehaviour:
   - Khamphouy
   Voice: vi-VN-Standard-D
   ColorScheme: 2B
-  Costume: flag_la
+  Costume: ':flag_la:'
   Prompt: {fileID: 4900000, guid: 9c08042ba0d1f234fadfc7f566fcaa5c, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0831722

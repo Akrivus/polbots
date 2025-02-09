@@ -32,7 +32,7 @@ MonoBehaviour:
   - Hana
   Voice: de-DE-Standard-D
   ColorScheme: 1A
-  Costume: flag_cz
+  Costume: ':flag_cz:'
   Prompt: {fileID: 4900000, guid: 3fa8e8e30f395c243acd7954a0bb0590, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0574843

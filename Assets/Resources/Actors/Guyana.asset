@@ -31,7 +31,7 @@ MonoBehaviour:
   - Khemraj
   Voice: en-US-Standard-C
   ColorScheme: 2B
-  Costume: flag_gy
+  Costume: ':flag_gy:'
   Prompt: {fileID: 4900000, guid: b7d709882ced9e94098eb96d2487d417, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0914551

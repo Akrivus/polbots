@@ -31,7 +31,7 @@ MonoBehaviour:
   - Boyko
   Voice: bg-BG-Standard-A
   ColorScheme: 4A
-  Costume: flag_bg
+  Costume: ':flag_bg:'
   Prompt: {fileID: 4900000, guid: 4954dd431ba7ef245ad7f0703c625722, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.1091412

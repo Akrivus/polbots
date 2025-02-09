@@ -8,6 +8,7 @@ public class VideoCallUIController : MonoBehaviour
 
     public bool IsVisible => gameObject.activeSelf;
     public bool IsMuted => _muteButton.enabled;
+    public bool IsTalking => _actor.IsTalking;
     public bool IsActive { get; private set; }
 
     private ActorController _actor;

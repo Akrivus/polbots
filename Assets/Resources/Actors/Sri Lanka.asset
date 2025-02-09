@@ -31,7 +31,7 @@ MonoBehaviour:
   - Dilrukshi
   Voice: ta-IN-Standard-B
   ColorScheme: 4B
-  Costume: flag_lk
+  Costume: ':flag_lk:'
   Prompt: {fileID: 4900000, guid: fcaca571ebf5be041837ea294848cbd5, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0719844

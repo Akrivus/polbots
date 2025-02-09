@@ -31,7 +31,7 @@ MonoBehaviour:
   - Ousmane
   Voice: fr-FR-Standard-B
   ColorScheme: 4C
-  Costume: flag_ml
+  Costume: ':flag_ml:'
   Prompt: {fileID: 4900000, guid: f23b5bb4db5f6ad4982fa811f7d39a9a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.073375

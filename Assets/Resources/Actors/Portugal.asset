@@ -31,7 +31,7 @@ MonoBehaviour:
   - Fado
   Voice: pt-PT-Standard-A
   ColorScheme: 4A
-  Costume: flag_pt
+  Costume: ':flag_pt:'
   Prompt: {fileID: 4900000, guid: 0d1c209a9851512459d7f1cadcacfbdf, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0669677

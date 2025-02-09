@@ -31,7 +31,7 @@ MonoBehaviour:
   - "Val\xE9rie"
   Voice: fr-FR-Standard-A
   ColorScheme: 2C
-  Costume: flag_ga
+  Costume: ':flag_ga:'
   Prompt: {fileID: 4900000, guid: b5eb4343645227c4ba6b36432a7873c9, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0722302

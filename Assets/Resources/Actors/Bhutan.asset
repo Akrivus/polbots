@@ -31,7 +31,7 @@ MonoBehaviour:
   - Chimi
   Voice: hi-IN-Standard-B
   ColorScheme: 4B
-  Costume: flag_bt
+  Costume: ':flag_bt:'
   Prompt: {fileID: 4900000, guid: c41a4e43e00caeb42bac652a7fdbde1b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0138414

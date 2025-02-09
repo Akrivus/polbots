@@ -25,6 +25,8 @@ Your job is to generate a **scene setup** that captures the **satirical, exagger
 Here’s a complete list of characters and their pronouns for continuity:
 {1}
 
+List character names exactly as they are spelled, separated only by commas. Do not denote rank or narrative role in the characters list, we already know if they're a mod or not.
+
 ### Input 3: Original Idea
 
 {2}
@@ -39,9 +41,9 @@ Here’s a complete list of characters and their pronouns for continuity:
 
 ---
 
-### **Example Generated Output:**
+### Example Generated Output:
 
-**Characters:** England, France, Germany, Brazil, Argentina, Australia, Qatar, United States, UN  
+**Characters:** England, Argentina, France, Australia, Qatar, United States 
 **Home:** England  
 **Away:** Argentina  
 **Primary Conflict/Goal:** England is **overconfident** because they’re playing at home, but Argentina is **relentlessly reminding them they have a World Cup and England doesn’t**. Australia is betting **insane amounts of money on "something weird happening"**, and Qatar is **randomly inserting itself into the conversation** by claiming that “modern football owes everything” to them.  

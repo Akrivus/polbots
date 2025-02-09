@@ -31,7 +31,7 @@ MonoBehaviour:
   - Dimitri
   Voice: fr-FR-Standard-B
   ColorScheme: 4C
-  Costume: flag_bf
+  Costume: ':flag_bf:'
   Prompt: {fileID: 4900000, guid: 8bd83d32a4d718942819bb25ae4f5c7b, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0518467

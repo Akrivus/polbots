@@ -31,7 +31,7 @@ MonoBehaviour:
   - Julio
   Voice: es-ES-Standard-C
   ColorScheme: 4B
-  Costume: flag_gq
+  Costume: ':flag_gq:'
   Prompt: {fileID: 4900000, guid: 300f61e3577be3c4e89da7ba5942f14a, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0926675

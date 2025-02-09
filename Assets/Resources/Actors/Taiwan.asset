@@ -31,7 +31,7 @@ MonoBehaviour:
   - Huang
   Voice: yue-HK-Standard-C
   ColorScheme: 1B
-  Costume: flag_tw
+  Costume: ':flag_tw:'
   Prompt: {fileID: 4900000, guid: 743e8f168dd2b8248ab390301d9bc382, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1.0244473

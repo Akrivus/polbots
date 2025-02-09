@@ -136,6 +136,19 @@ public static class ActorTeamGenerator
         AssetDatabase.Refresh();
     }
 
+    [MenuItem("Tools/Fix Actor Costumes")]
+    public static void FixActorCostumes()
+    {
+        var actors = Resources.LoadAll<Actor>("Actors");
+        foreach (var actor in actors)
+        {
+            actor.Costume = $":{actor.Costume}:";
+            EditorUtility.SetDirty(actor);
+        }
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
     private static async Task GenerateActorTeam(TextAsset asset, Actor actor)
     {
         if (actor.Players.Length < 11)
