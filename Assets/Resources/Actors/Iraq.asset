@@ -29,6 +29,8 @@ MonoBehaviour:
   - Hanan
   - Kadhim
   - Zaha
+  MapName: Iraq
+  IsLegacy: 0
   Voice: ar-XA-Standard-B
   ColorScheme: 1B
   Costume: ':flag_iq:'

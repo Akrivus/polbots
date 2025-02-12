@@ -12,11 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Palestine
   m_EditorClassIdentifier: 
-  Title: Palestine
+  Title: Palestine (unverified)
   Pronouns: he/him
   Name: Palestine
   Aliases:
   - Palestine
+  - Palestinian Authority
+  - PA
+  - P.A.
+  - Fatah
+  - Gaza
+  - West Bank
   Players:
   - Mahmoud
   - Hanan
@@ -29,6 +35,8 @@ MonoBehaviour:
   - Ahed
   - Muna
   - Yasmeen
+  MapName: Palestine
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 4B
   Costume: ':flag_ps:'

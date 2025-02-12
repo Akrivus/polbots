@@ -29,6 +29,8 @@ MonoBehaviour:
   - Guntars
   - Ilze
   - "M\u0101rti\u0146\u0161"
+  MapName: Latvia
+  IsLegacy: 0
   Voice: pl-PL-Standard-E
   ColorScheme: 1A
   Costume: ':flag_lv:'

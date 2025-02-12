@@ -29,6 +29,8 @@ MonoBehaviour:
   - "Iv\xE1n"
   - "Mar\xEDa"
   - Pablo
+  MapName: Guatemala
+  IsLegacy: 0
   Voice: es-US-Standard-B
   ColorScheme: 2B
   Costume: ':flag_gt:'

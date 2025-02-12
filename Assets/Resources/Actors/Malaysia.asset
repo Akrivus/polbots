@@ -29,6 +29,8 @@ MonoBehaviour:
   - Johan
   - Marina
   - Hadi
+  MapName: Malaysia
+  IsLegacy: 0
   Voice: ms-MY-Standard-A
   ColorScheme: 2B
   Costume: ':flag_my:'

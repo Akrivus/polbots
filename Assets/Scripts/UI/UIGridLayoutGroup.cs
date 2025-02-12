@@ -57,6 +57,9 @@ public class UIGridLayoutGroup : GridLayoutGroup
         {
             cellCountX = m_ConstraintCount;
 
+            if (cellCountX == m_ConstraintCount + 1)
+                cellCountX -= 1;
+
             if (count > cellCountX)
                 cellCountY = count / cellCountX + (count % cellCountX > 0 ? 1 : 0);
         }

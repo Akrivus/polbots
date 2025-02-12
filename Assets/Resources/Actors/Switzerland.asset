@@ -29,6 +29,8 @@ MonoBehaviour:
   - Peter
   - Nicolas
   - Nadia
+  MapName: Switzerland
+  IsLegacy: 0
   Voice: de-DE-Standard-D
   ColorScheme: 1A
   Costume: ':flag_ch:'

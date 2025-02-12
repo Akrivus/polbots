@@ -18,6 +18,7 @@ MonoBehaviour:
   Aliases:
   - Islamic Republic of Iran
   - Iran
+  - Islamic Republic
   Players:
   - Masoud
   - Zarif
@@ -30,6 +31,8 @@ MonoBehaviour:
   - Narges
   - Ali
   - Ali
+  MapName: Iran
+  IsLegacy: 0
   Voice: tr-TR-Standard-B
   ColorScheme: 1B
   Costume: ':flag_ir:'

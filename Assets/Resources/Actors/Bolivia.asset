@@ -30,6 +30,8 @@ MonoBehaviour:
   - Camila
   - Juan
   - Marcelo
+  MapName: Bolivia
+  IsLegacy: 0
   Voice: es-US-Standard-A
   ColorScheme: 4C
   Costume: ':flag_bo:'

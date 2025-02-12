@@ -30,6 +30,8 @@ MonoBehaviour:
   - Sanja
   - Aleksandar
   - Mirza
+  MapName: Bosnia and Herzegovina
+  IsLegacy: 0
   Voice: tr-TR-Standard-E
   ColorScheme: 1B
   Costume: ':flag_ba:'

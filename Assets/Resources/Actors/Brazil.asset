@@ -29,6 +29,8 @@ MonoBehaviour:
   - "S\xE9rgio"
   - Fernanda
   - Chico
+  MapName: Brazil
+  IsLegacy: 0
   Voice: pt-BR-Standard-B
   ColorScheme: 2B
   Costume: ':flag_br:'

@@ -30,6 +30,8 @@ MonoBehaviour:
   - Ewe
   - Eldrin
   - Daniel
+  MapName: Micronesia
+  IsLegacy: 0
   Voice: en-US-Standard-B
   ColorScheme: 2A
   Costume: ':flag_fm:'

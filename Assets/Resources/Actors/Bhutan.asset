@@ -29,6 +29,8 @@ MonoBehaviour:
   - Jigme
   - Tashi
   - Chimi
+  MapName: Bhutan
+  IsLegacy: 0
   Voice: hi-IN-Standard-B
   ColorScheme: 4B
   Costume: ':flag_bt:'

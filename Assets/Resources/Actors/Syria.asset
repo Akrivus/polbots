@@ -16,8 +16,8 @@ MonoBehaviour:
   Pronouns: he/him
   Name: Syria
   Aliases:
-  - Syrian Arab Republic
   - Syria
+  - Syrian Arab Republic
   Players:
   - Ahmed
   - Mohammad
@@ -30,6 +30,8 @@ MonoBehaviour:
   - Abdurrahman
   - Hassan
   - Adnan
+  MapName: 
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 4B
   Costume: <:flag_sy:1337103877413142769>

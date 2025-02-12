@@ -30,6 +30,8 @@ MonoBehaviour:
   - Hj
   - Noraina
   - Liyana
+  MapName: Brunei
+  IsLegacy: 0
   Voice: ms-MY-Standard-B
   ColorScheme: 4A
   Costume: ':flag_bn:'

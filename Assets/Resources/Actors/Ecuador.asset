@@ -29,6 +29,8 @@ MonoBehaviour:
   - Cristina
   - Tatiana
   - "Hern\xE1n"
+  MapName: Ecuador
+  IsLegacy: 0
   Voice: es-US-Standard-A
   ColorScheme: 4B
   Costume: ':flag_ec:'

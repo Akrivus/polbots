@@ -29,6 +29,8 @@ MonoBehaviour:
   - Maya
   - Ivo
   - Boyko
+  MapName: Bulgaria
+  IsLegacy: 0
   Voice: bg-BG-Standard-A
   ColorScheme: 4A
   Costume: ':flag_bg:'

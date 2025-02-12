@@ -29,6 +29,8 @@ MonoBehaviour:
   - Anelisse
   - Carlos
   - Pedro
+  MapName: Panama
+  IsLegacy: 0
   Voice: es-US-Standard-B
   ColorScheme: 1B
   Costume: ':flag_pa:'

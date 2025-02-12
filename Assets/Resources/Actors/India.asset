@@ -29,6 +29,8 @@ MonoBehaviour:
   - Amit
   - Shashi
   - Priya
+  MapName: India
+  IsLegacy: 0
   Voice: en-IN-Standard-C
   ColorScheme: 4B
   Costume: ':flag_in:'

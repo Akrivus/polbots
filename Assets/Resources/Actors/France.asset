@@ -29,6 +29,8 @@ MonoBehaviour:
   - Kylian
   - "\xC9douard"
   - Juliette
+  MapName: France
+  IsLegacy: 0
   Voice: fr-FR-Standard-C
   ColorScheme: 1A
   Costume: ':flag_fr:'

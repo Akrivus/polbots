@@ -29,6 +29,8 @@ MonoBehaviour:
   - John
   - Safi
   - Louise
+  MapName: Rwanda
+  IsLegacy: 0
   Voice: fr-FR-Standard-B
   ColorScheme: 4C
   Costume: ':flag_rw:'

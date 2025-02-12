@@ -29,6 +29,8 @@ MonoBehaviour:
   - Somkid
   - Chuan
   - Prawit
+  MapName: Thailand
+  IsLegacy: 0
   Voice: th-TH-Standard-A
   ColorScheme: 2B
   Costume: ':flag_th:'

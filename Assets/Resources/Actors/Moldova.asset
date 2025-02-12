@@ -30,6 +30,8 @@ MonoBehaviour:
   - Dorin
   - Victor
   - Oleg
+  MapName: Moldova
+  IsLegacy: 0
   Voice: ro-RO-Standard-B
   ColorScheme: 4B
   Costume: ':flag_md:'

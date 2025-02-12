@@ -29,6 +29,8 @@ MonoBehaviour:
   - Phyo
   - Aung
   - Mya
+  MapName: Myanmar
+  IsLegacy: 0
   Voice: bn-IN-Standard-D
   ColorScheme: 4B
   Costume: ':flag_mm:'

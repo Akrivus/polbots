@@ -29,6 +29,8 @@ MonoBehaviour:
   - Serdar
   - Maksudova
   - Arslan
+  MapName: Turkmenistan
+  IsLegacy: 0
   Voice: tr-TR-Standard-C
   ColorScheme: 1B
   Costume: ':flag_tm:'

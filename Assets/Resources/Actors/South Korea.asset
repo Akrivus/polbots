@@ -16,8 +16,10 @@ MonoBehaviour:
   Pronouns: she/her
   Name: South Korea
   Aliases:
-  - Republic of Korea
   - South Korea
+  - Republic of Korea
+  - ROK
+  - R.O.K.
   Players:
   - Moon
   - Park
@@ -30,6 +32,8 @@ MonoBehaviour:
   - Bong
   - Park
   - Jin
+  MapName: South Korea
+  IsLegacy: 0
   Voice: ko-KR-Standard-B
   ColorScheme: 1A
   Costume: ':flag_kr:'

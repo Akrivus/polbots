@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Hamas
   m_EditorClassIdentifier: 
-  Title: Hamas
+  Title: Hamas (unverified)
   Pronouns: he/him
   Name: Hamas
   Aliases:
@@ -29,6 +29,8 @@ MonoBehaviour:
   - Hossam
   - Raziq
   - Mounir
+  MapName: Palestine
+  IsLegacy: 1
   Voice: he-IL-Standard-D
   ColorScheme: 4C
   Costume: <:flag_ps_hm:1337103282442731614>

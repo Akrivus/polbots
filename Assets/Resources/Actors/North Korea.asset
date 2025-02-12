@@ -18,6 +18,8 @@ MonoBehaviour:
   Aliases:
   - Democratic People's Republic of Korea
   - North Korea
+  - DPRK
+  - D.P.R.K.
   Players:
   - Kim
   - Kim
@@ -30,6 +32,8 @@ MonoBehaviour:
   - Hwang
   - O
   - Yang
+  MapName: North Korea
+  IsLegacy: 0
   Voice: ko-KR-Standard-C
   ColorScheme: 1A
   Costume: ':flag_kp:'

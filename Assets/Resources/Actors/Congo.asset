@@ -29,6 +29,8 @@ MonoBehaviour:
   - Sidonie
   - "L\xE9on"
   - Justine
+  MapName: Congo
+  IsLegacy: 0
   Voice: fr-FR-Standard-A
   ColorScheme: 4B
   Costume: ':flag_cg:'

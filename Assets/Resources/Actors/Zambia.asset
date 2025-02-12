@@ -29,6 +29,8 @@ MonoBehaviour:
   - Catherine
   - Bishop
   - Grace
+  MapName: Zambia
+  IsLegacy: 0
   Voice: de-DE-Standard-H
   ColorScheme: 3C
   Costume: ':flag_zm:'

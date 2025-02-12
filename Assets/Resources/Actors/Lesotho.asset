@@ -29,6 +29,8 @@ MonoBehaviour:
   - Khotso
   - Mokhothu
   - '''Manthabiseng'
+  MapName: Lesotho
+  IsLegacy: 0
   Voice: en-GB-Standard-D
   ColorScheme: 2B
   Costume: ':flag_ls:'

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Antarctica
   m_EditorClassIdentifier: 
-  Title: Antarctica
+  Title: Antarctica (unverified)
   Pronouns: they/them
   Name: Antarctica
   Aliases:
@@ -29,6 +29,8 @@ MonoBehaviour:
   - Katharine
   - Al
   - Wangari
+  MapName: Antarctica
+  IsLegacy: 1
   Voice: en-US-Standard-H
   ColorScheme: 2A
   Costume: <1337103166302457958>

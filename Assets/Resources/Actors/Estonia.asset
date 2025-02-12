@@ -29,6 +29,8 @@ MonoBehaviour:
   - Ivari
   - Hennadi
   - Rein
+  MapName: Estonia
+  IsLegacy: 0
   Voice: fi-FI-Standard-A
   ColorScheme: 2A
   Costume: ':flag_ee:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Antonio
   - Mario
   - Enrico
+  MapName: Italy
+  IsLegacy: 0
   Voice: it-IT-Standard-D
   ColorScheme: 1A
   Costume: ':flag_it:'

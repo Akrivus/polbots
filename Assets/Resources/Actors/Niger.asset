@@ -29,6 +29,8 @@ MonoBehaviour:
   - Moussa
   - Hadia
   - Mahamadou
+  MapName: Niger
+  IsLegacy: 0
   Voice: fr-FR-Standard-B
   ColorScheme: 4A
   Costume: ':flag_ne:'

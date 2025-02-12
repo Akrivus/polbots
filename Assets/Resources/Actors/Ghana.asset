@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nana
   - Mohammed
   - Osei
+  MapName: Ghana
+  IsLegacy: 0
   Voice: en-GB-Standard-C
   ColorScheme: 4C
   Costume: ':flag_gh:'

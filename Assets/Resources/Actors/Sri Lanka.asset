@@ -29,6 +29,8 @@ MonoBehaviour:
   - Hakeem
   - Mahatma
   - Dilrukshi
+  MapName: Sri Lanka
+  IsLegacy: 0
   Voice: ta-IN-Standard-B
   ColorScheme: 4B
   Costume: ':flag_lk:'

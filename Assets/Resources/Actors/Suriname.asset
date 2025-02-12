@@ -29,6 +29,8 @@ MonoBehaviour:
   - Edwin
   - Marlon
   - Rogier
+  MapName: Suriname
+  IsLegacy: 0
   Voice: nl-NL-Standard-C
   ColorScheme: 4B
   Costume: ':flag_sr:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Rubina
   - Aminata
   - Osman
+  MapName: Sudan
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 2B
   Costume: ':flag_sd:'

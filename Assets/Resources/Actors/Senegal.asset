@@ -29,6 +29,8 @@ MonoBehaviour:
   - Ousmane
   - Fatou
   - Sicile
+  MapName: Senegal
+  IsLegacy: 0
   Voice: fr-FR-Standard-B
   ColorScheme: 4B
   Costume: ':flag_sn:'

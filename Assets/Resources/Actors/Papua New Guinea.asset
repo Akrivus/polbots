@@ -29,6 +29,8 @@ MonoBehaviour:
   - Josephine
   - Allan
   - Louise
+  MapName: Papua New Guinea
+  IsLegacy: 0
   Voice: en-AU-Standard-C
   ColorScheme: 2C
   Costume: ':flag_pg:'

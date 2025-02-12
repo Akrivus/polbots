@@ -29,6 +29,8 @@ MonoBehaviour:
   - Noomi
   - Avicii
   - Karin
+  MapName: Sweden
+  IsLegacy: 0
   Voice: sv-SE-Standard-E
   ColorScheme: 1A
   Costume: ':flag_se:'

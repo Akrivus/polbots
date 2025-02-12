@@ -12,16 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: ISIS
   m_EditorClassIdentifier: 
-  Title: Islamic State of Iraq and Syria
+  Title: Islamic State of Iraq and Syria (unverified)
   Pronouns: he/him
   Name: ISIS
   Aliases:
   - Daesh
   - Islamic State
   - ISIS
+  - I.S.I.S.
   - ISIL
-  - Al-Shaab
+  - I.S.I.L.
+  - Al-Shabaab
   - Al-Qaeda
+  - Islamic Jihad
   Players:
   - Osama
   - Ayman
@@ -34,6 +37,8 @@ MonoBehaviour:
   - Abu
   - Muhammad
   - Abu
+  MapName: Iraq
+  IsLegacy: 1
   Voice: en-GB-Standard-D
   ColorScheme: 2B
   Costume: <:flag_isis:1337103196828467241>

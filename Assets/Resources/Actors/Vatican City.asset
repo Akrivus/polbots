@@ -16,8 +16,8 @@ MonoBehaviour:
   Pronouns: he/him
   Name: Vatican City
   Aliases:
-  - Holy See
   - Vatican City
+  - Holy See
   Players:
   - Francis
   - Pietro
@@ -30,6 +30,8 @@ MonoBehaviour:
   - Marc
   - Giovanni
   - Vincent
+  MapName: Vatican City
+  IsLegacy: 0
   Voice: it-IT-Standard-D
   ColorScheme: 4A
   Costume: ':flag_va:'

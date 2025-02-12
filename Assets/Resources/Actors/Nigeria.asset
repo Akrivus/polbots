@@ -29,6 +29,8 @@ MonoBehaviour:
   - Folorunsho
   - Abubakar
   - Africa
+  MapName: Nigeria
+  IsLegacy: 0
   Voice: en-GB-Standard-D
   ColorScheme: 1C
   Costume: ':flag_ng:'

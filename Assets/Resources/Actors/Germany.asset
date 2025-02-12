@@ -12,13 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Germany
   m_EditorClassIdentifier: 
-  Title: Federal Republic of Germany
+  Title: Germany
   Pronouns: she/her
   Name: Germany
   Aliases:
   - Germany
   - West Germany
   - Germany (West)
+  - FRD
+  - F.R.D.
   Players:
   - Angela
   - Olaf
@@ -31,6 +33,8 @@ MonoBehaviour:
   - Heiko
   - "B\xE4rbel"
   - Hermann
+  MapName: Germany
+  IsLegacy: 0
   Voice: de-DE-Standard-A
   ColorScheme: 1A
   Costume: ':flag_de:'

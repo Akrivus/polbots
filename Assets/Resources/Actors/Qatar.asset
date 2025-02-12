@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nasser
   - Alia
   - Ali
+  MapName: Qatar
+  IsLegacy: 0
   Voice: ar-XA-Standard-B
   ColorScheme: 1B
   Costume: ':flag_qa:'

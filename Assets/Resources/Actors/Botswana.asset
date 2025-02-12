@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nehemiah
   - Motlalentwa
   - Botswana
+  MapName: Botswana
+  IsLegacy: 0
   Voice: en-GB-Standard-F
   ColorScheme: 2B
   Costume: ':flag_bw:'

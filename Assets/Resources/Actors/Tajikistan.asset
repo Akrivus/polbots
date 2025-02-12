@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nozim
   - Muhammadsharif
   - Nematullo
+  MapName: Tajikistan
+  IsLegacy: 0
   Voice: tr-TR-Standard-D
   ColorScheme: 1B
   Costume: ':flag_tj:'

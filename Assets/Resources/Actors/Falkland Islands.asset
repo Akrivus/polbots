@@ -30,6 +30,8 @@ MonoBehaviour:
   - Diana
   - Richard
   - Emma
+  MapName: Falkland Islands
+  IsLegacy: 0
   Voice: en-GB-Standard-F
   ColorScheme: 1A
   Costume: ':flag_fk:'

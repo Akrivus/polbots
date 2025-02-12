@@ -29,6 +29,8 @@ MonoBehaviour:
   - "L\xEDdia"
   - "S\xE9rgio"
   - Carlos
+  MapName: Mozambique
+  IsLegacy: 0
   Voice: pt-PT-Standard-C
   ColorScheme: 4B
   Costume: ':flag_mz:'

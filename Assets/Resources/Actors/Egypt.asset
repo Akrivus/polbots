@@ -29,6 +29,8 @@ MonoBehaviour:
   - Youssra
   - Sherif
   - Mohamed
+  MapName: Egypt
+  IsLegacy: 0
   Voice: ar-XA-Standard-B
   ColorScheme: 4B
   Costume: ':flag_eg:'

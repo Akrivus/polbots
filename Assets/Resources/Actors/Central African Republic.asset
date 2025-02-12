@@ -18,6 +18,7 @@ MonoBehaviour:
   Aliases:
   - Central African Republic
   - CAR
+  - C.A.R.
   Players:
   - Faustin-Archange
   - Catherine
@@ -30,6 +31,8 @@ MonoBehaviour:
   - "M\xE9lanie"
   - Jean-Paul
   - David
+  MapName: Central African Republic
+  IsLegacy: 0
   Voice: fr-FR-Standard-B
   ColorScheme: 1B
   Costume: ':flag_cf:'

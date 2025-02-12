@@ -18,6 +18,7 @@ MonoBehaviour:
   Aliases:
   - United Arab Emirates
   - UAE
+  - U.A.E.
   Players:
   - Mohammed
   - Mohamed
@@ -30,6 +31,8 @@ MonoBehaviour:
   - Badr
   - Fatima
   - Thani
+  MapName: United Arab Emirates
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 1A
   Costume: ':flag_ae:'

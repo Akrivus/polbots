@@ -29,6 +29,8 @@ MonoBehaviour:
   - Narantsogt
   - Oyun-Erdene
   - Naranbaatar
+  MapName: Mongolia
+  IsLegacy: 0
   Voice: yue-HK-Standard-D
   ColorScheme: 1B
   Costume: ':flag_mn:'

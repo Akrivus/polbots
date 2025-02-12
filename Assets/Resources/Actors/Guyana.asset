@@ -29,6 +29,8 @@ MonoBehaviour:
   - Grace
   - Janette
   - Khemraj
+  MapName: Guyana
+  IsLegacy: 0
   Voice: en-US-Standard-C
   ColorScheme: 2B
   Costume: ':flag_gy:'

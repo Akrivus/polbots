@@ -29,6 +29,8 @@ MonoBehaviour:
   - Hanan
   - Mohamed
   - Ibrahim
+  MapName: Libya
+  IsLegacy: 0
   Voice: it-IT-Standard-B
   ColorScheme: 4B
   Costume: ':flag_ly:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nadia
   - Patricia
   - Darell
+  MapName: Belize
+  IsLegacy: 0
   Voice: en-US-Standard-B
   ColorScheme: 2B
   Costume: ':flag_bz:'

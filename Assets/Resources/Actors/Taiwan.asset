@@ -17,6 +17,8 @@ MonoBehaviour:
   Name: Taiwan
   Aliases:
   - Taiwan
+  - ROC
+  - R.O.C.
   Players:
   - Tsai
   - William
@@ -29,6 +31,8 @@ MonoBehaviour:
   - Ko
   - Lai
   - Huang
+  MapName: Taiwan
+  IsLegacy: 0
   Voice: yue-HK-Standard-C
   ColorScheme: 1B
   Costume: ':flag_tw:'

@@ -21,6 +21,8 @@ MonoBehaviour:
   - United States
   - US
   - USA
+  - U.S.
+  - U.S.A.
   Players:
   - Donald
   - JD
@@ -33,6 +35,8 @@ MonoBehaviour:
   - Kamala
   - Lloyd
   - Mark
+  MapName: United States
+  IsLegacy: 0
   Voice: en-US-Standard-J
   ColorScheme: 1A
   Costume: ':flag_us:'

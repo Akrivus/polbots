@@ -29,6 +29,8 @@ MonoBehaviour:
   - Montserrat
   - "Rosal\xEDa"
   - Javier
+  MapName: Spain
+  IsLegacy: 0
   Voice: es-ES-Standard-B
   ColorScheme: 4B
   Costume: ':flag_es:'

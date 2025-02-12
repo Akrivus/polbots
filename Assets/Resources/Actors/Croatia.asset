@@ -29,6 +29,8 @@ MonoBehaviour:
   - Rade
   - Mira
   - Goran
+  MapName: Croatia
+  IsLegacy: 0
   Voice: sr-RS-Standard-A
   ColorScheme: 1B
   Costume: ':flag_hr:'

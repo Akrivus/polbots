@@ -16,8 +16,8 @@ MonoBehaviour:
   Pronouns: she/her
   Name: Vietnam
   Aliases:
-  - Viet Nam
   - Vietnam
+  - Viet Nam
   Players:
   - "Nguy\u1EC5n"
   - "Nguy\u1EC5n"
@@ -30,6 +30,8 @@ MonoBehaviour:
   - "Nguy\u1EC5n"
   - "Nguy\u1EC5n"
   - "Nguy\u1EC5n"
+  MapName: Vietnam
+  IsLegacy: 0
   Voice: vi-VN-Standard-C
   ColorScheme: 4B
   Costume: ':flag_vn:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Khadra
   - Faisal
   - Sadiq
+  MapName: Somalia
+  IsLegacy: 1
   Voice: ar-XA-Standard-B
   ColorScheme: 3B
   Costume: <:flag_somaliland:1337103834580783187>

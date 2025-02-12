@@ -29,6 +29,8 @@ MonoBehaviour:
   - Vasilika
   - Ana
   - Cindy
+  MapName: Albania
+  IsLegacy: 0
   Voice: he-IL-Standard-A
   ColorScheme: 1A
   Costume: ':flag_al:'

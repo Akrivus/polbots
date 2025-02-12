@@ -29,6 +29,8 @@ MonoBehaviour:
   - Shirley-Anne
   - Patrick
   - Katherine
+  MapName: United Kingdom
+  IsLegacy: 1
   Voice: en-GB-Standard-C
   ColorScheme: 1B
   Costume: <:flag_gb_scotland:1337103768562565252>

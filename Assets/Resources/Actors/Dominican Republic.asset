@@ -30,6 +30,8 @@ MonoBehaviour:
   - Emma
   - "Mar\xEDa"
   - Milagros
+  MapName: Dominican Republic
+  IsLegacy: 0
   Voice: es-ES-Standard-A
   ColorScheme: 1B
   Costume: ':flag_do:'

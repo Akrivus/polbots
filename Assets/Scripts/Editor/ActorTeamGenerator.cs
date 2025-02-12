@@ -10,6 +10,22 @@ using Utilities.WebRequestRest;
 
 public static class ActorTeamGenerator
 {
+    [MenuItem("Tools/Transfer Map Names")]
+    public static void TransferMapNames()
+    {
+        var actors = Resources.LoadAll<Actor>("Actors");
+        foreach (var actor in actors)
+        {
+            if (actor.Costume.StartsWith(":"))
+                actor.MapName = actor.Name;
+            else
+                actor.IsLegacy = true;
+            EditorUtility.SetDirty(actor);
+        }
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
     [MenuItem("Tools/Generate Character Spreadsheet")]
     public static async void GenerateActorSpreadsheet()
     {
@@ -154,7 +170,7 @@ public static class ActorTeamGenerator
         if (actor.Players.Length < 11)
         {
             var prompt = asset.Format(actor.Title);
-            var output = await OpenAiIntegration.CompleteAsync(prompt, true);
+            var output = await LLM.CompleteAsync(prompt, true);
 
             var start = output.IndexOf("```") + 3;
             if (start > 2)
@@ -184,7 +200,7 @@ public static class ActorTeamGenerator
         try
         {
             var metaprompt = asset.Format(actor.Name, actor.Pronouns, actor.Prompt.text);
-            var prompt = await OpenAiIntegration.CompleteAsync(metaprompt, false);
+            var prompt = await LLM.CompleteAsync(metaprompt, false);
 
             prompt = prompt.Replace("```", string.Empty).Trim();
 
@@ -193,7 +209,7 @@ public static class ActorTeamGenerator
 
             try
             {
-                var request = await OpenAiIntegration.API.ImagesEndPoint.GenerateImageAsync(
+                var request = await LLM.API.ImagesEndPoint.GenerateImageAsync(
                     new OpenAI.Images.ImageGenerationRequest(prompt, model: "dall-e-3", size: "1792x1024"));
                 var image = request.First();
 
@@ -243,28 +259,34 @@ public static class ActorTeamGenerator
 
     private static Color GenerateColor1(Color[] colors)
     {
-        var sortedColors = SortColors(colors);
-        return sortedColors[0];
+        colors = SortColors(colors);
+        if (colors.Length < 1)
+            return Color.black;
+        return colors[0];
     }
 
     private static Color GenerateColor2(Color[] colors)
     {
+        colors = SortColors(colors);
+        if (colors.Length < 2)
+            return GenerateColor1(colors);
         var i = Mathf.Min(1, colors.Length - 1);
-        var sortedColors = SortColors(colors);
-        return sortedColors[i];
+        return colors[i];
     }
 
     private static Color GenerateColor3(Color[] colors)
     {
+        colors = SortColors(colors);
+        if (colors.Length < 3)
+            return GenerateColor2(colors);
         var i = Mathf.Min(2, colors.Length - 1);
-        var sortedColors = SortColors(colors);
-        return sortedColors[i];
+        return colors[i];
     }
 
     private static async Task GenerateActorPrompt(TextAsset asset, Actor actor, string note)
     {
         var prompt = asset.Format(actor.Title, actor.Pronouns, note);
-        var output = await OpenAiIntegration.CompleteAsync(prompt, false);
+        var output = await LLM.CompleteAsync(prompt, false);
 
         output = output.Replace("```", string.Empty).Trim();
 
@@ -274,7 +296,7 @@ public static class ActorTeamGenerator
     private static async Task GenerateActorColorScheme(TextAsset asset, Actor actor)
     {
         var prompt = asset.Format(actor.Name);
-        var output = await OpenAiIntegration.CompleteAsync(prompt, true);
+        var output = await LLM.CompleteAsync(prompt, true);
 
         actor.ColorScheme = output.Find("Color Scheme");
         EditorUtility.SetDirty(actor);

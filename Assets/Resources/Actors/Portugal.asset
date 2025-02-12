@@ -29,6 +29,8 @@ MonoBehaviour:
   - Catarina
   - Nuno
   - Fado
+  MapName: Portugal
+  IsLegacy: 0
   Voice: pt-PT-Standard-A
   ColorScheme: 4A
   Costume: ':flag_pt:'

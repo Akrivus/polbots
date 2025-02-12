@@ -29,6 +29,8 @@ MonoBehaviour:
   - Colombian
   - "C\xE9sar"
   - Nairo
+  MapName: Colombia
+  IsLegacy: 0
   Voice: es-US-Standard-A
   ColorScheme: 4B
   Costume: ':flag_co:'

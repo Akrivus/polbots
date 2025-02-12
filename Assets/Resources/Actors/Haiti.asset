@@ -29,6 +29,8 @@ MonoBehaviour:
   - Paulette
   - Frantz
   - Magalie
+  MapName: Haiti
+  IsLegacy: 0
   Voice: fr-CA-Standard-D
   ColorScheme: 1C
   Costume: ':flag_ht:'

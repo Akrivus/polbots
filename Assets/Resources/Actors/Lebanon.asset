@@ -29,6 +29,8 @@ MonoBehaviour:
   - Fouad
   - Najib
   - Toufic
+  MapName: Lebanon
+  IsLegacy: 0
   Voice: he-IL-Standard-C
   ColorScheme: 4B
   Costume: ':flag_lb:'

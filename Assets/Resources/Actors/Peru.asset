@@ -29,6 +29,8 @@ MonoBehaviour:
   - Urpi
   - Julio
   - Gabriela
+  MapName: Peru
+  IsLegacy: 0
   Voice: es-US-Standard-C
   ColorScheme: 4B
   Costume: ':flag_pe:'

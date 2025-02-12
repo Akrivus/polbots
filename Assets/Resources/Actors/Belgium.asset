@@ -29,6 +29,8 @@ MonoBehaviour:
   - Jean-Claude
   - Maxime
   - Fleur
+  MapName: Belgium
+  IsLegacy: 0
   Voice: nl-BE-Standard-B
   ColorScheme: 4B
   Costume: ':flag_be:'

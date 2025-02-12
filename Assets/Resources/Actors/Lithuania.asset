@@ -29,6 +29,8 @@ MonoBehaviour:
   - "R\u016Bta"
   - Jonas
   - Dainius
+  MapName: Lithuania
+  IsLegacy: 0
   Voice: pl-PL-Standard-D
   ColorScheme: 1A
   Costume: ':flag_lt:'

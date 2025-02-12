@@ -29,6 +29,8 @@ MonoBehaviour:
   - Abdelkarim
   - Mourad
   - Najet
+  MapName: Tunisia
+  IsLegacy: 0
   Voice: ar-XA-Standard-B
   ColorScheme: 4B
   Costume: ':flag_tn:'

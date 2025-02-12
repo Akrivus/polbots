@@ -16,8 +16,8 @@ MonoBehaviour:
   Pronouns: he/him
   Name: Tanzania
   Aliases:
-  - United Republic of Tanzania
   - Tanzania
+  - United Republic of Tanzania
   Players:
   - Samia
   - John
@@ -30,6 +30,8 @@ MonoBehaviour:
   - Fatma
   - Stephen
   - David
+  MapName: Tanzania
+  IsLegacy: 0
   Voice: pt-PT-Standard-C
   ColorScheme: 2B
   Costume: ':flag_tz:'

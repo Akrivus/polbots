@@ -29,6 +29,8 @@ MonoBehaviour:
   - Marlene
   - P.J.
   - Usain
+  MapName: Jamaica
+  IsLegacy: 0
   Voice: fr-CA-Wavenet-D
   ColorScheme: 4B
   Costume: ':flag_jm:'

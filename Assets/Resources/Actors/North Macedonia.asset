@@ -29,6 +29,8 @@ MonoBehaviour:
   - Simona
   - Aleksandar
   - Snezana
+  MapName: North Macedonia
+  IsLegacy: 0
   Voice: bg-BG-Standard-A
   ColorScheme: 4B
   Costume: ':flag_mk:'

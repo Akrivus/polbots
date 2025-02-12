@@ -30,6 +30,8 @@ MonoBehaviour:
   - Liz
   - Barack
   - Jerry
+  MapName: United States
+  IsLegacy: 1
   Voice: en-US-Standard-H
   ColorScheme: 1A
   Costume: <:flag_us_ca:1337103661163352107>

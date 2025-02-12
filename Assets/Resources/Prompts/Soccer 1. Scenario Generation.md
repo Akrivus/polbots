@@ -33,7 +33,7 @@ List character names exactly as they are spelled, separated only by commas. Do n
 
 ## Output Requirements
 
-1. **Characters**: Select **3 to 9** characters, prioritizing those explicitly mentioned while adding others to **escalate the chaos**. Ensure at least one mod (Security Council) is present.
+1. **Characters**: Select **2 to 4** characters, prioritizing those explicitly mentioned while adding others to **escalate the chaos**. Ensure at least one mod (Security Council) is present.
 2. **Conflict/Goal**: Describe the **main argument or comedic tension** in this match—whether it's bad ref calls, historical football trauma, or Australia trying to place illegal bets.
 3. **Relevant Events**: Include any **running gags, geopolitical tensions, or ridiculous past incidents** that should shape the scene.
 4. **Implications**: Highlight how this match is **fuel for the next argument**, whether it’s a diplomatic crisis over a missed penalty or someone **declaring football "rigged"** and demanding a VAR investigation.

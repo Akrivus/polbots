@@ -29,6 +29,8 @@ MonoBehaviour:
   - "M\xE9lanie"
   - Moussa
   - Dimitri
+  MapName: Burkina Faso
+  IsLegacy: 0
   Voice: fr-FR-Standard-B
   ColorScheme: 4C
   Costume: ':flag_bf:'

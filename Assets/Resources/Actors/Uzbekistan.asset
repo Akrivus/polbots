@@ -29,6 +29,8 @@ MonoBehaviour:
   - Murod
   - Shahnoza
   - Umida
+  MapName: Uzbekistan
+  IsLegacy: 0
   Voice: ru-RU-Standard-B
   ColorScheme: 1A
   Costume: ':flag_uz:'

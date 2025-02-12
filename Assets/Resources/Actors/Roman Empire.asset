@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Roman Empire
   m_EditorClassIdentifier: 
-  Title: Senatus Populusque Romanus
+  Title: Senatus Populusque Romanus (unverified)
   Pronouns: he/him
   Name: Roman Empire
   Aliases:
@@ -20,6 +20,7 @@ MonoBehaviour:
   - Roman Empire
   - Rome
   - SPQR
+  - S.P.Q.R.
   Players:
   - Julius
   - Augustus
@@ -32,6 +33,8 @@ MonoBehaviour:
   - Constantine
   - Scipio
   - Lucius
+  MapName: Italy
+  IsLegacy: 1
   Voice: it-IT-Standard-D
   ColorScheme: 1A
   Costume: <:flag_spqr:1337103926180188281>

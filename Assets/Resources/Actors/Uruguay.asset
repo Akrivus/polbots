@@ -29,6 +29,8 @@ MonoBehaviour:
   - "Mar\xEDa"
   - "Fabi\xE1n"
   - Jorge
+  MapName: Uruguay
+  IsLegacy: 0
   Voice: pt-BR-Standard-B
   ColorScheme: 1B
   Costume: ':flag_uy:'

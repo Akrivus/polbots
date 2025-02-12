@@ -1,0 +1,3 @@
+You are generating the **first skit** in a soccer match for _polbots_, a geopolitical satire where countries interact as characters. This match serves as a **narrative digestif**, bringing together up to **four key characters** to reflect on the latest global events in a competitive setting.
+
+Using the **context from previous episodes**, set up a **humorous, character-driven opening scene** that establishes the stakes of the match—whether it’s a friendly rivalry, a grudge match, or a symbolic showdown. Keep the dialogue **personal, reactive, and lore-driven**, ensuring it feels like a natural evolution of recent events rather than an isolated gag. The match should be an **excuse for conversation**, where players and spectators weave in commentary about ongoing dynamics.

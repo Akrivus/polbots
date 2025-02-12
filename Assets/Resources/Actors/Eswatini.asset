@@ -29,6 +29,8 @@ MonoBehaviour:
   - Tobeka
   - Vusimuzi
   - Mfulu
+  MapName: Eswatini
+  IsLegacy: 0
   Voice: en-GB-Standard-D
   ColorScheme: 2C
   Costume: ':flag_sz:'

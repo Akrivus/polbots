@@ -18,7 +18,9 @@ MonoBehaviour:
   Aliases:
   - United Nations
   - UN
+  - U.N.
   - UN Official
+  - U.N. Official
   Players:
   - Antonio
   - Michelle
@@ -31,6 +33,8 @@ MonoBehaviour:
   - Kristalina
   - Malala
   - Greta
+  MapName: United States
+  IsLegacy: 0
   Voice: en-US-Standard-D
   ColorScheme: 1A
   Costume: ':flag_un:'

@@ -30,6 +30,8 @@ MonoBehaviour:
   - "C\xFCneyt"
   - "G\xFCler"
   - Arif
+  MapName: Turkey
+  IsLegacy: 0
   Voice: tr-TR-Standard-E
   ColorScheme: 1A
   Costume: ':flag_tr:'

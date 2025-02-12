@@ -29,6 +29,8 @@ MonoBehaviour:
   - Tiemoko
   - "Traor\xE9"
   - Ousmane
+  MapName: Mali
+  IsLegacy: 0
   Voice: fr-FR-Standard-B
   ColorScheme: 4C
   Costume: ':flag_ml:'

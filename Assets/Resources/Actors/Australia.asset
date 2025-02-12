@@ -29,6 +29,8 @@ MonoBehaviour:
   - Bert
   - Adam
   - Shane
+  MapName: Australia
+  IsLegacy: 0
   Voice: en-AU-Standard-D
   ColorScheme: 2A
   Costume: ':flag_au:'

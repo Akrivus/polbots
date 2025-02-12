@@ -29,6 +29,8 @@ MonoBehaviour:
   - Lydia
   - Sibongile
   - Obert
+  MapName: Zimbabwe
+  IsLegacy: 0
   Voice: en-GB-Standard-D
   ColorScheme: 4C
   Costume: ':flag_zw:'

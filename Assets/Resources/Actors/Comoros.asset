@@ -29,6 +29,8 @@ MonoBehaviour:
   - Salami
   - "Sa\xEFd"
   - Youssouf
+  MapName: Comoros
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 2B
   Costume: ':flag_km:'

@@ -18,6 +18,7 @@ MonoBehaviour:
   Aliases:
   - Democratic Republic of the Congo
   - DRC
+  - D.R.C.
   Players:
   - "\xC9variste"
   - "Mo\xEFse"
@@ -30,6 +31,8 @@ MonoBehaviour:
   - Stella
   - "Ch\xE9rubin"
   - Monique
+  MapName: Democratic Republic of the Congo
+  IsLegacy: 0
   Voice: fr-FR-Standard-D
   ColorScheme: 2C
   Costume: ':flag_cd:'

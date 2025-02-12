@@ -29,6 +29,8 @@ MonoBehaviour:
   - Salman
   - Ahsan
   - Jaya
+  MapName: Bangladesh
+  IsLegacy: 0
   Voice: bn-IN-Standard-B
   ColorScheme: 4B
   Costume: ':flag_bd:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Ng
   - Chan
   - Teo
+  MapName: Singapore
+  IsLegacy: 0
   Voice: ms-MY-Standard-B
   ColorScheme: 1A
   Costume: ':flag_sg:'

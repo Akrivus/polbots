@@ -29,6 +29,8 @@ MonoBehaviour:
   - Eneko
   - "Benjam\xEDn"
   - Julio
+  MapName: Equatorial Guinea
+  IsLegacy: 0
   Voice: es-ES-Standard-C
   ColorScheme: 4B
   Costume: ':flag_gq:'

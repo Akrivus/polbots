@@ -29,6 +29,8 @@ MonoBehaviour:
   - Leonardo
   - Carlos
   - Ana
+  MapName: El Salvador
+  IsLegacy: 0
   Voice: es-US-Standard-C
   ColorScheme: 2B
   Costume: ':flag_sv:'

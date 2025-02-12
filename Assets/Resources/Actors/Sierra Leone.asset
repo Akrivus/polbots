@@ -29,6 +29,8 @@ MonoBehaviour:
   - Abdulai
   - Leymah
   - Dr.
+  MapName: Sierra Leone
+  IsLegacy: 0
   Voice: en-GB-Standard-C
   ColorScheme: 1C
   Costume: ':flag_sl:'

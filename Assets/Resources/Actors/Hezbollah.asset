@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Hezbollah
   m_EditorClassIdentifier: 
-  Title: Hezbollah
+  Title: Hezbollah (unverified)
   Pronouns: he/him
   Name: Hezbollah
   Aliases:
@@ -29,6 +29,8 @@ MonoBehaviour:
   - Jamal
   - Fadya
   - Ziad
+  MapName: Lebanon
+  IsLegacy: 1
   Voice: ar-XA-Standard-B
   ColorScheme: 4B
   Costume: <:flag_lb_ha:1337103313455550484>

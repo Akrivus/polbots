@@ -17,6 +17,8 @@ MonoBehaviour:
   Name: China
   Aliases:
   - China
+  - PRC
+  - P.R.C.
   Players:
   - Xi
   - Li
@@ -29,6 +31,8 @@ MonoBehaviour:
   - Zhong
   - Hu
   - Liu
+  MapName: China
+  IsLegacy: 0
   Voice: cmn-CN-Standard-B
   ColorScheme: 1A
   Costume: ':flag_cn:'

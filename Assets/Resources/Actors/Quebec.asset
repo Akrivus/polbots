@@ -29,6 +29,8 @@ MonoBehaviour:
   - "Genevi\xE8ve"
   - Marc
   - "M\xE9lanie"
+  MapName: Canada
+  IsLegacy: 1
   Voice: fr-CA-Standard-A
   ColorScheme: 1A
   Costume: <:flag_ca_qc:1337103643563786302>

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Miriam
   - Carlos
   - Walmaro
+  MapName: Nicaragua
+  IsLegacy: 0
   Voice: es-ES-Standard-A
   ColorScheme: 1A
   Costume: ':flag_ni:'

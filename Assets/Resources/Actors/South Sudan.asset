@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nelson
   - Miriam
   - James
+  MapName: South Sudan
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 4C
   Costume: ':flag_ss:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - "C\xE9cile"
   - "Eug\xE8ne"
   - "Val\xE9rie"
+  MapName: Gabon
+  IsLegacy: 0
   Voice: fr-FR-Standard-A
   ColorScheme: 2C
   Costume: ':flag_ga:'

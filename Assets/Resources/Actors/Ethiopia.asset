@@ -29,6 +29,8 @@ MonoBehaviour:
   - Miriam
   - Amanuel
   - Kjetil
+  MapName: Ethiopia
+  IsLegacy: 0
   Voice: en-IN-Standard-A
   ColorScheme: 4C
   Costume: ':flag_et:'

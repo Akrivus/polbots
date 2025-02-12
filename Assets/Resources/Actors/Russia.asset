@@ -30,6 +30,8 @@ MonoBehaviour:
   - Grigory
   - Svetlana
   - Lyudmila
+  MapName: Russia
+  IsLegacy: 0
   Voice: ru-RU-Standard-C
   ColorScheme: 1A
   Costume: ':flag_ru:'

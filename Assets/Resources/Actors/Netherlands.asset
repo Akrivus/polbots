@@ -31,6 +31,8 @@ MonoBehaviour:
   - Ernest
   - Ronald
   - Khadija
+  MapName: Netherlands
+  IsLegacy: 0
   Voice: nl-NL-Standard-B
   ColorScheme: 1A
   Costume: ':flag_nl:'

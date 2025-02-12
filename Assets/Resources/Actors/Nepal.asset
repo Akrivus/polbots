@@ -29,6 +29,8 @@ MonoBehaviour:
   - Madhav
   - Pratiksha
   - Puspa
+  MapName: Nepal
+  IsLegacy: 0
   Voice: hi-IN-Standard-A
   ColorScheme: 1B
   Costume: ':flag_np:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Joanna
   - Marco
   - Julia
+  MapName: Liechtenstein
+  IsLegacy: 0
   Voice: de-DE-Standard-B
   ColorScheme: 1A
   Costume: ':flag_li:'

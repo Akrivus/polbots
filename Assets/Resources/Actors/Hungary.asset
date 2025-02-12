@@ -29,6 +29,8 @@ MonoBehaviour:
   - "\xC1gnes"
   - "Andr\xE1s"
   - "Mikl\xF3s"
+  MapName: Hungary
+  IsLegacy: 0
   Voice: hu-HU-Standard-A
   ColorScheme: 1B
   Costume: ':flag_hu:'

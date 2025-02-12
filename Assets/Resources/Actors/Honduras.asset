@@ -29,6 +29,8 @@ MonoBehaviour:
   - Rosa
   - Nery
   - "C\xE9sar"
+  MapName: Honduras
+  IsLegacy: 0
   Voice: es-US-Standard-C
   ColorScheme: 2B
   Costume: ':flag_hn:'

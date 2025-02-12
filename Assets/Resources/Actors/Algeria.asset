@@ -29,6 +29,8 @@ MonoBehaviour:
   - Meriem
   - Samira
   - Hassan
+  MapName: Algeria
+  IsLegacy: 0
   Voice: ar-XA-Standard-A
   ColorScheme: 2B
   Costume: ':flag_dz:'

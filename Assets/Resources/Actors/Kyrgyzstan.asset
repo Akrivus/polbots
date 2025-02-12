@@ -29,6 +29,8 @@ MonoBehaviour:
   - Arzybek
   - Zinaida
   - Kyrgyz
+  MapName: Kyrgyzstan
+  IsLegacy: 0
   Voice: ru-RU-Standard-B
   ColorScheme: 4B
   Costume: ':flag_kg:'

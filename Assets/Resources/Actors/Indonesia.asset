@@ -29,6 +29,8 @@ MonoBehaviour:
   - Rudy
   - Dahlan
   - Nadiem
+  MapName: Indonesia
+  IsLegacy: 0
   Voice: id-ID-Standard-A
   ColorScheme: 4B
   Costume: ':flag_id:'

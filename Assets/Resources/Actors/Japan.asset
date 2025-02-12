@@ -29,6 +29,8 @@ MonoBehaviour:
   - Shinya
   - Katsunobu
   - Ryu
+  MapName: Japan
+  IsLegacy: 0
   Voice: ja-JP-Standard-D
   ColorScheme: 1A
   Costume: ':flag_jp:'

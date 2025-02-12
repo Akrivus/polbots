@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Nazi Germany
   m_EditorClassIdentifier: 
-  Title: German Reich (Ghost)
+  Title: Nazi Germany (unverified)
   Pronouns: he/him
   Name: Nazi Germany
   Aliases:
@@ -29,6 +29,8 @@ MonoBehaviour:
   - Joachim
   - Karl
   - Hans
+  MapName: Germany
+  IsLegacy: 1
   Voice: de-DE-Standard-E
   ColorScheme: 1A
   Costume: <:flag_nd:1337103736526344257>

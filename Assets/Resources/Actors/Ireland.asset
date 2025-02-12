@@ -29,6 +29,8 @@ MonoBehaviour:
   - Gabriel
   - Fintan
   - Ross
+  MapName: Ireland
+  IsLegacy: 0
   Voice: en-US-Standard-B
   ColorScheme: 1A
   Costume: ':flag_ie:'

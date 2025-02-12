@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Imperial Japan
   m_EditorClassIdentifier: 
-  Title: Imperial Japan (Ghost)
+  Title: Imperial Japan (unverified)
   Pronouns: he/him
   Name: Imperial Japan
   Aliases:
@@ -29,6 +29,8 @@ MonoBehaviour:
   - Kuroda
   - Ishiwara
   - Matsuoka
+  MapName: Japan
+  IsLegacy: 1
   Voice: ja-JP-Standard-D
   ColorScheme: 1A
   Costume: <:flag_jp_imperial:1337103460776280147>

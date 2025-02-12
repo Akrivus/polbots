@@ -30,6 +30,8 @@ MonoBehaviour:
   - Amie
   - Alieu
   - Seedy
+  MapName: Gambia
+  IsLegacy: 0
   Voice: en-GB-Standard-D
   ColorScheme: 1B
   Costume: ':flag_gm:'

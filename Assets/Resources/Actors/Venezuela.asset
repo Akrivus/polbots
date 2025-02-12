@@ -16,8 +16,8 @@ MonoBehaviour:
   Pronouns: he/him
   Name: Venezuela
   Aliases:
-  - Bolivarian Republic of Venezuela
   - Venezuela
+  - Bolivarian Republic of Venezuela
   Players:
   - "Nicol\xE1s"
   - Juan
@@ -30,6 +30,8 @@ MonoBehaviour:
   - Carmen
   - Antonio
   - Tamara
+  MapName: Venezuela
+  IsLegacy: 0
   Voice: es-US-Standard-C
   ColorScheme: 4B
   Costume: ':flag_ve:'

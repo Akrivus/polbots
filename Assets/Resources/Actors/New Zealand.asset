@@ -29,6 +29,8 @@ MonoBehaviour:
   - Peter
   - Taika
   - Gareth
+  MapName: New Zealand
+  IsLegacy: 0
   Voice: en-AU-Standard-C
   ColorScheme: 2A
   Costume: ':flag_nz:'

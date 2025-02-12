@@ -29,6 +29,8 @@ MonoBehaviour:
   - Murat
   - Olzhas
   - Zhanarbek
+  MapName: Kazakhstan
+  IsLegacy: 0
   Voice: ru-RU-Standard-B
   ColorScheme: 2B
   Costume: ':flag_kz:'

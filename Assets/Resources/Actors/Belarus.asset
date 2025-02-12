@@ -29,6 +29,8 @@ MonoBehaviour:
   - Tamar
   - Siarhei
   - Svetlana
+  MapName: Belarus
+  IsLegacy: 0
   Voice: ru-RU-Standard-B
   ColorScheme: 1B
   Costume: ':blag_by:'

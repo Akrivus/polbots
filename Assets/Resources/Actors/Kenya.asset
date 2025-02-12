@@ -29,6 +29,8 @@ MonoBehaviour:
   - Juliet
   - Fatuma
   - Ababu
+  MapName: Kenya
+  IsLegacy: 0
   Voice: en-GB-Standard-C
   ColorScheme: 2B
   Costume: ':flag_ke:'

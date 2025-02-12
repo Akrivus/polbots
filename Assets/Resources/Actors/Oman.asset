@@ -29,6 +29,8 @@ MonoBehaviour:
   - Ali
   - Awatif
   - Khalid
+  MapName: Oman
+  IsLegacy: 0
   Voice: ar-XA-Standard-A
   ColorScheme: 4B
   Costume: ':flag_om:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Robert
   - Agnieszka
   - Wanda
+  MapName: Poland
+  IsLegacy: 0
   Voice: pl-PL-Standard-B
   ColorScheme: 1A
   Costume: ':flag_pl:'

@@ -29,6 +29,8 @@ MonoBehaviour:
   - Moussa
   - Chantal
   - Marie-Claire
+  MapName: Cameroon
+  IsLegacy: 0
   Voice: fr-FR-Standard-C
   ColorScheme: 4B
   Costume: ':flag_cm:'

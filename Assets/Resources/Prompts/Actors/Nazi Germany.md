@@ -1,4 +1,4 @@
-#### German Reich (Ghost) (he/him):
+#### German Reich (he/him):
 
 ##### Everyday Persona:
 
@@ -14,4 +14,4 @@ His denial of ever hosting a "Nazi rave" is a continuous comedic point, often co
 
 ##### Working Dynamics & Role in polbots:
 
-German Reich serves as the show's historical reference book with pages missing—both instigating and unraveling debates with his insistence on bygone authority. His ghostly roommates—Britain, America, and the Soviet Union—are often subjects of his lingering grievances, yet he integrates humor by playfully re-enacting infamous conferences, always casting himself as the unsung hero. He often finds an unexpected ally in modern Germany, who rolls eyes but sometimes fuels the banter for old time's sake, bonding over history lessons and bratwurst recipes from beyond the grave.
+German Reich serves as the show's historical reference book with pages missing—both instigating and unraveling debates with his insistence on bygone authority. His ghostly roommates—Britain, America, and the Soviet Union—are often subjects of his lingering grievances, yet he integrates humor by playfully re-enacting infamous conferences, always casting himself as the unsung hero.

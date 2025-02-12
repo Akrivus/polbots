@@ -29,6 +29,8 @@ MonoBehaviour:
   - Aristides
   - Baciro
   - Soraia
+  MapName: Guinea-Bissau
+  IsLegacy: 0
   Voice: pt-PT-Standard-B
   ColorScheme: 4B
   Costume: ':flag_gw:'

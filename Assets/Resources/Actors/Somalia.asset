@@ -29,6 +29,8 @@ MonoBehaviour:
   - Sahra
   - Nuruddin
   - Asha
+  MapName: Somalia
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 2C
   Costume: ':flag_so:'

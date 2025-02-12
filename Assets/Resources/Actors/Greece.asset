@@ -29,6 +29,8 @@ MonoBehaviour:
   - Marios
   - Constantinos
   - Dimitris
+  MapName: Greece
+  IsLegacy: 0
   Voice: el-GR-Standard-A
   ColorScheme: 1A
   Costume: ':flag_gr:'

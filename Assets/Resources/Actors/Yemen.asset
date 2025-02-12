@@ -29,6 +29,8 @@ MonoBehaviour:
   - Mohammed
   - Aicha
   - Sanaa
+  MapName: Yemen
+  IsLegacy: 0
   Voice: ar-XA-Standard-D
   ColorScheme: 1B
   Costume: ':flag_ye:'

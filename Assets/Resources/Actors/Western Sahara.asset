@@ -20,6 +20,7 @@ MonoBehaviour:
   - Sahara
   - Sahrawi
   - SADR
+  - S.A.D.R.
   Players:
   - Brahim
   - Aminatou
@@ -32,6 +33,8 @@ MonoBehaviour:
   - Bouchra
   - Fatima
   - Mohamed
+  MapName: Western Sahara
+  IsLegacy: 0
   Voice: ar-XA-Standard-C
   ColorScheme: 4C
   Costume: ':flag_eh:'

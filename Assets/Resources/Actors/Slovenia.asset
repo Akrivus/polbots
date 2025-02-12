@@ -29,6 +29,8 @@ MonoBehaviour:
   - Ivo
   - Nina
   - Alenka
+  MapName: Slovenia
+  IsLegacy: 0
   Voice: sk-SK-Standard-A
   ColorScheme: 1A
   Costume: ':flag_si:'

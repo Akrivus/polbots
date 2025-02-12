@@ -29,6 +29,8 @@ MonoBehaviour:
   - Henrieta
   - Daniela
   - Martin
+  MapName: Slovakia
+  IsLegacy: 0
   Voice: sk-SK-Standard-A
   ColorScheme: 1A
   Costume: ':flag_sk:'

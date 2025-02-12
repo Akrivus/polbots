@@ -29,6 +29,8 @@ MonoBehaviour:
   - Nasa
   - Bah
   - Nafissatou
+  MapName: Guinea
+  IsLegacy: 0
   Voice: fr-FR-Standard-A
   ColorScheme: 4B
   Costume: ':flag_gn:'

@@ -30,6 +30,8 @@ MonoBehaviour:
   - Jana
   - "Ji\u0159\xED"
   - Hana
+  MapName: Czechia
+  IsLegacy: 0
   Voice: de-DE-Standard-D
   ColorScheme: 1A
   Costume: ':flag_cz:'

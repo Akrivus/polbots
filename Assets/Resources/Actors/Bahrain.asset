@@ -29,6 +29,8 @@ MonoBehaviour:
   - Ebrahim
   - Sadiq
   - Ali
+  MapName: Bahrain
+  IsLegacy: 0
   Voice: ar-XA-Standard-B
   ColorScheme: 1B
   Costume: ':flag_bh:'
