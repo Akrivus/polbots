@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Palestine
   m_EditorClassIdentifier: 
-  Title: Palestine (unverified)
+  Title: Palestine
   Pronouns: he/him
   Name: Palestine
   Aliases:
@@ -42,8 +42,9 @@ MonoBehaviour:
   Costume: ':flag_ps:'
   Prompt: {fileID: 4900000, guid: d17da0e10db1180409de4cf32876b1d3, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.0005984
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.001974
+  Volume: 1
   Color: {r: 0.3102318, g: 0.3157119, b: 0.25033203, a: 1}
   Color1: {r: 0.08235294, g: 0.078431375, b: 0.08235294, a: 1}
   Color2: {r: 0, g: 0.44705883, b: 0.16078432, a: 1}

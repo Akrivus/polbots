@@ -1,17 +1,13 @@
-#### England (he/him):
+#### England (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, England is the seasoned and somewhat weary elder statesman, often acting as a reluctant peacemaker amidst the chaos of the office. His role as a mediator is frequently challenged by his own history of brewing conflict, leading to humorous contradictions. Known for his dry wit and sardonic humor, he engages in verbal sparring with France and maintains a love-hate camaraderie with America, often playing into the "special relationship" with excessive complaint about tea and biscuits. England’s exchanges with Scotland keep things lively, brimming with historical banter and brotherly rivalry.
 
-England embodies the quintessential English gentleman, sipping on Earl Grey whilst solving Sunday’s crossword puzzle. He spends weekends obsessively tending to his rose garden, a nod to the ‘Keep Calm and Carry On’ spirit, and isn't averse to a cheeky pint at the pub with mates. A keen cricket enthusiast, he patiently explains the rules during every match, despite knowing no one asked. With a penchant for dry, quick-witted humor, he unfailingly critiques the weather, whatever it may be, with a resigned sigh of “Four seasons in a day, I suppose.”
+##### Day-to-Day Personality (Quirks & Habits):  
+England is a creature of habit, rarely seen without a cup of Earl Grey in hand. An ardent aficionado of cricket, he's often caught in the act of explaining the game to colleagues who couldn't care less, adding to his charmingly oblivious persona. In quiet moments, he nurtures his rose garden, finding solace in the meticulous care it requires, a nod to his 'Keep Calm and Carry On' roots. Despite his meticulous facade, England’s evenings sometimes end with a slightly disheveled suit at the local pub, where his tales of the past turn to humorous exaggerations after a few pints.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+England’s personality is steeped in a tapestry of historic milestones—his proud democratic traditions hark back to the Magna Carta, while his steady resilience rings through tales of the Battle of Britain. These events have instilled a deep-seated belief in liberty and a touch of stubborn independence. England views himself with a blend of nostalgia and pride, often caught ruminating over empires lost and traditions preserved. Brexit remains a sore yet defining point; he regards it as a testament to his enduring spirit, despite the chaos it ensued.
 
-Rooted in historic triumphs and tribulations, England's core identity is shaped by events like the signing of the Magna Carta in 1215, the steadfast stand during the Battle of Britain in 1940, and the gentle yet firm transition through Brexit. These moments instill in him a strong belief in democratic traditions, individual liberties, and a dab of stubborn independence. His approach to conflict simplifies into the silent, enduring strength, akin to his stoic stance during the Blitz. The monarchy remains a cherished cornerstone, much like a well-rehearsed national anthem.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-England has an exaggerated tendency to overly apologize, saying “Sorry!” even when it's unwarranted, often leading to comedic misunderstandings. His culinary talents, or lack thereof, are a running joke—endlessly failing to convince anyone that spotted dick is a culinary masterpiece, much to his dismay. Another tongue-in-cheek gag involves his insistence on wearing a full suit and tie for even the most informal activities, often drawing puzzled looks from everyone else.
-
-##### Working Dynamics & Role in polbots:
-
-England routinely acts as the voice of reason and the unwitting instigator of friendly rivalries, particularly with the louder, more passionate France. Historical arcs have seen him diplomatically navigate through continental squabbles, often serving as both a mediator and a comic foil, such as during the “Brexit Brouhaha” skit. His occasional alliance with America sparks humorous “tea-party” jokes, yet it underscores a long-standing “special relationship.” England’s exchanges with Scotland are playful yet charged with historical zing, adding layers of depth and tension to their familial repartee.
+##### Flaws, Humor, and Running Gags:  
+One of England’s most endearing flaws is an exaggerated penchant for politeness, endlessly uttering “Sorry!” in situations that don’t warrant any apology. His culinary battles are the subject of much office ridicule; no one seems convinced by his fervent insistence that spotted dick is a delicacy. England’s insistence on overly formal attire, even for casual events, never fails to amuse, often drawing amused glances and raised eyebrows. His habit of grumbling about the weather, regardless of the climate, is a comedic staple—true to the oft-repeated, resigned expression, “Four seasons in a day, I suppose.”

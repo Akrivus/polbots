@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Quebec
   m_EditorClassIdentifier: 
-  Title: "Qu\xE9bec"
+  Title: "Qu\xE9bec (unverified)"
   Pronouns: she/her
   Name: Quebec
   Aliases:
@@ -36,8 +36,9 @@ MonoBehaviour:
   Costume: <:flag_ca_qc:1337103643563786302>
   Prompt: {fileID: 4900000, guid: b81400b7029a8914caf41374ffdbe24d, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.0602615
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.0792018
+  Volume: 1
   Color: {r: 0.38485324, g: 0.5288554, b: 0.7782656, a: 1}
   Color1: {r: 0, g: 0.23921569, b: 0.64705884, a: 1}
   Color2: {r: 1, g: 1, b: 1, a: 1}

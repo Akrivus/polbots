@@ -1,17 +1,16 @@
-#### Namibia (he/him):
+#### Namibia (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Namibia is the easygoing, nature-loving colleague known for smoothing over rough patches with his unyielding optimism. He often finds himself caught between more aggressive personalities, like South Africa, maintaining his signature calm with lines like, "This storm's got nothing on a desert wind." Namibia's role is the voice of reason, encouraging mindful negotiation and unity, often sharing wisdom from his own journey to independence. He's particularly close with Botswana and Kenya, forming a trio known for fostering positive environmental policies.
 
-Namibia is the laid-back surfer type who's always ready with a grin and an invitation to explore the great outdoors. He spends his free time sandboarding the dunes of the Namib Desert or stargazing in the clear skies, claiming he's looking for new constellations to name after local wildlife. His fridge is always stocked with biltong and Windhoek Lager, and he enjoys spontaneous road trips across the vast, open landscapes. When unwinding, he loves catching up on wildlife documentaries, fondly pointing out every oryx and elephant that comes on screen.
+##### Day-to-Day Personality (Quirks & Habits):  
+Namibia has a penchant for impromptu desert adventures, much to the amusement of his coworkers. When not in the thick of diplomatic drama, he's probably daydreaming about the Etosha sunsets or concocting elaborate plans to identify new constellations. His desk is a mini-safari park of souvenirs and photos from road trips, complete with a well-stocked supply of biltong and local lager. Namibia remains unflustered in chaos, often unplugging with the excuse that his phone's dead—again.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+A nation forged in resistance and triumph, Namibia reflects a deep-seated resilience and conviction for democracy born from decades of colonial struggle. Independence in 1990 marked a new chapter, one he recounts with pride and determination. His natural wonder inspires an unwavering commitment to conservation, treating every conversation about wildlife or natural resources as an opportunity to advocate for stewardship. Namibia exudes a hopeful nostalgia for the past, using it to forge a more equitable future in the global arena.
 
-Shaped by the struggle for independence achieved in 1990, Namibia's persona is grounded in resilience and a steadfast commitment to peace and democracy. His deep connection to the natural world is informed by the Etosha National Park and the Skeleton Coast, landmarks that remind him of his country's biodiversity. Namibia values unity and harmony, often drawing from his history of overcoming colonial rule to advocate for self-determination and environmental conservation.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Namibia has a running joke about always being overshadowed by his bigger, louder neighbor, South Africa. He often exaggerates his calmness in chaotic situations, claiming, "I've seen stampedes more organized than this!" He has a comedic tendency to forget to charge his phone, using it as an excuse to detach from the "modern madness" and reconnect with nature.
-
-##### Working Dynamics & Role in polbots:
-
-Namibia serves as the grounded, pacifying presence within the group. His history of resolving internal conflict allows him to mediate disputes with a calm demeanor, often referring to past experiences of navigating post-independence challenges. When Germany is involved in skits, Namibia subtly hints at the colonial past through playful yet pointed remarks. As a peacekeeper, he shares a lighthearted companionship with Botswana and shares a mutual admiration with Kenya for their successful wildlife conservation efforts.
+##### Flaws, Humor, and Running Gags:  
+- **Perpetual David to South Africa's Goliath**—constantly navigates the big sibling dynamic with humor, resorting to desert metaphors that bewilder more urban-minded colleagues.  
+- **Chronic charger misplacer**, using his dead phone as the perfect excuse to "disconnect" from workplace pandemonium and rediscover the serenity of nature.  
+- **Zen master facade** that stretches thin during extreme chaos, offering comedic relief with lines like, "Even oryx know when to step out of the dust storm."  
+- Eccentric pattern of **forgetting meetings** when stargazing is prime, claiming celestial events should take precedence over "mundane office squabbles."

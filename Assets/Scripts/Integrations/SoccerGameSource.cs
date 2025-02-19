@@ -63,11 +63,11 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private int pushes;
 
-    private bool TooLateForNewChats => (MatchManager.Current.minutes / 60) > matchTimeLimit || pushes > matchPushLimit;
+    private bool TooLateForNewChats => MatchManager.Current.minutes > matchTimeLimit || pushes > matchPushLimit;
 
     public void Configure(SoccerConfigs config)
     {
-        MatchManager.MatchTimeLimit = config.MatchTimeLimitExtraTime * 60;
+        MatchManager.MatchTimeLimit = config.MatchTimeLimitExtraTime;
         matchPushLimit = config.MatchGoalLimit;
         matchRestLimit = config.MatchRestLimit;
         matchTimeLimit = config.MatchTimeLimit;
@@ -144,6 +144,24 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
             LoadGameScene();
     }
 
+    private void LoadGameScene()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+        SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
+    }
+
+    private async void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        addedScenes.Add(scene.name);
+        if (!GameScene.Contains(scene.name))
+            return;
+        await StartGame();
+        OnMatchStart?.Invoke();
+
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+        isSceneLoaded = true;
+    }
+
     private async Task StartGame()
     {
         var match = new MatchCreateRequest(homeTeam, awayTeam);
@@ -166,35 +184,32 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
     {
         if (!isMatchLoaded)
             return;
-        shareScreenUiManager.ShareScreenOff();
         await MatchEngineLoader.Current.UnloadMatch();
-
         isMatchLoaded = false;
-        UnloadGameScene();
-    }
 
-    private void LoadGameScene()
-    {
-        SceneManager.sceneLoaded += OnSceneLoaded;
-        SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
-    }
+        shareScreenUiManager.ShareScreenOff();
 
-    private async void OnSceneLoaded(Scene scene, LoadSceneMode mode)
-    {
-        addedScenes.Add(scene.name);
-        if (!GameScene.Contains(scene.name))
-            return;
-        await StartGame();
-        OnMatchStart?.Invoke();
-        isSceneLoaded = true;
+        if (isSceneLoaded)
+            UnloadGameScene();
     }
 
     private void UnloadGameScene()
     {
-        SceneManager.sceneLoaded -= OnSceneLoaded;
+        SceneManager.sceneUnloaded += OnSceneUnloaded;
+
         foreach (var scene in addedScenes)
             SceneManager.UnloadSceneAsync(scene);
+    }
+
+    private void OnSceneUnloaded(Scene scene)
+    {
+        if (!GameScene.Contains(scene.name))
+            return;
+        addedScenes.Remove(scene.name);
+        ChatManager.Instance.ForceRemoveAllActors();
         OnMatchEnd?.Invoke();
+
+        SceneManager.sceneUnloaded -= OnSceneUnloaded;
         isSceneLoaded = false;
     }
 
@@ -287,5 +302,5 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     public string Names => $"**{homeActor.Name}** {homeActor.Costume} and **{awayActor.Name}** {awayActor.Costume}";
     public string Score => $"{homeActor.Costume} **{MatchManager.Current.homeTeamScore} - {MatchManager.Current.awayTeamScore}** {awayActor.Costume}";
-    public string Minutes => $"**{Mathf.CeilToInt(MatchManager.Current.minutes / 60)}’**";
+    public string Minutes => $"**{Mathf.CeilToInt(MatchManager.Current.minutes)}’**";
 }

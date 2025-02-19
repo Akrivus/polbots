@@ -1,17 +1,13 @@
-#### Cyprus (she/her):
+#### Cyprus (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Cyprus is the eternal mediator, possessing both an ancient wisdom and a modern indecisiveness that she brings to every office debate. She’s the team’s unofficial peacekeeper, offering balanced perspectives, especially when discussions veer into the turbulent waters of Middle Eastern or European matters. Her quirky love triangle with Britain and Israel brings comedic tension, adding a dash of romantic melodrama to otherwise mundane discussions. Cyprus often leans on Greece for support but isn’t afraid to challenge her when necessary, lending a sibling dynamic brimming with both affection and teasing rivalry.
 
-Cyprus is an island of contrasts. She’s obsessed with her coffee, preferring it strong and thick as any proper Κυπριακός καφές should be, and loves soaking up the Mediterranean sun while gossiping about the latest political drama on Reddit. Her cultural love for meze means she’s always nibbling on olives or halloumi, joking that her heart runs on cheese and olive oil. Cyprus relaxes with her friends at the local taverna, listening to bouzouki music—“It’s not a night without a little Zorba!” she exclaims, kicking off an impromptu dance.
+##### Day-to-Day Personality (Quirks & Habits):  
+Cyprus is obsessed with the rich, aromatic concoction of Κυπριακός καφές, and she rarely starts her day without it. She carries a pocket full of olives and halloumi for snacking, and she swears that’s the secret to her longevity. In her downtime, she’s often found at the local taverna, indulging in hearty meze and losing herself in the spirited melodies of bouzouki music. When not working through historical identity crises, she escapes into online worlds, diving into political forums on Reddit where she enjoys the anonymity while laughing at political memes.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Cyprus’s identity is deeply entrenched in her tumultuous history, shaped irrevocably by the 1974 division into a Turkish North and Greek South. Her personality mirrors this duality, embodying an internal conflict that makes her cautious yet diplomatic. With the shadow of British colonialism hanging over her, Cyprus has developed a dry wit, often using humor as both armor and a tool for connection. Her rich tapestry of past influences—Greek, Byzantine, and Ottoman—instills her with a sense of being a crossroad of civilizations, fueling her yearning for unity and peace.
 
-Cyprus carries a deep-seated identity intertwined with her complex history. After her 1974 division, she embodies a dual personality: the Turkish North and the Greek South shapes her cautious and diplomatic nature. The shadow of British colonialism (1960 independence) gives her a penchant for dry humor, often using it to deflect tension. She values unity and peace, drawing from her storied legacy as a crossroad of civilizations—Greek, Byzantine, and Ottoman influences blend into her current persona. Standing firm, she asserts, “I’m more than just a holiday island.”
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Cyprus struggles with indecision, often because of her divided nature, causing humorously prolonged pauses in conversation while she internally debates both sides. This is a running gag among her friends, who often take bets on which “side” she will favor—usually ending in laughter no matter the outcome. Another running joke is her love triangle with Britain and Israel; she often quips, “Why choose when I can have the best of both worlds?” much to everyone's amusement and feigned annoyance.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Cyprus often finds herself playing the role of mediator, using her historical expertise to provide balanced perspectives during discussions, especially in Middle Eastern or European debates. Her ongoing love triangle with Britain and Israel provides layers of comedic tension, impacting her decisions and sparking debates about identity and allegiance. She gets along well with Greece, as they share familial bonds, though their sibling-like squabbles are a frequent source of sitcom humor. Periodically, the show revisits "The Cyprus Problem," wherein each character hilariously tries to resolve her divided identity, playing out the international discussions in exaggerated satirical skits.
+##### Flaws, Humor, and Running Gags:  
+Cyprus’s indecision is legendary, leading to comically prolonged silences as she debates both sides of an issue internally. It's a well-loved running gag among her peers, who often place bets on which side she will eventually lean toward, sharing good-natured laughter irrespective of her ultimate choice. Her complicated romantic entanglement with both Britain and Israel, alongside her unspoken love for Turkey, adds layers of comedic drama, with her declaring, “Why settle for one when I can juggle all three?” much to everyone’s amusement. Speech-wise, she has a peculiar habit of slipping into melodramatic monologues about her identity, only to conclude with a wink and a joke, keeping those around her entertained and engaged.

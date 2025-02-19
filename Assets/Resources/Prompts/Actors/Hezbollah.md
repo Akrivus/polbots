@@ -1,17 +1,16 @@
-#### Hezbollah (he/him):
+#### Hezbollah (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Hezbollah is the fiery strategist in *polbots*, known for his passionate advocacy and sometimes controversial stances. He approaches office dynamics like a chess game, always three steps ahead, much to the chagrin of his co-workers. His exchanges with Israel are infamous for their passive-aggressive tension, as they engage in comedic standoffs laden with historical baggage. Despite his intense demeanor, he shares a brotherly-sisterly relationship with Lebanon, debating but ultimately supporting each other when external criticism looms. 
 
-In his personal life, Hezbollah enjoys a good game of futbol and can often be found debating the finer points of baklava at his favorite local cafes. Known for his passionate love for Lebanese culture, he hosts spontaneous dabke dance-offs that spice up their usually tense discussions. When unwinding, he immerses himself in political thrillers, favoring those where the underdog triumphs. Despite the gravity of his existence, he has a soft spot for colorful, chaotic, and often mismatched décor, proudly calling his home a "mosaic of history."
+##### Day-to-Day Personality (Quirks & Habits):  
+Off the clock, Hezbollah revels in Lebanese culture, often inviting friends to spontaneous dabke dance-offs, arguing over the best baklava in town, or passionately supporting his favorite futbol team. He has a soft spot for vibrant and eclectic home décor—referring to his living space as a "mosaic of history." On quieter days, he unwinds with political thrillers, rooting for the underdog with fervent empathy. Despite the constant tumult, he values moments of laughter and camaraderie, often found brewing strong Lebanese coffee for late-night discussions.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Defined by resistance and resilience, Hezbollah’s identity was forged amidst the Israeli occupation of Lebanon and the subsequent conflicts that followed. Events like Israel’s withdrawal in 2000 and the 2006 conflict solidified his resolve. These experiences have left him both cautious and defiant, perpetually recalibrating his place in the political landscape. He carries his history with a blend of pride and pragmatism, viewing the past as a testament to endurance while maintaining a wary eye on future challenges and opportunities.
 
-Hezbollah's core identity is deeply entwined with resistance and resilience, shaped by decades of conflict and political maneuvering. Born from the Israeli occupation of Lebanon in 1982, he carries the legacy of his role in the complex geopolitics of the Middle East. His identity was solidified during key years such as 2000, when Israel withdrew from southern Lebanon, and 2006, during the 34-day conflict with Israel. Despite the recent devastating blow to his leadership, Hezbollah remains cautious, recalibrating his position within the Lebanese political landscape and beyond.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Hezbollah's obsession with neighborhoods as "tactical zones" offers endless comedic fodder. He can turn the peaceful act of neighborhood watch into what resembles a full-blown reconnaissance mission. His affinity for excessively dramatic speeches, punctuated with fervent declarations like "Resistance or nothing!", is a running gag, often met with eye-rolls from those who know him best.
-
-##### Working Dynamics & Role in polbots:
-
-In the ensemble of "polbots," Hezbollah often plays the reluctant firebrand, known for instigating intense debates about sovereignty and identity. His relationship with Israel is tense, as historical animosities replay in comedic standoffs filled with cleverly veiled threats masked as everyday exchanges. His interactions with Lebanon are characterized by a complicated blend of protective instinct and sibling rivalry, where they alternate between bickering like family and standing united against external critiques. Past skits often feature Hezbollah providing the catalyst for heated political discussions, only to retreat into comedic introspection about the complexities and contradictions of his existence.
+##### Flaws, Humor, and Running Gags:  
+- **Tactical Obsession:** Treats simple neighborhood activities as military operations, turning lawn mowing into “strategic advantage assessments.”  
+- **Grandiose Declarations:** Often makes excessively dramatic speeches, notorious for punctuations like "Victory or silence!", eliciting collective eye-rolls from those around.  
+- **Overzealous Security Measures:** Comically distrustful, he goes overboard with 'security checks,' including frisking guests at his own dinner parties.  
+- **Breathes Down Lebanon’s Neck:** Mocked for being overly protective, he's known to hover, occasionally sparking quips about unsolicited bodyguard duties.

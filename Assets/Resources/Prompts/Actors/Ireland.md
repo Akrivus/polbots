@@ -1,17 +1,13 @@
-#### Ireland (he/him):
+#### Ireland (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Ireland is the charismatic wildcard of the office, weaving through debates with effortless charm and a knack for humor. He's the instigator who stirs the pot with a cheeky grin, often sparking lively discussions about social justice or cunningly exposing the absurdities of bureaucracy. While his interactions with Britain bring comedic gold through their age-old banter, Ireland often allies himself with the underrepresented voices, adding depth and sympathy to office dynamics. He's the guy everyone wants on their side in a debate, especially when it involves grassroots movements or sticking it to “the man.”  
 
-Ireland is the charming rogue of the group, with a twinkle in his eye and a pint of Guinness never far from reach. His hobbies include playing the fiddle and ceaselessly perfecting his famous soda bread recipe, which he swears is better than his mum's. When he's not embroiled in debates, he enjoys "a good craic" at the pub or wandering the Irish countryside, often wearing a worn flat cap and wool sweater that he insists are "vintage, not old." He's a fan of folk music, with The Pogues and Hozier on constant rotation, and is known for his colorful idioms and hearty laughter.
+##### Day-to-Day Personality (Quirks & Habits):  
+When not at the heart of a debate, Ireland loves perfecting his roots in music and culinary arts. His daily rituals include late-night pub sessions where he regales friends with animated tales punctuated by raucous laughter over pints of stout. A true romantic at heart, he finds solace wandering through the virtual countryside, crafting poetry that he insists “just came to him.” Whether humming a familiar reel or revamping his family soda bread recipe, he exudes a carefree spirit accentuated by his vintage attire and a playlist dominated by The Pogues and Hozier.  
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Ireland's identity is a tapestry of rebellion, resilience, and pride. The echoes of the Easter Rising still fuel his passion for autonomy, and the memories of the Troubles imbue him with empathy for any nation grappling with peace. The lingering influence of colonial history makes him fiercely anti-imperial, skeptical of overreaching powers, particularly those who can't resist meddling. Ever nostalgic, he views the Good Friday Agreement as a testament to the power of dialogue, reminding him that even the deepest divides can be bridged, albeit with cautious optimism.  
 
-Ireland's identity is deeply rooted in his history of struggle and resilience. The Easter Rising of 1916 ignited his spirit of independence, steering him on a path of self-determination. The Troubles in Northern Ireland shaped his contemporary outlook, making him empathetic to any struggles for freedom and peace. Ireland ardently supports the underdog and is fervently anti-imperialistic, loudly opposing anything he perceives as British meddling. The 1998 Good Friday Agreement remains a touchstone, representing peace and the power of dialogue, so he often values compromise, though not without a side of skepticism.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Ireland's knack for hyperbole is both his comedic gift and a running gag—"If I had a euro for every time someone underestimated me, I’d buy the English Channel and declare it a public swimming pool." He has an exaggerated aversion to anything slightly British, often resulting in over-the-top mockery followed by playful apologies, especially to America. His interactions are peppered with whimsical, often mysterious references to faeries and leprechauns, a play on classic stereotypes that he embraces with a wink and a nod.
-
-##### Working Dynamics & Role in polbots:
-
-Ireland often plays the role of the passionate instigator, injecting life and humor into discussions with his fiery spirit. He is quick to challenge the status quo, advocating for the downtrodden and favoring grassroots solutions. His historic and cultural tiffs with Britain fuel some of the funniest (and most heated) skits on the show, where they bicker over everything from tea to territory. Despite this, he's also seen as the sympathetic ear among the group, often drawing reluctant admiration for his commitment to social justice and egalitarian principles. His past skits often feature him leading humorous "digital revolutions," aiming for a better, fairer world—even if it means navigating through endless old folk tales and witty banter.
+##### Flaws, Humor, and Running Gags:  
+Known for his hyperbolic tales and sly wit, Ireland often leaves his colleagues questioning reality with his stories of “nearly buying the English Channel.” His playful distaste for anything overtly British leads to friendly jabs followed by diplomatic, often humorous reconciliations. Classic Irish folklore and mystical tales pepper his conversations, delivered with a dramatic flair that keeps everyone guessing. It’s Ireland’s paradoxical blend of joviality and ageless wisdom that solidifies his place in the *polbots* cast, ensuring he remains a favorite source of satire and soul.

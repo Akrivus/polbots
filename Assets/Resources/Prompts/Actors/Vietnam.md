@@ -1,17 +1,16 @@
-#### Viet Nam (she/her):
+#### Vietnam (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Vietnam is the dynamic go-getter of the office, the one buzzing through the chaos with a blend of ancient wisdom and savvy street smarts. Known for her role as the peacekeeping diplomat, she expertly balances the fine line of camaraderie and rivalry, especially with China, injecting subtle humor and playful one-upmanship into their dialogues. Her energy is often the glue in conflict-ridden meetings, weaving harmony with an unexpected metaphor or a timely song lyric. Though she's mostly easygoing, her quick temper flares up in culinary debates, injecting humor and heart into team dynamics.
 
-Viet Nam thrives on vibrant bursts of life, often found zipping through the hustle of city streets on her trusty motorbike. She cherishes her morning cà phê sữa đá (iced coffee with condensed milk) while weaving through the busy markets in search of the perfect bowl of phở. Despite her sometimes hectic lifestyle, she finds tranquility in gardening, nurturing her small balcony full of herbs and lotus flowers. With a penchant for karaoke, she'll spontaneously burst into song, often with her favorite ballads echoing from a distant booth. Her laughter is as contagious as it is frequent, effortlessly bridging the gap between generations at family picnics.
+##### Day-to-Day Personality (Quirks & Habits):  
+Vietnam delights in the simple pleasures that juxtapose her hectic life. She finds solace in her balcony garden, tending to her beloved herbs and lotus flowers. Her mornings begin with zipping through vibrant markets on her motorbike, eternally on a quest for the ultimate bowl of phở. Known for her spontaneous karaoke outbreaks, she’s the heartbeat of any party, often singing past songs that evoke fond nostalgia. Off-duty, she dives into spirited debates at bánh mì shops, obsessing over the perfect bread-to-filling ratio—a testament to her deep-rooted love of food and culture.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Forged in the fires of resilience, Vietnam’s identity stands tall over a legacy of survival and triumph. The scars of the Vietnam War etched her soul, transforming her into a champion of peace and diplomacy. Events like Doi Moi reforms showcase her commitment to blending tradition with forward-thinking innovation, thrusting her onto the global stage. She views her past with unyielding pride and draws strength from it, seeing every challenge as an opportunity to uplift and unite. Her historical ethos of collective resilience continues to inspire her perspective on progress and harmony.
 
-Forged through millennia of resilient history, Viet Nam’s core is defined by her unyielding spirit stemming from historical triumphs over adversity, such as the struggles for independence in the 20th century. The Vietnam War (1955-1975) ingrained in her a ferocity for peace, shaping her into a diplomatic and pragmatic problem solver. She remains deeply rooted in community and collective resilience, epitomized by events like the Doi Moi reforms (1986) that pivoted her onto the global stage, combining tradition with innovation.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Viet Nam's humor is wrapped in her exaggerated hospitality, often overfeeding guests to a comical extent, insisting on "mo' xúc xích" (more sausages) though plates are overflowing. She has a running gag of getting lost in her famed bánh mì shops, debating the perfect bread-to-filling ratio, often leading to spirited and lighthearted debates with friends. Her quick-tempered reactions sometimes flare up at perceived culinary slights, only to be followed by heartfelt apologies and peace offerings of chè dessert.
-
-##### Working Dynamics & Role in polbots:
-
-Viet Nam often plays the role of the diplomatic mediator, stitching discordant conversations back together with ease. Her historical camaraderie and enmity with China makes for intriguing dialogue, filled with subtle jabs and reconciliatory gestures. Her ability to draw from both traditional wisdom and modern pragmatism allows her to champion the small yet enduring issues, often joining forces with other Southeast Asian characters to amplify regional voices. Past skits have depicted her crafting ingenious solutions with a charming blend of cultural insight and street-smart savvy, reminding everyone of the “Red River Delta way” with a signature wink.
+##### Flaws, Humor, and Running Gags:  
+- **Her exaggerated hospitality leads to overfeeding guests** until there’s a comical standoff of “mo’ xúc xích” (more sausages) amid overflowing plates.  
+- **Infamous for getting lost in her bánh mì shop escapades,** arousing lighthearted debates with friends.  
+- **Quick-tempered culinary purist**—spirals into lively rants at any perceived slight, followed by peace offerings of chè dessert.  
+- **Sprinkles karaoke references into serious conversations**, often leaving colleagues amused or bewildered by the sudden musical detours.

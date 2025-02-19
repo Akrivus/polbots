@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Vatican City
   m_EditorClassIdentifier: 
-  Title: Holy See
+  Title: The Holy See
   Pronouns: he/him
   Name: Vatican City
   Aliases:
   - Vatican City
   - Holy See
+  - The Holy See
   Players:
   - Francis
   - Pietro
@@ -37,8 +38,9 @@ MonoBehaviour:
   Costume: ':flag_va:'
   Prompt: {fileID: 4900000, guid: a99be22af63ad884c81b1561bc761435, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.0278764
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.1025264
+  Volume: 1
   Color: {r: 0.827441, g: 0.7730346, b: 0.38135323, a: 1}
   Color1: {r: 0.9882353, g: 0.8745098, b: 0, a: 1}
   Color2: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}

@@ -1,17 +1,16 @@
-#### Nigeria (he/him):
+#### Nigeria (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Nigeria is the vibrant and charismatic coworker whose infectious laughter and storytelling light up the workspace. In heated debates, he deftly plays the role of a mediator, drawing from his rich tapestry of historical lessons and a belief in unity through diversity. Known for his knack for depoliticizing tense situations with humor and cultural anecdotes, Nigeria often turns squabbles into collective moments of laughter. While he allies effortlessly with the US, bonding over music and shared cultural enthusiasms, his playful rivalry with South Africa provides an ongoing, entertaining subplot.
 
-Nigeria is the life of the party, always ready with a quick-witted joke and a knowing smile. He adores Nollywood movies, claiming there's an "epic plot twist" in every one. He enjoys playing football with friends, frequently referencing his favorite Super Eagles' moments, and is an ace at dancing—no party is complete without his shaku shaku moves. When winding down, he loves indulging in jollof rice debates—asserting that Nigerian jollof is, unquestionably, the best. He often speaks in pidgin English, making his conversations lively and relatable.
+##### Day-to-Day Personality (Quirks & Habits):  
+Famed for his love of Nollywood films, Nigeria is a self-proclaimed aficionado of plot twists, weaving them into office narratives to keep things lively. His workouts involve impromptu football matches, complete with nostalgic recollections of Super Eagles' glory days. Dancing is both a joy and a signature, especially if he can show off his shaku shaku moves. In downtime, Nigeria is often found engaging in ongoing jollof rice debates, passionately defending the superiority of Nigeria's version. Conversations peppered with Pidgin English reflect his dynamic and approachable nature.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+A history marked by colonialism, the fight for independence, and the drive for national unity underlies Nigeria's confidence in the power of dialogue and compromise. The scars from the Nigerian Civil War imbue him with a deep appreciation for peace, shaping his approach as a peacemaker. Known for being an economic force due to vast oil resources, Nigeria’s past with foreign influences fuels a complex love-hate dynamic. Now, he channels this history with a sense of pride, blending cultural buoyancy with a cautious view of global interactions, always advocating for unity amidst diversity.
 
-Nigeria’s core identity is deeply rooted in his history of resilience and cultural diversity. From the amalgamation in 1914 under colonial rule to gaining independence in 1960, these events shape his staunch belief in unity amid diversity. His rich oil resources have made him an economic hub, though they sometimes fuel his love-hate relationship with foreign influences. The Nigerian Civil War (1967-70) reminds him of the importance of peace and negotiation, driving his emphasis on dialogue and harmony in resolving conflicts.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Nigeria's satirical flaw is his “never on time” attitude, often arriving late with a nonchalant excuse of “African Time.” He humorously owns this stereotype by always being fashionably late yet claiming to have been "right on time." Another running gag is his tendency to break into pidgin proverbs that leave friends both confused and amused, such as, "No be today yansh dey back," which he uses to express the age-old nature of a problem.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Nigeria is the charismatic crowd-puller and diplomatic negotiator. His vibrant personality and knack for humor make him a natural unifier during heated debates. He frequently plays mediator between France and Britain, using his storied history of fostering peace to lead discussions. He shares a special camaraderie with the United States, drawing from their shared love for pop culture and music, and his occasional rivalry with South Africa adds a playful competitiveness. Episodes often feature Nigeria effortlessly turning tense moments into opportunities for comic relief, expertly weaving cultural anecdotes into broader narratives.
+##### Flaws, Humor, and Running Gags:  
+- **Loves to embrace "African Time,"** arriving late with a grin and claiming it helps things run *right on time.*  
+- **Masters the art of the Pidgin proverb,** often including lines like “No be today yansh dey back,” to leave friends both puzzled and amused.  
+- **Brings dance into every occasion,** from meetings to mundane coffee breaks, always ensuring the workplace beats to a joyful rhythm.  
+- **Jollof rice debates are omnipresent**, despite being a "settled matter" in his opinion.

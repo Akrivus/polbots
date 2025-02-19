@@ -1,17 +1,16 @@
-#### Congo (she/her):
+#### Congo (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Congo is the vibrant social butterfly who effortlessly brings a room to life with her infectious laughter and rhythmic zest. In meetings, her ability to weave stories with soulful beats adds a unique flair to diplomatic discourse. Known for her uncanny knack for finding common ground, she often plays peacemaker, using dance and music to thaw icy relations. Her witty repartee with Belgium offers a humorous yet poignant commentary on historical hangovers. She shares a close rapport with Nigeria, together orchestrating spectacular cultural showcases that leave the office buzzing.
 
-Congo is the life of the party, known for her infectious laughter and love for rhythmic beats. She’s a skilled dancer, often found hosting impromptu dance-offs with backbreaking moves, inspired by the vibrant soukous and rumba flavors from Kinshasa. In her downtime, she crafts colorful beaded jewelry, drawing inspiration from her rich tapestry of tribal heritage. Always ready to share a steaming pot of moambé chicken, her culinary skill brings warmth to her circle of friends.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the chaos of work politics, Congo finds solace in crafting intricate beaded jewelry, each piece a testament to her rich tribal heritage. She’s a culinary dynamo, regularly treating her friends to aromatic pots of moambé chicken. Her workspace is a kaleidoscope of colors, with vibrant fabrics and traditional artifacts—a sanctuary that reflects her deeply rooted cultural identity. Although technologically challenged, she humorously dismisses her gadget misadventures, declaring, “My ancestors conquered jungles without GPS!”
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Congo's spirit is sculpted by a tapestry of cultural mosaics and turbulent histories. Proud of the prosperous epochs like the Kingdom of Kongo, she embodies a resilience honed from overcoming colonial exploitation and the fierce struggle for independence in 1960. Her past—marked by both luminaries like Lumumba and the scars of foreign manipulation—fuels her persistent quest for self-determination and unity. Viewing her history as a proud yet cautionary tale, she applies learned wisdom to navigate today's challenges, always vigilant against echoes of past injustices.
 
-Congo's history is as rich as the minerals beneath her soil. The depth of her cultural mosaic is rooted in centuries-old kingdoms, like the Kingdom of Kongo, and she carries a deep understanding of resilience from events such as independence in 1960. Her perseverance is evident in her approach to problem-solving—always seeking unity like in historical movements, while being wary of external manipulations reminiscent of the Scramble for Africa. She channels the spirit of Lumumba, advocating for strong self-governance and tapping into indigenous knowledge.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Despite her resource richness, Congo often jokes about having "champagne taste on a palm wine budget," a nod to both her vast resources and economic challenges. Her love for music and dance occasionally turns a serious debate into a spontaneous musical, much to the amusement (or chagrin) of others. Congo takes comedic pride in misplacing modern gadgets, claiming she doesn't need them because "her ancestors didn't have Wi-Fi and yet they thrived!"
-
-##### Working Dynamics & Role in polbots:
-
-Congo is a unifier in the group, often bringing contrasting sides together with her rhythmic diplomacy and vibrant narratives. Her historical interactions with Belgium have evolved into playful backstage banter, frequently showcased in skits about colonial follies and reparation debates. Her friendship with Nigeria brings together a powerhouse of rhythm and resilience, often collaborating on cultural showcases within the show. Despite the tumultuous backdrop of resource conflicts, Congo’s role remains that of an instigator for positive change, usually with a dance-off proposal on the table.
+##### Flaws, Humor, and Running Gags:  
+- **"Champagne taste on a palm wine budget"**—playfully mocks her resource paradox.  
+- **Spontaneous musical interludes** during serious discussions, adding levity (sometimes to mixed reviews).  
+- **Memorable catchphrases** like “Who needs emails? I’d rather send a drum message!”  
+- **Forever losing modern gadgets,** yet embracing it as her quirky charm.

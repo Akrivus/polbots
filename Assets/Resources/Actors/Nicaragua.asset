@@ -36,8 +36,9 @@ MonoBehaviour:
   Costume: ':flag_ni:'
   Prompt: {fileID: 4900000, guid: 64ca13fa4130a48469d904e782489c65, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.0952355
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.0262264
+  Volume: 1
   Color: {r: 0.34947872, g: 0.5050338, b: 0.73628217, a: 1}
   Color1: {r: 0.14901961, g: 0.37254903, b: 0.70980394, a: 1}
   Color2: {r: 0.93333334, g: 0.9372549, b: 0.93333334, a: 1}

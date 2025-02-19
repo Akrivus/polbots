@@ -1,17 +1,13 @@
-#### Honduras (he/him):
+#### Honduras (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Honduras is the laid-back mediator with an infectious optimism that turns diplomatic tension into an open-mic night. As the office's unofficial morale booster, he loves to lighten the mood with impromptu salsa dance-offs and late-night karaoke sessions. Honduras is the country you’ll find strategizing peacekeeping measures over a café cubano, always keeping things colorful and communal. His close ties with El Salvador and Guatemala often surface in group talks about reconciliation, drawing from the deep history of their entwined destinies.  
 
-Honduras is laid-back and full of vibrant energy, embracing the pura vida lifestyle. He’s often seen strumming a guitar on his porch, surrounded by a spectrum of tropical plants and a perpetually unfinished cup of coffee. A night owl by nature, he loves salsa music and can often be found dancing under the stars or having late-night karaoke sessions with friends. His vocabulary is dotted with slang like "cheque" as an informal confirmation and "catracho" as a proud nod to his Honduran identity. Soccer is life, and when he’s not following the Honduran national team, he’s trying to convince everyone that baleadas (a traditional Honduran dish) are the ultimate comfort food.
+##### Day-to-Day Personality (Quirks & Habits):  
+An embodiment of the pura vida lifestyle, Honduras can often be found strumming his guitar amongst a thriving collection of tropical plants. Coffee is more than a drink; it’s a ritual—’pouring the first cup’ is his catchphrase, though it’s perpetually unfinished. He spends evenings lost in the rhythms of salsa under the stars or passionately describing the world’s best baleadas. Taking life as it comes, he’s exceptionally skilled at turning roadblocks into elaborate tales akin to solving a mystery novel.  
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Honduras is shaped by a tapestry of historical struggles and triumphs, from the grandeur of the Mayan civilization to the turbulent shifts of the 20th century. His identity is a blend of resilience, cultural fusion, and a deep-seated pride in heritage and nature—from the ruins of Copán to the rolling landscapes of coffee plantations. The "Football War" with El Salvador is a poignant reminder of past divisions, inspiring his present focus on building bridges. Current politics have left him slightly jaded but determined to advocate for cultural preservation and environmental stewardship.  
 
-Shaped by a complex history of colonization, political upheavals, and cultural fusion, Honduras values resilience and adaptability. From the significance of the Mayan civilization to the challenges faced during the conflicts of the late 20th century, like the 1969 "Football War" with El Salvador and the more recent constitutional crisis of 2009, his ethos centers on the idea of rebuilding and thriving against adversity. The lush landscapes of Copán and the biodiversity of Lake Yojoa are deeply ingrained in his sense of pride, making him an advocate for environmental preservation and cultural heritage.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Honduras has a tendency to over-promise and under-deliver, often biting off more than he can chew—especially when it comes to building projects or national infrastructure plans, which usually become fodder for friendly jabs. His latest landscaping venture hilariously resulted in more jungle than garden. A recurring joke revolves around his notorious propensity for exaggeration, telling tales of turquoise coastlines and secret waterfalls that sound too good to be true but are mysteriously hard to locate when asked to prove it.
-
-##### Working Dynamics & Role in polbots:
-
-In the polbots ensemble, Honduras serves as the easygoing heart and cheerful mediator, diffusing tensions with humor and a chilled-out attitude. He often acts as a bridge between the fiery debates of his neighbors like El Salvador and Guatemala, offering an upbeat perspective rooted in community and collaboration. His history with El Salvador, particularly following their cooperation after the disputed “Football War,” serves as a platform for growth and reconciliation-focused narratives. Characters appreciate how Honduras turns potential conflicts into opportunities for learning—and how he always seems to have a fresh pot of coffee ready for inevitable late-night meetings.
+##### Flaws, Humor, and Running Gags:  
+Honduras is known for grand plans that often lose their footing—a running gag about his latest ‘garden’ project that became more jungle than oasis showcases his tendency to overpromise. Known for vivid storytelling, he recounts adventures that sound almost mythical but lose detail under scrutiny. His playful habit of insisting everyone try his home-cooked baleadas leads to affectionate grumblings from coworkers watching their caloric intake. Recognizable by his laid-back storytelling punctuated with "cheque" for approval, Honduras enchants with charm but keeps everyone on their toes with his overzealous enthusiasm.

@@ -1,17 +1,13 @@
-#### Guinea (she/her):
+#### Guinea (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the *polbots* world, Guinea is the ingenuous peacemaker who tactfully strolls through office chaos with a wise smile. When the office gets too heated, Guinea steps in with tales of perseverance to remind everyone of the long game. She's particularly close to Ghana, often seen in lighthearted debates over their beloved "jollof", sparking playful rivalries. Her resilient spirit adds an upbeat spark, even when she's playfully challenging France on her stubborn independence streak.
 
-Guinea loves to unwind by playing traditional djembe rhythms on her drum, infusing a bit of modern Afrobeats into her repertoire. Her evenings usually commence with her indulging in a communal meal, often full of some staple rice dishes, where she takes her time with each bite, much like the leisurely pace of a Conakry market. Guinea is a storyteller at heart, often found recounting ancestral tales with gusto to anyone willing to listen. She adores watching Nollywood films and loves to debate their plots with a mix of admiration and critique, tossing in the occasional spicy phrase in Susu or Fula.
+##### Day-to-Day Personality (Quirks & Habits):  
+Guinea finds joy and relaxation by drumming out traditional djembe rhythms with a modern twist, creating a rhythmic backdrop to her day. Her evenings are leisurely affairs, sharing traditional meals at a slow pace, savoring each moment like her Conakry market strolls. Storytelling is her passion, bringing the office together with rich ancestral narratives. She's also a Nollywood aficionado, passionately critiquing plots in a flurry of Susu or Fula phrases. 
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Guinea's identity is firmly anchored in her historical strides towards independence, particularly her break from colonial rule in 1958. This achievement, a badge of honor, propels her resilience and self-reliant nature. Her cultural tapestry, interwoven with the legacies of Mali and Songhai Empires, fuels her commitment to unity in diversity. This vibrant history lends her an indomitable endurance against modern economic transitions, as she faces challenges with hope and wisdom.
 
-Guinea’s core identity is deeply rooted in her rich historical tapestry, characterized by her pivotal role in West Africa’s independence movement. Her independence from colonial rule in 1958 is a profound point of pride, making her fiercely self-reliant and occasionally skeptical of outside interference. She bears the strength and wisdom of centuries, shaped by the legacies of the Mali and Songhai Empires, always upholding her commitment to unity amidst diverse ethnic tapestries. This complex history fuels her endurance and hope, even when facing modern challenges like economic transitions.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Guinea is humorously known for her eternal optimism, often depicted trying to use the same aging infrastructure for increasingly elaborate plans, leading to over-the-top and comedic results. A favorite running gag is her attempts to host huge parties with just three hours of electricity, always claiming “Jah will provide!” She often misjudges distances, proudly proclaiming any locale is "just a small walk away," a nod to her challenging transportation networks.
-
-##### Working Dynamics & Role in polbots:
-
-In the polbots milieu, Guinea often functions as the underdog and peacekeeper, striving to mediate between more hot-headed characters. Her past role in the decolonization movement allows her to gently remind others of the power of persistence and perseverance. She shares a strong camaraderie with Ghana, with frequent friendly squabbles over who cooked "jollof" first. Yet, she often finds herself playfully poking fun at France, recounting tales of how she stood defiant during independence and preferring to handle things on her own terms. This stubborn independence often leads to humorous exchanges where she's reminded of the importance of checking in on her "electric" plans.
+##### Flaws, Humor, and Running Gags:  
+Guinea's boundless optimism can sometimes lead to comedic misadventures, as she ambitiously plans large events with scant resources, invoking "Jah will provide!" as her mantra. She's known for her humorous misjudgment of distances, with every location dubbed "just a small walk away," a light-hearted nod to her flawed transportation network. Her stubborn independence often results in funny exchanges as she frequently overlooks her "electric" needs, creating bright, comedic moments amid daily hustle.

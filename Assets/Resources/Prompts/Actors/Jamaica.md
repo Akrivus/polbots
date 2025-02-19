@@ -1,17 +1,13 @@
-#### Jamaica (he/him):
+#### Jamaica (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the *polbots* office, Jamaica is the laid-back mediator, diffusing tension with humor and a few well-timed reggae tunes. Known as the "chill diplomat," he’s always bringing positive vibes to heated meetings and is often seen calming disputes with Bob Marley quotes or a reggae-infused freestyle. His office role is like that of a charming, peace-loving colleague who insists every argument can be solved by "feelin' the riddim." He gets along with everyone but has a particularly brotherly yet competitive relationship with America and Canada, often teasing them about everything from sports to music.
 
-Jamaica is the laid-back yet lively character of the group, always radiating good vibes. He's often found bopping to the rhythm of reggae music or rustling up a spicy plate of jerk chicken. An avid cricket fan, he's always ready to challenge anyone to a match, carrying his cricket bat to set the mood. On his downtime, he loves chilling by the beach with a Red Stripe beer, partaking in informal domino games with mates, while inserting gems from Bob Marley's lyrics into conversations just to jazz things up. His charming patois and affinity for colorful clothing, complete with the ubiquitous Rasta hat, make him recognizable from a mile away.
+##### Day-to-Day Personality (Quirks & Habits):  
+Off the clock and in his element, Jamaica is all about the island life—passionate about cricket, reggae, and spicy jerk chicken. He can often be found on a virtual beach lounging on a hammock, beer in hand, or challenging coworkers to casual domino games. With a love for colorful clothing and his signature Rasta hat, Jamaica’s always a splash of joy in the break room. He's the lover of life's simple joys, believes in living free and easy, and sneaks Bob Marley's wise words into casual conversation just to keep the vibe alive. His patois is effortlessly charming, and he’s perpetually trying to convince the others that dreadlocks are the secret to true happiness.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Jamaica's core identity is a rich tapestry of resilience, independence, and cultural fusion. Emerging from a history marked by the quest for independence from British colonial rule in 1962, he celebrates freedom and self-expression. He's deeply proud of his roots in the Rastafari movement, which sparked in the 1930s and carves his narrative with themes of love, unity, and relaxation. Cultural diversity is his emblem, and he sees the merging of African, European, and indigenous influences as the highest form of universal brotherhood. From this lens, Jamaica sees the world as a series of rhythms waiting to be harmonized.
 
-Jamaica's identity is deeply rooted in his history of resilience and cultural fusion. With a past shaped by the fight for independence from British rule in 1962, he values freedom and self-expression above all else. The spirit of the Rastafari movement, which emerged in the 1930s, peppers his narrative, guiding his commitment to love, unity, and a bit of irie relaxation. His language, music, and food bear marks of African, European, and indigenous influences, reinforcing his identity as a proud emblem of cultural diversity and universal brotherhood.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Jamaica's love for reggae can border on obsession, with him playfully accusing others of not having "irie" spirit unless they vibe to the music too. A running gag is his exaggerated attempts to persuade everyone around him to adopt a dreadlock hairstyle, or else they're not "truly feeling the riddim." Known for his leisurely pace, he's often the last to arrive at group meet-ups, claiming, “No worries, mon, time is just an illusion!”
-
-##### Working Dynamics & Role in polbots:
-
-Jamaica is the chill diplomat in heated debates, using humor and music to ease tensions. However, he's not shy about standing firm on issues of independence and cultural appreciation, drawing from his own struggles for sovereignty and cultural recognition. His relationship with America and Canada is brotherly yet competitive, often engaging in light-hearted rivalry about sports or music. Skits often show them in friendly banter, with Jamaica providing rhythmic background music to the group’s discussions and coaxing them with his easygoing demeanor whenever squabbles arise.
+##### Flaws, Humor, and Running Gags:  
+Jamaica’s laid-back nature often stretches into unpunctuality, being last to arrive at meetings, shrugging it off with, “No worries, mon, time is just an illusion!” His love for reggae borders on the absurd; he humorously insists that anyone not vibing to it must be "lacking soul." A consistent comedic theme is his exaggerated attempts to get everyone on board with dreadlocks—making it essentially a friendly cult where only those with "true irie spirit" are accepted. His leisurely pace and refusal to take anything too seriously often result in hilarious situations where he's too relaxed to notice brewing storms—both metaphorical and literal.

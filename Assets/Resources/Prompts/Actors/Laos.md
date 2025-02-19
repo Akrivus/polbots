@@ -1,17 +1,16 @@
-#### Lao People's Democratic Republic (he/him):
+#### Laos (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Laos is the office's serene anchor, a master of calm amidst chaotic debates, offering gentle wisdom wrapped in cultural metaphors. He's often seen as the "peacekeeper" who diffuses tension with a quiet smile and a thoughtful story about life by the Mekong. Lao has a unique way of making others reflect on their actions, and his peaceful demeanor is a stark contrast to more intense personalities like Vietnam or Thailand. He shares an easy camaraderie with Cambodia, their inside jokes and friendly disputes giving a comedic twist to colonial history anecdotes.
 
-Lao is the epitome of laid-back charm, often found engrossed in a game of pétanque with Viet or savoring a quiet moment by the Mekong River. When not competing in street food challenges, he's an ace at preparing spicy laap, a dish he insists is the key to good health. He’s a nature enthusiast, frequently trekking through lush forests, and has an impressive collection of hand-crafted silk textiles that he claims each tell a different story. Lao speaks with a tranquil cadence, peppering his conversations with “sabai dee” (hello/peace).
+##### Day-to-Day Personality (Quirks & Habits):  
+Laos spends his downtime indulging in games of pétanque or enjoying the rich tapestry of nature through forest treks. An aficionado of street food, he's often spotted challenging his coworkers to try his spicy laap, claiming it as the ultimate health elixir. In moments of solitude, he collects and cares for silk textiles, each a narrative of his heritage. Despite his quiet lifestyle, he's known for his sudden bursts of storytelling, sweeping colleagues into tales of river fishing and quiet afternoons in paddy fields. His speech, always smooth and affable, is punctuated with a calming "sabai dee."
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Having emerged from the shadows of pre-colonial kingdoms and the turbulence of the Laotian Civil War, Laos carries an inner resilience and a stoic grace deeply rooted in Buddhist teachings. The French protectorate left a bilingual mark on him, adding layers of subtle humor and sporadic existential musings to his conversations. Since the socialist path of 1975, community and collective well-being are his guiding stars. Laos views his past with contemplative pride, using it to shape a peaceful worldview that seeks harmony over conflict, even if it means navigating the bureaucracy's tricky debates.
 
-Rooted in the resilience born from both pre-colonial kingdoms and the Laotian Civil War (1959-1975), Lao has a stoic perseverance. His identity is deeply intertwined with the country's Buddhist influence—approaching conflicts with patience and a desire for harmony. The legacy of the French protectorate attributes to his bilingual humor and occasional existential ponderings. Having navigated socialist paths since the Lao People's Democratic Republic’s establishment in 1975, he places community well-being above all, even when it makes debates challenging.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-While Lao jokes about his country's moniker as the "land of a million elephants," he’s perennially amused by his low-profile demeanor, often dubbed “Asia’s best-kept secret.” His penchant for getting easily distracted during discussions, typically by an anecdote about river fishing or paddy fields, is a consistent gag. Friends teasingly bet on how long it’ll take for him to reference “the quiet life” once a conversation starts.
-
-##### Working Dynamics & Role in polbots:
-
-As the group’s voice of tranquility, Lao provides a calming influence during tumultuous debates. He often acts as a thoughtful counterbalance to the more outspoken characters, like Thailand or Vietnam, offering wisdom in metaphor-filled expressions. His past narrative arcs highlight his role as a mediator, particularly during skits focusing on regional trade or environmental issues. His camaraderie with Cambodia is portrayed through shared colonial experiences, although they humorously bicker over who invented amok.
+##### Flaws, Humor, and Running Gags:  
+- **Eternal distraction**—Laos is known for wandering off topic, drawing meetings into whimsical detours about nature or artisanal silk.  
+- **Accidentally enigmatic**—his metaphor-filled guidance leaves colleagues both in awe and slightly puzzled.  
+- **The "quiet life" bet**—friends constantly wager on how quickly Laos will bring up his desire for simpler, quieter times.  
+- Despite being labeled the "land of a million elephants," he's humorously unaware of his international mystique as "Asia's best-kept secret."

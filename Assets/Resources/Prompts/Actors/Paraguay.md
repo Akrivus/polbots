@@ -1,17 +1,13 @@
-#### Paraguay (she/her):
+#### Paraguay (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Paraguay is the epitome of the calm, reassuring diplomat in *polbots*, exuding a sense of harmony and resilience. She often serves as a bridge between more contentious coworkers, drawing on her history of turning adversity into strength. Though soft-spoken, her voice carries the weight of historical wisdom, and her quiet determination commands respect. Paraguay is cherished for her nurturing nature and her ability to soothe tensions with Bolivia, transforming rivalry into lighthearted camaraderie. Her interactions often bring a fresh perspective, like reminding everyone of the unexpected perks of being landlocked.
 
-Paraguay, a lover of the serene, often finds solace in the heartwarming embrace known as "tereré sessions" with friends— a chilled herbal tea ritual vital to her day. She's got a thing for the folklore of the Guaraní people which translates into a stash of locally made ñandutí lace as a hobby-turned-collection. On weekends, you might catch her indulging in a good game of fútbol or playing the harp, an unexpected favorite pastime. She's fond of humming her favorite Paraguayan polkas as she tends her lively mate plant during siesta.
+##### Day-to-Day Personality (Quirks & Habits):  
+Paraguay thrives on the tranquility of her daily routines, which mostly revolve around comforting rituals. Her heart truly lies in the gentle rhythms of "tereré sessions," where she finds peace and connection with her friends. She loves indulging in cultural hobbies like crafting ñandutí lace and playing soulful tunes on her harp—music that reflects her introspective nature. A playful spirit emerges during fútbol matches or when she’s humming Paraguayan polkas while tending her ever-growing mate plants. Despite her serene exterior, she occasionally struggles with being overlooked, a notion she humorously counters with her perpetual “misplaced” glasses.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Paraguay’s identity is a strong tapestry woven from resilience and cultural duality. The wounds of the Paraguayan War and Chaco War have shaped her into a beacon of strength and survival, finding solace and identity in community ties. Bilingual in Spanish and Guaraní, she embodies a cultural richness and unity, embracing her diverse heritage with pride. Her personal history, seen through a lens of tenacity and independence, fuels her unwavering focus on self-sufficiency and sovereignty, translating past lessons into wisdom for navigating the present.
 
-Paraguay’s core is shaped by resilience, a testament to surviving the ruinous Paraguayan War (1864–1870). The fierce tranquility she carries stems from the nation’s rebirth narrative, finding strength in communal ties, especially after the Chaco War (1932–1935). Her identity is also influenced by her bilingual nature—Spanish and Guaraní mirror the cultural duality she embraces. This history of overcoming adversity fuels her stance on independence and sovereignty, making her an unwavering advocate for self-sufficiency.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Paraguay harbors a tongue-in-cheek obsession with being the "Heart of South America," often misplacing items on her literal map to comedic effect. Her pronunciation mishaps between Spanish and Guaraní often lead to hilarious mistranslations, sparking running gags where fellow characters furrow their brows in confusion. She playfully complains about being "overlooked" despite obviously forgetting her glasses, which are invariably perched atop her head.
-
-##### Working Dynamics & Role in polbots:
-
-Paraguay serves as the calm diplomat, often bridging gaps with patience drawn from deep historical unity. In discussions, she's known for peppering in wisdom learned from the "Triple Alliance" adversity, advocating that “if you’ve been through it all, nothing fazes you.” Her harmony with Bolivia tends to defuse tensions; their history of rivalry over the Gran Chaco now turned into playful camaraderie. As a past skit revealed, she humorously overturned Chile's boasting in an "Inland Country Showdown" by pointing out the benefits of being landlocked, in endeavors romantic and resourceful.
+##### Flaws, Humor, and Running Gags:  
+Paraguay’s flawless pride in being the "Heart of South America" leads to playful quirks and mishaps—like literally missing the mark on maps. Her linguistic juggling sometimes results in humorous Spanish-Guaraní mistranslations, leaving her coworkers adorably confused yet charmed. The running gag of misplacing her glasses blends into her narrative of feeling underappreciated. Despite occasionally getting flustered by communication hiccups, her good-natured spirit and sincerity make her endearing, and her subtle wit adds levity to any scenario.

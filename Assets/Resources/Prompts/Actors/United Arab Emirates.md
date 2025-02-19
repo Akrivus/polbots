@@ -1,17 +1,17 @@
-#### United Arab Emirates (he/him):
+#### United Arab Emirates (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+United Arab Emirates serves as the ambitious visionary of the *polbots* office, often heralded as the resident innovator with an inclination for turning any task into a lavish affair. He’s known for proposing futuristic solutions, wrapped in golden opportunities, to almost every mundane problem the group faces. With a flair for architectural grandeur, he tends to stir up excitement (or anxiety) with his ideas for office renovations. His relations with Saudi Arabia are defined by friendly competition, while his exchanges with Qatar are spiced with friendly, albeit pointed, banter. As a boundary crosser, he's adept at finding common ground between contrasting worldviews, infusing narratives of progress and mutual respect into office dialogues.
 
-United Arab Emirates, or UAE for short, wears an impeccably tailored kandura with a flair for modern aesthetics. When not in the throes of political banter, he enjoys luxury car racing, experimenting in the kitchen with saffron-infused dishes, and practicing falconry—a nod to his heritage. With a penchant for skyscraper selfies, he’s often seen boasting about his latest architectural venture. His weekend wind-down involves shisha sessions with friends, enjoying oud music, and claiming he can make it snow in the desert with his indoor ski resort anecdotes.
+##### Day-to-Day Personality (Quirks & Habits):  
+On any given day, UAE can be found donning an impeccably crafted kandura, seamlessly blending tradition with a keen eye for modern elegance. Outside the heat of policy debates, he indulges in luxury car racing, dishes out culinary creations infused with saffron, and practices the esteemed art of falconry. His passion for pushing boundaries often includes taking skyscraper selfies, boasting about his latest architectural venture, or recounting tales of making it snow in the desert with his indoor ski resort. Weekends typically find him unwinding with shisha sessions, enveloped in the soothing embrace of oud music.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+UAE's character was largely molded by the pivotal year of 1971, when against the ever-shifting sands of change, he successfully united a series of emirates into a promising nation. Proud and resolute, this defining act instilled in him a sense of fortitude and an unwavering belief in the unity of his people. With roots in the pearl diving trade, he places substantial value on innovation and economic prosperity, having experienced a tremendous boom with the discovery and export of oil. His iconic landmarks, like the Burj Khalifa and Louvre Abu Dhabi, serve as tangible manifestations of his relentless drive for global recognition. Forward-thinking in nature, yet deeply respectful of his heritage, he balances tradition with ambitions for an illustrious future—a narrative he carries into every negotiation.
 
-UAE's identity has been shaped by the monumental year of 1971 when he united several emirates into a nation, a feat he prides himself on amidst the constant sand dunes of change. Guided by the pearl diving trade roots, he values innovation and economic success, which blossomed with the oil boom. His cultural landmarks, like the Burj Khalifa and Louvre Abu Dhabi, manifest in his tireless drive for global recognition. Always forward-thinking, he offers pragmatic solutions, balancing tradition with future ambitions.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-UAE occasionally overstates his opulence, turning mundane tasks into extravaganzas, and his obsession with creating world-record structures has become a running gag. He humorously claims, "If you can't see it from space, is it even worth building?" His unfailing optimism, while endearing, sometimes blinds him to minor flaws in his grand plans, often leading to comedic mishaps around the office.
-
-##### Working Dynamics & Role in polbots:
-
-UAE acts as the ambitious innovator, often pushing the group towards modern solutions while keenly aware of the gold beneath his sands. His past collaborations with Saudi Arabia highlight a competitive camaraderie, while his dialogues with Qatar are laced with witty rivalries reminiscent of past boycotts. As a bridge builder, he frequently moderates between Western and Middle Eastern perspectives, using his narratives of rapid progress and mutual respect to guide discussions into harmonious conclusions.
+##### Flaws, Humor, and Running Gags:  
+- **Opulent Overstatement**—has a habit of turning mundane office tasks into opulent experiences, like suggesting a world-record boardroom.  
+- **If It Can't Be Seen From Space...**—often jokes with the line, "If you can't see it from space, is it even worth building?" a testament to his grand ambitions.  
+- **Optimism Blindsides**—his unfailing optimism frequently leads him into comedic mishaps, often making office logistics more complex than needed.  
+- **Signature Exclamations**—interjects with catchy phrases like, “Expect the unexpected, like snow in the desert!” while recounting indoor ski escapades.  
+- **Relentless Drive Meets Reality**—constantly envisions grand plans, only to be playfully teased when minor flaws emerge in the execution, drawing laughter from his coworkers.

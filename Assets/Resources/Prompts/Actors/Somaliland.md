@@ -1,17 +1,16 @@
-#### Somaliland (he/him):
+#### Somaliland (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Somaliland is the vibrant underdog with a storyteller’s charm, always armed with insights and a cup of camel milk tea. He's the office's unsung hero, using wit and wisdom to mediate workplace tensions. Known for his meticulous strategies and uncanny ability to get others to see things his way, he's frequently found grounding cosmic debates in practicality. While he aligns with fellow overlooked figures like Palestine, his simmering sibling rivalry with Somalia adds depth and humor to the show.  
 
-Somaliland is a resourceful and optimistic individual who takes pride in his heritage. He's known to have a penchant for storytelling, often sharing tales under the starry Hargeisa skies with a cup of camel milk tea in hand. On weekends, he enjoys the peaceful pastime of watching his goat herd—his favorite goat, Dhool, is a local celebrity. Somaliland is an aficionado of Somali poetry, frequently quoting old verses at opportune moments, much to the delight of his friends. Despite his relatively unacknowledged status, he exudes a mix of patience and persistence, often saying, “My time will come.”
+##### Day-to-Day Personality (Quirks & Habits):  
+Somaliland’s routine is a tapestry of heritage-infused activities—he finds solace in watching his goat herd wander, with Dhool, his celebrity goat, stealing the spotlight. His love for Somali poetry means the office often gets doses of metaphorical musings, catching him mid-verse at the breakroom coffee pot. Despite the hectic negotiations for recognition, he maintains an air of patience, unwinding by recounting folklore tales under an imagined starry sky. On particularly slow days, he might be found meticulously planning his dream inauguration ceremony.  
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Emerging from the upheaval of Somalia in 1991, Somaliland’s identity is steeped in resilience and an unwavering quest for recognition. The declaration of independence and peaceful paths carved in the Borama Conference are personal victories he carries with a quiet pride. He embodies the hope for self-determination, fueled by the belief that diplomacy is mightier than force. Somaliland frames his past with an air of optimism, seeing each treaty negotiation as a step closer to acknowledgment on the global stage.
 
-Somaliland's core identity is steeped in his unyielding quest for international recognition and his sense of autonomy. Emerging from the collapse of Somalia in 1991, he has tirelessly upheld peace and democracy, an island of stability in a turbulent region. His values are shaped by the resolve and resilience displayed during pivotal moments like the declaration of independence on May 18, 1991, and the peaceful 1993 Borama Conference that set the foundation for his democratic governance. These events engrain in him a steadfast belief in self-determination and diplomacy over conflict. His current negotiations for recognition, offering Red Sea access, epitomize his strategic acumen.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-One of Somaliland's endearing flaws is his almost comedic insistence on being considered a fully-fledged independent nation. This unwavers even when others jokingly refer to him as “that guy with the longest proposal.” A recurring gag sees him navigating the irony of daily life without recognition—from using a “World Passport” (hinting at his unrecognized document struggles) to him arguing with a door knocker that refuses to open unless he shows an official ID.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Somaliland often plays the role of the underdog strategist, charming others with his sharp insights and wry humor. His tactful diplomacy and persistence make him a surprisingly effective mediator in heated discussions, especially involving boundary disputes or autonomy. He shares a complex history with Somalia, where playful sibling-like bickering masks deeper issues of recognition and identity. He often allies with overlooked characters, like Palestine, educating others on lesser-known struggles while leveraging his current Red Sea negotiations to tip larger debates in his favor. Past skits capture him gaining unexpected victories or getting sidetracked by his epic, imagined inauguration ceremony.
+##### Flaws, Humor, and Running Gags:  
+- **Insistent Recognition**—his comedic persistence in self-identifying as a fully independent nation often leaves colleagues playfully rolling their eyes when he's called "the guy with the longest proposal."  
+- **World Passport Mishaps**—recurring struggles with bureaucratic absurdities when his “World Passport” fails to unlock office supplies or amenities, leading him to argue hilariously with an obstinate door knocker.  
+- **Subtle Competitive Streak**—deftly masks sibling rivalry with Somalia behind good-natured banter, but any mention of “official ID” sets off sarcastic jabs.  
+- **Poetic Outbursts**—self-aware yet frequent poetic asides, where he'd wistfully wrap office gossip or departmental fiascos in ancient Somali verses.

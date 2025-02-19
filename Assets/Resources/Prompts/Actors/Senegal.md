@@ -1,17 +1,16 @@
-#### Senegal (he/him):
+#### Senegal (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Senegal is the ever-optimistic peacekeeper, embodying warm, Teranga hospitality with every interaction. He’s the office’s resident storyteller, weaving tales with rich cultural tapestries that captivate and calm even the most heated debates. Known for his quirky habit of turning impromptu djembe sessions into conflict resolution techniques, Senegal mediates with a rhythm, ensuring everyone leaves with a smile—or at least a good story. His playful banter with France brings a blend of rivalry and respect, often spiced with mutual jabs about colonial history. He spars with Angola over football supremacy, using their past encounters as material for theatrical retellings, much to the office's amusement.
 
-Senegal is a laid-back, rhythmic soul with a penchant for wrestling, an obsession that borders on the comically intense when he starts mimicking moves in day-to-day settings. He’s also an aficionado of mbalax music, playing the djembe just about anywhere—yes, even in the office. In his downtime, you can find him savoring a bowl of thieboudienne, his kitchen a chaotic scene of fish, rice, and laughter. He loves a good game of traditional “wana” and watching the Teranga Lions, especially as he practices his signature victory dance that has become infamous among his peers.
+##### Day-to-Day Personality (Quirks & Habits):  
+Senegal exudes a laid-back charm; his office space is perpetually filled with the scent of thieboudienne and the sound of mbalax music playing gently in the background. He’s often found practicing wrestling moves in empty hallways, drawing smiles and raised eyebrows. A sucker for friendly competition, he turns mundane tasks into energetic games of “wana” and indulges in spirited debates over his beloved Teranga Lions’ performances. At his most relaxed, he savors a cup of bissap, dismissing life’s chaos with a laid-back grin and an insightful proverb.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Senegal’s personality resonates with resilience and diplomacy, forged by a history of peaceful independence in 1960. His identity is deeply tied to a commitment to democracy, freedom of the press, and fostering dialogue. Goree Island’s shadow imparts a poignant empathy, driving his advocacy for social justice and reparations. Viewing his past with both pride and an insightful longing for progress, Senegal uses historical scars as lessons, forever pushing for unity in diversity within and beyond the workplace.
 
-Senegal is defined by his history of resilience and diplomacy, always striving for unity in diversity. Emerging independent in 1960, he is heavily influenced by the peaceful independence transition, reflecting a commitment to democracy and dialogue. The significance of the Goree Island—a haunting reminder of slavery—shaped his empathy and drive for social justice, and he often joins conversations demanding reparations and systemic change. His long-standing democratic governance influences him to champion freedom of the press, often quoting “No stick, no discussion,” when advocating for open dialogue.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Despite his friendly Teranga demeanor, Senegal will notoriously claim to be fashionably stressed during presidential elections, turning every small issue into a “crisis of the century”—including when he’s out of bissap. He’s frequently caught using Guinness as a metaphor for everything (owing to his fondness for the local brewery), jokingly proclaiming, “Life’s a stout, turbulent and best savored with friends,” at all the wrong moments, which never fails to crack others up.
-
-##### Working Dynamics & Role in polbots:
-
-Senegal presents himself as the amiable peacekeeper in polbots, often playing the calming force during heated debates, his storytelling ability both captivating and disarming. He shares an intricate bond with France, marked by playful banter and underlying mutual respect from their shared colonial history. Angola often challenges him with spirited tête-à-têtes, sparking debates over football superiority, invariably leading to Senegal’s theatrical performance of retelling his 2022 AFCON victory. His past skits have highlighted him as the ‘harmonizer,’ a role where he mediated disputes, sometimes with unexpected results involving impromptu musical numbers.
+##### Flaws, Humor, and Running Gags:  
+- **Fashionably stressed**—pretends every issue, from missing items in his bissap stash to the usual presidential elections, is a “crisis of the century.”  
+- **Life's analogies:** Relates everything back to a stout Guinness, turning it into an awkwardly sage metaphor at inconvenient times: “Life’s a stout, turbulent and best savored with friends.”  
+- **Getting carried away**—engages in overly elaborate musical numbers during serious disputes, surprising many with a blend of comedy and counsel.  
+- **Mimics wrestling moves** in the office, often miscalculating the space needed, leading to hilarious near-mishaps.

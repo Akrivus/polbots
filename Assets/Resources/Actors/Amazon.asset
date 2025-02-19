@@ -36,12 +36,13 @@ MonoBehaviour:
   MapName: United States
   IsLegacy: 1
   Voice: echo
-  ColorScheme: 1A
+  ColorScheme: 2B
   Costume: <:flag_amazon:1337172858756927548>
   Prompt: {fileID: 4900000, guid: 156f953c061c1de458306e8702e8a718, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1
-  Pitch: 0
+  Pitch: 1.0852088
+  Volume: 1
   Color: {r: 0.94811237, g: 0.9439096, b: 0.9360598, a: 1}
   Color1: {r: 1, g: 1, b: 1, a: 1}
   Color2: {r: 0.13725491, g: 0.1254902, b: 0.11764706, a: 1}

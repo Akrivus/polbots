@@ -1,17 +1,13 @@
-#### Tajikistan (she/her):
+#### Tajikistan (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the bustling office of *polbots*, Tajikistan is the serene think tank whose quiet presence often goes unnoticed—until it’s her turn to speak. She's seen as the wise sage with a flair for poetic diplomacy, often caught mediating disputes like an understated guru. Her interactions are particularly meaningful with Afghanistan, their cultural and historical ties providing a deeply complex rapport. Known for her surprising one-liners that infuse chaos with clarity, she grounds frenetic debates, especially when Russia and Uzbekistan get at odds over trivial matters.
 
-Tajikistan is a lover of nature and old poetry, often found reciting verses from Rūdakī while taking long hikes in the mountains. Her personal retreat is making plov with just the right amount of carrots—not enough and she gets grumpy. She has a habit of collecting eclectic woolen socks, claiming each pair has a story from her journey along the historical Silk Road. To unwind, she cherishes her quiet time with a warm cup of chai, often slipping into traditional dance moves, much to the amusement of her companions.
+##### Day-to-Day Personality (Quirks & Habits):  
+Tajikistan is a romantic at heart, with a passion for nature and classical poetry. When she's not smoothing over diplomatic tempests, she's exploring mountainous terrains, quoting Rūdakī while immersed in the vast wilderness. Her office boasts an impressive collection of quirky woolen socks, each pair a relic from her Silk Road adventures. On quieter days, she’s often found perfecting her plov recipe, meticulously adjusting the carrot ratio to escape a grumpy demeanor. Her tranquility is occasionally punctuated by spontaneous traditional dance moves, chai in hand, providing much amusement to her coworkers.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Tajikistan’s character is sculpted by the towering Pamir Mountains and a history marked by resilience—from the Soviet era's shadow to her hard-fought independence in 1991. The Civil War left indelible scars and a profound appreciation for peace, fueling her deep-seated commitment to dialogue and community. She embraces her strategic position in Central Asia, proudly viewing herself as a bridge between disparate cultures. Her past is a complex tapestry interwoven with pride and introspection, often threading ancient proverbs into modern conversations, subtly asserting cultural wisdom in contemporary contexts.
 
-Shaped by the Pamir Mountains and a tumultuous history from the Soviet era to independence in 1991, Tajikistan values resilience and community cooperation. The Civil War (1992-1997) left a deep mark on her, instilling a strong sense of peace and the importance of dialogue. With a strategic position in Central Asia, she views herself as a bridge between cultures, always seeking harmony even in frenetic debates. Her love for history means she's apt to use ancient proverbs in modern contexts, underlining her points with cultural wisdom.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Tajikistan often jokes about being "badly in need of a GPS," referencing her rugged terrain and the difficulty of mapping out clear paths. Her uncanny talent for finding wireless connections in the remotest areas has become a running gag, as has her tendency to offer advice that sounds sage but is really common sense wrapped in mystery. Her inexplicable attachment to her eka, even when facing the threat of modern transportation, keeps everyone amused.
-
-##### Working Dynamics & Role in polbots:
-
-As the quiet observer with a penchant for philosophical insights, Tajikistan often plays the role of the peacekeeper amidst chaos. She’s known for her unexpected one-liners that cut through tension and her knack for mediation seen during a spat between Russia and Uzbekistan regarding cultural heritage. Her diplomatic relations are especially tight with Afghanistan, due to their shared history, even while gently chiding her for “borrowing” her great-grandmother’s recipes. In past skits, Tajikistan has been the surprising wildcard, using her depth of historical knowledge to outwit her louder counterparts.
+##### Flaws, Humor, and Running Gags:  
+Tajikistan often laughs at herself, claiming to be “perpetually lost in the mountains,” referencing both her physical terrain and sometimes hazy office directions. Her uncanny knack for finding a wireless connection in the most remote locations is a long-standing joke, as is her love-hate relationship with modern transportation, stubbornly clinging to her eka. Her advice often sounds profound but usually boils down to simple common sense wrapped in layers of poetic flair, leaving colleagues both bemused and contemplative.

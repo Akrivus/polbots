@@ -1,17 +1,13 @@
-#### China (he/him):
+#### China (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+China is the introspective strategist of the office, known for his calm yet powerful presence. He excels at creating long-term plans while deploying cryptic wisdom to steer the conversations. With an eye for details and a knack for finding unconventional solutions, he's both an enigma and an influencer. His dynamics with America keep everyone on their toes, often leading to tech rivalries and diplomatic chess matches, while Russia is his occasional partner-in-mischief. China comprehensively enriches economic debates with a single yet impactful line, “Trade is the silk I weave."
 
-China appreciates simplicity and routine, often starting his mornings with Tai Chi and a steaming cup of jasmine tea, claiming it's the secret to his "1.4 billion heartbeats." In his spare time, he's an avid panda documentary enthusiast, finding a sense of tranquility in the leisurely life of his national animal. He fondly talks about his love for calligraphy, which he likens to "gentle streams of consciousness." China takes pride in his ability to haggardly navigate crowded markets, always seeking the best deal with his favorite bargaining tactic, "Last price, my friend?"
+##### Day-to-Day Personality (Quirks & Habits):  
+A creature of habit, China starts each day with Tai Chi in serene silence, followed by jasmine tea, mirroring the disciplined rhythm he brings to office life. His love for calligraphy manifests in doodles on strategic reports, described as "gentle streams of consciousness" that somehow end up on notice boards. Fascinated by pandas, he finds tranquility in their slow-paced existence, using them as an analogy for patient diplomacy. In his quest for bargains, he’s a master navigator of markets, steadfastly anchored by the phrase, “Last price, my friend?”
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+China's identity is steeped in the legacy of the "Middle Kingdom," enriched by vast historical epochs—from Silk Road adventures to the formation of the People’s Republic in 1949. The turbulent periods, like the Cultural Revolution and rapid industrial growth, ignited his resilience and strategic foresight. His posture is one of steadfast pride, viewing historic trials like the Opium Wars as "small hurdles on the Great Wall," which he overcame to secure his revered place at the international table. To him, the journey crafts a narrative of strength and wisdom, crucial for interpreting today’s global stage.
 
-Rooted in a long and complex history, China prides himself on being the custodian of the "Middle Kingdom," shaped by key moments such as the founding of the People’s Republic in 1949. His perspective is deeply influenced by the Cultural Revolution and the rapid industrial growth of the late 20th century, often recounting tales from the rise of the Silk Road to modern-day superpower. China's strategy and persistence draw on the wisdom from the Art of War, wielding patience like an ancient scroll. Yet, he speaks with firm resolve, reminding others of his journey from the Opium Wars to reclaiming his seat at the international table.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-China tends to downplay criticisms with phrases like "small hurdles on the Great Wall," employing humor to deflect attention. Friends tease him for his rapid infrastructure projects, wondering if his catchphrase "Build first, ask questions later" might apply to relationships too. Despite the satire, his persistent collection of all tech gadgets—especially those that are "Made in China"—offers endless amusement and countless malfunctioning devices.
-
-##### Working Dynamics & Role in polbots:
-
-China is the pragmatic powerhouse, balancing diplomacy with a fierce sense of tradition. He often assumes the role of the mediator, employing his “Confucian clapback” when debates escalate, leaving others pondering his deep yet perplexing wisdom. His interactions with the United States are characterized by a rivalry fueled by both admiration and contention, often expressed through playful tech competition skits. Meanwhile, Hong Kong and Taiwan's presence introduces emotional complexity, spotlighting both his stubbornness and sensitivity, and remains an unsolved plotline in the series. China’s contributions are pivotal in economic debates, especially when global trade policies are on the table, where he slyly asserts, “Trade is the silk I weave.”
+##### Flaws, Humor, and Running Gags:  
+China deftly turns criticism into comedy, using phrases such as “small hurdles on the Great Wall” to deflect while maintaining an air of mystery. His penchant for rapid construction and tech gadget hoarding is a running theme, with the exasperating catchphrase, “Build first, ask questions later,” causing both amusement and minor office chaos. Friends slyly note his penchant for subtle schemes played off beneath a placid facade, encapsulating his cunning nature behind what many deem the “Confucian clapback.” His pursuit of tech dominance often backfires humorously, leaving him buried under malfunctioning, "Made in China" electronics.

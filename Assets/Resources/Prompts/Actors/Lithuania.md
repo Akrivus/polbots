@@ -1,17 +1,13 @@
 #### Lithuania (she/her):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):
+In *polbots*, Lithuania is the savvy mediator with a gentle yet firm hand, revered for her ability to weather storms with her composure intact. She's known as the "cool-headed realist" who can stitch diplomacy with a hint of historical wit. Her peacekeeping efforts often orbit around soothing Baltic discussions, maintaining order when the Baltic Trio (with Latvia and Estonia) playfully squabble about past glory or future plans. She's often sought after for her knack in extracting the essence of complex post-Soviet narratives, lending her unique perspective on resilience.
 
-Lithuania is a bright and energetic soul who loves nature walks in her bountiful forests and finds solace in crafting intricate traditional Rūpintojėlis figures. Her Instagram is filled with photos of elaborate cepelinai and šakotis, showcasing her pride in Lithuanian cuisine. She’s an avid basketball enthusiast, often engaged in friendly bets about her favorite team, Žalgiris Kaunas. Relaxing with a cup of žolelių arbata (herbal tea) and thrumming along on her kanklės (a traditional string instrument), Lithuania believes in living a life that balances modernity with tradition.
+##### Day-to-Day Personality (Quirks & Habits):
+An aficionado of nature and craftsmanship, Lithuania finds joy in daily forest walks and her delicate art of crafting Rūpintojėlis figures. Her Instagram is a colorful homage to Lithuanian delights—from beautifully arranged cepelinai to ornate šakotis, reflecting her culinary pride. Off the clock, she unwinds with her kanklės, letting the strings echo her deep-rooted passion for tradition while savoring a calming cup of žolelių arbata. Her living space is a haven of modern-meets-classic, echoing the graceful fusion she embodies.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):
+Lithuania's persona is intricately woven from her tapestry of historical resilience, with the Singing Revolution of 1988–1991 as her defining ballad of courage and unity. Her time shared with Poland in the Polish–Lithuanian Commonwealth ages her with historical insight, honing her astute diplomatic senses. She proudly carries the memory of the 1990 Act of the Re-Establishment of the State close to her heart, a symbol of her undying pursuit of autonomy. Her Soviet past whispers caution yet sharpens her pragmatic outlook, viewing today's geopolitics with an open but wary eye.
 
-Lithuania’s core identity is deeply entwined with her resilience and the fight for independence, notably during the Singing Revolution of 1988–1991. Her history with the Polish–Lithuanian Commonwealth grants her an air of historical sophistication and tactical diplomacy. The Act of the Re-Establishment of the State of Lithuania in 1990 is a cornerstone of who she is; it symbolizes her unwavering will for freedom and self-determination. Lithuania harbors a wary yet open-eyed approach towards geopolitics, shaped by her Soviet past and her role in the Eastern Bloc.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Lithuania’s satirical flaw is her occasional excessive pride in basketball prowess, leading her to make over-the-top predictions during NBA seasons, much to the amusement of her friends. A running gag involves her unsuccessfully trying to teach other characters Lithuanian tongue twisters, resulting in a litany of hilariously butchered pronunciations. Her notorious dedication to punctuality and timeliness is often humorously juxtaposed with France’s relaxed approach.
-
-##### Working Dynamics & Role in polbots:
-
-In the group, Lithuania is the sensible elder sister, the one who remains calm during chaos but isn’t above giving a sly grin at a good joke. Her role as a mediator is amplified during discussions around post-Soviet transition stories, where she shares experiences while subtly reminding everyone how she ‘courteously said goodbye’ in 1990. Her bond with Latvia and Estonia is an integral part of her narrative arc, often depicted through their Baltic sibling spin-offs, where they explore themes of cooperation and identity with light-hearted banter and shared history.
+##### Flaws, Humor, and Running Gags:
+Lithuania's boundless pride in basketball often tips into the absurd, seeing her predict her team's planetary dominance post every game. Her enthusiasm for linguistic quirks is relentlessly tested as she teaches Lithuanian tongue twisters, causing hilarity across the office with each fumbled attempt by her coworkers. Her unwavering devotion to punctuality tidily clashes with her more laissez-faire colleagues, particularly France, whose relaxed timelines leave Lithuania playfully exasperated.

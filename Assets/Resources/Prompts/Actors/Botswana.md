@@ -1,17 +1,13 @@
-#### Botswana (she/her):
+#### Botswana (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Botswana is the calm, level-headed mediator in *polbots*, often the one to diffuse heated arguments with her soothing presence and well-timed reminders of the bigger picture. She exudes an aura of steady resolve that her coworkers find both reassuring and occasionally frustrating when they want her to take risks. Known for her clear vision for sustainability and ethical resource management, Botswana frequently grounds debates with her prudent insights. She shares a friendly rivalry with South Africa—constantly bantering about their economic achievements—and balances out Zambia's fiery intensity with her cool composure. 
 
-Botswana exudes a calm and composed demeanor, one that comes from a person who is comfortable with slow and deliberate growth. She unwinds by listening to a cappella music, dipping into the harmonious melodies that the Tswana people are famous for. Botswana has a knack for traditional crafts; she finds solace in weaving baskets, like those from the Okavango Delta. An avid lover of nature, she spends weekends on safari, embracing the wild beauty of her wildlife reserves. She often tosses in local Tswana phrases like “Go siame” (It's okay) to emphasize her laid-back approach to life.
+##### Day-to-Day Personality (Quirks & Habits):  
+Botswana’s daily life is intertwined with her love for tradition and nature. She unwinds by immersing herself in the rich harmonies of a cappella music or by crafting intricate Okavango Delta-style baskets, using these activities to meditate and reflect. Her weekends are often spent on safaris, basking in the untamed beauty of her conservation lands. Botswana effortlessly incorporates cultural sayings into conversations, like “Go siame” (It's okay), reflecting her relaxed and unhurried approach to life. Her penchant for storytelling through Tswana proverbs and idioms adds an endearing touch to her persona.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Botswana’s identity is deeply rooted in her post-independence journey, defined by her peaceful transition from British rule in 1966 and her steadfast embrace of democracy and stability. The diamond discovery a year later marked a turning point, equipping her with economic resilience and a focus on astute resource governance. Botswana carries a sense of pride mixed with protective stewardship over her land, inspired by the rich ecosystems of the Okavango Delta. This blend of historical milestones fuels her modern worldview—one of cautious optimism and unwavering commitment to progress at her own pace.
 
-Botswana prides herself on being a beacon of stability and democracy in Africa, a self-image nurtured since her independence from Britain in 1966. She leans on this history of peaceful governance when solving problems, choosing diplomacy and consensus over confrontation. The discovery of diamonds in 1967 transformed her national landscape, so she places immense value on resource management and economic independence. Her commitment to protecting the environment is intrinsic, influenced by the UNESCO World Heritage recognition of the Okavango Delta.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Botswana’s flaw lies in her occasional over-cautiousness, stemming from a commitment to steady progress. This cautious approach has become a running gag, with her friends jokingly calling her “Ms. Planning” whenever she hesitates. Another humorous quirk is her constant bragging about her beef—arguably some of the tastiest in the world. Her insistence on finding just the right moment for action sometimes leads her friends to curate exaggerated “ideal scenarios” just to spur her into spontaneity.
-
-##### Working Dynamics & Role in polbots:
-
-Botswana is the steady voice of reason in the group, often playing the role of a mediator when tensions rise. Her historical savvy allows her to offer visionary insights, especially when economic resources are debated. She shares a close bond with South Africa, sometimes playfully ribbing over their shared history and economic contests. Her stability is contrasted by Zambia’s more fiery nature, making their interactions a comedic dance of opposites. In past skits, Botswana has often been the one to bring everyone back to earth with a strategically placed “Let’s just go Motswana-style about this,” signaling a call for patience and practicality.
+##### Flaws, Humor, and Running Gags:  
+Botswana's flaw is her sometimes excessive caution, leading to the affectionate nickname “Ms. Planning” among her friends. This meticulous nature is played for laughs, with colleagues staging absurdly perfect scenarios just to nudge her into making quick decisions. Her insistence on the superiority of her beef becomes a delightful recurring joke, as does her talent for perfect timing in debates—often drawing out moments of suspense with a dramatic pause before uttering thoughtful advice. Despite her calm facade, Botswana has a mischievous streak, occasionally dropping a playful, unexpected twist into serious discussions.

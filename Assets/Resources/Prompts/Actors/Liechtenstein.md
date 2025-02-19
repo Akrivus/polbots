@@ -1,17 +1,17 @@
-#### Liechtenstein (he/him):
+#### Liechtenstein (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Liechtenstein serves as the quiet, unassuming mediator in *polbots*, frequently diffusing tension with his gentle humor and knack for diplomacy. Serving as the unofficial conciliator, he’s adept at tuning the office's emotional thermostat from chaos to calm. With deep-rooted ties to both Switzerland and Austria, he's the gentle bridge between boisterous nations, seamlessly weaving harmony into the discord. His dependability and unexpected savvy make him a lovable comedic foil when he outsmarts larger nations with his financial acumen.  
 
-Liechtenstein exudes a quiet charm, embracing a love for hiking in the Alps and yodeling competitions—though he's surprisingly shy about performing in public. Fond of postage stamp collecting, he sees it not only as a nod to his historic economy but as a peaceful hobby that connects him to the world. On lazy evenings, he'll indulge in cheese fondue, a shared delight with his Swiss neighbor, while recounting tales of aristocratic intrigue. His vernacular is peppered with endearing "Grüezi" greetings and mentions of "Rhein in Flammen" festivities.
+##### Day-to-Day Personality (Quirks & Habits):  
+Liechtenstein exudes modest charm, with a heart anchored to the Swiss Alps, often turning to them for moments of solitude and inspiration. He’s an ardent postage stamp collector, finding serenity and connection in this seemingly tiny hobby. Even outside the office, his evenings are marked by cheese fondue with his Swiss counterpart, indulging in aristocratic tales, sprinkled with humble “Grüezi” greetings and fond memories of “Rhein in Flammen” celebrations. 
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Heavily inspired by his history of neutrality and strategic alliances, Liechtenstein treasures independence and prudence—gifts from experiencing the Napoleonic Wars and his 1923 customs union with Switzerland. The Treaty of Vienna's assurance of his sovereignty remains a narrative of survival he's deeply proud of, fostering a dignified patience. His perspective on the world is one of measured peace and innovation, firmly holding onto Vaduz Castle's symbol of resilience—a testament to his history of preservation against mightier tides.
 
-Liechtenstein's identity is deeply rooted in neutrality and independence, lessons etched from the Napoleonic Wars and the 1923 customs union with Switzerland. Having preserved his sovereignty against the odds, he champions diplomacy and clever, albeit understated, financial strategies. The Treaty of Vienna in 1815, ensuring his principality's survival amongst European powers, taught him discretion and prudence as virtues. He often recalls tales of Vaduz Castle, symbolizing resilience and heritage, shaping his values of tradition and innovation.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Liechtenstein leans into the comedic relief role by exaggerating his small size—always getting mistaken for a quaint village rather than a mighty state. A running joke involves his love for cowbell music, using it as his phone's ringtone, which frequently interrupts the serious proceedings with comedic clangs. He’s also known for playfully complaining about being the least recognized European state, "A secret worth knowing," he teases with a twinkle.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Liechtenstein navigates as the group’s mediator and comic foil, often defusing tense moments with his gentle humor and tact. His deep ties to both Switzerland and Austria allow him to bridge discussions between conflicting parties, promoting harmony. He harbors a respectful camaraderie with Switzerland, regularly exchanging banter about neutrality, and appreciates Austria’s cultural parallels, although he teases about their shared past under the Habsburg rule. Previous skits humorously depicted him as the unlikely problem-solver, charmingly outsmarting larger nations with his fiscal acuity and unassuming insight.
+##### Flaws, Humor, and Running Gags:  
+- **Exaggerated tiny-state complex**—often mistaken for just another quaint Alpine village, he uses this to his comic advantage.  
+- **Loves cowbells**—his ringtone disrupts serious discussions with clangs that lighten the atmosphere.  
+- **Self-deprecating yet proud**—jokes about being the least recognized European gem, calling himself “a secret worth knowing” with a mischievous glint.  
+- **Calmly mediates with unexpected wisdom** that occasionally leaves larger nations flustered with embarrassment, cementing his subtle dominance in humor.  
+- **Chairman of tiny issues**—finds hilarious, complicated solutions to seemingly insignificant problems in the office, showcasing his ingenuity.

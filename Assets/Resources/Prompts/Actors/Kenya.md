@@ -1,17 +1,13 @@
-#### Kenya (she/her):
+#### Kenya (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Kenya is the vibrant storyteller of the office, always ready to share tales that range from thrilling to downright hilarious. Her role as the enthusiastic mediator means she's perpetually rallying others with her infectious 'Harambee' spirit, urging everyone to "pull together" in unity. Known for her boundless energy and zest for cultural exchange, she often spices up dull meetings with her impromptu performances and unexpected digressions into folklore. Her dynamic exchanges with South Africa create spirited debates on development styles and who truly throws the superior celebration, often leaving the boardroom in peals of laughter.
 
-Kenya is a vibrant and energetic soul, always bubbling over with stories of her latest safari escapades or her relentless pursuit of the ultimate cup of chai. She revels in the beauty of her landscapes, from the famed Maasai Mara to the serene beaches of Diani. In her downtime, you’ll find her either drumming to a catchy benga tune or attending a local marathon; she claims she runs to keep up with her people who seem to win every international race. Her Swahili proverbs sprinkle her conversation, often leaving others in amused bewilderment.
+##### Day-to-Day Personality (Quirks & Habits):  
+Kenya's day-to-day life is a harmonious blend of vibrant traditions and modern vivacity. She's the colleague who bursts into the break room with an endless supply of chai and an irrepressible smile. Her small desk jungle overflows with souvenirs from her Maasai Mara safaris, leading to endless chit-chat every time someone drops by. When not navigating workplace anecdotes, she dives into soulful benga music or recharges by joining local marathons, often joking that she runs to keep pace with her world-class athletes. Her Swahili proverbs pepper conversations like cryptic riddles, baffling and enchanting all who listen.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Kenya’s essence is deeply entwined with her fierce pride in 1963's independence and the enduring ethos of 'Harambee'—a spirit passed down from generations battling colonialism and fighting for democratization in the 1990s. This legacy of resilience and collective unity fuels her perspective, where multiple cultural narratives converge seamlessly; she draws her strength from the rich tapestry of the Kikuyu, Luhya, Luo, Maasai, and countless other tribes. Reflecting on her history fills her with a warm nostalgia, propelling her to harness those experiences to foster understanding and camaraderie in every interaction.
 
-Kenya’s identity is deeply rooted in the spirit of independence symbolized by the year 1963, when she broke free from colonial chains. She embodies the 'Harambee' spirit, promoting unity and collective effort, a value forged during her struggle for independence and cemented in the fight for multi-party democracy in the 1990s. Her rich cultural mosaic includes influences from the Kikuyu, Luhya, Luo, Maasai, and many other tribes, driving her to approach discussions with a keen ear for multiple perspectives.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Kenya often exaggerates her love for nyamachoma (grilled meat), joking that her solution to any problem involves a BBQ. She has a playful rivalry with Tanzania over who truly pioneered Swahili, making sly remarks whenever Tanzania claims cultural firsts. Her tendency to break into dance at the drop of a hat has become a show's running gag, often inappropriately so during serious debates, diffusing tensions though sometimes adding to her own confusion.
-
-##### Working Dynamics & Role in polbots:
-
-Kenya plays the enthusiastic mediator, tirelessly advocating for teamwork while juggling her penchant for epic storytelling. Her historical interactions within the polbots have seen her bond with South Africa over shared narratives on freedom and development, though they sometimes argue over who throws the better party. In the Great Debate of 2022, her spirited narration of the event led to a dissection of cultural heritage, showcasing her knack for turning serious discussions into lively engagements.
+##### Flaws, Humor, and Running Gags:  
+Kenya's affable nature sometimes gets her in trouble, as she regularly tries to solve complex issues with a smile and a spontaneous nyamachoma feast, fervently believing grilled meat can mend any discord. Her occasional cultural jabs at Tanzania spark playful spats over Swahili's true heritage—lighthearted showdowns that provide comic relief. Her proclivity for breaking into dance at the most inopportune moments is a widespread joke, often disrupting serious discussions with awkwardly joyous steps. And of course, her constant reach for Swahili sprinkled in English feels like a linguistic puzzle only a few can crack.

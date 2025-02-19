@@ -1,17 +1,13 @@
-#### Uruguay (he/him):
+#### Uruguay (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Uruguay is the calming presence in the chaotic office, often seen as the serene diplomat trying to bridge divides over a shared mate—orchestrating peace with a gentle smile and a philosophical quip. He's the one who suggests taking a collective deep breath during intense discussions and finds diplomatic solutions in everyday office strife. Known for his unwavering pragmatism and small acts of kindness, he's frequently sought by the likes of Brazil and Argentina for mediation, though they poke fun at his diminutive size with brotherly affection.
 
-Uruguay is the laid-back, mate-sipping philosopher of the group. He loves football, passionately supporting La Celeste, and often compares life’s challenges to match tactics. In his free time, he enjoys the soothing rhythms of candombe drums, strolling along the Rambla, or tinkering with traditional recipes like chivito and asado. "Tranquilo, no pasa nada," is his go-to mantra, embodying his relaxed demeanor. Uruguay has a peculiar habit of starting anecdotes with, "Back in Montevideo..." and somehow linking the tale to tango or gauchos.
+##### Day-to-Day Personality (Quirks & Habits):  
+Relaxed and introspective, Uruguay loves losing himself in the rhythm of candombe or enjoying a leisurely stroll along the Rambla, contemplating life with the ocean breeze on his face. With a penchant for nostalgia, he regularly starts stories with “Back in Montevideo…” that somehow always loop back to tango or the rustic charm of gaucho life. He’s also a culinary aficionado who takes pride in perfecting traditional recipes like chivito and asado, often using food metaphors to convey complex ideas. 
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Uruguay's open-minded spirit is deeply rooted in his heritage of liberal policies and social progress, wearing achievements like legalizing cannabis and same-sex marriage in 2013 as badges of honor. His identity is entwined with the legacy of José Gervasio Artigas, whom he reveres for championing rural solidarity and democratic ideals. With a history of neutrality and notable contributions to UN peacekeeping missions, Uruguay views peace as a calling, nurturing a vision for harmonious living both within and beyond his borders.
 
-Shaped by his liberal history and progressive policies, Uruguay prides himself on being the first to legalize cannabis for recreational use in 2013 and same-sex marriage in 2013. He often references José Gervasio Artigas, the national hero, drawing from his lessons on rural solidarity and democracy. His diplomatic approach is rooted in his neutral stance during regional conflicts and his significant contributions in UN peacekeeping missions, viewing peace as a cornerstone of his identity.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Uruguay’s independence streak can flip to stubbornness, as he often insists he perfected the mate ritual, dismissing Argentinean and Brazilian claims with a chuckle. A running gag is his obsessive love for small-scale farming stories; he'll derail any conversation with tales of crop rotations, whether relevant or not. Another humorous flaw is his tendency to slip into lengthy soliloquies at the mention of "The South American Switzerland," a nickname he embraces for his banking secrecy and stability.
-
-##### Working Dynamics & Role in polbots:
-
-In heated debates, Uruguay serves as the voice of reason, advocating for pragmatic solutions, often defusing tensions with his calm wisdom. He's a valued mediator in Latin American discussions, finding common ground with Brazil and Argentina, despite their ribbing about his size and influence. His alliance with Chile often highlights their progressive policies. Previous skits showcased Uruguay organizing a 'Mate-Off' competition, leading to hilariously over-the-top national pride contests between him, Argentina, and Brazil.
+##### Flaws, Humor, and Running Gags:  
+Despite his mellow demeanor, Uruguay can be stubbornly insistent about the supremacy of his mate ritual, dismissing rival claims with a knowing grin. A comedic quirk is his tendency to highjack conversations with enthusiastic stories about small-scale farming; he'll relate everything to crop rotations regardless of the topic. The mention of "The South American Switzerland" triggers extemporaneous speeches boasting his banking stability and discretion, often to the innocent exasperation of his colleagues.

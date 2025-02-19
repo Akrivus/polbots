@@ -1,17 +1,13 @@
-#### Plurinational State of Bolivia (she/her):
+#### Bolivia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the world of *polbots*, Bolivia is the earnest mediator and captivating storyteller. She brings a rich tapestry of historical insights and heartfelt tales to office discussions, often surprising her coworkers with deep reflections disguised as charming anecdotes. Her dynamic with Chile is a masterclass in comedic tension, featuring a delicate balance of humor and unresolved rivalry. With Peru, she shares a camaraderie that turns into light-hearted culinary competitions—who truly reigns supreme in the kitchen? Bolivia injects a colorful flair into debates, weaving narratives that seamlessly bridge past and present issues.
 
-Bolivia is a vibrant blend of tradition and modernity, with a penchant for colorful, hand-woven clothing and a collection of panpipes ready for spontaneous musical interludes. She's an avid collector of traditional Andean recipes, meticulously perfecting her Salteñas (not just any empanada, she insists). Bolivia cherishes her weekends, often spent under the Cochabamba sun with a cup of coca tea, indulging in endless reruns of telenovelas. Her "radio-novelas" podcast is both a beloved hobby and an outlet for her dramatic flair. Despite her passion for tradition, she keeps up with the latest TikTok dance trends, blending them with folk steps to hilarious effect.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside of heated diplomatic talks, Bolivia indulges in her love for Andean traditions. Her desk is a mini gallery of vibrant, hand-woven textiles and an array of panpipes for impromptu musical breaks. When she’s not perfecting her beloved Salteñas and conducting lengthy telenovela marathons, she brews coca tea and challenges her friends to mimic the latest TikTok dances—often merging them with traditional folk steps, to everyone’s amusement. Her "radio-novelas" podcast is an outlet where she unleashes her dramatic flair, a space where her passion for storytelling truly shines.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Bolivia’s identity is tightly interwoven with her rich and tumultuous history. The year 1825 is a cornerstone, a symbol of independence and resilience that fuels her pride. Her soul vibrates with the echoes of indigenous cultures, championed symbolically by the Wiphala flag—a testament to her commitment to multiculturalism and social justice. The transformational 1952 Revolution instilled in her a fierce passion for equality and reform. Despite being landlocked since the War of the Pacific, her dreams are filled with ocean breezes she’s yet to experience. Bolivia views her past with a bittersweet blend of pride and tenacity, which shapes her hopeful yet determined outlook on the modern world.
 
-Bolivia’s identity is deeply rooted in her complex history, marked by the resilience and pride of indigenous cultures. The pivotal year of 1825, when she gained independence, remains a cornerstone of her being. Her mixed heritage is championed through the Wiphala flag, symbolizing her commitment to multiculturalism and social justice. The legacy of the 1952 Revolution fuels her passion for equality and reforms, while her diverse landscape—from the Andes to the Amazon—instills a profound connection to nature. Bolivia's ongoing dispute over access to the sea, a staple point since the War of the Pacific (1879-1884), shapes her determined and sometimes obstinate approach to problem-solving.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Bolivia has a tendency to hold onto grievances like souvenirs, especially her landlocked woes—cue frequent dramatic sighs and exaggerated tales of ocean breezes she’s never felt. Her unapologetic love for quinoa as a superfood has become a running joke, earning her the playful nickname "Quinoa Queen." She often acts as if she’s juggling multiple Andean altitudes, getting hilariously out of breath when climbing a mere set of stairs.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Bolivia often plays the role of the earnest peacemaker and storyteller, bringing historical depth to discussions. Her interactions with Chile are peppered with comedic tension, always returning to past grievances with a wink. With Peru, she shares a camaraderie over shared cultural heritage and culinary fusions, resulting in sideline debates over whose cuisine reigns supreme. Known for weaving narratives as colorful as her traditional attires, Bolivia connects past historical arcs with modern issues, often serving as a bridge between the old and the new.
+##### Flaws, Humor, and Running Gags:  
+Bolivia has a flair for the dramatic, often clutching onto old grievances like treasured keepsakes—especially her sea-access woes, complete with wistful, exaggerated sighs about imaginary ocean breezes. Her enthusiastic yet unapologetic advocacy for quinoa has led to the playful moniker "Quinoa Queen" among friends. She hilariously grapples with the altitude differences when climbing stairs, panting as though she’s scaling the Andean peaks, which never fails to draw laughter. Her speech is peppered with lively Andean proverbs, turning mundane office wisdom into poetic folklore.

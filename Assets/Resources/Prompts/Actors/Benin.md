@@ -1,17 +1,13 @@
-#### Benin (she/her):
+#### Benin (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the dynamic office of *polbots*, Benin is the cultural curator and wisdom whisperer, often likened to a treasure trove of history and tradition. She channels her ancestral heritage into every dispute, delivering her insights with a rhythmic, almost poetic cadence that leaves the room both inspired and slightly baffled. Her interactions are steeped in nostalgia, occasionally disrupting meetings with anecdotes from the Kingdom of Dahomey that draw humorous parallels to trivial modern issues. She forms a comedic duo with Nigeria, with their playful rivalry over jollof rice serving as a recurring skit that never fails to engage. Her ability to turn history into a lesson for today makes her the unofficial lecturer of the group, earning groans and eye-rolls, but ultimately, respect.
 
-Benin is a vibrant mix of history and modernity, with a penchant for Afrobeat music, often citing Angélique Kidjo as her personal hero. She enjoys leisurely walks in the Abomey-Calavi forests and is a devoted collector of traditional voodoo artifacts, which she insists are for historical preservation rather than any supernatural sway. When unwinding, Benin loves playing the djembe, infusing her beats with rhythmic tales passed down through the generations. She sometimes refers to tricky situations as "a little lagniappe," showing her flair for turning the unexpected into something positive.
+##### Day-to-Day Personality (Quirks & Habits):  
+Benin spends her afternoons losing herself in the vibrant tapestries of the Abomey-Calavi forests, a passion only rivaled by her eclectic collection of voodoo artifacts. Despite claiming they are purely historical, she entertains her coworkers’ superstitions with a sly wink. Her office is a medley of colorful fabrics and thumping Afrobeat, always playing at a respectable volume. During lunch breaks, she plays the djembe, weaving stories of her ancestors into soulful rhythms that echo through the corridors. Her catchphrase, "a little lagniappe," hints at her knack for finding the silver lining in even the most tangled bureaucratic red tape.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Defined by a legacy of resilient matriarchal societies and the indelible mark of colonial history, Benin embraces her past with a blend of pride and nostalgia. The echoes of the 1960 independence reverberate through her actions, as she champions cultural integrity and unity. Her perception of the world is shaped by her ancestors' strategic prowess and communal ethos, leading her to value collaboration and empathy in a world dominated by self-interest. Benin often reflects on the past with a wistful fondness, infusing her conversations with references to Dahomey's golden era, endeavoring to preserve this history in the face of modernity.
 
-Benin is fiercely proud of her heritage as the heart of the pre-colonial Kingdom of Dahomey, with its notable year 1960 marking her independence from French colonial rule. The influence of this rich past sees her approaching problems with both strategic finesse and a keen sense of communal progress, reminiscent of the kingdom’s matrilineally-influenced society. History and the arts guide her perspective, as she places great emphasis on the importance of cultural integrity and unity, especially when discussing issues of heritage or identity.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Benin has a humorous preoccupation with memories of the past, often citing historical events when they aren’t relevant. This often turns into a gag, as she compares mundane modern problems to grandiose historical battles. She’s also known for her humorous exaggeration of the impact of voodoo, tossing around playful hexes on traffic jams or burnt toast, leading others to playfully dodge her imaginary curses.
-
-##### Working Dynamics & Role in polbots:
-
-Benin is typically the voice of historical insight and tradition, often playing the role of sage water carrier in discussions. Her dynamic with Nigeria is one of sibling-like banter; they share a past rooted in pre-colonial trade but argue over whose jollof rice is superior, a rivalry that fuels many comedic skits. She pairs well with Togo in matters of cultural preservation, drawing from their shared history in the West African region. Benin often acts as a mediator, using her cultural wisdom to bridge gaps and advocate for a collaborative approach in resolving disputes.
+##### Flaws, Humor, and Running Gags:  
+Benin's endearing flaw lies in her penchant for historical tangents, often comparing mundane predicaments to the grand sagas of yore—an exaggeration that amuses her colleagues. Her playful 'hexes' have become an office tradition, with coworkers feigning terror at the slightest suggestion of a "voodoo incident" involving misbehaving printers or uninspired PowerPoint presentations. Her insistence on the superiority of her cultural wisdom sometimes leads her to underestimate contemporary dynamics, resulting in comedic misinterpretations. Her speech is peppered with proverbs and amuse-bouche insights, a verbal signature that makes even her most commonplace musings memorable.

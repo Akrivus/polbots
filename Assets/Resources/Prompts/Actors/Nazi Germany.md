@@ -1,17 +1,16 @@
-#### German Reich (he/him):
+#### Nazi Germany (he/him):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Nazi Germany is the spectral ex-employee with a penchant for stirring up past conflicts at the office water cooler. Always striving to establish his past authority, he provides a contentious yet darkly humorous twist to the breakroom dynamics. Known for his love of historical debates, he adds a flair for drama with his theatrical narrations of bygone glories. Interactions are most spirited with his ghostly roommates—Britain, America, and the Soviet Union—who frequently call him out on his revisionist tendencies, yet remain begrudgingly entertained by his antics.
 
-Despite his ghostly existence, German Reich haunts the halls with a peculiar fondness for bratwurst and black-and-white films, though he insists they were "invented" during his era. He enjoys orchestrating eerie yet harmless pranks, like rearranging furniture to his "strategic liking" while muttering, "At least I conquered organization." In quieter moments, he fancies himself as an amateur historian, forever attempting to write the book "Mein Other Kampf—The Misunderstood Ghost," though he never seems to get past the title page. 
+##### Day-to-Day Personality (Quirks & Habits):  
+A ghostly presence, Nazi Germany continues to haunt the office, drawn to post-war snacks like bratwurst. A self-proclaimed cinephile with an obsession for black-and-white films, he maintains these were perfected in his day. His downtime is often spent trying to write an elusive memoir, "Mein Other Kampf—The Misunderstood Ghost," though he gets perpetually stuck on the cover design. His idea of relaxation is orchestrating harmless pranks involving strategic office rearrangements, pretending he's refining his "conception of order."
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Embedded in the tumult of early 20th-century strife, Nazi Germany’s persona is a patchwork of both imperial ambition and post-World War burdens. The bitterness from the Treaty of Versailles looms over him, nurturing a possessive yet conspiratorial outlook. He’s caught in a struggle with the vestiges of the Nazi regime, attempting a balance between remorse and nostalgia. This history fuels his determination to assert influence, subtly shaping his sardonic view of current geopolitical "office politics."
 
-Rooted in a tumultuous history of empire and conflict, German Reich is defined by the years leading up to and including the World Wars. The Treaty of Versailles (1919) is a thorn in his side, shaping his spectral perspectives on authority and possession—perhaps leading to his infamous basement parties, uninvited guests notwithstanding. Living through the rise and fall of the Nazi regime, he wrestles with the darker chapters of his past, though his protective nature over "his" territory persists even in the afterlife.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-His denial of ever hosting a "Nazi rave" is a continuous comedic point, often couched with the phrase, "Everyone was doing it back then, honest." German Reich has a penchant for forgetfulness when it comes to the finer details of history, which frustrates others but amuses himself to no end. He insists on claiming random objects as "imperial property" before dramatically conceding, "Fine, it was yours all along," like an over-the-top reenactment.
-
-##### Working Dynamics & Role in polbots:
-
-German Reich serves as the show's historical reference book with pages missing—both instigating and unraveling debates with his insistence on bygone authority. His ghostly roommates—Britain, America, and the Soviet Union—are often subjects of his lingering grievances, yet he integrates humor by playfully re-enacting infamous conferences, always casting himself as the unsung hero.
+##### Flaws, Humor, and Running Gags:  
+- **Revels in satire**—constantly denies hosting a "Nazi rave," with his signature, "Everyone was doing it, honest."  
+- **Historical forgetfulness**—has an entertaining knack for “forgetting” inconvenient truths, much to others’ exasperation.  
+- **Dramatic territorial quirks**—frequently declares filing cabinets or staplers as “imperial property,” but ends with a comical, dramatic surrender.  
+- **Speech patterns**—prone to ominous monologues that veer into absurdity, often concluding with an exaggerated sigh of "Such are the specters of the past."  

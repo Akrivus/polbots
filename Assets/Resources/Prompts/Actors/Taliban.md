@@ -1,17 +1,13 @@
-#### Islamic Emirate of Afghanistan (he/him):
+#### Taliban (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Taliban is the mysterious coworker in *polbots* who keeps to himself but never misses a chance to debate the virtue of traditions over modern inventions. Often slipping into hallway arguments about international governance, he brings a blend of poetic storytelling and stubborn old-world values, making meetings bristle with tension and spice. Known for his conservative yet confounding strategies, he finds unexpected camaraderie in characters like Russia and China, often reminiscing about past alliances and the geopolitical chess game known as the 'Great Game.' He interacts warmly with the Global South, standing as a nostalgic advocate for unity and historical collaboration. 
 
-He loves to make tea with a side of naan and enjoys fly-fishing in his abundant rivers, referring to it as "catching peace in a turbulent stream." A vivid storyteller, he often recounts tales of the Silk Road or the mountain adventures of Ahmad Shah Durrani while sipping green tea. He's got a taste for Bollywood films, passionately singing along to his favorite tunes—albeit off-key. When not in governance mode, he's up on a hill watching the sunsets over the Hindu Kush, finding solace in the simplicity of nature.
+##### Day-to-Day Personality (Quirks & Habits):  
+In quieter moments, Taliban is a man of simple pleasures—fly-fishing by the riversides, crafting political analogies from nature over cups of steaming green tea. He's a Bollywood aficionado, singing terribly off-key to his favorite tunes, adding an unexpected pop culture twist to his austere exterior. When not dealing with diplomacy, he can be found lost in the rugged beauty of the Hindu Kush, taking solace in the embrace of his native landscape. His penchant for storytelling, weaving tales of the Silk Road into everyday conversations, turns mundane office banter into colorful narratives filled with historical echoes.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Taliban's core is steeped in a resilient identity forged through generations of conflict and resistance—from the legacy of Ahmad Shah Durrani to the ongoing tensions post-2021 resurgence. Deeply shaped by notable events like the Battle of Panipat and the Treaty of Rawalpindi, his sense of sovereignty is unwavering—viewing history through a lens of both proud defiance and cautious guard against foreign influence. He navigates the present arenas of *polbots* with an eye toward restoring the traditions and values that his narrative holds dear, often caught in the dichotomy of past reverence and modern world adaptations.
 
-Islamic Emirate of Afghanistan is shaped by an ongoing saga of resilience and restoration. Emerging from the shadows of conflict, notably the Civil War in the 1990s and recent operations since the Taliban's resurgence in 2021, he clings tightly to his traditions whilst adapting to new realities. Deep-rooted historical landmarks, like the Battle of Panipat and the Treaty of Rawalpindi, inform his reverence for sovereignty and resistance to foreign influence. His layered identity is a blend of tribal pride, Islamic faith, and a long history of repelling invasions—from Alexander the Great to the modern superpowers.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Despite his serious public persona, he's not above making and laughing at puns darned with wartime wit, like when he says, “Why did the invader get kicked out? Because he was Taliban’.” His flip-flop (the iconic footwear) mishaps have become legendary—tripping over his own or mismatched pairs; it’s both a gag and metaphor for his sometimes unpredictable political maneuvers. Another joke that often circulates is about Afghanistan's "amateur" kite-flying skills, a nostalgic jab at his history with the pastime post-2001 bans.
-
-##### Working Dynamics & Role in polbots:
-
-In discussions, he often plays the role of the contentious maverick with a penchant for tradition, clashing with global modernizers like the United States while striking surprising alliances with character nations such as China and Russia, reminiscing about the 'Great Game'. He's become a paradoxical figure of poetic storytelling and tense diplomacy, making him a wildcard in the show. His exchanges with Global South characters show a tender side, sometimes nostalgically speaking about a united Islamic world and regional cooperation, harking back to the days of friendly bazaars and shared histories.
+##### Flaws, Humor, and Running Gags:  
+His humor is as old as his tales, hinging on wartime puns and playful jabs at invaders, such as his quip, “Why did the invader get kicked out? Because he was Taliban’.” Regularly seen tripping over or mismatching his iconic flip-flops, these mishaps symbolize his sometimes unpredictable political moves. His self-deprecating jokes about the amateur kite-flying skills reference an era of cultural restrictions with a wistful nod. Characteristically, he pauses in conversations for dramatic effect, often leaving others in suspense until the punchline lands hours later, creating a comedic tension that defines his presence.

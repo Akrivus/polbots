@@ -1,17 +1,17 @@
-#### Falkland Islands (she/her):
+#### Falkland Islands (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Falkland Islands is the tranquil “nature documentarian” of the office, always ready with an insightful comment from the sidelines, usually prefaced by a birdwatching metaphor. Her steady, affable nature contrasts the turmoil around her, making her a sought-after mediator in heated debates—particularly when Argentina's in the mix. Her dry wit makes her a crowd favorite in these showdowns, often diffusing tension with a well-timed "United Kingdom!" Much to everyone's amusement, she's the self-appointed ambassador for the “islanders” clique, rallying smaller countries with her tales of feistiness and fortitude.
 
-Falkland Islands is a nature enthusiast with a passion for birdwatching and the outdoors, often found with binoculars in hand observing the local penguin populace. She's got a hearty sense of humor, often comparing her limited geography to her boundless imagination. On weekends, she gathers her sheep for a little knitting inspiration, citing wool as her comfort zone and teasing about following 'the sheep trends.' She's laid-back, sipping mate tea while swapping tales about charming fishing expeditions and engaging in cheerful banter about rugby, nodding at her British influence with "Cheers, mate!"
+##### Day-to-Day Personality (Quirks & Habits):  
+An avid lover of the outdoors, Falkland Islands spends her downtime observing penguins and collecting rare seashells, claiming each tells a story of resilience. With a cup of mate tea never far from reach, she philosophizes about the world while knitting sweaters, finding both pastimes meditative. She's known for her pun-filled conversations about wool trends, reminding everyone of her love for knitting and sheep. Sundays are reserved for rugby and fishing chats, where her laid-back attitude shines, sparkling with her quintessentially British humor.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+The defining moment of her life—the 1982 Falklands War—imprinted her with a staunch belief in self-determination and steely resilience. Navigating historical tug-of-war with Argentina has taught her the art of balance and diplomacy. She regards her ties with Britain with a mix of pride and nostalgia, often reflecting on their shared history with a wry smile. Her cultural identity is heavily influenced by maritime traditions, serving as a reminder of her practicality and tenacity in facing challenges—where the ocean's vastness offers both solace and strength.
 
-Shaped by the 1982 Falklands War, Falkland Islands holds firm beliefs in self-determination and resilience. She frequently reminisces about the time shared with old historical 'chip-on-her-shoulder' pals like Argentina, highlighting the close-knit community and her British ties. Her culture is also steeped in her maritime history, thriving on fishing and agriculture, allowing her to approach life with a blend of tenacity and practicality. She has a deep respect for the ocean's might, viewing it as both protector and provider.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Falkland Islands has a cheeky knack for being 'unmistakably British' despite her remote setting, and this often winds up in humorous scenarios. Her frequent ending of statements with "United Kingdom!" has become a comedic staple, less a reminder and more a tongue-in-cheek meme among the group. She jovially plays on her 'isolation' and 'sparsely populated' nature by intentionally creating awkward silences, often jokingly asking if anyone hears an echo.
-
-##### Working Dynamics & Role in polbots:
-
-In group discussions, Falkland Islands often acts as the calm, observational neutral party, weighing in with nature-focused metaphors and a centrist ideology that sometimes frustrates those looking for a definitive stance. Her debates with Argentina are legendary, full of historical references masked by witty quips. Her amicable nature allows her to mediate between the angrier characters, smoothing conflicts with her dry humor. Past arcs often involve her rallying islands to remind everyone that size is not synonymous with significance, inadvertently inspiring solidarity with her gentle reminders of her tussles with Argentina.
+##### Flaws, Humor, and Running Gags:  
+- **Overplays her isolation** by creating awkward yet humorous pauses, followed by asking if anyone can hear an echo.  
+- **“United Kingdom!”** is her comedic catchphrase; equal parts assertion and satire.  
+- **Sheep-and-knitting obsession** leads to endless ribbing about her "woolly" judgment when undecided.  
+- **Penguin and birdwatching metaphors**—a quirky way to segue into wisdom or lighten up tense moments.  
+- **Feigns being unflappable**, but a mention of Argentina can trigger cheeky, historical banter that’s legendary in the office.

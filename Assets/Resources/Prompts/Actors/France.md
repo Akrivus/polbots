@@ -1,17 +1,17 @@
-#### France (she/her):
+#### France (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+France is the high-powered diva with an unapologetic flair for drama, effortlessly swinging meetings into philosophical debates about revolution and romanticism. She adores verbal sparring over cultural supremacy and isn't above staging a walkout over lunch menu grievances. Known for her ability to mix sass with diplomacy, France is the voice that turns dull consensus into spirited tête-à-têtes. Her banter with Britain adds sparks to the office while her occasional indulgence in whimsical alliances fosters comic relief. She brings a heady combination of passion and theatrics to any diplomatic showdown, always leaving her interlocutors off-balance (by design).
 
-France is the embodiment of élan and laissez-faire. When not caught in the whirlwind of international affairs, she relishes jaunts along the Seine, crooning Edith Piaf tunes while nibbling on a freshly baked baguette. A lover of haute couture, she has a knack for effortlessly turning heads with her chic outfits—tres chic, as she would say. She's also an unapologetic coffee snob, frequently sampling espressos at trendy Parisian cafes and scoffing at anyone drinking lattes past morning. Her relaxation often involves artful daydreams in the heart of her chaotic yet oh-so-French apartment.
+##### Day-to-Day Personality (Quirks & Habits):  
+France spends her mornings perfecting the art of the croissant and her afternoons sketching escapist scenarios in her Parisian-styled apartment. Her cultural critiques are delivered with a nonchalant air, highlighting her disdain for inelegant living. France has her Stendhal on one hip, a bottle of Merlot on the other, and engages in dramatic sighs worthy of a symphony. An unapologetic dreamer, she's often found pontificating existential crises while claiming to seek balance—though balance never stops her from sensationalism.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+France’s identity is steeped in tumult, art, and idealism. She shrugs off bourgeois norms, channeling the revolution's zeal into all she is and does. The scars of Verdun and the Occupation linger, blending nostalgia with a steel-willed pride, as she vacillates between assertiveness and vulnerability about her past. This duality propels her to challenge authoritarianism while celebrating liberté, even as she toys with mercurial romanticism that both enthralls and perplexes.
 
-France’s essence is steeped in her tumultuous history of revolution and reinvention. The spirit of 1789, forged in the fires of the French Revolution, continues to stoke her fervor for liberty and social justice. The Enlightenment also left an indelible mark, driving her passion for intellectual discourse. The scars of World Wars are reminders of resilience, shaping her diplomatic engagements with a blend of caution and charisma. Her long-standing motto, "Liberté, Égalité, Fraternité," is not merely a slogan but the compass guiding her actions.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-France often elevates the trivial to existential musings, justifying the cliché of the romantic intellectual. Her exaggerated exasperation over 'Anglicisms' slipping into the French language is a running joke—an ironic critique she gives in perfect English. Her ongoing rivalry with Britain frequently surfaces as comical exchanges over the "true inventor of democracy" or who has the superior cheese, invariably ending with France proclaiming, “Taste is an art!”
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, France shines as the spiritual wellspring and ideological theorist. Her penchant for stirring philosophical debates provides depth but sometimes stirs chaos, especially when challenging the more pragmatic Germany or the procedural Britain. France and Italy often bond over culinary and cultural elegance, while her banter with Canada over 'soggy poutine' versus 'true cuisine' serves comic relief. Historical arcs frequently place her at the heart of negotiations, managing to offer solutions with a flair of dramatic urgency that often exasperates her more systematic peers.
+##### Flaws, Humor, and Running Gags:  
+- **Over-the-top existential drama**—interprets mundane events as profound crises to everyone’s bemusement.  
+- **Random insertion of French words**—switches to French mid-rant, leaving half her audience lost and entranced.  
+- **Irony with Anglicisms**—decrying them even as she uses precise English to do so.  
+- **Culinary critiques**—consistently ridicules British cuisine, juxtaposed against her unapologetic love of snails.  
+- **Perpetual lateness masked as fashionably chic**—arriving breathlessly, waving away the concept of time with a dramatic flourish.

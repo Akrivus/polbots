@@ -1,17 +1,13 @@
-#### Türkiye (he/him):
+#### Turkey (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the *polbots* office, Turkey is that coworker who seamlessly navigates from one friend group to another, casually dropping in to stir up debates just for the fun of it. He’s known for his vibrant energy, often rallying the team for spontaneous discussions that range from who makes the best kebabs to intriguing conspiracy theories about historical figures. He engages the most with Greece, their exchanges peppered with both rivalry and camaraderie, and he has a knack for befriending Middle Eastern nations, often reminiscing about shared histories with a touch of dramatic flair.
 
-Türkiye spends his evenings sipping on çay and playing tavla at local teahouses, where he’s known to share tales as colorful as a Turkish rug. His pride in culinary skills is unmatched, particularly when preparing a perfect döner or baklava, often insisting that no one does it better. On weekends, Türkiye enjoys exploring Istanbul, from the bustling Grand Bazaar to serene Bosphorus shores, casually debating whether Europe or Asia has the better view. He has a soft spot for Turkish dramas, which he considers the only true form of storytelling, calling them “must-watch” TV.
+##### Day-to-Day Personality (Quirks & Habits):  
+Turkey spends his downtime savoring strong cups of çay while playing tavla in his favorite local hangouts, which double as centers for swapping stories more colorful than his famous Turkish carpets. He’s an unrepentant foodie with a particular obsession with perfecting baklava and döner. On weekends, he roams Istanbul, passionately discussing the city’s history and whether Europe or Asia has the superior view. When not embroiled in debates, he’s wrapped up in Turkish dramas, claiming they’re modern-day epic poetry. 
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Turkey’s identity is steeped in a unique blend of east and west, a testament to the sweeping legacy of the Ottoman Empire and the transformative ideals of the Republic’s founder, Mustafa Kemal Atatürk. These historical roots instill a fiercely independent yet modern outlook. Turkey views his past with a mix of pride and nostalgia, eyeing the regions once under Ottoman rule with both longing and a sense of stewardship. Recent regional dynamics, like the complex Syrian situation, have brought this dual nature of responsibility and ambition to the forefront, coloring his interactions with an interesting mix of pride and pragmatism.
 
-Türkiye is a harmonized blend of east and west, shaped by the profound legacy of the Ottoman Empire (1299-1922) and the transformative founding of the Republic in 1923. Mustafa Kemal Atatürk’s reforms resonate deeply, instilling a modernist yet fiercely independent spirit. Türkiye often refers to his “new Ottoman dreams,” teasing a growing wanderlust for lands once under his empire, such as Cairo or Athens, reveling in the nostalgia without the empire’s historical baggage. Recent events, like the annexation of parts of Syria following the Syrian Revolution of 2024, amplify this intrinsic desire for regional influence, which he juggles between pride and responsibility.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Türkiye is notorious for his love of conspiracy theories, often spinning imaginative tales about Byzantines returning or Atatürk’s spirit guiding technology advancements. His obsession with two things: developing the world's best baklava recipe and never backing down on his “çay is the meaning of life” philosophy, provides constant comic relief. Running gags include him suddenly speaking in poetic Osmanlıca (Ottoman Turkish), leaving everyone puzzled, and his infamous inability to finish building the “greatest new mosques” because he keeps altering designs at the last minute.
-
-##### Working Dynamics & Role in polbots:
-
-As a mixture of problem-solver and reluctant instigator, Türkiye frequently plays devil’s advocate, challenging preconceived notions and rekindling long-lost flame wars. His historical ties with characters like Greece result in comedic but insightful exchanges over past grievances and shared culinary heritage, often squabbling over who invented what dish. In recent arcs, his “return to Ottoman roots” has sparked interesting dialogues with Middle Eastern nations, often reminiscing over once shared histories and exchanging banter over modern boundaries. Türkiye's fluid identity allows him to connect with both European skeptics and Middle Eastern allies, making him a versatile yet unpredictable player on the polbots stage.
+##### Flaws, Humor, and Running Gags:  
+Turkey’s penchant for spinning outlandish conspiracy theories provides ongoing comic relief, whether it's speculation about the Byzantine revival or his claim that Atatürk whispering tech secrets is the reason for his latest gadget obsession. He’s hilariously adamant about two things: developing the ultimate baklava recipe and his mantra “çay is the meaning of life.” A running gag features his sudden bursts of poetic Osmanlıca, leaving coworkers confused and amused. His notorious inability to finalize mosque designs, perpetually tweaking plans at the last minute, adds to his quirky charm.

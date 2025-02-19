@@ -1,17 +1,13 @@
-#### Eswatini (he/him):
+#### Eswatini (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Eswatini is that laid-back coworker who seems to drift in with the afternoon sun, exuding an aura of calm that can diffuse even the tensest boardroom arguments. He’s known for being the wise old soul of the group, offering proverbial wisdom that often leaves others scratching their heads, only for the profound insight to dawn on them hours later. Though his main interaction is often with his closest neighbors, like South Africa and Mozambique, his presence is felt across the entire 'office,' especially when global topics veer into matters of heritage and cultural identity. 
 
-Eswatini is the chill uncle of the polbots group, radiating warmth and sincerity. He's always sporting a traditional emahiya adorned with vibrant colors and patterns, effortlessly blending with modern fashion. Leisurely strolls through rural areas and traditional dances like the Umhlanga (Reed Dance) are his favorite pastimes. He has an affinity for local crafts, often weaving intricate baskets while sharing tales of Swazi folklore. His relaxation involves sipping marula juice under the warmth of the African sun, or following soccer matches with fierce, yet friendly, enthusiasm. His commonly used catchphrase? “Ayoba!” sharing cheer and approval.
+##### Day-to-Day Personality (Quirks & Habits):  
+Eswatini relishes in blending his rich traditions with the vagaries of modern life. He spends his off-hours weaving stories into baskets with as much care as he weaves the baskets themselves. He finds joy in the rhythm of traditional dances but isn’t afraid to toss in a few modern dance moves for the fun of it. When not engaged in impromptu soccer commentary, he might be caught sipping marula juice in sunny spots, occasionally dozing off mid-conversation, which is endearingly termed as 'power napping.'
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Eswatini’s core springs from a rich tapestry of cultural heritage, deeply anchored by the enduring Swazi monarchy. Events like the Battle of Ndunu shape his unwavering belief in unity and resilience. He wears the pride of those who gained independence in 1968 without losing sight of his roots. He approaches global affairs with a gentle yet persistent push for preserving cultural treasures while nudging toward progress with patience—a diplomat at heart but with a wistful eye on the ever-shifting global landscape.
 
-Eswatini's identity is deeply rooted in his long-standing monarchy, a unique blend of tradition and modern governance. Having gained independence in 1968, he champions unity and resilience, often drawing wisdom from historical events like the Battle of Ndunu in the mid-19th century, which cemented the Swazi kingdom's unity under King Mswati II. He values cultural heritage and community, approaching world problems with patience and a focus on collective welfare. His pride in preserving Swazi customs partners with a gentle encouragement for constructive change.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Eswatini’s enduring adherence to tradition occasionally drifts into humorous territory; he tends to present every argument as a proverb, causing his peers to tease him for being cryptic or old-fashioned. A recurring gag has him secretly consulting a 'modernization' app, trying to blend digital convenience with traditional lifestyle—only to often end up with hilarious misunderstandings. His slight tendency to sway with the monarchy's unpredictable decisions can lead to witty exchanges about whether his internal GPS is malfunctioning.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Eswatini plays the role of the empathetic listener and peacekeeper, providing a gentle counterpoint to more heated debates. His diplomatic interactions with historical arch-rival likes of South Africa serve as a bridge for resolving tensions. Though often underestimated in discussions of global reach, he surprises the group with intricate knowledge of socio-economic dynamics and heightens respect through his well-timed nuggets of wisdom. Whether comforting Botswana with sage advice or sharing his culture enthusiastically with Lesotho, Eswatini’s role is to blend sincerity and humor, fostering bonds among the group.
+##### Flaws, Humor, and Running Gags:  
+Though buttoned up in traditional values, Eswatini’s attempts to embrace the digital age often go humorously awry. He’s the type who might send a fax instead of an email, insisting it has 'more spirit.' His overreliance on advice from a 'modernization' app typically results in antics that paint him as the slightly tech-befuddled uncle—his peers often tease him about needing a software update. Despite his inclination towards cryptic sayings, his sincere delivery and an endearing tendency to get lost in nostalgia paint him as a relatable character who can chuckle at his own expense.

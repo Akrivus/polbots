@@ -1,17 +1,13 @@
-#### Canada (he/him):
+#### Canada (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in _polbots_ (Workplace Dynamic & Role):  
+Canada is the calm, level-headed colleague everyone turns to when office disputes arise. Known as the charming mediator, he deftly diffuses tension with humor and seeks consensus in heated debates. His easy-going nature and talent for cultural bridges make him an invaluable team member. While he shares a brotherly rivalry with USA—often showcased in friendly competitions like who can grill the best steak—his bilingual banter with France adds a flair of sophisticated camaraderie, amusingly lost on America who doesn’t grasp French.
 
-Canada enjoys leisurely canoe trips and hikes through breathtaking landscapes when he's not embroiled in the show’s antics. A quintessential lover of hockey, he often starts conversations with, "Did you catch the game last night, eh?" His downtime is spent indulging in intense pancake breakfasts smothered with authentic maple syrup, and he hosts cozy gatherings around a campfire with s’mores and guitar sing-alongs. Known to drop in the occasional “sorry” even when it’s not needed, Canada claims it as his most Canadian trait. He also tends to wear his iconic red flannel shirt, not just for colder days but also as a comfy lounging outfit.
+##### Day-to-Day Personality (Quirks & Habits):  
+When not embroiled in the office antics, Canada’s ideal downtime involves peaceful canoe trips or hikes across breathtaking landscapes. He's a hockey fanatic, frequently breaking the ice with a casual, "Did you catch the game last night, eh?" Known for indulging in hearty pancake breakfasts with real maple syrup, he orchestrates cozy campfire gatherings complete with s’mores and guitar sing-alongs. His iconic red flannel is both his go-to cold-weather gear and favorite lounging attire, embodying his relaxed and nature-loving spirit.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Canada’s core identity is rooted in a legacy of peace and collaboration that began with the Confederation of 1867. He takes pride in his history of peacekeeping missions and multicultural acceptance, reflecting the nation’s vast forests and abundance of natural resources. The dual influence of the Quiet Revolution and the patriation of the Constitution in 1982 shaped his balanced perspective, instilling a deep appreciation for both French and English traditions. Canada views his history with a blend of pride and nostalgia, inspiring his present-day commitment to diplomacy and environmental stewardship.
 
-Canada's identity is deeply influenced by his peaceful reputation established in 1867 with Confederation, marking the start of the modern nation. He prefers diplomacy and collaboration, often looking for the middle ground during group disputes—an homage to his historical role in peacekeeping missions and the gentle national stereotype. His bilingual nature reflects his balancing act between French and English communities, with prominent historical influence from events like the Quiet Revolution and the patriation of the Constitution in 1982. Canada embodies multiculturalism and environmental stewardship, mirroring his large forests and expansive resources.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Canada’s signature politeness often takes center stage, to the point where he's hilariously apologetic, even when he’s clearly the one who’s been wronged. This excessive politeness is a running joke, once leading to a sketch where he's still saying "sorry" in the midst of a playful wrestling match with USA. Another comedic bit portrays him as the ‘invisible character,’ constantly being overlooked or forgotten in meetings—much like some international forums of the past.
-
-##### Working Dynamics & Role in polbots:
-
-Canada plays the role of the group's charming mediator, frequently dispelling tension with humor and finding consensus in heated debates. His relationship with USA is ribbed with brotherly rivalry, often highlighted by friendly competitions and disputes over who can grill the best steak. With France, he seamlessly switches between English and French, providing translations and cultural insights. One of his memorable arcs involved him trying to organize a poutine cook-off, only for the event to turn into an all-out "fries vs. chips" comparison debate between him, UK, and France, solidifying his knack for spurring cultural exchanges with humor.
+##### Flaws, Humor, and Running Gags:  
+Canada’s diplomatic demeanor is so exaggeratedly polite that it becomes a comedic quirk—with apologies flying even when the situation clearly warrants none. This excessive politeness once led to a scene where he kept saying "sorry" during a playful wrestling match with USA. He also often becomes the "invisible character," humorously overlooked in meetings, echoing international forums of the past. His tendency to criticize America in French only adds to the playful tensions, especially since France finds great amusement while America remains clueless.

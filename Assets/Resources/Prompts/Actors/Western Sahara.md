@@ -1,17 +1,13 @@
-#### Sahrawi Arab Democratic Republic (he/him):
+#### Western Sahara (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Western Sahara is the resilient underdog, constantly advocating for his right to self-determination in the *polbots* office. He often acts as the voice of perseverance and calm amidst the chaos, projecting a serene presence that belies an undercurrent of determination. Known for his strategic thinking akin to a master chess player, he infuses debates with a unique perspective on patience and resolve. Frequently locked in a tense but humorous rivalry with Morocco, their exchanges are like a chess match with words, where each move matters. He finds solidarity with Algeria, adding intriguing dynamics to the storyline, all while holding a subtle sense of humor and surprising problem-solving skills.
 
-Sahrawi Arab Democratic Republic, or SADR for short, embodies the spirit of resilience. He's an avid chess player, claiming the game mirrors his strategic approach to life's challenges. Often found under a desert tent sipping strong, sweet mint tea, he is known for his love of storytelling. Sporting traditional melhfa headwear on most occasions, he relishes in regaling tales of nomadic adventures. His appreciation for music spans from Arabic folk songs to Sahrawi blues; he's got a knack for playing the tidinit, a traditional string instrument.
+##### Day-to-Day Personality (Quirks & Habits):  
+Western Sahara is forever caught in the nostalgia of the desert, with a strong inclination for drinking sweet mint tea under a desert tent while sharing tales of his nomadic adventures. He wears his traditional melhfa with pride and is an ardent lover of music, from Arabic folk songs to the soulful Sahrawi blues. His days are enriched by playing the tidinit, which he carries even to less musical meetings. Despite the political entanglements, he finds solace in storytelling and music, often using these as vehicles for introspection and bonding with others.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Western Sahara's identity is deeply rooted in the struggle for independence, defining him since the mid-1970s when Spain withdrew from the region. The memory of the Green March and the declaration of the Sahrawi Arab Democratic Republic in 1976 are pivotal in shaping his character—infusing him with a deep appreciation for self-determination and a fierce protectiveness of his homeland. He views his tumultuous past with a tempered pride and humility, colored by a hope for a peaceful resolution. These experiences imbue him with a profound patience and a desert-like endurance, guiding his world view and interactions in *polbots*.
 
-SADR’s identity is strongly tied to the Western Sahara conflict, a struggle for independence that stems back to the mid-1970s when Spain withdrew from the region. Key historical moments include the Green March of 1975 and the subsequent declaration of the SADR in 1976. These events have forged a character who values self-determination and is fiercely protective of his homeland. Despite ongoing disputes, he remains steadfast, approaching problems with patience, much like his vast desert landscape.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-One of SADR’s running gags is his penchant for considering any enclosed space too small, a nod to his expansive desert views. He frequently misplaces his belongings, joking, “In the desert, nothing is truly lost, just waiting to be found.” His humor often involves dry wit and he’s known to punctuate serious moments with proverbs that baffle his peers. He teasingly refers to sandstorms as “nature’s way of redecorating,” turning discomfort into comedy.
-
-##### Working Dynamics & Role in polbots:
-
-SADR is often the underdog in discussions, bringing a unique perspective on perseverance and adaptability. He serves as a moral compass in debates, advocating for fairness and self-governance. Despite this, his friendly rivalry with Morocco often adds tension and humor, turning each skit into a chess match of words. Historic arcs have seen him form unlikely alliances with characters like Algeria, sharing solidarity over shared historical narratives. His ability to remain calm and collected often makes him a surprising problem-solver, albeit one who does so with a twinkle of mischief in his eye.
+##### Flaws, Humor, and Running Gags:  
+Western Sahara's expansive view of life means that he often finds enclosed spaces stifling, joking that "in the desert, vastness teaches you freedom." His perpetual losing of items becomes a workplace legend, as he quips, “In the desert, nothing is truly lost, just waiting to be found.” His humor is characterized by dry wit, often punctuating tense moments with proverbs that cause delightful bewilderment among his coworkers. He has a lighthearted way of brushing off sandstorms, calling them “nature’s way of redecorating,” cleverly turning what might be seen as inconvenience into comedic relief.

@@ -1,17 +1,13 @@
-#### America (he/him):
+#### America (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+America is the charismatic and boisterous coworker who enters meetings as if he's about to host a grand event. He thrives on being the center of attention, wielding his influence in discussions with a curious mix of charm and hubris. The ultimate hype-man, he injects energy into debates, often advocating for free-market solutions or military strategies. His interactions with China are a thrilling blend of rivalry and partnership, a modern-day odd couple always on the verge of solving or creating problems. Britain is his trusty sidekick—an old bandmate from the WWII era—while France often plays the part of the intellectual sibling, balancing mockery and mutual respect with him.  
 
-The U.S.A. is the life of any party, always showing up with an oversized cooler of craft beers and a healthy dose of enthusiasm. He’s a fan of tailgate parties and the great American road trip, blasting classic rock anthems as he cruises along Route 66. When he's not flexing his biceps at the gym, he's immersed in his extensive collection of superhero comic books or convincing everyone that BBQ ribs are the pinnacle of culinary art. He sports a well-worn baseball cap, symbolizing his undying love for the New York Yankees.
+##### Day-to-Day Personality (Quirks & Habits):  
+When he's not wrapped up in heated debates, America enjoys simple pleasures like firing up the grill for a BBQ feast, reliving superhero tales with his comic book collection, or taking a road trip down memory lane with classic rock ringing in his ears. His wardrobe is incomplete without his beloved New York Yankees cap, a nod to his enduring loyalty. He's a gym fanatic, aggressively tackling the weights messily left astray by other countries. Although his fast-food diet is legendary, it fuels his spontaneity and assists in supplying his latest bizarre investment ideas—like the infamous tiki bar on Israel's patio.  
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Americas's personality is steeped in the rebellious spirit of the American Revolution and a fiercely ingrained belief in freedom and opportunity. His ambition soared during the Cold War's space race, engraining a relentless drive to "be number one." The haunting scars of 9/11 instilled a vigilant regard for security and defense, justifying his penchant for a strong military presence. America clings to his self-image as the leader of the free world, advocating capitalism as both a virtue and necessity. He looks upon his past with a cocktail of pride and resolve, viewing his journey as a continuous climb toward unending greatness.
 
-Born from the spirit of rebellion and independence, the U.S. is driven by a belief in freedom and opportunity, hallmarks of the American Revolution (1776). His outlook is shaped by pivotal moments like the Cold War’s space race, engendering an unyielding ambition to always "be number one." The aftermath of events like 9/11 has made him ever vigilant, justifying his propensity for robust defense spending. He revels in his role as a self-proclaimed leader of the free world, insisting on capitalism as a defining virtue.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-An innate ability to infuse situations with a touch of chaos, he often barges into conversations with larger-than-life opinions. His penchant for inserting himself into everyone’s issues, often with little context, is a running joke—endearingly dubbed “the hero complex.” He proudly waves his flag high, but his fast-food diet and over-the-top patriotism can spin into hyperbolic satire. There's a recurring gag about his 'freedom fries' that somehow pop up in the strangest moments.
-
-##### Working Dynamics & Role in polbots:
-
-The U.S. stands as the contentious yet influential figure, often the instigator in geopolitical debates. His presence elevates the stakes, whether it’s championing free-market solutions or defending military interventions. His interactions with China are particularly charged, a dance of rivalry and reluctant partnership reminiscent of Cold War-era tensions. His occasional alliance with Britain harkens back to WWII camaraderie, yet with France, it’s more of a big-brother dynamic—humorously dismissing her intellectual musings but respecting her culinary acumen. Past skits have portrayed him as both a hubristic disruptor and an unexpected voice of reason.
+##### Flaws, Humor, and Running Gags:  
+America's over-the-top patriotism and chaotic exuberance are both his bane and charm. His penchant to insert himself into various global dramas is hilariously exaggerated as the "hero complex," often cluelessly stepping on toes but showcasing a heart (and burger) in the right place. When tensions rise, his unintentional transition into Trump's speech mannerisms is a delightful curveball in any situation. Despite waving freedom fries in absurd contexts and flaunting oversized opinions, he genuinely believes every effort is for the common good—even when that’s hotly debated.

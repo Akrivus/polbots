@@ -62,6 +62,32 @@ public static class ActorTeamGenerator
         AssetDatabase.Refresh();
     }
 
+    [MenuItem("Tools/Refine Character Prompts")]
+    public static async void RefineActorPrompts()
+    {
+        var asset = Resources.Load<TextAsset>($"Prompts/Tools/Actor Refinition");
+        var actors = Resources.LoadAll<Actor>("Actors");
+
+        var csv = File.ReadAllLines("./Assets/Resources/Actors.csv");
+        for (var i = 1; i < csv.Length; ++i)
+        {
+            var columns = csv[i].Split(',');
+
+            var actor = actors.FirstOrDefault(x => x.Name == columns[0]);
+            var note = string.Join(",", columns.Skip(1));
+
+            if (!string.IsNullOrWhiteSpace(note))
+                note = "```\r\n\r\n### **Writer’s Notes**\r\n\r\n(Additional insight into how the character should feel and act—used to guide refinements.)\r\n\r\n```\r\n" + note;
+
+            note = actor.Prompt.text + note;
+
+            if (actor)
+                await GenerateActorPrompt(asset, actor, note);
+        }
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
     [MenuItem("Tools/Generate Character Backgrounds")]
     public static async void GenerateActorBackgrounds()
     {
@@ -73,18 +99,6 @@ public static class ActorTeamGenerator
                 Debug.LogWarning($"Actor {actor.Name} has no personality.");
             else if (!File.Exists($"./Assets/Resources/Backgrounds/{actor.Name}.png"))
                 await GenerateActorBackground(asset, actor);
-        AssetDatabase.SaveAssets();
-        AssetDatabase.Refresh();
-    }
-
-    [MenuItem("Tools/Generate Character Color Schemes")]
-    public static async void GenerateActorColorSchemes()
-    {
-        var asset = Resources.Load<TextAsset>($"Prompts/Tools/Skin Tones");
-        var actors = Resources.LoadAll<Actor>("Actors");
-
-        foreach (var actor in actors)
-            await GenerateActorColorScheme(asset, actor);
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
     }
@@ -131,7 +145,9 @@ public static class ActorTeamGenerator
 
         foreach (var actor in actors)
         {
-            actor.SpeakingRate = UnityEngine.Random.Range(100f, 111f) / 100f;
+            actor.SpeakingRate = 1;
+            actor.Volume = 1;
+            actor.Pitch = UnityEngine.Random.Range(100f, 111f) / 100f;
             EditorUtility.SetDirty(actor);
         }
 
@@ -285,7 +301,7 @@ public static class ActorTeamGenerator
 
     private static async Task GenerateActorPrompt(TextAsset asset, Actor actor, string note)
     {
-        var prompt = asset.Format(actor.Title, actor.Pronouns, note);
+        var prompt = asset.Format(actor.Name, actor.Pronouns, note);
         var output = await LLM.CompleteAsync(prompt, false);
 
         output = output.Replace("```", string.Empty).Trim();

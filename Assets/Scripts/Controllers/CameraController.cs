@@ -53,6 +53,7 @@ public class CameraController : AutoActor, ISubActor, ISubExits, ISubNode, ISubS
             DisableCamera();
         if (_enabled)
             _ui = VideoCallUIManager.Instance.RegisterUI(ActorController, _camera);
+        ActorController.Camera = _camera;
     }
 
     private void Update()

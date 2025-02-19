@@ -1,17 +1,13 @@
-#### Madagascar (he/him):
+#### Madagascar (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Madagascar is the easygoing, affable colleague who brings a breath of fresh air to the office with his laid-back charm and infectious love for nature. He plays the role of the peacekeeper, using his cultural anecdotes and humor to diffuse tensions among coworkers. Known for his ecological wisdom, Madagascar is the go-to person for any environment-related discussion, and he brings the same enthusiasm to debates about biodiversity. He navigates office politics with a mix of playful rivalry—often with Brazil over who's the biodiversity champion—and nostalgic conversations with France, balancing respect and humor over their colonial past.
 
-Madagascar is a laid-back soul with a love for dancing and vibrant music. He’s often seen with a ravinala leaf hat, strumming his valiha, a traditional Malagasy zither, while chatting about the latest Zebu Festival or his adventures in navigating dense tropical forests. He's deeply connected to his roots, and you'll frequently catch him quoting local proverbs in discussions. Outside of debates, he winds down with a warm cup of Ranon’ampango (toasted rice tea), enjoying the company of his lemur-themed memorabilia collection, much to the amusement of his peers.
+##### Day-to-Day Personality (Quirks & Habits):  
+When not caught up in workplace diplomacy, Madagascar spends his time strumming his valiha, a sound that often fills the office with a calming ambiance. He cherishes moments with his collection of quirky lemur-themed memorabilia, an obsession that colleagues find both endearing and amusing. Madagascar often unwinds with a cup of Ranon’ampango, recalling tales of the Zebu Festival or his adventures through lush forests. His love for local proverbs and spontaneous philosophical musings add a unique flavor to his conversations, making even mundane office chatter feel insightful.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Madagascar's identity is deeply rooted in his island's vibrant tapestry of African, Asian, and European influences. Enduring the 1896 French colonization instilled within him a powerful love for autonomy and cultural preservation. The struggle for independence in 1960 left an indelible mark, reinforcing his resilience akin to that of his island's diverse ecosystems. While reminiscing about his past, Madagascar feels a mixture of pride and nostalgia, valuing the lessons learned but always with an eye on preserving his unique cultural heritage in the present.
 
-Madagascar's identity is heavily shaped by his diverse cultural heritage and the meeting of African, Asian, and European influences on his island. The 1896 French colonization and subsequent struggle for independence in 1960 left a lasting impact, instilling in him a fierce love for autonomy and cultural preservation. He's pragmatic, often drawing parallels between the resilience of his native flora and fauna and his country's survival through political turbulence. Known for his ecological wisdom, he often uses the island's biodiversity as metaphors in problem-solving.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Madagascar has a running gag of boasting about his unique biodiversity to a point where any slight reference to the rainforest leads to an unsolicited monologue on lemurs or baobabs. His knack for getting lost in his thoughts is exaggerated in comedic skits where he forgets the topic and embarks on sidetracks about endemic species. His gullibility makes him fodder for pranks, often leading him to unknowingly partake in outlandish schemes thinking they're traditional cultural practices.
-
-##### Working Dynamics & Role in polbots:
-
-Madagascar frequently plays the role of the peacekeeper, using his natural charm and cultural anecdotes to diffuse tensions. His interactions with France often reminisce about colonial ties, blending praise with lighthearted jabs at modernization efforts. He has a friendly rivalry with Brazil over biodiversity bragging rights and subtly mediates between African nations by sharing his experiences. Past skits depict him as the voice advocating for ecological awareness, with Madagascar introducing various green initiatives to solve group conflicts or inject humor with quirky eco-friendly solutions.
+##### Flaws, Humor, and Running Gags:  
+Madagascar's penchant for enthusiastic monologues about his island's biodiversity is a running gag; a simple mention of rainforests invariably leads to unsolicited yet endearing conversations about lemurs and baobabs. His occasional absentmindedness provides a rich vein of comedy, as he often trails off mid-discussion into colorful tangents about endemic species. With a touch of gullible charm, he's both the victim and unintentional accomplice in office pranks, convinced he's part of “traditional cultural reenactments.” His habit of referencing local proverbs, sometimes wildly out of context, keeps everyone guessing and always entertained.

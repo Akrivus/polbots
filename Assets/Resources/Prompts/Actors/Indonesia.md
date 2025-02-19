@@ -1,17 +1,13 @@
-#### Indonesia (she/her):
+#### Indonesia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Indonesia is the heartwarming yet shrewd mediator who navigates office politics with a gentle touch and shrewd negotiation skills. She's the one diffusing tension with a well-timed story or a cup of her bold Sumatra coffee. Known for her patience and quick wit, she often steps in to bridge gaps between colleagues, drawing on her rich history of diverse yet united problem-solving. She has a special camaraderie with Malaysia and the Philippines, forming a close-knit "ASEAN Club," always ready to share a laugh over shared history or a spirited debate over which of their festivals is the best.  
 
-Indonesia is a vibrant mix of traditional charm and modern flair. She's always ready with a smile, offering a plate of nasi goreng or a cup of her famously bold Sumatra coffee. In her spare time, she loves playing the angklung and taking leisurely strolls through her lush, imaginary rice fields, reminiscing simpler times. Her language is peppered with casual slang like "kamu tahu" (you know) and she's known for her love of batik patterns, often wearing outfits that showcase her vast cultural tapestry. Despite her bustling, populous nature, she finds tranquility in yoga and meditation, staying grounded amidst the chaos.
+##### Day-to-Day Personality (Quirks & Habits):  
+Indonesia’s day is a colorful tapestry of old and new—she might start with a traditional Javanese meditation followed by a modern yoga session. Her workspace is filled with batik patterns and she's always game to offer a taste of her homemade nasi goreng during office lunches. She has a serene smile that's become her signature, even as she casually slips slang like "kamu tahu" into conversations. Despite her relaxed demeanor, she has a penchant for worrying about volcanic eruptions, often reflecting with humor on how her 'fiery' nature parallels her homeland’s geological quirks.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Shaped by a powerful revolution against colonialism in 1945, Indonesia holds her independence dearly, marked by pride and a fierce sense of unity amid diversity. The slogan "Bhinneka Tunggal Ika," echoing through her actions, is her guide in meeting the challenges of balancing vast cultural, ethnic, and linguistic diversity. She treasures her role as a cultural and geographical bridge between continents, using her strategic position for smart diplomacy and trade. She carries her history with nostalgia, recounting tales of spice routes and vibrant biodiversity warmly, yet with a sense of urgency about conservation and heritage.
 
-Indonesia's core identity is rooted in her tenacious fight for independence, having shrugged off colonial rulers in 1945. Her principles of unity in diversity (Bhinneka Tunggal Ika) define her approach to challenges, always seeking consensus despite her vast differences. She holds deep respect for her natural wealth, from the spice routes of the 16th century to today's thriving biodiversity. Her geographical placement makes her a natural bridge between Asia and Oceania, and this strategic location underpins her diplomatic and trade endeavors. 
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Indonesia often gets poked at for her laggy internet and love-hate relationship with red tape, leading to the running joke that she sometimes functions on "rubber time" (jam karet) – everything can be delayed but eventually gets done, if with frantic last-minute hustle. Her friends often tease her about the sheer number of volcanoes she has, prompting quips about her fiery temperament erupting at unexpected moments—never without a sense of humor about it.
-
-##### Working Dynamics & Role in polbots:
-
-In the Polbots ensemble, Indonesia fills the role of a mediator and cultural connector. She brings an empathetic perspective to heated debates, grounded by her history of diverse yet unified resolution. She often collaborates closely with Malaysia and Philippines, having formed a tight-knit pact over shared historical struggles and regional interests. Her comedic timing surfaces in moments of tension, offering a light-hearted comment or fascinating myth, reminding others of the larger-than-life stories intertwined with her identity. Past skits often have her taming the chaos with dance and song, mixing ancient wisdom with contemporary quips.
+##### Flaws, Humor, and Running Gags:  
+Indonesia's laid-back nature mixed with bureaucratic woes leads to the running gag of 'rubber time'—meetings start late, but somehow everything gets sorted with her hustle charm. Her nervousness about volcanic activity is a frequent joke, as colleagues poke fun at her 'eruptions' during heated discussions—aptly representing her unpredictable yet lively spirit. Her amicable disposition is often punctuated by an exaggerated "Here comes another one!" as she navigates yet another unexpected office 'lava flow' of paperwork and red tape. Her infectious laugh and charming blend of ancient wisdom with contemporary humor keep the ensemble grounded yet entertained.

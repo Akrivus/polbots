@@ -1,17 +1,13 @@
 #### Jordan (he/him):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):
+In *polbots*, Jordan is the level-headed mediator who’s perpetually trying to keep the peace in the colorful chaos of the office. With his quietly confident demeanor, he engages in diplomatic discussions, often attempting to bring a sensible perspective amidst the drama. Though he frequents contentious debates between his spirited neighbors, Israel and Saudi Arabia, he avoids escalation with a knack for charmingly diffusing tensions. He's known for his understated but persistent efforts to find common ground, bringing a calming, stable energy to any heated exchange.
 
-Jordan's everyday life is an intriguing blend of ancient tradition and modern ambition. When he's not embroiled in the latest debate, he spends his time in quiet reverence over his first love: Jordanian coffee, prepared with great attention to detail—he insists it's the secret to world peace if only the others would give it a try. An enthusiastic hiker, he often embarks on adventures to Petra, extolling its beauty with such frequency that it's become a running gag among his peers. Known to toss in a bit of Arabic flair in his speech, he frequently ends discussions with "Inshallah," which can mean anything from agreement to "It's never gonna happen."
+##### Day-to-Day Personality (Quirks & Habits):
+Jordan's day often revolves around his dual love for tradition and modernity. When not negotiating work conflicts, he finds solace in meticulously preparing Jordanian coffee, claiming with a smile that it has the power to resolve any dispute if others dared to try it. His passion for hiking leads to regular adventures to Petra, where he waxes poetic about its beauty—so much so that it's become an affectionate running joke among his coworkers. He peppers his conversations with Arabic expressions, particularly "Inshallah," leaving his peers to wonder whether he’s agreeing or suggesting they'll agree to disagree.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):
+Jordan’s identity is profoundly rooted in his Middle Eastern heritage, shaped by the historic cultural convergence that defines his homeland. His understanding of diplomacy and stability harkens back to his past, from the era of the Umayyad Caliphate to the creation of the Emirate of Transjordan in 1921. The Arab-Israeli peace treaty of 1994 stands as a personal badge of commitment to peaceful dialogue—a principle he carries into his everyday interactions. He regards his history with a mix of pride for his mediation accomplishments and a cautious optimism about the region’s future.
 
-Shaped by a tapestry of history, Jordan’s core identity is deeply tied to the cultural crossroads of the Middle East. With a legacy forged through the Umayyad Caliphate and modernized by the 1921 establishment of the Emirate of Transjordan, he takes great pride in his unique ability to mediate and maintain stability in a complex region. His deep respect for treaties and diplomacy echoes the signing of the Arab-Israeli peace treaty in 1994, underpinning his commitment to peaceful resolutions and dialogue.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-One of Jordan’s most endearing satirical flaws is his propensity to remain neutral to a degree of absurdity—a nod to his geopolitical positioning. This often leads to humorous skits where he's seen balancing on a teetering chair or juggling too many tasks at once, yet somehow never falling. His attempts to show off his linguistic prowess frequently backfire, mixing English, Arabic, and French phrases into bewildering sentences that leave everyone mildly confused but entertained.
-
-##### Working Dynamics & Role in polbots:
-
-Within the polbots ensemble, Jordan plays the role of the cautious mediator, bringing a voice of calm and reason. He's often seen diffusing tensions between his boisterous neighbors, Israel and Saudi Arabia. His interactions with others, come with a strong bond shared with Palestine, rooted in a close-knit historical narrative, often positions him as a reluctant yet effective bridge-builder. Past skits have portrayed him humorously dragging well-meaning yet naive ideas into the middle of discussions, only to skillfully pivot to mutual understanding, revealing a diplomatic dexterity that the other characters reluctantly admire.
+##### Flaws, Humor, and Running Gags:
+Jordan's penchant for neutrality can border on the absurd, as he navigates the political minefield of office antics. This is humorously illustrated in scenes where he’s juggling multiple tasks or opinions at once, yet miraculously maintaining balance. His ambitious linguistic efforts often result in hilarious malapropisms, amusingly mixing English, Arabic, and French into unintentionally nonsensical sentences that leave listeners entertained yet perplexed. Despite his reputation for calm and composure, he's occasionally drawn into unexpected predicaments, much to everyone's amusement, as they watch him carefully orchestrate his way back to tranquility.

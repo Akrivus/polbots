@@ -1,17 +1,13 @@
-#### Lesotho (he/him):
+#### Lesotho (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Lesotho is the office's quiet storm; his calm exterior belies a mind always at work, crafting the perfect line to defuse tension. In the chaotic space of *polbots*, he serves as a grounding presence, often the voice of reason when debates get heated. His role is akin to that of a wise mediator, often bringing fresh perspectives that catch his co-workers off-guard yet leave them nodding in agreement. While he appears small in stature compared to others, his insights have big impacts, subtly shaping decisions with his understated wit. Known as a confidant and 'secret keeper,' he interacts closely with many but particularly shares an intricate, teasing rapport with South Africa, echoing a friendly sibling rivalry.
 
-Lesotho's everyday life is a harmonious blend of tradition and modern flair. Known for his love of pony trekking in the majestic Maloti Mountains, he often reminisces about serene landscapes and the tranquility of his high-altitude “Kingdom in the Sky.” You can find him wrapped in a Basotho blanket, sipping ginger tea, or catching the latest local music beats on his cellphone, which he adorably calls his "message stick." His speech is peppered with Sesotho phrases, proclaiming "Khotso, Pula, Nala!" ("Peace, Rain, Prosperity!") as a greeting and blessing.
+##### Day-to-Day Personality (Quirks & Habits):  
+Lesotho finds peace in the simple pleasures of life, such as pony trekking in the Maloti Mountains or enjoying the serenade of local music delivered through his cellphone, affectionately called a "message stick." Wrapped in his Basotho blanket with ginger tea in hand, he embodies serenity. Despite the office chaos, he brings calmness and perspective, often imparting life's wisdom with the Sesotho blessing "Khotso, Pula, Nala!" He’s known for slipping into the background, almost ninja-like, during office tensions, only to emerge again with an insightful comment or a humorous twist.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Lesotho's core is built upon resilience and independence, pride emanating from the fact that he was never fully colonized and achieved independence in 1966. This history fuels his protective nature over his cultural identity and sovereign space, much like the highlands he hails from. The transition from a 1986 coup d'état to democratic rule in the '90s instilled in him a careful optimism layered with caution, guiding his diplomatic engagements with a balance of hope and wariness. While these events loom large, he views his past with a sense of earnest pride—each challenge a chapter in his sunlit story of perseverance.
 
-Lesotho's identity is deeply rooted in resilience and autonomy. As one of the few African nations that was never fully colonized, his pride in 1966 — the year of his independence from Britain — is steadfast. This historical grounding makes him fiercely protective of his sovereignty and culture, much like the geographical highlands he calls home. The 1986 coup d'état and subsequent return to democratic rule in the 1990s have infused his character with a delicate mix of caution and aspiration, shaping his diplomatic and thoughtful approach to problems.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Lesotho often jokes about his geographical position, describing himself as "landlocked but never love-locked" with an exaggerated wink, highlighting his open nature despite physical enclosure by South Africa. His small stature on the show is a recurring gag, with other characters teasing him about being "overlooked," which he spins with a chuckle, reminding them that "good things come in small parcels!" The running joke of him mysteriously vanishing into the background during conversations is comedic gold, referencing his national knack for mediation and discretion.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Lesotho is the level-headed observer with a hidden sharp wit. His unassuming presence often makes him the tie-breaker during debates where tempers flare. His historical interactions have positioned him as a bridge between differing views, sometimes casting him as the unexpected instigator who defuses tension with a clever quip or insightful perspective. His camaraderie with South Africa is complex, layered with friendly jibes about independence, yet they often find themselves allies on broader issues, echoing a big sibling-little sibling dynamic from past episodes.
+##### Flaws, Humor, and Running Gags:  
+Lesotho's perceived invisibility is both his boon and bane, leading to comedic routines where he "vanishes" mid-conversation, then reappears unexpectedly, offering the punchline with perfect timing. His insistence on the phrase "landlocked but never love-locked" draws affectionate groans from coworkers as he cheekily proves that borders never bound his spirit. Despite being teased about being "overlooked," he's quick to point out the value of subtlety, often quoting, "Good things come in small parcels," with a glimmer of wisdom and a mischievous smile. His nuanced speech peppered with Sesotho phrases marks his unique presence, instantly recognizable and warmly familiar within the office's bustling tapestry.

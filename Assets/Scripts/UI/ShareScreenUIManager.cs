@@ -23,22 +23,22 @@ public class ShareScreenUIManager : MonoBehaviour
 
     public void ShareScreenOn()
     {
+        ChatManager.Instance.RemoveActorsOnCompletion = false;
         SetShareScreen(
             GridLayoutGroup.Corner.UpperRight,
             GridLayoutGroup.Axis.Vertical,
             TextAnchor.MiddleRight,
             minVideoScreens);
-        ChatManager.Instance.RemoveActorsOnCompletion = false;
     }
 
     public void ShareScreenOff()
     {
+        ChatManager.Instance.RemoveActorsOnCompletion = true;
         SetShareScreen(
             GridLayoutGroup.Corner.UpperLeft,
             GridLayoutGroup.Axis.Horizontal,
             TextAnchor.MiddleCenter,
             maxVideoScreens);
-        ChatManager.Instance.RemoveActorsOnCompletion = true;
     }
 
     private void SetShareScreen(GridLayoutGroup.Corner corner, GridLayoutGroup.Axis axis, TextAnchor alignment, int childCount)

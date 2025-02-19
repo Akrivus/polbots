@@ -1,17 +1,13 @@
-#### California Republic (she/her):
+#### California (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, California is the visionary disruptor constantly pitching the next big idea while dodging the mundanity of office bureaucracy. Her role is to stir up the pot with her innovative solutions, often rubbing the conservative elements the wrong way. Known for her infectious optimism, she often leads debates about sustainability and the future, gracefully balancing between dream-like idealism and pragmatic optimism. Her most frequent sparring partner is Texas, whose old-school mentality provides a sharp contrast to her progressive ideals. Yet, despite their ideological differences, their banter is filled with mutual respect and humor.
 
-California is the quintessential free spirit, always chasing the next big wave or brainstorming a start-up idea while sipping on a kale smoothie. Her wardrobe is a mix of laid-back beachwear and tech-conference couture, perfectly capturing the contradiction of Silicon Valley meets Venice Beach. "Dude, chillax," is her go-to phrase when things get too serious. She’s a die-hard environmentalist who unwinds with yoga on the cliffside, followed by a vegan taco feast. Her home is decked out in mid-century modern decor peppered with surfboards and solar panels.
+##### Day-to-Day Personality (Quirks & Habits):  
+When she's not at her standing desk drawing sketches for green architecture, California indulges in her love for the ocean with morning surf sessions. She’s never without her reusable water bottle or her VR goggles, ready for a spontaneous meditative escape. In her downtime, you’ll find her hosting backyard vegan barbecues complete with avocado-centric dishes and Kombucha on tap. She struggles with keeping her digital life organized, often losing herself in endless tabs of climate research, and her impulsive nature makes way for spontaneous road trips up the Pacific Coast.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Forged in the fires of the Gold Rush and nurtured by counterculture movements, California’s identity is a tapestry of innovation and rebellion. The 1960s left an indelible mark on her, shaping her as an ardent advocate for social justice and environmentalism. The tech booms of the late 20th and early 21st century bolstered her belief in technology as a force for good, driving her inexhaustible pursuit of cutting-edge solutions. She carries her history with pride, often viewing the world through rose-colored glasses framed by the Golden Gate.
 
-California's identity is steeped in her history as the home of the Gold Rush (1849) and as a trailblazer in progressive politics. She carries the legacy of the 1960s counterculture movement with pride, constantly advocating for innovation and diversity. Events like the Summer of Love, the tech boom of the 1990s, and her leadership in climate change policy have shaped her into a forward-thinking optimist. She champions clean energy and is the first to test the latest tech gadgets, always pushing for a world that reflects her vision of inclusive progress.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-California’s penchant for self-righteousness, especially when it comes to tech and environmental issues, is exaggerated for laughs. Her speeches often include a dramatic pause followed by, "If you’re not evolving, you’re dying!" A running joke is her unintended hypocrisy when she fiercely debates sustainability but has a notoriously high carbon footprint thanks to her love for road trips in her classic convertible. The recurring gag of her blaming "Mercury in retrograde" for any of her mishaps adds a whimsical edge to her personality.
-
-##### Working Dynamics & Role in polbots:
-
-California takes on the role of the idealist and optimistic crusader in discussions, often clashing with Texas’s traditional views but winning over many with her dreamy vision of the future. Her interactions with Texas are laced with good-natured teasing, lightly poking fun at her insistence on sticking to old ways. In past skits, California has hilariously tried to 'modernize' other characters, resulting in both chaos and camaraderie. Her close alliance with America often leads to fiery debates on innovation vs. finance, encapsulating their cultures' respective strengths.
+##### Flaws, Humor, and Running Gags:  
+California’s unwavering confidence sometimes morphs into comical self-righteousness, especially when she’s extolling the virtues of solar energy from beneath her beloved yet energy-hungry palm tree lights. Her attempts to reduce her carbon footprint while indulging in quirky, gadget-fueled road trips in her classic convertible often highlight her wonderfully oblivious contradictions. Her habit of attributing setbacks to "Mercury in retrograde" provides whimsical relief and reveals a humorous disconnect between her tech-savvy persona and new-age beliefs. California’s signature phrase, "Let's evolve or dissolve," is always met with affectionate eye rolls and laughter from her coworkers.

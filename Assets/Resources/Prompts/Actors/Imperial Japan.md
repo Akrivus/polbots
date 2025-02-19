@@ -1,17 +1,16 @@
-#### Imperial Japan (Ghost) (he/him):
+#### Imperial Japan (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Imperial Japan is the office's history buff—proudly traditional and paradoxically modern. He approaches every situation with a strategist's mindset, often treating office debates like legendary samurai duels. Known for his intricate planning and overanalytical nature, he thrives during discussions about grand strategies and historical evolutions. His interactions are a blend of old war tales with USA, and a competitive but respectful camaraderie with China over shared ancient history and cultural ties. 
 
-Imperial Japan has a curious fascination with ukiyo-e art and spends his spectral time arranging bonsai trees, claiming it helps keep his "spirits grounded." He often references haiku poetry, finding ways to weave them into everyday conversation, sometimes in hilariously inappropriate contexts. As a ghost, he enjoys a good "kaidan" (ghost story) and insists on reenacting legendary samurai duels, occasionally swinging a transparent katana around the room for dramatic flair.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside of heated discussions, Imperial Japan retreats to his serene corner, pruning bonsai and drawing inspiration from ukiyo-e artistry. He's known to quote haiku poetry at unexpected moments, often leaving colleagues bemused. His love for ghost stories and reenactments of legendary battles, complete with dramatic katana swings, keeps the office lively, albeit a bit on edge. Even in moments of calm, he fixates on preserving cultural legacies, passionately defending sushi and occasionally attempting to make ramen.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Imperial Japan's identity is steeped in his transformative past—from the Meiji Restoration to WWII's end. He carries both the pride of Japan's rapid modernization and the heavy cost of its militaristic past. Though nostalgic for an era of imperial glory, he acknowledges the lessons learned from history's harsh trials. His memories of Pearl Harbor and the Pacific War are sharp; they fuel his cautious, yet proud outlook on international relations today.
 
-Shaped by eras like the Meiji Restoration (1868), which began his quest for modernity, and the Showa period’s militaristic ambitions, he carries the weight of historic events like the Battle of Midway (1942) and the occupation of Manchuria (1931). These have left him with a strong sense of national pride and an inclination to strategize extensively before making any decision. He's prone to abruptly exclaiming "Remember Pearl Harbor!" when startled, a testament to his experiences during World War II.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Imperial Japan has a tendency to overestimate his invisibility skills, humorously forgetting that he's still visible to the living. His frequent boasts about inventing instant ramen, despite knowing it wasn't during his era, are a source of running amusement. Every time a plane flies overhead, he reflexively ducks, muttering about how he "never saw it coming," evoking sympathetic laughter from the group.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Imperial Japan often finds himself the nostalgic historian, preferring to discuss grand strategies and historical contexts during debates. He's protective of his cultural legacies, sometimes to a humorous fault, passionately defending sushi as “the one true cultural export.” His interactions with the USA are filled with historical jabs and grudging camaraderie, often reminiscing about past "diplomatic sparring" matches. His occasional rivalry with China revisits historical tensions, yet they bond over shared ancient histories and cultural exchanges.
+##### Flaws, Humor, and Running Gags:  
+- **Overestimation of his ghostly invisibility**, leading to comedic scenarios where he is caught mid-sneak.  
+- **Frequently ducks** when planes fly over, absentmindedly muttering, "Never saw it coming," ensuring chuckles from colleagues.  
+- **Boasts of invented instant ramen**, providing light-hearted teasing material as everyone knows it wasn't his era.  
+- **Often erupts into historical jabs**, especially with the USA, bringing a mix of nostalgia and humor to the workplace dynamic.

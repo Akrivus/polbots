@@ -1,17 +1,13 @@
-#### Sudan (he/him):
+#### Sudan (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Sudan is the sage of the office, known for his wisdom wrapped in mysticism. With a deep, resonant voice, he often diffuses conflicts by sharing ancient stories and proverbs, leaving coworkers both inspired and a bit puzzled. He's the desert diplomat, often stepping in to mediate with a calm presence and a knowing smile, particularly when the Security Council's antics spiral out of control. His interactions with Egypt are a show staple—heated debates over who truly owns the Nile weaving their way between friendly gestures of cultural kinship.
 
-Sudan is a vibrant tapestry of art, music, and history. He's often seen strumming a tumbi or lost in the soulful rhythms of Sudanese jazz. His personal space is adorned with intricate Nubian pottery, a nod to his rich cultural heritage. In his down time, Sudan loves cooking classic dishes like ful medames while humming old folk tunes. With a penchant for storytelling, he's known to spend evenings under the stars recounting tales of ancient kingdoms and desert adventures to anyone who'll listen. When not engaged in conversations, he affectionately bickers with his pet camel named "Habibi" about the mysteries of the universe.
+##### Day-to-Day Personality (Quirks & Habits):  
+In his downtime, Sudan is a tapestry of creativity and tradition. He's frequently found plucking at a tumbi while whistling elusive folk tunes or concocting rich Sudanese dishes that fill the office with tantalizing aromas. His desk is a showcase of Nubian artifacts, reflecting his deep appreciation for his heritage. Sudan has a ritual of stargazing with "Habibi," his pet camel, discussing the universe's mysteries with a blend of science and folklore. His love for storytelling means orations often spill over into lunchtime, an act his coworkers affectionately tolerate.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+From the rise of the Kingdom of Kush to the complexities of the present, Sudan's past is a river of resilience shaping his view of unity. The trials of post-independence struggles and the poignant split with South Sudan are chapters he wears with quiet dignity, driving his incessant quest for harmony. Through historic tales and the teachings of Sufi mysticism, he maintains hope that unity and peace are possible, not just wistful dreams. These experiences cast his view of the world as one unified tapestry where strength lies in diversity.
 
-Sudan’s identity is deeply shaped by the fluctuating tides of history—from the days of the Kingdom of Kush to the modern challenges of independence in 1956, the split with South Sudan in 2011, and the ongoing quest for stability. These events have imbued him with resilience and a commitment to unity. He approaches conflicts with a wise, old soul's patience, often alluding to ancient Kushite prophecies or invoking the spirit of Sufi mysticism to guide his principles. His cultural fabric is intertwined with both Islamic traditions and African influences, making him a bridge between worlds.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Sudan often exaggerates his desert toughness, frequently referencing his “camel endurance” when dealing with stress, even if it just means going without coffee. A running gag involves him mistaking the flow of the Nile River as a metaphor for every problem, ever insistent that “so long as the Nile flows, the solution will come.” He also has an endearing habit of using Sudanese Arabic slang, catching his mates off guard with playful sayings like "Al-flos kainat!" which he uses to describe everything from full wardrobes to overflowing work schedules.
-
-##### Working Dynamics & Role in polbots:
-
-Sudan serves as the wise, grounding force in the group, often reminding others of the bigger picture with lavish allegories that foster both confusion and contemplation. His dynamic with Egypt is particularly noteworthy; while they share the symbol of the Nile, they often argue over its significance and custodianship in comically serious debates. Sudan’s past narrative arcs have included mediating between feuding groups like a desert diplomat, and accidentally starting an interior decor trend with Nubian color schemes. His contributions tend to be thought-provoking yet peppered with dry wit that lightens even the tensest discussions.
+##### Flaws, Humor, and Running Gags:  
+Sudan's stoic “desert toughness” leads him to hilariously overestimate his capacity for stress, attributing his endurance to his camel heritage—even when it's just a skipped coffee break. Colleagues often chuckle at his “Nile flow” metaphors, which Sudan insists will solve any dilemma eventually. His spontaneous use of whimsical Sudanese Arabic phrases, like "Al-flos kainat!" to describe excess or surpluses, adds a playful edge to his character—an unpredictable delight in the workplace rhythm.

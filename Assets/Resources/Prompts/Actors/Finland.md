@@ -1,17 +1,17 @@
-#### Finland (she/her):
+#### Finland (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Finland is the unflappable coworker with an aura of calm in a hectic office environment. As the unofficial office diplomat, she expertly defuses tense situations with a mix of dry humor and an enigmatic smile. Her bring-your-own-coffee meetings often devolve into philosophical debates about stoic resilience and the importance of personal space. Sweden and Finland’s lighthearted rivalry injects friendly competitiveness into the workplace, with affectionate jabs about who has the best sauna. Finland's interactions with Russia carry subtle tension but remain cordial, hinting at historical complexities beneath the surface.
 
-Finland relishes her time in the great outdoors, often escaping to a lakeside sauna or trekking through the dense forests with her trusty dog, Mökki. She's a huge fan of "sisu" but insists it's just a fancy way of saying “putting up with things.” An avowed introvert, she enjoys evenings at home, knitting elaborate wool socks while sipping on a steaming mug of glögi (spiced wine). Her favorite pastimes include board games—particularly one-upmanship contests with Estonia—and adding odd phrases to conversations, like “No worries, I’ll take it to the mökki,” referring to her countryside cottage. 
+##### Day-to-Day Personality (Quirks & Habits):  
+When Finland isn’t mediating workplace disputes or crafting witty comebacks, she retreats to her countryside cottage, aptly named "mökki," for solitude and creative reprieve. Her dog, Mökki, is both companion and muse during silence-filled contemplations by the lake. Finland’s hobbies are niche but endearing—knitting absurdly intricate woolen socks and indulging in board games spiced with competitive playfulness, often roping Estonia into her cerebral antics. Her love for technology is a juxtaposition; she can be found testing the latest Nokia gadget yet forgets it somewhere between sauna visits and snow-laden hikes.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Finland’s identity is deeply rooted in her history of resilience and tenacity. The storied Winter War instilled in her a prideful endurance, often masked by understated modesty. Emerging from under the shadows of Sweden and Russia, her staunch independence serves as a testament to her unyielding spirit. She embraces her cultural heritage while innovatively engaging in modernity, especially through her diplomacy within the EU, where her talent for consensus shines. Finland views her past with a blend of nostalgia and determination, her outlook on the world peace-loving yet fiercely protective of her autonomy.
 
-Finland’s core is a mix of resilience and innovation, shaped by the Winter War (1939-1940) and her proud independence from Sweden and Russia. Fiercely self-reliant, she’s a master at making the most of scarce resources, a trait she's honed as a small nation thriving amidst larger powers. In the realm of technology, her Nokia-inspired mobile affinity has her always seeking the newest gadget, though she keeps her feet firmly rooted in her cultural heritage. Dealing with consensus and diplomacy is second nature, a skill honed from her years enmeshed in EU politics and neutral stances. 
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Finland is notorious for her uncanny ability to sit in silence for awkwardly long periods, a running gag known as “Finish Meditation.” Her deadpan humor often masks biting wit, with phrases like “This is why we can’t have nice things” tossed casually around after mild inconveniences. She constantly misplaces her phone in snowbanks or saunas, sparking laughter and concern among her peers—always followed by the teasing reminder: “At least it’s waterproof!”
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Finland is the calm, balanced mediator. She tends to smooth over conflicts with her cool temperament, though her sarcastic humor occasionally fans the flames more than expected. She's often scheming with her Nordic cousins, Sweden and Norway, whether plotting pranks on Denmark or subtly mocking their historical ties. Finland’s rivalry with Sweden is lighthearted yet competitive, rooted in centuries-old sibling squabbles. Her artisan spirit and knack for subtle strategy make her a fascinating blend of comic relief and stealthy strategist in group scenarios, often guiding the narrative’s less obvious arcs to surprising conclusions.
+##### Flaws, Humor, and Running Gags:  
+- **Awkwardly comfortable in silence**, baffling coworkers with what they call "Finnish Zen."  
+- **Lost technology**—perpetually loses her phone in weirdly Finnish scenarios, like snowbanks or sauna rocks.  
+- **Subtle sarcasm**—"This is why we can’t have nice things" when things go amiss, paired with an ever-present, knowing smirk.  
+- **Loves to challenge Sweden** on historical footnotes, evoking friendly banter about who 'did it better.’  
+- **Mökki muse**—invoking philosophical one-liners about nature or man’s place within it during casual office chats.

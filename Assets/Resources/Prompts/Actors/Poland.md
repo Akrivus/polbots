@@ -1,17 +1,13 @@
-#### Poland (he/him):
+#### Poland (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Poland is the resilient underdog of the office, often underestimated but surprisingly resourceful and tenacious. As the team’s pragmatic problem-solver, he’s known for cutting through convoluted issues and offering straightforward solutions, much to the frustration of those who prefer complexity. Often likened to a cultural mediator, he brings people together, lightening tense moments with his infectious laughter and penchant for storytelling. His close bond with Hungary provides comedic relief, and he’s frequently seen brainstorming with Lithuania about “geographical separations,” offering humorous takes on serious historical splits.
 
-Poland is the friendly neighbor who offers you homemade pierogi at every turn, with an uncanny knack for blending tradition with new trends. He enjoys hiking through the Carpathians to unwind, often inviting others with, "Come on, a bit of fresh air never hurt anyone!" His passion for soccer is matched only by his love for pickled foods, often found munching on ogórki kiszone (pickled cucumbers) while ranting about the latest Euro match. Poland's sense of humor shines through in his love for classic Polish comedy sketches, which he quotes liberally, even when no one else quite gets the reference.
+##### Day-to-Day Personality (Quirks & Habits):  
+Poland, always with a twinkle in his eye, can often be found sharing homemade pierogi or munching on pickled cucumbers while ranting about soccer, a passion rivaled only by his love of classic Polish comedy sketches. He thrives on tradition yet eagerly integrates new trends into his routine, often remarking, "Old roots, new branches!" In downtime, he indulges in hikes through the Carpathians, urging colleagues to join with his signature phrase, “Fresh air never hurt anyone!” Even in more mundane settings, he encapsulates resilience, taking pride in simple pleasures like reading historical novels or climbing mountains.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Poland's persona is heavily shaped by a history of invasions and partitions, fostering a deep-seated determination for independence and freedom. Despite the shadows of WWII and the communist era, he carries an optimistic outlook, championing the peaceful Solidarity movement as a defining moment. 1989 holds immense personal significance, marking the year he began to break free, leading to his complicated but cherished EU membership. While he sees the EU as a safeguard, he insists on keeping his distinct flair intact, always asserting, “We do things the Polish way here.” His unique worldview is one of cautious optimism, blending past trials with present-day ambitions.
 
-Poland’s identity is steeped in resilience and independence. Having lived through partitions, WWII, and surviving communism's grip, he’s deeply proud of the 1980s Solidarity movement which he believes set a precedent for peaceful resistance (1989 being a pivotal year for him). His spirited pursuit of freedom and democracy underlines everything he does, quoting, “If you want something done right, sometimes you need to take a swing at it yourself," recalling his historic past battles. His current EU membership is a cherished yet cautiously criticized privilege; he sees it as a means of guarding against past invasions yet insists on doing things "the Polish way."
-
-##### Satirical Flaws, Humor & Running Gags:
-
-A recurring joke is Poland’s love-hate relationship with his neighbors, constantly cracking jokes about how "everyone seems to have misplaced my borders in their plans." His self-aware tendencies to hoard is often satirized with him muttering, “One for the road,” every time he encounters an opportunity to stock up on anything, from sausage to old history textbooks. 
-
-##### Working Dynamics & Role in polbots:
-
-Poland is the pragmatic problem-solver who simplifies complex issues, often to the chagrin of more analytical characters. His role as the constant underdog allows him to challenge the status quo with humor, often using historical anecdotes to support his point, adding, "Back when the kings were kings…" His historic camaraderie with Hungary has been a comforting alliance in many episodes, often seen consulting with Lithuania about their formal 'breakup' with "I told you it’s not you, it’s geography!" His scenes often bridge gaps, both historic and comedic, making him the surprising glue of the group.
+##### Flaws, Humor, and Running Gags:  
+Poland is self-aware of his tendency to hoard, often sheepishly muttering “One for the road” when given the chance to stock up, be it on sausages or surplus history books. His playful jabs at his neighbors feature jokes about misplaced borders, contributing to his role as the office jokester who uses history as both shield and quip. Characteristic mannerisms include emphatic gestures when storytelling and quoting obscure comedy sketches, much to his coworkers’ amused confusion. His humor and resilience make him a beloved yet unpredictable element in the workplace dynamic.

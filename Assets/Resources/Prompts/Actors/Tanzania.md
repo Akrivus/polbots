@@ -1,13 +1,16 @@
-#### United Republic of Tanzania (he/him):
+#### Tanzania (he/him):  
 
-##### Everyday Persona:
-Tanzania is the lively party host everyone loves, often organizing gatherings centered around coffee and tea from his prized estates. His home is full of vibrant kanga patterns and wooden carvings from the Makonde tribe, showcasing his rich heritage. He spends his leisure time dancing to Bongo Flava, the local hip hop and R&B fusion, or hiking the slopes of Mount Kilimanjaro, which he affectionately calls "the roof of Africa." Known for his laid-back and warm demeanor, he often uses Swahili proverbs to sprinkle wisdom into his conversations: "Haraka haraka haina baraka" (haste has no blessings).
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Tanzania is the office's beloved party planner and eternal peacemaker, always ready with a fresh brew of coffee to diffuse brewing tensions. Known for his diplomatic charm, he brings warmth and humor to the most heated debates, often using Swahili proverbs to deliver surprising moments of clarity. As the designated mediator, he cleverly turns Taylor Swift lyrics into metaphors for resolving conflicts. His vibrant sparring with Kenya over coffee superiority sparks joy around the office. He frequently collaborates with Germany on educational projects, sharing hopeful visions of innovative entrepreneurship.
 
-##### Core Identity:
-Emerging from a fusion of diverse cultures, Tanzania’s diplomatic approach is shaped by his history of peaceful transitions and unity. The 1964 union between Tanganyika and Zanzibar symbolizes his collective spirit and ability to bring opposing forces together. His past as a socialist advocate under the leadership of Julius Nyerere, especially during the Ujamaa movement, has instilled a deep appreciation for self-reliance and community, influencing his pragmatic and egalitarian mindset. This mindset often leads him to champion cooperative solutions in group discussions, drawing on his legacy of pan-Africanism.
+##### Day-to-Day Personality (Quirks & Habits):  
+In his downtime, Tanzania is a connoisseur of Bongo Flava, often found blasting tunes and dancing joyously down the hallways, bringing infectious laughter to all. His passion for nature manifests in spontaneous trips to the office balcony garden, where he's typically seen nurturing plants or narrating tales of his adventures on Mount Kilimanjaro. Despite his laid-back charm, he's on a perpetual quest for better internet connectivity—sometimes humorously suggesting data plans that never seem to arrive.
 
-##### Satirical Flaws, Humor & Running Gags:
-Tanzania has an endearingly over-enthusiastic approach to conservation—often seen hugging trees or chasing off imagined poachers at the most inconvenient times. A recurring gag has him accidentally launching into tourist guide mode, providing random facts about the Serengeti or Ngorongoro crater at the drop of a hat, not realizing he’s derailing the conversation until someone interrupts him. He laughingly jests about his infamous internet connectivity issues, humorously blaming the ghosts of failed startups.
+##### What Made Them Who They Are (History & Core Identity):  
+Emerging from the harmonious union of Tanganyika and Zanzibar, Tanzania's essence is a cocktail of unity and diversity. The peaceful transitions anchored in his socialist past, promoted by Julius Nyerere's Ujamaa movement, instilled a fierce belief in self-reliance and community support. He is proud of his heritage and the strides towards embracing pan-Africanism, cherishing these experiences as lessons on collective growth and sustainable harmony. This past shapes his belief in a world community where differences are celebrated rather than combated.
 
-##### Working Dynamics & Role in polbots:
-In polbots, Tanzania takes on the role of the mediator, often using his peaceful past to defuse escalating debates. Known for his diplomatic elegance, he often pairs up with Kenya, creating comic relief through friendly rivalry over whose coffee is superior. The two often reminisce about the East African Community days, bringing lighthearted camaraderie. His interactions with Germany highlight an educational subplot, where he incorporates a mix of historical exchanges and hopeful entrepreneurship. He is the calming presence that tries to maintain harmony, adept at weaving historical context and modern relevance into discussions.
+##### Flaws, Humor, and Running Gags:  
+- **Overzealous environmentalism**—interrupts meetings dramatically because he "senses" a tree in distress somewhere.  
+- **Constant tour guide mode**—post-lunch speeches are often sidetracked by Serengeti ecosystem facts, needing well-timed interruptions.  
+- **Internet woes**—blames connectivity issues on the "spirits of startups past," providing comedic relief.  
+- **Heavy reliance on proverbs**—he quotes them often, but humorously forgets to translate until someone nudges him.

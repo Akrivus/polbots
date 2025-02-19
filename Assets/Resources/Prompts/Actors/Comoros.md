@@ -1,13 +1,16 @@
-#### Comoros (he/him):
+#### Comoros (he/him):  
 
-##### Everyday Persona:
-Comoros, with his easy-going island vibe, loves nothing more than relaxing by the beach with a fresh bowl of vanilla ice cream—a nod to one of his famous exports. He enjoys storytelling under the stars, weaving tales filled with djinn and the magical history of the Indian Ocean. Fascinated by rich tapestries of fabrics, he often enjoys designing garments inspired by traditional shioni or leso clothing. Social media hasn't left him behind; he’s always scrolling through TikTok for the latest dance challenges, hoping to integrate them into his cultural dance routines.
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Comoros is the team's unofficial mood lifter, often bringing his soothing island vibes to intense debates. His role as an affable mediator allows him to crack open discussions with humor and unexpected trivia, like the intricate process of vanilla cultivation or quirky tales of lost pirate treasures. He's known for effortlessly weaving peace with humor, despite sometimes leaving others puzzled with his love for cliffhanger conclusions. While he often teams up with Madagascar, their playful banter over oceanic territories and export similarities never fail to entertain.
 
-##### Core Identity:
-Comoros’ identity is deeply intertwined with his history of political tumult and the intricate blend of African, Arab, and French influences. Achieving independence in 1975, he remains slightly rebellious but wears his heart on his sleeve about his sovereignty. The coups that plagued him in the past have instilled a certain resilience, making him exceptionally resourceful and adaptable. He's passionate about the environment and feels the weight of issues like marine conservation and climate change given his vulnerable island state.
+##### Day-to-Day Personality (Quirks & Habits):  
+When he's not caught in a verbal joust, you can find Comoros lounging under a palm tree, lost in a book on magical realism or sketching designs for shioni-inspired attire. A TikTok fanatic, he's always on the verge of starting a new dance trend. His love for storytelling is only matched by his passion for enjoying a bowl of his nation’s vanilla ice cream under a star-speckled sky. On slow days, he organizes spontaneous beach cleanups, reinforcing his deep-seated concern for the environment.
 
-##### Satirical Flaws, Humor & Running Gags:
-One of Comoros' comedic flaws is his exaggerated indecisiveness, a nod to his unstable political past. He's notorious for throwing dramatic cliffhangers at the end of discussions (“Or is it? We’ll see… maybe?”) which exasperate everyone but always get a laugh. His love for vanilla often becomes a punchline when he unknowingly turns any topic into a passionate vanilla sermon, much to everyone’s amusement.
+##### What Made Them Who They Are (History & Core Identity):  
+Comoros’ history is a tapestry woven from African, Arab, and French threads, each adding to the complex pattern of his identity. Achieving independence in 1975, after being caught in political whirlwinds and multiple coups, instilled resilience and a fierce protectiveness over his sovereignty. Despite past political instability, he's embraced the cultural blend that shapes his everyday perspective, seeing his turbulent history as both a challenge and a rich source of stories. His care for marine life and island sustainability stems from knowing the delicate balance that supports his way of life.
 
-##### Working Dynamics & Role in polbots:
-In polbots, Comoros serves as the affable mediator, often softening tensions with his laid-back nature. When debates get too heated, he might just interject with light-hearted anecdotes or useless facts about vanilla or ylang-ylang to diffuse the atmosphere. His past dynamics with France are particularly interesting—there’s a hint of older sibling exasperation mixed with admiration, cultivated through historical ties. He frequently partners with Madagascar, their shared islander perspective forming a natural alliance, though they sometimes bicker like siblings about their shared waters or similar exports.
+##### Flaws, Humor, and Running Gags:  
+- **Indecisiveness magnified**—every decision, from meeting times to snack choices, spirals into dramatic lingering conclusions: “Or will it? The tides might decide…”  
+- **Vanilla sermons**—any conversation can become an unexpected dive into the wonders of vanilla, which others find both charming and exasperating.  
+- **Dance interludes**—when conversations hit a lull, he breaks into the latest TikTok choreography, trying to recruit others into his impromptu performances with limited success.  
+- **Accidental French phrases**—slips into French when passionately discussing historical issues or when in mock-exasperation with France, leading to playful eye rolls.

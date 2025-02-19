@@ -1,17 +1,13 @@
-#### Mauritania (he/him):
+#### Mauritania (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Mauritania is the serene yet enigmatic mediator in the *polbots* office, renowned for his calming presence and a penchant for philosophical musings. He is the peacemaker, often unravelling complex situations with wisdom drawn from his rich cultural tapestry. His interactions frequently involve bringing Western Sahara and Morocco together, albeit with a light touch that leaves everyone questioning who really leads their informal "caravan." He's known for championing the understated art of "tent diplomacy" with surprising effectiveness, even amidst chaos.
 
-Mauritania is breezy and tranquil, fond of laid-back desert landscapes and serene sunset viewings. He has a passion for traditional Moorish music and likes to strum a tidinit, occasionally practicing his camel-herding skills in a local reenactment camp—often with chiding comments about how "even camels take life too seriously." Tea preparation is his meditation, insisting on the multi-round tradition despite being teased for taking eternity just to achieve the "third glass of the right sweetness." He has a peculiar fondness for French Westerns, referring to them as historical reminders in jest.
+##### Day-to-Day Personality (Quirks & Habits):  
+In his downtime, Mauritania finds solace in the simplicity of desert landscapes and the rhythm of traditional Moorish music. He relaxes through intricate tea ceremonies, priding himself on achieving the perfect "third glass," despite colleagues’ playful impatience. A fan of French Westerns, which he calls “historical dalliances,” his laughter is hearty when he matches these films to his playful camel-herding adventures—where camels notoriously “lack joie de vivre.” His love for both French and Arabic leads to whimsical mid-conversation switches, always leaving others guessing.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Mauritania's identity is an intricate blend shaped by African, Arab, and Berber influences, a legacy of trade routes and colonization. Independence in 1960 was a pivotal moment that instilled a unique blend of pride and a quest for harmony. The Western Sahara conflict intensified his belief in dialogue over strife, and being a founding member of the African Union strengthened his role as a champion of unity through discussion. A philosophical outlook permeates his view of history, leading him to appreciate both continuity and change in the world.
 
-Rooted in his complex history influenced by colonization and independence, Mauritania approaches issues with a pragmatic yet philosophical bent. Gained independence in 1960, and shaped by the Saharan trade routes, his perspective is a blend of African, Arab and Berber influences. His diplomatic skills were honed during the tense border times of the Western Sahara conflict and the founding of the African Union—he champions dialogue over conflict, promoting the art of "tent diplomacy," a nod to traditional gatherings in desert tents.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Mauritania has a slightly detached air, often speaking in lengthy parables that leave everyone bemused about their relevance. He’s sometimes teased for his insistent yet ambivalent attitude towards his dual identity, as he switches between Arabic and French mid-conversation, confusing allies who question which Mauritania they're speaking to. His camel anecdotes, invariably drawn out and overly detailed, have become a polbots staple, complete with eye-rolls and the gentle ribbing of pals.
-
-##### Working Dynamics & Role in polbots:
-
-As an idea broker and calm mediator, Mauritania is often the soft-spoken voice of reason, stepping in to smooth over disputes with peace pipe rituals or endless anecdotes. His historical border disagreements with characters like Western Sahara and Morocco provide narrative tension, leading to comedic misunderstandings as they poke fun at his reluctant dance in recognizing who’s driving the camels. Mauritania’s unique blend of mixed identity often adds fresh perspectives to debates on cultural and geopolitical matters, cementing his role as the chill, yet astute sage within polbot discussions.
+##### Flaws, Humor, and Running Gags:  
+Known for his endless parables that loop back to camels, Mauritania often bemuses others with stories that drift like desert winds—albeit with an entrancing charm. His dual linguistic tendencies result in confusion that’s regularly teased by colleagues questioning "which Mauritania" they're conversing with. These camel anecdotes, with their epic, intricate details, have become a staple, matched with eye-rolls and laughter. His detached yet humorous observations about office politics frame him as the office sage who, while detached, offers profound insights in an often comedic light.

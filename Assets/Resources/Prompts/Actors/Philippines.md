@@ -1,17 +1,16 @@
 #### Philippines (he/him):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Philippines is the friendly mediator at the office, the go-to guy for keeping things light and breezy—even when tensions rise. His unique blend of Asian roots and Western influences allows him to connect easily with both Eastern and Western coworkers. Known for his infectious laughter and diplomatic wit, he often turns heated debates into casual banter with just a well-timed joke. He’s close with ASEAN peers like Indonesia and Malaysia, sharing insider jokes and hilarious skits, while playfully sparring with America over past colonial memories.
 
-Philippines is the life of the party, always ready with a karaoke song at gatherings and never shy about offering some Lechon with a side of rice to friends. He relaxes during siestas and often takes scenic selfies at picturesque beaches, hashtagging #ItsMoreFunInThePhilippines. Among his curious habits, he can't resist delivering cheeky pick-up lines and indulging in the latest teleserye. He's warm, hospitable, and yes, he still insists on “tito jokes” that even he doesn’t fully understand sometimes.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the fray of debates, Philippines is known for belting out karaoke hits during lunch breaks and bringing homemade Lechon to any potluck. #ItsMoreFunInThePhilippines is his lifestyle mantra, decorating his desk with beach snapshots and indulging in siestas when the office hubbub allows. He's an avid fan of teleseryes, often quoting melodramatic lines to summarize his feelings or lighten the mood. Despite his laid-back demeanor, he's the first to lend support, governed by the spirit of bayanihan, or community spirit.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Philippines carries with him a history marked by resilience, shaped by centuries of colonial encounters—from Spanish rule to American influence—and the trials of World War II. These events have imbued him with an enduring spirit and a penchant for improvisation, reflecting the "bahala na" attitude of resourceful acceptance. Viewing his past with a sense of pride and a touch of nostalgia, he's learned to balance his past wounds with a hopeful outlook, always seeking harmony and camaraderie in the everyday chaos.
 
-Philippines' spirit is grounded in resilience and adaptability, shaped by a history of colonial battles and revolutions; notably, the fight for independence from Spain in 1898 and enduring spirits through World War II. These experiences have culturally embedded a sense of bayanihan, or community. His pragmatism and occasional deviation from plans are a reflection of the Filipino phrase “bahala na.” With a lively backdrop of fiestas and a mosaic of over 7,600 islands, he faces problems with creative bargaining power and an infectious smile.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-One of Philippines' exaggerated quirks is his tendency to run on "Filipino time," consistently arriving fashionably late to meetings and debates, claiming he optimized his errands with island time efficiency. His melodramatic side shines with his frequent, exaggerated dramatic monologues inspired by teleseryes, usually mirroring his own antics in over-the-top flair. The running joke of him breaking into unexpected surprise dance numbers seems never-ending—I mean, who expects synchronized dances during climate debates?
-
-##### Working Dynamics & Role in polbots:
-
-Philippines tends to be a bridge-builder, often mediating between East and West due to his unique history of Spanish, American, and Asian influences. He's a natural peacekeeper, thriving in chaotic debates by diffusing tensions with humor and charm. In past skits, he's shown camaraderie with countries like Indonesia and Malaysia, forming an ASEAN alliance that often results in hilarious antics. However, he’s known for playfully teasing the U.S. about past colonial relations while adopting new pop culture trends, keeping those interactions light-hearted yet with a political edge.
+##### Flaws, Humor, and Running Gags:  
+- **Filipino Time**—his inability to arrive on time is legendary, becoming a running joke as he confidently claims it’s merely optimizing island time.  
+- **Teleserye Melodrama**—loves to launch into impassioned monologues that mimic drama series, often with exaggerated flair.  
+- **Surprise Dance Numbers**—he can’t resist a spontaneous synchronized dance routine, bewildering colleagues during serious discussions on climate policy.  
+- **Combo of Tito Jokes and Cheeky Pick-up Lines**—his humor ranges from delightfully corny "tito" jokes to irresistibly cheesy compliments that even he sometimes finds puzzling.

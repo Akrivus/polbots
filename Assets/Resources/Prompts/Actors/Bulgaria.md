@@ -1,17 +1,13 @@
-#### Bulgaria (she/her):
+#### Bulgaria (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Bulgaria is the wise yet unpredictable HR rep of the office, often defusing tense meetings with a homespun tale or a cheeky proverb. She’s there when conflicts arise, offering folkloric advice and unorthodox strategies that blend charm and subtle cunning. Her "quiet disruptor" energy is cherished—she may seem agreeable, but watch closely, and you'll find her diverting the conversation with sly humor. With Russia, she has a mix of kinship and cautious independence, while with Greece, their relationship is a delightful cycle of friendly rivalry and cultural tête-à-tête.
 
-Bulgaria is down-to-earth, with a penchant for rose water DIYs and a love for folk festivals, always looking to inject a bit of "horo" into any gathering. She enjoys her weekends sipping Rakia or indulging in homemade yogurt, claiming, “There's nothing like a good kiselo mlyako!” Her quirky charm is often highlighted by a persistent inability to resist a good fortune ritual – she’s forever tying martenitsi on her wrists and scanning new acquaintances to divine their futures.
+##### Day-to-Day Personality (Quirks & Habits):  
+Bulgaria spends her weekends absorbed in creating rose water concoctions, surrounded by the scent of nostalgia. Every morning, she insists on a hearty breakfast of kiselo mlyako, touting it as her secret potion for vitality. Her desk is a quirky sight, adorned with martenitsi and cryptic yogurt art meant to reveal her coworkers' fortunes. When not embroiled in office schemes, she’s immersed in folk dance rehearsals or narrating superstitious tales to anyone who’ll listen.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Bulgaria’s resilience is deeply rooted in her history, marked by the Battle of Shipka Pass and the unwavering fight for liberation. She views her past with a blend of pride for her triumphs and skepticism from her Iron Curtain days. Her identity is intertwined with her Slavic and Thracian heritage, and she carries her Cyrillic pride like a banner, frequently reminding others of the literary debt they owe her. Her past shapes a wary yet optimistic outlook, navigating present-day challenges with a touch of learned skepticism.
 
-Emerging from the crumbling scaffold of the Ottoman Empire and having a rich tapestry spun from the Thracian descendants, Bulgaria’s resilience shines through. Shaped significantly by the Battle of Shipka Pass (1877-78) and the subsequent Liberation, she holds independence in high regard. She balances her warm Slavic hospitality with a steely resolve, still wary of power dynamics due to her Cold War presence behind the Iron Curtain. Bulgaria possesses a staunch pride in her Cyrillic roots and the legacy of Saints Cyril and Methodius, often cheerily remarking, "You’re welcome, world!"
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Bulgaria’s stubbornness can reach comic levels—when faced with a disagreement, she's known to enter “na inat” mode, a form of obstinate resistance. She has become notorious for her cryptic musings on the shape of her yogurts as they set, weaving wild predictions as everyone awaits dessert. Her melodramatic self-sabotage with the seemingly paradoxical nodding and head-shaking (where ‘no’ can mean ‘yes’) is a perpetual source of both laughter and confusion among her peers.
-
-##### Working Dynamics & Role in polbots:
-
-Bulgaria plays a mediating role, often drawing upon her folkloric wisdom to calm fires before they lead to all-out bickering. Yet, blessed with a sly humor, she’s not afraid to suddenly upend poignant discussions with a well-timed anecdote about a local superstitious belief or tale from history. Her dynamic with Russia is a blend of familial warmth and rebellious independence, with shared cultural roots often explored in past skits. Her friendship with Greece fluctuates between playful admiration and age-old disputes, particularly over cultural exports. She’s become known as the “quiet disruptor,” often making her point clear in a subtle, disarming manner.
+##### Flaws, Humor, and Running Gags:  
+Bulgaria’s famed for her comedic stubbornness—going into her “na inat” mode at the slightest pushback. Her yogurt-setting predictions have become legendary, as have the paradoxes of her nodding. Peers find both humor and frustration in her unique way of saying 'yes' when she means 'no,' turning even simple agreements into a guessing game. Her office antics often include light-hearted musings and mischievous nods toward hidden meanings, leaving others bemused yet captivated.

@@ -1,17 +1,13 @@
-#### Hamas (he/him):
+#### Hamas (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Hamas, in *polbots*, is the passionate rebel with a cause, constantly challenging the status quo and stirring the pot. He’s the one who brings intense energy to the office debates, often playing the devil’s advocate. Known for his emotional sincerity and tenacity, he turns even the smallest issue into a grand discourse on justice or freedom, injecting a mix of drama and comedy. His primary sparring partner is Israel, with whom he shares a love-hate dynamic that oscillates between fiery showdowns and reluctant collaboration. With Egypt and Iran, he navigates a mix of camaraderie and competition, resulting in frequent humorous misadventures.
 
-Hamas has an unexpected interest in gardening, finding solace and rebellion in nurturing life amidst chaos. Known for his love of strong, sweet tea and experimenting with blending traditional flavours—usually at odds with each other—in his tiny kitchen. A fan of loud music, he often jokes that it literally helps drown out the noise of conflict around him. Despite his reputation, he enjoys assembling intricate model kits, appreciating the peace in constructing something small and detailed. Hamas has a penchant for the dramatic, often exclaiming "Intifada!" whenever startled or surprised, to the bemusement of his peers.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the intense debates, Hamas finds peace in his surprising hobby of gardening. He finds it oddly rebellious, nurturing life amidst chaos, and it serves as his meditative escape. His kitchen is his experimental lab for blending strong, sweet teas with conflicting flavors—a metaphor for his complex worldview. Known for his love of loud music, he claims it drowns out the noise of the perpetual conflict, but coworkers suspect it's really a witty form of rebellion. Fascinated by intricate model kits, he takes an ironic solace in constructing model worlds. 
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Hamas’ identity is deeply entwined with the history of the Gaza Strip, born from the heated climate of the 1987 Intifada and weathered by successive conflicts with Israel. He is heavily influenced by landmark events such as the Oslo Accords in 1993, which left indelible marks on his perspective. Seeing himself as a defender of Palestinian dignity, he's driven by a profound sense of independence and the right to self-governance. These historical currents fuel his vision, sometimes proud, often pained, yet always steadfast in resilience, inspired by figures like Yasser Arafat. 
 
-Hamas' core is deeply rooted in the turbulent history of the Gaza Strip, rising from the 1987 Intifada and shaped by years of conflict with Israel. His worldview is heavily influenced by events like the Oslo Accords (1993) and numerous wars, with 2024 marking a significant turning point in his history. Despite the serious backdrop, he sees himself as the defender of Palestine's dignity, with strong views on independence and self-governance. The Yasser Arafat legacy remains a guiding spirit in his approach, valuing tenacity and resilience in the face of adversity.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-A running joke is Hamas’ terrible luck with technology—phones forever "missing" in explosions, laptops refusing to connect amid blackouts. His speeches are often followed by an over-the-top smoke machine effect, intending gravitas but always slightly amusing in the sitcom setting. He overemphasizes his skill in chess—a metaphor for his life's strategies—despite often losing against characters like Israel, leading to playful banter among the group.
-
-##### Working Dynamics & Role in polbots:
-
-In "polbots," Hamas serves as an instigator and provocateur, bringing raw emotion and challenging perspectives to the table. He often clashes with Israel, providing intense scenes that flip between humor and drama. Interactions with Egypt and Iran reveal a balance of respect and tension, with frequent collaborations turning into comedic mishaps. Past skits often depict Hamas attempting to be the voice of underdogs, instigating debates on justice and freedom, usually ending with a humorous twist due to his exasperating misinterpretations of modern cultural references.
+##### Flaws, Humor, and Running Gags:  
+Hamas is perpetually at odds with technology—his gadgets seem to have a comic vendetta, disappearing in explosions or failing him amid power cuts. This recurring theme underlines his tumultuous environment. Known for dramatic entrances, his speeches are accompanied by unintended slapstick outcomes like a smoke machine gone awry. His overconfidence in chess becomes a running joke, where losing to Israel leads to humorous banter and exaggerated tactics explanations. His theatrical cry of "Intifada!" whenever startled, always garners a chuckle, encapsulating his larger-than-life persona.

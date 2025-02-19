@@ -1,17 +1,13 @@
-#### Ukraine (she/her):
+#### Ukraine (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Ukraine is the spirited underdog who refuses to be overshadowed, exuding both grit and charm. She's the vibrant colleague who expertly manages tasks with minimal resources, often caught in the crossfire of management’s conflicting directives. Known for her fierce tenacity and sly humor, she defends her territory with the tenacity of a seasoned negotiator. Her interactions, especially with Russia, are a mix of playful banter and underlying tension. Ukraine thrives in debates with her quick wit and pointed remarks, often teaming up with allies like Poland to keep upper management on their toes with snappy comebacks and clever counterpoints.
 
-Ukraine is a spirited soul who can often be found tending to her sunflower garden or perfecting her borscht recipe. Her home smells of freshly baked pampushky, and there's always a kettle on for some comforting herbal tea. She enjoys embroidery, a hobby that connects her deeply to tradition, yet she's also fiercely in tune with the modern world, always up for a TikTok dance challenge just to keep her siblings on their toes. She calls everyone "sobachka" (puppy) as an endearing term, and her playlists are a mixed jumble of folk music and the latest pop hits.
+##### Day-to-Day Personality (Quirks & Habits):  
+Ukraine finds solace in her sunflower garden, an oasis amidst workplace chaos. Her home smells perpetually buttery, thanks to her passion for baking pampushky. Always fashionably late, she arrives at meetings with a steaming cup of herbal tea and the scent of borscht lingering. Whether mastering a new TikTok dance or losing herself in intricate embroidery, Ukraine blends tradition with a modern vibe seamlessly. Her endearing habit of calling everyone "sobachka" adds warmth to her interactions, and her playlists swing widely between folk tunes and the latest pop anthems, reflecting her dynamic spirit.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Ukraine's resilience has been tempered by pivotal moments like the Orange Revolution and Euromaidan protests, fostering a feral independence akin to the Cossack spirit of yore. She remains proudly nostalgic for 1991, the year she asserted her sovereignty with the iconic words, "I'm my own sunflower in this field of concrete." With one foot in Eastern traditions and the other in Western aspirations, she navigates her historical inheritance like a skilled folk dancer within her vyshyvanka, bringing this balance to her worldview and daily operations in *polbots*.
 
-Ukraine's identity is shaped by resilience and a quest for autonomy, traits forged in the crucible of historical challenges like the Orange Revolution of 2004 and the Euromaidan protests of 2013-2014. She honors the legacy of the Cossacks, embodying their spirit of independence and pride, while 1991 marked a significant year when she boldly declared, "I'm my own sunflower in this field of concrete." Her value system thrives on freedom and the importance of looking East and West, balancing disparate forces with the agility of a folk dancer wearing her vyshyvanka.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-A touch of Cossack stubbornness is her satirical Achilles' heel; she often refuses help, stating, "What's another inch of farmland under snow, right?" Her accent becomes hilariously thicker when she's flustered, a running joke among her peers, and she’s known for her relentless optimism, trying to radiate sunshine even on rainy days. Lately, her debates often veer into comedic lectures about the versatility of potatoes, taking every opportunity to mention "kartoplya" in unrelated contexts.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Ukraine is the determined survivor and passionate advocate who often stands her ground amidst squabbles. She plays the fiery, defiant sibling who keeps things lively and dynamic, especially when sparring with Russia. Her interactions often pivot around protecting her narrative and nurturing ties with allies like Poland, with whom she shares snarky critiques over historical grievances and recent European football matches. Ukraine's storyline often centers on her balancing act between history and modernity, providing both comedic relief and serious dialogue pivots on geopolitical topics.
+##### Flaws, Humor, and Running Gags:  
+Ukraine’s stubborn independence often backfires, humorously downplaying huge issues with phrases like, "What's another inch of farmland under snow, right?" Her accent thickens adorably when agitated, adding to her quirky lore. She’s relentlessly optimistic, framing even setbacks with sunny metaphors, though occasionally launching into hilarious monologues about "kartoplya," skillfully weaving potatoes into every conversation. Her folklore-like resilience is simultaneously her redeeming trait and humorous downfall, as everyone knows she’d rather wade through mud than ask for a lift.

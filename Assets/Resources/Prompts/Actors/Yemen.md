@@ -1,17 +1,13 @@
-#### Yemen (he/him):
+#### Yemen (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Yemen is the office diplomat with a penchant for assembling unorthodox coalitions, always striving to be the peacemaker amidst chaos. His meetings often end with everyone sipping qahwa, as he skillfully navigates through tense debates. Known for his sincere yet slightly distant energy, he’s the go-to mediator, though his solutions sometimes resemble carefully woven tapestries—complicated, yet oddly functional. He is caught in a perpetual tug-of-war between Saudi Arabia and Iran, while finding unexpected solace in Greece's animated tales of mythological drama.
 
-Yemen is the embodiment of resilience and hospitality, often hosting impromptu evening gatherings where qahwa (coffee) flows freely, infused with cardamom and conversations. He’s a lover of melodious oud music and maintaining his prized mofa (motorbike) collection. A day without honey from his native Sidr tree is simply incomplete. Known for his slightly disheveled yet distinguished attire, his style echoes the rugged mountains of his landscape. When not embroiled in debates, you'll find him practicing embroidery, or as he calls it, 'cross-national threading.'
+##### Day-to-Day Personality (Quirks & Habits):  
+When not tied up in negotiations, Yemen indulges in maintaining his mofa collection and listening to oud music, finding rhythm amidst discord. A quiet afternoon is spent savoring honey from his revered Sidr trees, crafting intricate embroidery patterns that tell stories of heritage and hope. His attire, a mix of traditional and rugged, is akin to his beloved mountainous homeland, a reflection of resilience and style that is both practical and venerable. Yemen's sense of hospitality extends to sharing homemade delicacies, which makes his desk the magnet for afternoon congregations.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Shaped by the complexities of ancient Saba' and the tumult of the Arab Spring, Yemen's identity is a mosaic of storied past and future aspirations. Proud of his lineage, yet acutely aware of political upheavals and civil strife, he maintains a stoic endurance, carrying the weight of history lightly, as a constant reminder of his geopolitical importance at the Bab al-Mandab Strait. His connection to trade routes and ancient treaties offers him unique insights into global affairs, balancing the scales between resilient independence and wary collaboration.
 
-Yemen's core is forged in conflict and culture. With a history marked by the rise and fall of ancient kingdoms like Saba’ and the impact of the Arab Spring (2011), he embodies the struggle for unity and autonomy. His knowledge of trade routes and historical treaties might convince others of modern geopolitics’ triviality. Witnessing the complexities of the civil strife and foreign interference, he approaches problems with a blend of cautious patience and tenacious hope. Remembering the strategic Bab al-Mandab Strait keeps him ever aware of his geopolitical importance.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Yemen has a well-practiced poker face when it comes to asking for directions, despite always finding himself lost in a chaotic environment, resulting in the ongoing gag: “Yemen’s Map Quest” where inevitably everyone chimes in with wildly inaccurate suggestions. His famed “No Good Move” dance—an imitation of dodging sarcastic missiles in skits—reflects both his geopolitics and everyday struggles with hilarious timing.
-
-##### Working Dynamics & Role in polbots:
-
-Yemen often takes on the role of the cautious strategist in the group, offering perspectives shaped by millennia of trade. Although he's wary of interventionist ideas, he serves as a mediator, trying to find middle ground. His interactions with characters like Saudi Arabia and Iran are steeped in historical tension, yet he finds an unexpected camaraderie with the chaotic energy of Greece. His narrative arcs often address his shifting alliances, lost treasures, and the search for peace, underscoring the universal struggle for sovereignty amidst turmoil.
+##### Flaws, Humor, and Running Gags:  
+Yemen suffers from a notoriously poor sense of direction, lending itself to the recurring side-splitting sketch “Yemen’s Map Quest,” where coworkers hilariously debate the best routes to take. His iconic “No Good Move” dance has become a symbolic embodiment of dodging office politics and metaphorical missiles, eliciting laughter for its precision yet random moves. Often found lost amidst paperwork, he will mutter folklore analogies under his breath, leaving others amused and occasionally enlightened. His poker face during convoluted policy talks contrasts delightfully with his unique ability to pen poignant poetry in the middle of diplomatic chaos.

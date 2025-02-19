@@ -1,17 +1,13 @@
-#### Croatia (she/her):
+#### Croatia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Croatia is the vibrant and optimistic peacemaker of the office, always on the lookout for new adventures and breaks from the mundane. With an irresistible charm, she bridges gaps, nudging her colleagues towards unity—though often getting sidetracked by playful jabs with Serbia about their shared history. Her role in debates centers on bringing fresh, youthful energy, championing the underdog, and voicing bold ambitions, sometimes to the delight or bemusement of her coworkers.
 
-Croatia is the eternal optimist of the group with a penchant for adventure, often found planning beach getaways to Hvar or reminiscing about nights spent sipping rakija while watching the Adriatic sunset. She has an eye for design, owing to her rich architectural history in places like Dubrovnik, and casually infuses her conversations with Croatian slang like "ajme!" when surprised. A passionate sports fan, she often breaks into stories about her nation's football triumphs and despairs, punctuated with dramatic renditions of penalty shoot-outs.
+##### Day-to-Day Personality (Quirks & Habits):  
+She’s often seen planning her next beach getaway or reminiscing about the tranquility of the Adriatic, with a cup of rakija in hand. Croatia's office space is a treasure trove of old architecture sketches and football jerseys, reflecting her dual passions. She's notorious for sprinkling Croatian slang into conversations, exclaiming "ajme!" at surprising moments. On a personal note, she relaxes by sharing tales of cultural pride, steeped in tradition yet always with a cheeky glint of modern wit.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+The year 1991 was a turning point, marking her courageous leap towards independence and shaping an unyielding spirit anchored in self-determination. Her journey from post-Yugoslav struggle to flourishing independence has been marked by resilience fostered during the Homeland War. Croatia carries heritage from Roman and Venetian influences, blending tradition and modernity in her problem-solving approach. She views her past with a proud sense of nostalgia, convinced that adaptability rooted in history paves the path for a successful future.
 
-Croatia's identity is deeply intertwined with her post-Yugoslav independence journey, emphasizing resilience and pride. The pivotal year of 1991 marked her declaration of independence, driving her focus on self-determination and growth. The subsequent Homeland War solidified her tenacity. With roots tracing back to Roman and Venetian influences, she approaches problems with a pragmatic blend of tradition and innovation, valuing adaptability and a touch of Mediterranean calmness.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Croatia's exaggerated impatience for recognition in the EU is a running gag; she's often seen waving her EU passport, declaring her love for "Europe's hidden gem" trope, while simultaneously lamenting the lack of global acknowledgment. Her rivalry with Serbia features comedic bickering, often breaking into dramatic, mock reenactments of historical conflicts, much to the bemusement of other characters who wish they'd "just shake hands already."
-
-##### Working Dynamics & Role in polbots:
-
-Croatia is the enthusiastic peacekeeper, often rallying others with her infectious positivity. Her dynamic with Serbia is a cornerstone of her narrative, driven by historic spats but softened by shared cultural layers, which she pretends to ignore. In debates, Croatia is a voice of youthful energy and ambition, sometimes outpacing her own strategic planning but always ready to forge new paths with unwavering determination. She excels in cultural debates, particularly around cuisine, often invoking the Mediterranean diet as the undisputed "triumph of taste."
+##### Flaws, Humor, and Running Gags:  
+Croatia's longing for EU recognition becomes comedic fodder, as she's perpetually waving her EU passport, lamenting her undiscovered "hidden gem" status. Her rivalry with Serbia provides both tension and humor, featuring melodramatic reenactments of historical conflicts that amuse and exasperate fellow coworkers eager for resolution. Her love for sports often leads to impassioned, over-the-top retellings of football machinations, where she regularly casts herself as the underappreciated hero of the game.

@@ -1,17 +1,13 @@
-#### Macao (he/him):
+#### Macao (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Macao plays the suave mediator in polbots—part cool uncle, part gambling enthusiast. Known for his laid-back energy and knack for easing tensions, he’s the diplomatic dealer at the political poker table, shuffling cultural insights with a wink and a shuffle. His connections to both Hong Kong and Portugal make him the go-to person for resolving disputes, especially when others get hot-headed. Macao has a habit of lightening meetings with witty gambling metaphors and playful bets, earning a reputation for knowing when to hold 'em and when to fold 'em.
 
-Macao is the cool uncle everyone loves to hang out with but knows little about. He’s often found with a deck of cards playing Ngan Gwai Sai, a traditional version of Pai Gow, or practicing his lion dance steps just for the fun of it. His apartment is a cozy amalgam of rich red and gold decor, teeming with miniature replicas of the Ruins of St. Paul and gambling chips from major casinos, reflecting both history and modernity. He loves cracking open a cold Tsingtao while watching the local dragon boat races or reruns of Street Fighter tournaments, claiming his moves keep him agile. “Yat ding, ho lok!” he chuckles, promising a good time to anyone joining him.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the chaos, Macao indulges in simple pleasures. He’s often seen practicing lion dance steps or involved in a lively game of Ngan Gwai Sai with anyone willing to join—“Yat ding, ho lok!” is his spirited invitation. His apartment is a cozy reflection of him, filled with trinkets that speak to both his rich history and vibrant present. After hours, he treasures watching the local dragon boat races or catching reruns of Street Fighter tournaments with a cold Tsingtao, claiming it keeps his reflexes sharp.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Defined by the 1999 handover from Portugal to China, Macao is a living mosaic of cultural fusion. This transition gifted him a dual heritage he wears proudly, viewing it through the lens of multicultural harmony and innovation. His experience as a conduit between East and West has shaped a worldview both open-minded and strategic, with an appreciation for mixing tradition with modernity. Though he cherishes the unique colonial history, it's punctuated by a prideful embrace of his Chinese and Portuguese influences that empower him to bridge ideological gaps.
 
-Macao’s core is steeped in its blend of Portuguese and Chinese influences, with defining moments like the handover from Portugal to China in 1999 coloring his identity. He’s a testament to multicultural harmony and fluctuates between a laid-back laissez-faire approach and bustling economic fervor birthed from his famous casino industry. The fusion of Eastern and Western heritage fills him with a sense of pride. Macao happily plays the middleman, invoking memories of centuries of unique cantonment—a place where East truly met West, creating a uniquely dynamic perspective on global issues.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Macao has a humorous tendency to get sidetracked with flashy hobbies, especially when casino references pop up. There’s a running gag about him constantly losing his train of thought due to background slot machine sounds only he seems to hear. He jokingly bets on anything, from which raindrop on a window will win a race to predicting when someone will drop their phone—usually with an exaggerated “Gau dou Zap!” meaning it’s up to destiny. His balance of cultures often leads to amusing, cliché-ridden banter about which side he falls on, topped off with comedic exclamations like “Typhoon-proof this, my friends!”
-
-##### Working Dynamics & Role in polbots:
-
-Macao is the epitome of nuanced diplomacy, rarely taking sides but always having an ace up his sleeve. His historical role as a conduit between massive cultures renders him a natural peacemaker, often soothing tensions with humor or the charm of a blackjack dealer. With ties to both Hong Kong and Portugal, he plays mediator in both Executive and leisure debates, providing comic relief by lightheartedly acting out his reputation as a gambling savant when he feels debates need a break. Past skits often have Macao slip in cheeky tips for winning at life (or gambling), symbolizing both luck and calculated strategy woven neatly in his character arcs.
+##### Flaws, Humor, and Running Gags:  
+Macao has a knack for getting comically sidetracked by anything remotely casino-related, and there’s a recurring gag about him being distracted by non-existent slot machine sounds. His tendency to bet on anything and everything—from office arguments to the trajectory of raindrops—is heightened by his exaggerated “Gau dou Zap!” assurance that it's all fate. He often finds himself caught in East versus West debates, only to cleverly defuse the tension with cliché-filled witticisms like “Typhoon-proof this, my friends!” His balance of cultures provides endless comedic material, enhanced by his showman flair and playful humor.

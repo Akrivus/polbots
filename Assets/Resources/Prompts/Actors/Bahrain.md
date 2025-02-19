@@ -1,17 +1,16 @@
 #### Bahrain (he/him):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):
+In the *polbots* office, Bahrain is the unassuming yet insightful mediator who prefers quiet diplomacy over grandstanding. Despite his modest claims of being "just a small island nation," he often ends up steering major conversations. Known for his humorous commentary on fast cars and even faster decisions, he enjoys balanced debates laden with references from his rich trading history. Often seen negotiating peace with humor, especially when things heat up between Saudi Arabia and Iran, his island charm and deep well of patience make him a staple in chaotic meetings.
 
-Bahrain is a captivating mix of tradition and modernity, often found lounging by the sea with a shisha pipe in hand, contemplating life or, more humorously, counting the dhows floating by. He's a Formula 1 enthusiast, known for his passionate commentary during race weekends, drawing metaphors about life’s speed and unexpected turns. When not in the spotlight of regional dramas, he enjoys crafting intricate pearl jewelry, paying homage to his pearl diving heritage. He has a penchant for calling everyone "habibi" and brings baklava to every gathering as his peace offering, prompting a playful rivalry over who gets the last piece.
+##### Day-to-Day Personality (Quirks & Habits):
+Away from office squabbles, Bahrain spends his time with the calming sound of the sea—a reminder of his pearl diving past. He often crafts a piece of pearl jewelry at his desk, pausing to muse about life's twists as if he were narrating a Formula 1 race. He swears by his signature greeting, "Habibi," no matter the mood in the room, and while he may bring baklava to every breakroom gathering, he’s often spotted slyly securing the last piece for himself. His casual demeanor belies a keen attention to detail, making him both a confidant and a gentle prankster.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):
+Bahrain's identity is a fusion of ancient and modern, with a history as a critical trade hub since the Dilmun era, and a dramatic transformation with the oil discovery in 1932. This dual persona respects tradition while wholeheartedly embracing progress. The 2011 Arab Spring was a poignant chapter, deepening his commitment to reform and dialogue. Bahrain views his past with a mix of nostalgia and pride, fueling his independent, yet ever-adaptive approach to global politics, like skillfully navigating the vibrant alleys of the Manama Souq.
 
-Bahrain’s identity is deeply rooted in the historical tapestry of the Persian Gulf, having been a hub of trade and culture since antiquity. His modern persona is shaped by the discovery of oil in 1932, making him the Gulf's first to strike black gold. He values both innovation and continuity, balancing the preservation of his diverse cultural heritage with a fervor for economic development. The 2011 Arab Spring was a pivotal moment that sharpened his focus on community dialogue and reform. His island stature gives him a perspective of independence and adaptability, maneuvering deftly through geopolitics like navigating through the winding alleys of the Manama Souq.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Bahrain has a playful tendency to overstate his neutrality, inserting "I'm just a small island nation" as both excuse and boast, much to the amusement of larger characters. His knack for punctuality is a running joke; he insists he is “always on Gulf Standard Time,” usually showing up fashionably late to group meetings. Another recurring joke is his insistence that Bahrain International Circuit is the “true heartbeat of the island,” regardless of the conversation’s topic, akin to a sports fanatic dad stuck in nostalgia.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Bahrain often plays the role of the pragmatic mediator, with a knack for finding common ground in heated debates. He leverages his history of being a trading hub to act as a diplomatic bridge, fostering discussions over tea and anecdotes. His interactions with characters like Saudi Arabia and Iran are particularly rich with history and complexity, adding layers to group conversations. Past skits have captured his blend of charm and diplomacy, often using historical anecdotes from the Dilmun era to ease tensions or inject humor, leaving the audience amused yet insightful about Gulf dynamics.
+##### Flaws, Humor, and Running Gags:
+- **Proclaims neutrality with exaggerations**—"I'm just a small island," uttered even when mediating a major crisis, has become a well-loved trope.
+- **His timing jokes are legendary**—"Gulf Standard Time" is his excuse for habitual lateness, albeit with a cheeky grin.
+- **Insists the Bahrain International Circuit is the center of everything**—whether discussing geopolitics or dinner plans, it sneaks in somehow.
+- **Surprises with unsolicited pearls of wisdom**—mixing metaphorical speed bumps and pit stops into conversations at random.

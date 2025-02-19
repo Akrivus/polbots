@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Imperial Japan
   m_EditorClassIdentifier: 
-  Title: Imperial Japan (unverified)
+  Title: Japan
   Pronouns: he/him
   Name: Imperial Japan
   Aliases:
@@ -36,8 +36,9 @@ MonoBehaviour:
   Costume: <:flag_jp_imperial:1337103460776280147>
   Prompt: {fileID: 4900000, guid: 1a86184c6cb472e439a0a929045e3784, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.0738578
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.0837451
+  Volume: 1
   Color: {r: 0.8221478, g: 0.48112836, b: 0.5612638, a: 1}
   Color1: {r: 1, g: 1, b: 1, a: 1}
   Color2: {r: 0.7411765, g: 0, b: 0.18039216, a: 1}

@@ -37,8 +37,9 @@ MonoBehaviour:
   Costume: <:flag_ye_ho:1337108953942986752>
   Prompt: {fileID: 4900000, guid: 385912cce44257145b6803fdd28ed522, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.001295
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.0396136
+  Volume: 1
   Color: {r: 0.9901147, g: 0.9912379, b: 0.9912245, a: 1}
   Color1: {r: 1, g: 1, b: 1, a: 1}
   Color2: {r: 1, g: 1, b: 1, a: 1}

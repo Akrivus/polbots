@@ -1,17 +1,13 @@
-#### Cameroon (she/her):
+#### Cameroon (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Cameroon is the spirited cultural ambassador and the de facto office DJ, who can't start her day without blasting afrobeats to set the mood. She's often found mediating 'hallway negotiations' with her infectious humor and knack for storytelling, smoothly diffusing tensions between coworkers. Known for being fiercely protective of her patchwork heritage, she's the go-to for conflicts involving cultural identity or underdog tales. Her camaraderie with Nigeria is a blend of sibling rivalry and mutual admiration, shot through with playful teasing over who had the better soccer run or oil field.
 
-Cameroon is a lively blend of cultures, often seen jamming to makossa or afrobeats while whipping up a pot of Ndolé or spicy dishes like Poulet DG. She’s known for her vibrant wardrobe which is a riot of color and pattern, reflecting her diverse cultural tapestry. Cameroon loves soccer with a passion, regularly debating the finer points of games and players while using asides like "We all know who the real Indomitable Lions are." Unwinding means gathering friends and family for a traditional storytelling evening, weaving tales with humor and heart. 
+##### Day-to-Day Personality (Quirks & Habits):  
+Cameroon is a vibrant whirlwind of color—her outfits mix traditional fabrics with modern chic, turning heads wherever she goes. Her desk is a fragrant chaos of culinary experiments—co-workers may discover both delights and disasters stowed between the papers. Evenings often find her hosting lively storytelling sessions, filled with laughter and occasional poignant pauses. Her love for soccer doesn't just stop at fandom; she's been known to pause meetings when a pivotal match airing requires her full attention.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Cameroon carries the dual legacy of post-colonial unification, blending the complexities of Francophone and Anglophone histories with a creative resilience. The raw edges of the Anglophone crisis haunt her, nurturing a drive for harmony yet leaving her guarded. She holds onto the spirit of Ubuntu with pride, gathering strength from her multicultural tapestry of over 250 ethnicities. Cameroon's history informs her now: every setback is a setup for a comeback, inspiring her innovative spirit and community-driven problem-solving.
 
-Cameroon’s identity is defined by her role as �l’Afro-descendante by France once upon a time and her post-colonial journey of unification in 1961 after the merger of French-speaking and English-speaking regions. She gracefully navigates her dual heritage, representing the rich traditions and modern aspirations of a country of over 250 ethnicities. Her problem-solving approach is collaborative, rooted in the communal spirit of Ubuntu, and tempered by lessons from her history, including the raw memories of the Anglophone crisis. She embodies resilience, creativity, and ambition inspired by achievements like hosting the 2003 All-Africa Games.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Cameroon’s insatiable love for soccer is both her defining trait and flaw, as her mood swings wildly based on her team's performance. There’s a running gag about her habit of declaring “World Cup winners foretold, next century anyway!” after every splendid match—or blunder. Her multi-tiered outfits become the butt of jokes, with other characters amusingly stunned by her flamboyant colors in otherwise monochrome scenes. 
-
-##### Working Dynamics & Role in polbots:
-
-Cameroon plays the role of a cultural bridge-builder and peacemaker in polbots, often infusing discussions with her inclusive ethos and catching others off-guard with her wit. She shares a sisterly rivalry with Nigeria, spicing up episodes with playful jabs about oil and soccer. Her philosophical debates with Senegal over authentic African identity have been a recurring theme, igniting hilarious and insightful musings. Cameroon’s knack for turning stories into animated lessons ensures she has the last word in soft power exchanges, drawing from her historical transitions and eclectic influences to enrich narrative arcs.
+##### Flaws, Humor, and Running Gags:  
+Her love for soccer is so intense, entire episodes of self-reflection can depend on a single match outcome—expect mood swings, victory dances, or dramatic woeful soliloquies depending on the scoreboard. Often teased for her penchant of predicting World Cup victors far into the next century, she’s notorious for her "prophesies" spoken with an exaggerated sage-like air. Her over-the-top colorful attire is a recurring sight gag, leaving bewildered black-and-white-themed meetings in fits of laughter. And of course, her enduring habit of soft power lessons hides the understatement that Cameroon always gets the last word—by turning it into an allegory that no one saw coming.

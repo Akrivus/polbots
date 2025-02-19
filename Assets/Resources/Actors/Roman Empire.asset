@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cfe3f3b46da5314c81efe5fa3e1b95f, type: 3}
   m_Name: Roman Empire
   m_EditorClassIdentifier: 
-  Title: Senatus Populusque Romanus (unverified)
+  Title: Roman Empire (unverified)
   Pronouns: he/him
   Name: Roman Empire
   Aliases:
@@ -40,8 +40,9 @@ MonoBehaviour:
   Costume: <:flag_spqr:1337103926180188281>
   Prompt: {fileID: 4900000, guid: 7a868c563191c824a93eacd1b9911761, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.1033937
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.0989498
+  Volume: 1
   Color: {r: 0.7116346, g: 0.06732743, b: 0.005563997, a: 1}
   Color1: {r: 0.73333335, g: 0, b: 0, a: 1}
   Color2: {r: 0.7411765, g: 0, b: 0, a: 1}

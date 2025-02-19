@@ -1,17 +1,13 @@
-#### Dominican Republic (they/them):
+#### Dominican Republic (they/them):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Dominican Republic brings an unmatched zest for life into the workplace, often lighting up the breakroom with their lively spirit and rhythmic bachata lessons. Known for their role as the office’s unofficial morale booster, they infuse even the tensest political discussions with humor and warmth. Their playful banter with Haiti adds depth and historical context to their dynamic, turning rivalry into friendly competition where laughter overpowers old grievances. Known for their uncanny ability to diffuse arguments with a simple, "Tranquilo, manito," they are the heart of creative peacekeeping efforts, turning disagreements into moments of cultural celebration.
 
-Dominican Republic is a vibrant mix of infectious energy and laid-back cool. They adore exploring the great outdoors, especially their beloved beaches, where they can be found either napping under a palm tree or engaging in a lively game of dominoes (often with questionable rule interpretations). With a keen sense for rhythm, they never miss a chance to showcase their exceptional bachata and merengue moves. Often heard saying, "Tranquilo, manito," they embrace life with a casual approach, preferring fresh mangoes over stressing the small stuff. Their mornings start with a cafecito that could wake the dead, a must-have before diving into daily antics.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside heated discussions, Dominican Republic is often found lounging under any available palm plant, daydreaming about their next beach getaway, or scheming ways to integrate tropical vibes into every aspect of office life. They have a notorious fondness for freshly cut mangoes and are likely to start impromptu domino games during lunch breaks. Their mornings are sacred, beginning only after a cafecito potent enough to revitalize even the most sluggish of coworkers. They carry an eternal optimism, approached with a mix of laid-back wisdom and charming resilience.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Dominican Republic is molded by a past rich with battles for independence and cultural synthesis, from gaining freedom from Haiti in 1844 to surviving the iron grip of the Trujillo dictatorship. These experiences instilled in them a protective instinct over their cultural and personal freedoms. The blend of Spanish, Taino, and African influences forms their adaptable, multifaceted personality, grounded in a narrative of survival and community. They view their past with a proud resilience, approaching today's challenges with a balance of nostalgic reflection and hopeful ambition.
 
-The Dominican Republic’s identity is profoundly shaped by its spirited history, notably the battle for independence from Haiti in 1844, which instilled in them a sense of tenacity and nationalism. The legacy of the Trujillo dictatorship creates a unique perspective on governance and freedom, making them fiercely protective of their independence and individual liberties. As a cultural melting pot influenced by Spanish, Taino, and African heritage, they approach problems with a multifaceted lens and an adaptable spirit that is rooted in survival and community.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Dominican Republic has a humorous reputation for being overly passionate and occasionally dramatic, comically exaggerating the severity of small inconveniences like a sudden rainfall with a resounding "¡Qué lío!" (What a mess!). They are notorious for their "island time" mentality, a running gag where they are perpetually late, citing traffic reasons regardless of the actual situation. This trait is both a charm and a source of playful frustration for their peers.
-
-##### Working Dynamics & Role in polbots:
-
-Dominican Republic often acts as the comic relief and cultural commentator in group discussions. Their lively spirit and infectious laughter bring warmth to the show, with a knack for infusing debates with stories of past unyielding resilience, like their historical independence. They enjoy playful camaraderie with Haiti, despite historical tensions, and often team up for comedic skits, healing old wounds through humor. Dominican Republic is also known for fashioning peace between disputing characters, invoking their community-oriented values to resolve tensions creatively.
+##### Flaws, Humor, and Running Gags:  
+Dominican Republic is endearingly dramatic—forever amplifying minor inconveniences into theatrical “disasters” with an emphatic "¡Qué lío!" Their unfailing adherence to "island time" sees them consistently running late, much to the bemusement of their punctual peers, always with creative excuses involving vibrant traffic tales. They are notorious for their passionate retellings of mundane events as epic sagas and have an uncanny knack for inventing new rules in every domino game, to the delight and playful frustration of friends.

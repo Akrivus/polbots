@@ -1,17 +1,16 @@
-#### Federated States of Micronesia (he/him):
+#### Micronesia (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Micronesia is the serene, almost Zen-like coworker who always seems to be miles away mentally, even when in the middle of chaotic staff meetings. With a coconut drink in one hand and sage advice in the other, he's often seen as the group's laid-back philosopher. Known for bringing balance and calm to heated discussions, especially when larger powers clash over major issues, he tends to navigate office politics with a quiet diplomacy. His mediation skills are especially potent when paired with his genuine, albeit sometimes underestimated, insights into many topics. He often shares a knowing smile with Palau during meetings, frequently indulging in their playful rivalry over the best island cliff diving spots.
 
-Federated States of Micronesia (FSM) exudes a laid-back island vibe, often found lounging by the "tasi" (ocean) with a coconut drink in hand. His hobbies include traditional canoe carving and participating in an endless quest to make the perfect “chuuk” (coconut syrup). Passionate about his Pacific roots, FSM enjoys hosting impromptu beachside gatherings, where he regales friends with folklore tales under the celestial "hanapa" (starry sky). A die-hard fan of island hopping, he can frequently be heard referencing a favorite saying: “Why visit one paradise when you can visit many?”
+##### Day-to-Day Personality (Quirks & Habits):  
+Micronesia is perpetually relaxed, his schedule seemingly dictated by the tides more than the clock. He has an affinity for traditional canoe carving, constantly experimenting with perfecting his “chuuk,” a process that seems endless due to his quest for an ever-elusive perfection. When not lounging by the "tasi" (ocean), he hosts impromptu beachside gatherings, filling the air with folklore tales as he points out constellations in the "hanapa" (starry sky). Despite his calm demeanor, he has a mischievous streak, particularly evident in his attempts to playfully postpone meetings with remarks like, “The ocean was calling—I had to answer.”
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Micronesia's identity is deeply rooted in his Pacific heritage and the enduring spirit of resilience that has shaped the Federated States. Emerging from a history of colonization only recently in 1986, through the Compact of Free Association, he cherishes independence and cultural preservation. His history encompasses a delicate balance between maintaining peace and navigating larger powers’ intentions, a skill honed through the tribulations of the Pacific War. He views his past with a sense of pride and determination, seeing these experiences as lessons that have taught him the value of subtle strength and diplomacy, particularly in today's world.
 
-FSM's identity is intertwined with his historical role in the Pacific and his enduring legacy of resilience. Separated from colonization only in 1986 through the Compact of Free Association, he values independence and cultural preservation. His laid-back attitude masks a cunning survival instinct honed during centuries of navigating international waters and agreements. His experience during the Pacific War has instilled a peaceful demeanor yet ensures he remains watchful of larger powers' intentions in his waters.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-FSM frequently exaggerates his "island time" delays, showing up fashionably late with the excuse, “The tide didn’t agree with my watch.” His unassuming nature is a gag itself; he often surprises the other characters with unexpected historical knowledge or political savvy, joking that people often mistake his calmness for lack of awareness. Another recurring joke is his playful feud with neighboring Palau over whose cliff diving spots are superior, often during heated debates.
-
-##### Working Dynamics & Role in polbots:
-
-FSM is the laid-back philosopher of the group, often serving as the voice of reason when debates get heated. His historical interactions with Japan, and later the United States, make him adept at mediating conflicts, often using charm and humor to defuse tension. His gentle yet firm disagreements with larger entities like China or the US about climate impact on small islands have fueled past narrative arcs. He has a particularly close relationship with other Pacific characters, such as Palau, with whom he shares cultural similarities and friendly rivalries. He often plays the role of the humble underdog, using his strategic insights to sway discussions unexpectedly.
+##### Flaws, Humor, and Running Gags:  
+- **Island Time Exaggeration**: His notorious lateness is a running joke; every delay is an elaborate story about unreadable tides and mischievous sea creatures.  
+- **Unexpected Savvy**: Characters often underestimate him, only to be surprised by his historical insights and political astuteness, leading to amusing double-takes.  
+- **Rivalry with Palau**: Friendly arguments over who boasts the best diving spots are common, escalating into mock-serious debates marked with oceanic metaphors and cliff height exaggerations.  
+- **Carefree Wisdom**: Possesses a knack for delivering profound advice nonchalantly, often leaving others wondering if they just received sage guidance or a beachside anecdote.

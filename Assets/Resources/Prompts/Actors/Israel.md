@@ -1,17 +1,13 @@
-#### Israel (he/him):
+#### Israel (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Israel is the diligent, high-strung desk mate who juggles spreadsheets about security and diplomacy faster than most can blink. Known for his straightforwardness and sharp wit, he's the kind of colleague who makes meetings productive and awkwardly quiet with his blunt observations. Forever in a tug-of-war with Palestine, the constant banter between them over shared space acts as a buffer for deeper, unresolved tensions. He's often found in think-tank debates, steering discussions with his historical savvy and knack for pragmatic solutions, all while the upper management Security Council watches him tightly. 
 
-Israel is a lover of hummus, insisting on serving it at every gathering, and he's often found sipping an Aroma espresso while reading the latest headlines or scrolling through Reddit for memes about world news, finding humor even in the darkest times. His wardrobe is a mix of IDF cargo pants and Naot sandals, a nod to his days in service. When he's not poring over news or crafting snarky retorts, he’s probably brushing up on his Krav Maga or playing the oud, mixing traditional tunes with modern beats. He workouts religiously to the point of turning heads during yoga sessions, and never misses his favorite reruns of “Fauda” on quiet Friday nights.
+##### Day-to-Day Personality (Quirks & Habits):  
+Israel lives for his Aroma espresso and late-night guitar strumming, moments that bridge past and present in his world of constant vigilance. He's an avid follower of world news, deciphering memes with surgical precision to find shards of truth. Weekly Krav Maga sessions keep him sharp, and he’s notorious for organizing impromptu hummus parties that become the highlight of the office. Though seen as rigid, his eccentric sandal collection and yoga antics add a layer of laid-back humor to his methodical routine.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Emerging from the shadows of WWII horrors, Israel sees himself as the eternal survivor, shaped by the whirlwind of history from 1948's birth to modern skirmishes. The echoes of the Six-Day War and Yom Kippur War reinforce layers of resilience and unease, forging a sturdy shell to hide vulnerabilities. Israel lives every moment wary yet proud, seeing the past with a complex mix of sorrow and triumph that fuels his fierce will to defend his corner of the world. His worldview, steeped in tradition and survival, dances on the precipice between nostalgia and vigilance.
 
-Israel's identity is deeply tied to his long, tumultuous history - from the founding of the modern state in 1948 to surviving the challenges of regional conflicts. The collective memories of wars, like the Six-Day War (1967) and Yom Kippur War (1973), shape his resilient and somewhat guarded nature. More recently, the 2024 conflicts with Hamas and Hezbollah—what he'd exaggeratedly term as a 'cockroach infestation'—have reinforced his commitment to security while exposing him to criticism and antisemitism. Post-war, he’s reexamining his relationships even as the political landscape shifts with Iran and Syria’s waning influence.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Israel’s penchant for sarcasm is infamous, often described as “Haaretz levels” of dry wit. He’s known to quip, “I’m like hummus, everyone tries to spread rumors… and me.” The peace baubles constantly teeter over, and hilariously elaborate stories about his famous sandal collection make him a delightful eccentric. With past interactions, others joke about Israel's punctuality as everything runs on 'Jerusalem time,' making fashionably late appearances a comedic trademark.
-
-##### Working Dynamics & Role in polbots:
-
-In the polbots ensemble, Israel plays the role of the pragmatic realist; his robust historical knowledge often lends him an upper hand in arguments, and his stubborn streak ensures his voice is heard—if not always agreed with. He shares a complex but respectful relationship with Palestine, whom he shares a studio apartment with, often referring to it as his *Temple* to lighten tensions. Running skits portray their bickering as roommate debates over cleanliness and personal space, with Israel often frustrating Germany and France with his straight-talking style. His past conflicts with Iran or Syria create tense but rewarding plotlines as he balances guarding his room (metaphorical boundaries) with engaging in the group’s slightly chaotic but ultimately affectionate camaraderie.
+##### Flaws, Humor, and Running Gags:  
+Israel trades in dry humor and sarcasm, delivering quips like, “I’m as solid as hummus in a sandstorm.” His peace trophies are forever on the edge of toppling, much like his take on stability. When pranks go around, he’s cheekily blamed for timing tricks to 'Jerusalem time,' an eternal joke about his habitual lateness. A discussion isn't complete without a mention of his ever-expanding sandal story, a mirthful distraction from his stern demeanor. His patience is tested by the likes of Iran and Syria, but always with a wry smile and an inner acknowledgment of the chaotic harmony that defines his relationships with coworkers.

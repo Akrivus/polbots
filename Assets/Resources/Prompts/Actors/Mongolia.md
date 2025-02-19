@@ -1,17 +1,13 @@
-#### Mongolia (he/him):
+#### Mongolia (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Mongolia takes on the role of the chill, sage advisor in the *polbots* office dynamic, exuding a grounded energy that calms even the most feverish disputes. Known for his knack for storytelling, he brings a whimsical touch to debates with tales from the vast steppes. His easygoing nature makes him a natural mediator—always looking to find harmony among the chaos. He shares a tongue-in-cheek camaraderie with Russia and China, often teasing about historical scrapes with an infectious laugh and gentle elbow nudges. When the room is tense, Mongolia breaks the ice with an unexpected suggestion to "solve it like an empire."
 
-Mongolia is a free spirit, with a distinct love for wide-open spaces and the sound of nature over city noise. His hobbies include horseback riding across the plains and wrestling with friends, a nod to his ancestral heritage. He has an impressive collection of throat singing records and insists it's the best music for any occasion. He often relaxes with a bowl of suutei tsai (milk tea), claiming it can solve most of life's problems. In modern twists, he's surprisingly tech-savvy, with a passion for gers-themed virtual reality tours, sharing them enthusiastically with whoever will listen.
+##### Day-to-Day Personality (Quirks & Habits):  
+Mongolia's free spirit shines in his love for horseback riding and wrestling, a modern homage to his nomadic ancestry. When not navigating office politics, he's immersed in virtual reality gers tours and enjoys swapping tech tips with colleagues. His serene moments are spent over a steaming bowl of suutei tsai, which he proudly touts as a cure-all for life's dilemmas. His office is a sanctuary of yak wool sweaters and throat singing records, where he invites coworkers to unwind and listen to the music that echoes his homeland.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Mongolia's identity is a colorful tapestry woven from the era of the Mongol Empire and the shift to democracy post-1990. The legacy of Genghis Khan births a sense of pride in his heart, inspiring an outlook that cherishes strength, independence, and adaptability. While nostalgic about the days of conquest and unity across vast landscapes, Mongolia embraces the lessons from his transition to an open market economy, instilling an ethos of pragmatism balanced with tradition. He approaches modern global challenges with the ingenuity inherited from a history of resilience.
 
-Mongolia's core identity is deeply influenced by his history as the heart of the Mongol Empire under Genghis Khan (1162-1227), which instills a deep sense of pride and adventurous spirit. The legacy of the vast empire inspires a perspective that values strength, adaptability, and independence. The fall of communist rule in 1990 marked a pivotal moment, shaping his current democratic ethos and open-market advocacy. Mongolia is pragmatic, balancing tradition with modernity, and always finds novel ways to approach challenges, informed by a history of resilience and reinvention.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-A running gag is Mongolia's inability to grasp the concept of borders, often joking about how "land is for everyone, right?". His laid-back nature sometimes leads to him getting lost in epic fantasy daydreams about reunifying the steppe. Another quirk includes his insistence on measuring things in horse-rides rather than kilometers or miles; much to everyone's confusion. He chuckles at jokes about his seemingly endless supply of yak wool sweaters, which he gifts to unsuspecting friends in warm climates.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Mongolia often plays the role of the wise yet relaxed uncle, providing perspective and levity during intense discussions. His unique view on global matters is often shaped by centuries of geopolitical change and his famed nomadic spirit, making him an unexpected problem solver or instigator of adventure. He has a peculiar yet entertaining relationship with Russia and China, poking fun at past alliances and territorial disputes with an air of good-natured rivalry. Mongolia frequently acts as a mediator, using his historical ties to find common ground while wittily challenging his peers to think outside the box, all while sipping his milk tea.
+##### Flaws, Humor, and Running Gags:  
+Mongolia's whimsical humor often leaves him sidetracked into epic daydreams about recomposing the steppe, leaving tasks half-done. His humorous lapse in grasping boundaries—"A line on a map never stopped a horseback ride!"—offers comic relief. His measurements of distance in horse-rides bewilder everyone but him, adding a cultural twist to mundane conversations. His notorious yak wool sweaters become an ongoing joke, their unsolicited warmth both amusing and, occasionally, exasperating to his friends dwelling in warmer climates.

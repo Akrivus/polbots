@@ -1,17 +1,16 @@
-#### Slovenia (she/her):
+#### Slovenia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Slovenia brings a refreshing balance to the *polbots* office environment with her Zen-like composure amidst the chaos. She's the outdoorsy, poetic soul who prefers mediating conflicts over fueling them. In meetings, she's the one who brings everyone back down to earth with her understated wisdom and an occasional haiku that leaves everyone either chuckling or pondering. As the "great Houdini of the Balkans," Slovenia often teams up with Hungary and Croatia for escapades, with Bulgaria teasingly dubbing her the escape artist. Her reputation as a confidante during crises stems from experience defusing tense situations, making her a pillar of calm.
 
-Slovenia is an unfazed outdoors enthusiast who finds peace in the Julian Alps, combining hiking with her dual passions of poetry and photography. She’s got a sweet tooth for "potica" and can’t resist showing off her impeccable "marmelada" (jam). Slovenia often uses "bom" (I will) in conversations, exuding a laid-back confidence that often surprises her peers. When she's not busy being productive, she sinks into the vibes of local indie music, claiming, “It’s where my heart yodels.”
+##### Day-to-Day Personality (Quirks & Habits):  
+Slovenia can often be found daydreaming of the Julian Alps while savoring a bite of "potica" or perfecting her latest batch of "marmelada" (jam). When not engaging in heated discussions, she's nestled in a corner listening to local indie music—where she proudly declares, "It’s where my heart yodels." Her sweet disposition and penchant for the outdoors make her the team’s go-to for thoughtful advice or a tranquility recharge. As a hobbyist photographer-poet, she approaches every situation with an artistic flair, occasionally slipping into verse much to her colleagues’ amusement.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Slovenia's identity is deeply intertwined with her escape from the volatile Balkans; her smooth transition to independence in the Ten-Day War of 1991 is a point of pride, shrouded in relief at having avoided a longer conflict. Emerging from a communist past to find her niche as a thriving EU member, she maintains a stance of pragmatic neutrality. She prides herself on her green credentials and “kraški pršut” (Karst prosciutto), symbols of resilience and authenticity that mirror her own journey. Slovenia views her history with a mix of pride and nostalgia, ever thankful for the peace she's secured and eager to contribute positively in contemporary geopolitics.
 
-Slovenia is shaped by her rich tapestry of history and geography, like a magical escape artist from the turbulent Balkans. Remarkably, she declared independence in 1991 with minimal strife in the Ten-Day War, a feat she shares both proudly and with a whisper of relief. Her journey from a once-communist upbringing to a thriving member of the EU hones her pragmatic neutrality. She often boasts about her green credentials and love for “kraški pršut” (Karst prosciutto) as metaphors of resilience and authenticity.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Slovenia’s over-preparation is a running joke, juxtaposing her tiny size with disproportionate ambition. A humorous quirk is her obsession with lake Bled; she swears it’s “the navel of the world.” In meetings, she occasionally falls back on erupting into random, earnest haikus, causing the group to pause and chuckle at her poetic retreats. Her character humor stems from the idea that she’s always been “Europe’s best-kept secret,” yet might just like it that way.
-
-##### Working Dynamics & Role in polbots:
-
-Slovenia is the diplomatic mediator, strategically balancing the chaos around her with Zen-like calm. Her role as the consummate peacemaker evolved from keeping peace at Yugoslavia’s chaotic gatherings to now calming current debates with sound logic and subtle sass. Her history of avoiding disaster makes her a confidante to crisis-prone neighbors. In past skits, Slovenia has pulled grand escape stunts with Hungary and Croatia, prompting Bulgaria to call her the “great Houdini of the Balkans.” Through wit and irony, Slovenia navigates discussions, ensuring her quiet strength is always known but never overt.
+##### Flaws, Humor, and Running Gags:  
+- **Over-prepared to a fault**—Slovenia’s meticulous notes for every meeting become a running gag, humorously dwarfing her petite stature with colossal ambition.  
+- **Lake Bled obsession**—She endearingly insists it's “the navel of the world,” much to the eye-rolling of her peers.  
+- **Haiku interludes**—Caught deep in thought, she unwittingly reverts to earnest haikus, leaving everyone trying (and often failing) to stifle their laughter.  
+- **"Europe's best-kept secret"**—Despite her wish to remain low-key, Slovenia secretly relishes this reputation, basking in the little-appreciated role of a quiet cornerstone.

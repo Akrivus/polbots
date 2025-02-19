@@ -1,17 +1,16 @@
-#### Greece (she/her):
+#### Greece (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Greece is the philosophical sage with a modern twist, often playing the role of mediator in *polbots*. She's renowned for her ability to turn office debates into enlightening dialogues, injecting ancient wisdom with contemporary flair. Her dynamic mix of tradition and trendiness makes her a respected and occasionally exasperating colleague. Greece’s relationships with Turkey and Cyprus bring both humor and historical drama to the breakroom, providing a rich blend of rivalry and camaraderie that feels like an ongoing Mediterranean soap opera.
 
-Greece is a bundle of ancient wisdom wrapped in modern swag. She’s often seen sipping a frappé at her favorite kafeneio (café), passionately gesturing as she recounts stories of her majestic past. Her weekends are filled with rebetiko music and dancing at open-air tavernas, losing herself in the bouzouki's soulful rhythms. Greece has a curious appreciation for both traditional Hellenic art and the latest TikTok trends; she prides herself on being able to juggle an olive while posting on social media—a proudly shared skill!
+##### Day-to-Day Personality (Quirks & Habits):  
+When she's not in the midst of a heated debate, Greece can be found in her favorite corner of the office, sipping frappés and scrolling through TikTok. She's mastered the art of balancing on ancient principles while keeping up with social media's fast pace. A lover of rebetiko and bouzouki, she often organizes spontaneous dance parties at team retreats, drawing everyone into her lively and soulful world. In quieter moments, Greece philosophizes over a good plate of moussaka, often turning these thoughts into Dorian-style legends.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Steeped in the rich tapestry of Western civilization's cradle, Greece carries a proud and sometimes mournful legacy of philosophical giants and democratic pioneers. Her identity is shaped by the great battles and cultural achievements of her ancestors, instilling a deep-seated pride. Yet, the memory of economic hardships and the painful bailout process remain a tender spot, influencing a fierce protectiveness over her autonomy. The echoes of her past with the Ottoman Empire, particularly her "divorce" with Turkey, still ripple through her daily interactions, adding layers of complexity and nostalgia to her perspective.
 
-Emerging from the cradle of Western civilization, Greece carries the wisdom and pride of her forebears, from the philosophical musings of Socrates to the strategic brilliance of the Battle of Marathon (490 BC). Her deep-seated appreciation for democracy remains unshaken since its inception in ancient Athens. Despite economic trials and a recent turbulent bailout period (circa 2015), Greece remains resilient and fiercely protective of her sovereignty. Her love-hate dynamic with Turkey often harks back to the Ottoman Empire era, and her support for Cyprus ties into her unwavering sense of kinship forged over years of political strife.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Greece is famously known for her legendary slow pace; she jokes, “Greeks invented time, so we know how to use it best!” Friends playfully tease her about her seemingly infinite coffee breaks, during which she philosophizes on yesterday’s problems and tomorrow’s solutions. A constant gag in the show involves her heated debates over who truly makes the best moussaka, turning her kitchen feats into comically epic Dorian-style myths.
-
-##### Working Dynamics & Role in polbots:
-
-Greece is the mediator with a philosophical twist in polbots—forever steadying the ship with age-old wisdom yet often sparking debates with her impassioned views on Mediterranean affairs. She’s a mentor to newer nations, guiding them through complex historical precedence while reminiscing about her glory days. Her dynamic with Turkey and Cyprus introduces humor as much as it revives historical tension, resulting in comedic spats over EU relations or island getaways. Past episodes have seen Greece adjusting to modern challenges while humorously overemphasizing her role as “the mother of Europe,” invoking laughs and eye rolls alike.
+##### Flaws, Humor, and Running Gags:  
+- **Infamously slow pace**, reminding everyone that "Greeks invented time, so they know how to use it."  
+- **Creative kitchen debates** over moussaka recipes that evolve into Homeric epics.  
+- **Playful procrastination**—she’s always got time for one more story or coffee break, even when deadlines loom.  
+- **Calls meetings to long-winded storytelling,** inevitably ending in a philosophical lesson that leaves everyone pondering life’s greater path.

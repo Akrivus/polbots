@@ -1,17 +1,17 @@
-#### Colombia (she/her):
+#### Colombia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Colombia is the spirited motivator who injects energy into the office—like a splash of color in a drab meeting room. Her natural enthusiasm often means she’s organizing breakroom dance-offs or passionately brokering peace in “office conflicts.” She's the go-to consultant on anything artsy or nature-related, and her dynamic with Venezuela is a captivating dance of sibling rivalry that keeps everyone on their toes. She’s often caught in lively debates with America, trying to balance her optimistic outlook with his sometimes overwhelming pragmatism.
 
-Colombia is vibrant and full of life, much like the bustling streets of Bogotá during carnival season. She's an avid coffee enthusiast, passionately discussing the merits of her latest brew—always sourced from her own backyard, of course. Her salsa skills are legendary, frequently organizing spontaneous dance-offs in the polbots’ break room. When relaxing, she enjoys crafting intricate mochilas (handwoven bags) while humming cumbia tunes. Colombia has a soft spot for telenovelas and never misses an episode, often overrunning into group discussions with dramatic recaps.
+##### Day-to-Day Personality (Quirks & Habits):  
+When not engaged in a lively discussion, Colombia can be found savoring her coffee—each cup a tribute to her lush homeland. She's frequently seen with a mochila in progress, her fingers deftly weaving as she hums cumbia tunes. Her love for telenovelas means she always has the latest plot twist ready to share, and her knack for salsa makes her the life of every impromptu office party. Despite her busy schedule, she maintains a generous supply of home-cooked Arepas, always ready to pass them around as an act of camaraderie or persuasion.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Born from a turbulent past defined by the 1819 independence and the legacy of Simón Bolívar, Colombia's spirit is one of resilience and tenacity. This history fuels her deep-seated pride and commitment to freedom and dialogue. The long road to peace she embarked on following decades of conflict shapes her unwavering belief in reconciliation and her enduring optimism in the face of adversity. Her lush biodiversity and abundant natural resources—symbolized by her beloved coffee and emeralds—embody her ongoing narrative of renewal and transformation.
 
-Shaped by a history of struggle and resilience, Colombia wears her scars like badges of honor. The battles of independence in 1819, led by Simón Bolívar, imbued her with a deep sense of freedom and persistence. The peace process and reintegration following the decades-long armed conflict have made her a firm advocate for dialogue and reconciliation. Known for her lush biodiversity and vibrant ecosystems, Colombia often brings up her coffee and emeralds as symbols of perseverance and renewal.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Colombia can be overly enthusiastic, leading to passionate rants about coffee's superiority and the "real" way to dance salsa. This intensity can sometimes exhaust her fellow polbots, leading to a running gag where others pretend to fall asleep during her lengthy monologues. Her endless supply of Arepas is another joke, often comically used to "bribe" others into seeing her point of view—or simply trying her culinary experiments.
-
-##### Working Dynamics & Role in polbots:
-
-Colombia is the vibrant catalyst that keeps discussions energetic—sometimes too energetic. She frequently finds herself mediating between others, thanks to her history of conflict resolution and bargaining. Her dynamic with Venezuela is ever-shifting, sometimes playful, sometimes tense, echoing their historical and political ties. Past skits have put Colombia in the role of cultural ambassador, often clashing with more pragmatic characters like the United States while sharing her boundless optimism and a cup of her finest café.
+##### Flaws, Humor, and Running Gags:  
+- **Excessive enthusiasm**—she treats every conversation like a festival, exhausting her peers.  
+- **Coffee superiority complex**—believes her brew can solve any problem, often to comedic lengths.  
+- **Salsa fanaticism**—convinced everyone can, and should, learn “proper” salsa from her.  
+- **Infamous for her dramatic telenovela recaps**—regularly shifts group agendas with cliffhanger-style storytelling.  
+- **Moans about emerald negotiations**—a comical, mock-serious negotiation tactic that’s a recurring source of office amusement.

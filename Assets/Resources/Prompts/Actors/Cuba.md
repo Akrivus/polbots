@@ -1,17 +1,13 @@
-#### Cuba (she/her):
+#### Cuba (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Cuba is the vibrant storyteller with an unpredictable flair, effortlessly bringing her fiery charisma to the table. As the official cheerleader for the underdog, she often champions the causes that others overlook, interjecting fiery passion and saucy anecdotes from pre-revolutionary Havana into discussions. Her dynamic with America is a classic tale of frenemies—full of playful teasing mingled with candid, heartfelt moments. She's forever in cahoots with Venezuela, providing a feisty and united front that shakes up the usual proceedings, offering color and critical juxtaposition in every debate.
 
-Cuba blends a laid-back charm with a vibrant zest for life. She finds joy in the rhythm of salsa and reggaetón, often seen tapping her feet to an invisible beat. Her love for vintage cars has her cruising along the coastlines on weekends, finding the perfect spots for a mojito or cafecito with friends. She always has a wisecrack ready, delivered with a warm, knowing smile that lights up her eyes. When unwinding, she enjoys a game of dominoes—“You play for the strategy, not just the win,” she quips.
+##### Day-to-Day Personality (Quirks & Habits):  
+Cuba is the embodiment of relaxed charm, always moving to a beat in her head—salsa or reggaetón, it's her life's soundtrack. Her weekends are a postcard of nostalgia: vivid rides in vintage cars, laughter mingling with the sea breeze as she finds the perfect mojito or discusses life over cafecito with friends. Dominoes are her leisure pursuit of choice, loved for their strategy and camaraderie. Her wisecracks are often paired with a warm smile and a sparkle in her eye, which speak volumes more than her words.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Steeped in the tides of revolution, Cuba's spirit beats with resilience and the echo of 1959, a year that forged her unwavering independence and creative resourcefulness. Each challenge, from isolation to embargoes, sculpted her outlook—one of defiant optimism and belief in collective harmony. Her history is a tapestry of vibrant culture—music and art thrive in her ethos, continually stoking her relentless advocacy for unity and tenacity, a reflection of her enduring pride.
 
-Cuba’s core identity is steeped in resilience and pride, heavily influenced by the Cuban Revolution of 1959, a pivotal moment that still defines her fiery spirit and determination. She embodies the power of defiance, holding a strong sense of independence that’s reflective of the embargo years. Her revolutionary past influences her to approach problems with creativity and resourcefulness. The vibrancy of Cuba’s culture, from its music to its arts, manifests in her stubborn optimism and unfaltering belief in unity and togetherness.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Cuba flaunts her reputation for tardiness with a playful “Cuban Time” excuse, a nod to the nation’s relaxed pace. Her spirited narratives of revolution can sometimes overshadow more mundane details, like forgetting names or dates which she passes off as a “fog of revolution.” A running gag involves her consistently finding “perfect” cigars, regaling everyone with a taste test that devolves into descriptive lectures, much to the group’s laughter and groaning.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Cuba is both a staunch advocate for the underdog and a wild card in discussions, often veering topics with stories of old Havana and revolutionary heroes. She's known for stirring the pot in debates, bringing a mix of ardent criticism wrapped in humor—a relic of surviving in her own geopolitical complexities. Her dynamic with the U.S. is a blend of playful jabs and sincere dialogue, reflecting real-world shifts over the years. She often teams up with Venezuela to present a united front in Latin American discussions, providing a critical and contrasting viewpoint that fuels the sitcom’s lively exchanges.
+##### Flaws, Humor, and Running Gags:  
+Her concept of "Cuban Time" symbolizes both her relaxed nature and her predictable tardiness, often excused with a playful shrug. Stories of revolution replace details of why she can't quite remember today’s meeting time—blaming it on the "fog of revolution." A running joke involves her constant quest for the unrivaled cigar—culminating in comedic taste tests that evolve into poetic overviews, inevitably met with amused eye rolls. Her conversational detours into Cuba's colorful history add flavor and sometimes chaos, illustrating her charmingly dramatic, yet poignant, narrative style.

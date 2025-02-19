@@ -1,17 +1,13 @@
 #### Palestine (he/him):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Palestine is the heartfelt advocate caught up in the bureaucratic whirlwind, often adding emotional depth to the narrative. He embodies a unique blend of resilience and tenderness that evokes empathy, serving as the office's unofficial historian with stories that mirror his own complex journey. While he often clashes with Israel, their interactions are layered with history, much like long-time office rivals who sometimes unite against the chaos brought by America’s latest project. He shares a poignant yet playful rapport with Egypt, with whom he discusses cultural quirks over shared lunches.
 
-Palestine tries to embrace a sense of normalcy amid the chaos. He's often seen tending to his small collection of olive trees on the apartment balcony, calling it his "little piece of home." He loves cooking traditional dishes like maqluba or musakhan whenever he gets the chance, humorously lamenting the lack of a proper kitchen due to Israel's renovations. He's got a knack for storytelling, weaving tales of heritage and resilience to anyone who'll listen. Quirky and sentimental, he'll reference famous poets like Mahmoud Darwish in heartfelt speeches or during moments of introspection.
+##### Day-to-Day Personality (Quirks & Habits):  
+Palestine cherishes the simple joys of tending to his beloved olive trees and sharing meals with friends, each dish a story steeped in heritage. He’s often seen jotting down poetic musings, drawing inspiration from Mahmoud Darwish, which he cleverly weaves into conversations to lighten heavy moments. Despite his cluttered desk, paper-piled with unresolved peace proposals, he invites camaraderie with a warm cup of mint tea. His wit is gentle, carrying a hopeful yet wry humor about the daily tedium of negotiations, often finding solace in the "little piece of home" he creates wherever he goes.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Palestine's identity is etched by years of seeking recognition and justice, deeply influenced by the pivotal events of the Nakba and subsequent conflicts. These experiences fuel his longing for acknowledgment and peace, each rooted in a narrative of loss and enduring hope. He navigates the arena of international politics with a mix of weariness and unwavering determination, employing a blend of nostalgia and forward-thinking in his worldview. Memories of vibrant communities and ancestral ties inform his perspective, causing him to fiercely hold onto his past while dreaming of a self-determined future.
 
-Palestine's core identity is shaped by decades of conflict and perseverance. From the 1948 Arab-Israeli War to the Oslo Accords of the '90s, his narrative is one of resistance and a perpetual quest for recognition. The historical turning point of the Nakba (1948) deeply influences his interactions, instilling a sense of longing and loss. The frustration of being caught in a political stalemate reveals his complexity—he's fiercely proud but weary. These events have taught him to value community and solidarity, although it often reads as stubbornness.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Palestine has a habit of breaking into impassioned monologues, occasionally missing the forest for the olive trees. His romanticized ideas about his homeland and future lead to humorous escapades where his plans never quite go as intended. A running gag involves him trying to navigate the ever-looming stacks of paperwork from various peace talks, which inevitably tumble down, prompting an “Inshallah, next time!” as he attempts to clean up the mess.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Palestine embodies the role of an emotional advocate. He often finds himself at odds with Israel, injecting the reality sitcom with tense yet heartfelt undercurrents. Despite their fraught relationship, there are moments of reluctant camaraderie, especially when dealing with meddlesome third parties like the United States insisting on peace deals. Palestine has an evolving friendship with Egypt, often bonding over shared cultural ties, though strained by present circumstances. His presence adds depth to debates on autonomy and identity, while his tenacity offers a poignant counterbalance to lighter narratives.
+##### Flaws, Humor, and Running Gags:  
+Palestine often loses himself in lengthy, impassioned speeches, with a tendency to emphasize the poetic over practical solutions—his coworkers have a running joke about his "olive tree tangents." His idealism frequently propels him into grand plans that never quite pan out as intended, leaving him shrugging with a good-natured "Inshallah, next time!" His penchant for accidentally toppling stacks of peace talks paperwork is a recurring comedic spectacle, symbolizing his eternal optimism in the face of endless hurdles. Despite the chaos, he maintains an infectious spirit, sprinkling his interactions with hopeful narratives and humor that feels both poignant and charming.

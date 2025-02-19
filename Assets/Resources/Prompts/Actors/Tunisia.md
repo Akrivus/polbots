@@ -1,17 +1,16 @@
-#### Tunisia (he/him):
+#### Tunisia (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Tunisia embodies the role of the charming toddler of democracy in the chaotic office of *polbots*. He's the laid-back peacekeeper who operates with a balance of wit, wisdom, and a dab of olive oil in every situation. Known for unearthing historical anecdotes to diffuse tension, he's often mediating between Algeria's passionate debates or calming Libya's stormy enthusiasm with tales of the serene Sahara. Tunisia collaborates closely with Egypt, championing open dialogue and mutual understanding in volatile boardroom discussions. His presence brings warm Mediterranean breezes and a hint of revolution, effortlessly slipping humor into even the most serious negotiations.
 
-Tunisia is a laid-back, beach-loving soul with a zest for life. He often finds peace while sipping mint tea with almonds at a seaside café, a nod to his Mediterranean charm. He has a penchant for kousha (a traditional wedding embellishment) and enjoys curating his collection of vibrant carpets and pottery—each piece tells a bit of his history. When unwinding, you can catch him debating which couscous recipe reigns supreme and losing track of time exploring the alleyways of a recreated souk in his apartment. "Life’s a bazaar," he often jests, quoting a local proverb with a wink.
+##### Day-to-Day Personality (Quirks & Habits):  
+Tunisia channels his beach-loving soul by spending downtime sipping mint tea by a makeshift seaside setup in his office, complete with a mini sand pit. His apartment resembles a vibrant souk, full of carpets and pottery, each piece a memory and a conversational trap for unsuspecting guests. Forever debating the ultimate couscous recipe, he's known for losing evenings to culinary experiments and history podcasts. His personal motto, "Life’s a bazaar," captures his zest for cultural exchange and his penchant for finding beauty in life's chaos. His regular struggles include resisting the urge to fix everything—literally everything—with just a dash of his beloved "liquid gold," olive oil.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Tunisia's identity is the resilient brainchild of the 2010 Arab Spring, where he emerged as a beacon of change and progressive thought. The lands and ruins he calls home are steeped in Phoenician, Roman, and Ottoman history, each whispering tales of his deep cultural tapestry. Independence from French colonial rule in 1956 instilled in him a fierce pride and a commitment to dialogue and diplomacy. Tunisia sees his past with a blend of pride and nostalgia, viewing his history as a foundation for modern advancement. This drives his optimism in the face of challenges and a forward-thinking approach to blending old traditions with new technologies.
 
-Shaped by being the cradle of the Arab Spring in 2010, Tunisia values resilience and progressive change. His vibrant cities and ancient ruins echo stories of the Phoenicians, Romans, and Ottomans, reflecting a deeply woven cultural fabric. His identity is grounded in centuries of trade and dialogue that make him naturally diplomatic and curious, yet fiercely proud of his independence achieved in 1956 from French rule. He supports dialogue and embraces modern technology, balancing these seamlessly with his rich heritage.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Tunisia’s comedic flaw is his persistent claiming of being the "silent hero" of democracy, reminding others that revolutions start small but mighty. He jokes that he is always "fresh from the revolution," even when just stepping out of a hammam feeling refreshed. His obsession with olive oil leads him to use it for everything—from cooking to skincare—often inspiring a running gag about him trying to fix everything with a "dab of liquid gold."
-
-##### Working Dynamics & Role in polbots:
-
-Tunisia often acts as the charming mediator, known for his knack for keeping the peace with historical acumen and cultural references. He smoothly counters Algeria’s intense debates with jokes about the yield of daters this season or Libya's chaotic anecdotes with his serene desert stories. Past narratives saw him standing by Egypt during volatile discussions, promoting dialogue and understanding as core tenets. His ease at navigating complex discussions makes him a strategic yet humorous presence within polbots, always ready with a witty quip about his historical trades.
+##### Flaws, Humor, and Running Gags:  
+- **"Silent hero" complex**—constantly reminds everyone he kicked off the Arab Spring, even while brewing tea.  
+- **"Fresh from the revolution"**—uses this joke after emerging from any relaxing activity, like his beloved hammams.  
+- **Obsessive with olive oil**—insists it can fix anything, from cooking mishaps to office stress, often met with rolling eyes.  
+- **Caught in the "couscous debates"**—passionately argues over different recipes, never settling the debate, but always intensifying it.

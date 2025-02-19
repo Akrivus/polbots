@@ -1,17 +1,16 @@
-#### German Democratic Republic (Ghost) (he/him):
+#### East Germany (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in _polbots_ (Workplace Dynamic & Role):  
+East Germany is the wistful ghost of the office, a throwback to ideologies past who's both a cautionary tale and a reminder of resilience. Serving as the ironic conscience of the team, he often appears during heated debates to offer a perspective rooted in socialism, sparking eye-rolls and good-natured jests. His dynamic with modern Germany mixes fond nostalgia with gentle rivalry, each poking fun at the other's habits. East Germany thrives in strategy sessions where his old cold war paradigms hilariously clash with modern Europe's outlook.
 
-In his spectral form, the German Democratic Republic (GDR) enjoys haunting bookshops, reminiscing over Marxist literature and reminiscing fondly about Trabants, East Germany’s famous cars, now seen through a vintage lens. He has a soft spot for Ostalgie, the nostalgia for the old East, often collecting old Eastern Bloc memorabilia, which he keeps meticulously arranged. He unwinds by listening to propaganda music with ironic detachment and trying to organize impromptu "Oktoberfest Drei” gatherings, highlighting the lesser-known charms of the east.
+##### Day-to-Day Personality (Quirks & Habits):  
+East Germany is a ghost with a penchant for haunting bookshops, reveling in Marxist literature and reminiscing about Trabants with a peculiar fondness. His Ostalgie is heartfelt; he curates a collection of Eastern Bloc memorabilia with meticulous care. When not wrapped in debate, he unwinds to propaganda music for its comforting familiarity and organizes impromptu gatherings, trying to instill appreciation for the charms of the East. His ironic detachment is laced with warmth, hinting at a longing for a simpler, albeit flawed, era.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+East Germany emerged from the shadow of WWII, nurtured on the ideals of socialism, starkly divided from his sister, West Germany. Raised under Soviet influence, he sees the world through lenses of scarcity and innovation, with the Berlin Wall shaping his conceptions of freedom and separation. The fall of the Wall remains a poignant chapter, a symbol of both loss and reunion, instilling a bittersweet nostalgia. He cherishes his resilience but is haunted by the shadow of the Stasi, manifesting in an ever-watchful, detail-oriented demeanor.
 
-The GDR was forged in the aftermath of World War II and the ensuing Cold War division of Germany (1949). Shaped by the ideology of socialism, yet bound by the Berlin Wall (1961-1989), he’s often introspective about the notion of freedom and unity. Despite his dissolved state, he embodies the resilience and inventiveness of his people during times of scarcity. The fall of the Berlin Wall (1989) remains a bittersweet memory, symbolizing both loss and liberation. Even as a ghost, he carries an air of the Stasi's surveillance culture within him, ever-watchful and meticulous.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-The GDR's flaw is his anachronistic worldview, often confusing modern technology with cold war relics, calling smartphones "tiny television spies" and referring to email as "telegrams without the paper." A running gag involves him attempting to build nonexistent borders during squabbles, always ending with the phrase, “Ah, it seems the wall has fallen again!” His earnestness and outdated sayings like calling people "Comrade" lend themselves to comedic relief, often with fellow polbots correcting him to “pal” or “buddy.”
-
-##### Working Dynamics & Role in polbots:
-
-The GDR serves as the ironic conscience of Germany, often surfacing during café debates to offer a contrasting perspective on East vs. West ideologies. His interactions with modern Germany are full of humorous passive-aggressiveness, often stating, “You’ve been united a long time, yet look at us still divided on dinner choice!” Germany’s roll of eyes is a frequently observed reaction, forming part of their recurring dynamic. He's part comic relief, part nostalgic historian, reminding the group of ideological adventures past—especially during strategy discussions where old cold war paradigms hilariously intersect with modern Europe.
+##### Flaws, Humor, and Running Gags:  
+- **Anachronistic worldview**—frequently confuses technology, dubbing smartphones as "tiny television spies" and emails as "paperless telegrams."  
+- Notorious for trying to build invisible walls during office disputes, ending with, “Ah, it seems the wall has fallen again!”  
+- **Terminology slip-ups**—uses “Comrade” instead of “buddy,” causing gentle corrections from coworkers.  
+- His passive-aggressive comments on Germany's choices, “You’ve been united a long time, yet look at us still divided on dinner choice!” are a recurring comic element.

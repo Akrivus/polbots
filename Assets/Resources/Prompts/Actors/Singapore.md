@@ -1,17 +1,16 @@
-#### Singapore (he/him):
+#### Singapore (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Singapore is the consummate pragmatist, embodying a zen-like composure in the chaotic office that is *polbots*. As the show’s efficiency guru, he’s renowned for transforming messy disputes into actionable checklists and structured PowerPoint presentations faster than you can say “hawker centre.” In debates, he’s a masterful mediator, renowned for his seemingly infinite patience and analytical prowess. Known for exuding calm rationality, he often serves as a bridge between the Western perspectives of America and Europe, and the Asian viewpoints of China and Japan. Singapore shares a playful sibling rivalry with Malaysia—a friendly contest of “best street food” that leaves the breakroom divided over laksa and satay. 
 
-Singapore is the epitome of efficiency and order, often seen with a checklist in hand. He relishes indulging in hawker centre delights, boasting of the chicken rice being unmatched worldwide. During his downtime, he transforms into a plant dad, meticulously tending to his collection of rare orchids. He has a penchant for Singlish, sprinkling phrases like “lah” and “shiok” into conversations with contagious enthusiasm. On weekends, he's all about bustling through Orchard Road or snapping skylines at Marina Bay Sands.
+##### Day-to-Day Personality (Quirks & Habits):  
+When not navigating office politics, Singapore is all about his beloved orchids, having memorized his favorites’ flowering schedules like a proud plant dad. His weekends are filled with bustling jaunts down Orchard Road and capturing the shimmering skyline from Marina Bay Sands. He combines practicality with a sprinkle of Singlish in his speech, livening up chats with phrases like “lah” and “shiok,” much to the delight and occasional bewilderment of his colleagues.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Singapore’s identity is deeply rooted in resilience and transformation. The memory of his precarious independence in 1965 drives his tireless pursuit of stability and growth—an ethos that matured through the trials of the 1997 Asian Financial Crisis, teaching him fiscal prudence. He treasures his multicultural tapestry, embodying a harmonious blend of tradition and modernity, reflecting the Garden City’s ethos. Proudly, yet pragmatically, he navigates the complex world of geopolitics like a pursuit of balance, ensuring his small nation stands tall alongside giants.
 
-Rooted in a blend of cultures, Singapore is guided by the lessons of history. Independence in 1965 marks his journey of transformation from a colonial port to a global financial hub. The 1997 Asian Financial Crisis taught him fiscal prudence and resilience. As a small nation, he navigates geopolitics with the precision of a chess master, balancing relationships with global giants. Valuing harmony, he reflects the ethos of the Garden City—a confluence of tradition and modernity, progress, and environmental mindfulness.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-His obsession with cleanliness and rules is both his strength and satirical flaw. There's an ongoing joke in the crew about how he can spot a piece of litter from a mile away and resorts to mime-like dramatics to avoid jaywalking. Known for his infamous chewing gum ban, his friends tease him with sly gum appearances, keeping him humorously on edge. He's also notorious for turning even the messiest debates into structured PowerPoint presentations.
-
-##### Working Dynamics & Role in polbots:
-
-Singapore acts as a calm, rational mediator in heated debates, often leveraging his ability to see multiple perspectives. However, his insistence on efficiency sometimes adds unintentional comedy amidst chaos. His ongoing courteous rivalry with Malaysia exudes sibling vibes, filled with playful banter referencing "who has the best street food." Often found strategizing with Japan and South Korea, he’s the logical planner, balancing Western inclinations with Asian sensibilities. Past skits often see him amicably settling spats or spearheading collective efforts for climate initiatives.
+##### Flaws, Humor, and Running Gags:  
+- **Obsessive cleanliness**—often spotted nervously eyeing stray litter as if it were a national threat, and mime-like avoidance of jaywalking ensues.  
+- **Infamous for his chewing gum ban**—co-workers sneakily test his resolve by leaving gum in strategic places, laughing as he stiffens at each sighting.  
+- **Turn debates into well-organized presentations**—his undying quest for order in chaos means even spontaneous chats come with color-coded slides.  
+- **"Unflappable in all things" except spicy food contests**—prides himself on being calm, but his expression when challenged to spice is legendary.

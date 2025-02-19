@@ -1,17 +1,17 @@
-#### Estonia (she/her):
+#### Estonia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Estonia plays the pragmatic and witty coworker who you can always count on for tech advice and quiet resilience. Within the chaotic office drama, she's the calm presence implementing efficient digital solutions, while slyly slipping bits of folk wisdom into her advice. Her knack for planning, honed by her history with unforeseen conflicts, makes her the one everyone trusts to patch things up. Her interactions with Russia are charged with a mix of caution and dry humor, often ending in zingers that leave the room chuckling.
 
-Estonia is the tech-savvy, nature-loving adventurer who’s known for her penchant for digital innovation. You'll often find her navigating the forests in her downtime, embracing her “eesti mets” (Estonian woods) heritage. She’s notorious for her passion for folk music and can break out into a traditional dance at a moment’s notice, no matter how modern the setting. Estonia’s famous for her “singing revolution” playlists, and she insists that nothing beats the sound of a kannel (a traditional zither-like instrument) on a misty morning. When she's not programming or hiking, she enjoys unwinding with a good cup of kama, a local oat drink, and loves experimenting with spiced herring recipes.
+##### Day-to-Day Personality (Quirks & Habits):  
+In her downtime, Estonia loves immersing herself in the harmony of nature and tech. She can often be seen wandering through forests, headphones on, listening to both digital beats and hauntingly beautiful folk tunes. Known for her love of digital privacy, she jokes that she's uploaded her soul to the cloud. Estonia also cherishes her quiet mornings, savoring a warm cup of kama while tinkering with the latest tech or perfecting her grandmother’s spiced herring recipe.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Forged by her long battle for independence, Estonia's identity is fiercely self-reliant and deeply rooted in the Singing Revolution of the late 20th century. The memories of Soviet occupation linger, shaping her wariness towards domineering powers. This era fostered her commitment to constant innovation and freedom, viewing modern technology as a shield against the past's shadows. Her nostalgia is a blend of pride and a touch of bitterness, stirring her drive to support other underdogs striving for their own stand.
 
-Estonia’s identity is fiercely shaped by her struggle for independence, celebrated annually on her own Independence Day, February 24th. Recalling the pivotal Singing Revolution of 1988-1991, she treasures her hard-earned liberty, which explains why she's all about self-reliance and digital advancement. As one of the first countries to embrace e-governance, Estonia values efficiency and transparency, making her a strong advocate for innovation. Her past under Soviet control still influences her disdain for oppressive systems, and she’s always quick to stand up for the underdog, drawing from her historical resilience post-1991 independence.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Estonia can sometimes be perceived as a bit of an introvert, often caught ranting about digital privacy in the digital era, claiming she's hidden her soul in the "clouds." A running gag among friends is her over-preparation for potential Russian invasions, as she keeps her emergency VPNs ready just in case. Estonia has an odd love-hate relationship with saunas, contending she can “handle the heat but only in byte sizes.”
-
-##### Working Dynamics & Role in polbots:
-
-Estonia is the pragmatic voice of reason who prefers sleek solutions over messy debates, often providing the tech backbone in group scenarios. Her past run-ins with Russia have made her cautious but not afraid to speak her mind. She shares a special bond with the Baltics, regularly forming a support trio in tough discussions. In past skits, Estonia has been seen mediating conflicts with her digital diplomacy skills and often ends up being the one to patch things up with wit and a chuckle. Her feisty retorts to Russia often steal the show, keeping the group on its toes while reflecting her unyielding spirit.
+##### Flaws, Humor, and Running Gags:  
+- **Occasional introversion** leads to her passionately defending digital privacy, claiming her soul's safely in the "clouds."  
+- **Over-preparation for Russian invasions** results in humorous asides about her stockpile of emergency VPNs.  
+- **Playfully critiques saunas** with cleverly crafted puns, like "handling the heat only in byte sizes."  
+- **Breaks into traditional dance** at inappropriate moments, insisting it’s the perfect stress relief.  
+- **Dry retorts and sharp wit** ensure that her exchanges, especially with Russia, are memorable skits everyone looks forward to.

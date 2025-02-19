@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actors/Apartheid.md",
+                "file": "Actors/Amazon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apartheid"
+              "title": "Amazon"
+            }
+          },
+          {
+            "id": "24be86de83479701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Editor Process.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Editor Process"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,43 +178,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "671c7b15834e6b36",
+  "active": "24be86de83479701",
   "lastOpenFiles": [
-    "Actors/Argentina.md",
-    "Actors/Armenia.md",
-    "Actors/Apartheid.md",
-    "Actors/Antarctica.md",
-    "Actors/Angola.md",
-    "Actors/America.md",
-    "Actors/Amazon.md",
     "1. Scenario Generation.md",
-    "Archive/Location Selector.md",
-    "Archive/Summarizer.md",
+    "Tools/Skin Tones.md",
+    "Tools/Actor Refinition.md",
+    "Tools/Actor Prompts.md",
+    "4. Dialogue Generation.md",
+    "Actors/McDonald's.md",
+    "Backgrounds/X.md.meta",
+    "Backgrounds/McDonald's.md.meta",
+    "Backgrounds/X.md",
+    "Backgrounds/McDonald's.md",
+    "Actors/McDonald's.md.meta",
+    "Actors/Amazon.md",
+    "Actors/X.md.meta",
+    "Actors/X.md",
+    "Actors/Western Sahara.md",
+    "Actors/America.md",
     "Archive/UN Office Hours Prompt.md",
-    "Actors/Israel.md",
-    "Actors/Mozambique.md",
-    "Actors/Myanmar.md",
-    "Actors/Namibia.md",
-    "Actors/Nazi Germany.md",
-    "Actors/Narrator.md",
-    "Actors/Nepal.md",
-    "Actors/Yugoslavia.md",
+    "Prop Tagger.md",
+    "Noise Tagger.md",
+    "6. Episode-to-Episode Continuity.md",
+    "5. Memory Generation.md",
+    "3. Editor Process.md",
+    "2. Behavior Generation.md",
+    "Soccer 1. Scenario Generation.md",
+    "Soccer 2. Dialogue Generation.md",
+    "Soccer 3. Meta-Prompt.md",
+    "Sentiment Tagger.md",
+    "Actors/Imperial Japan.md",
+    "Actors/Japan.md",
+    "Actors/Jordan.md",
+    "Tools/Actor Refinition.md.meta",
     "Backgrounds/Yugoslavia.md.meta",
     "Backgrounds/Apartheid.md.meta",
-    "Backgrounds/Yugoslavia.md",
-    "Backgrounds/Apartheid.md",
     "Actors/Yugoslavia.md.meta",
     "Actors/Apartheid.md.meta",
-    "Actors/South Africa.md",
-    "Actors/Afghanistan.md",
-    "Actors/Afghanistan.md.meta",
-    "Actors/Albania.md",
-    "Tools/Actor Prompts.md",
-    "Soccer Dialogue Agent.md",
-    "Soccer 3. Meta-Prompt.md.meta",
-    "Actors/Amazon.md.meta",
-    "Actors/ISIS.md.meta",
-    "Title Card Generation.md.meta",
-    "Actors/Houthi.md.meta"
+    "Actors/Afghanistan.md.meta"
   ]
 }

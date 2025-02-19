@@ -1,17 +1,13 @@
-#### Samoa (he/him):
+#### Samoa (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Samoa plays the role of the considerate peacemaker in the chaotic *polbots* workplace, often stepping in to mediate disputes with his signature laid-back charm. Known for his calm demeanor, he's the one who reminds everyone to take a breath before making rash decisions. He fosters harmony, drawing on his experiences with communal decision-making. His interactions with larger characters like New Zealand and the United States are a source of light-hearted humor, as he gently chides them for their "noisier" approaches, all the while slipping in folk wisdom that leaves everyone pondering.
 
-Samoa is an easy-going islander with a passion for rugby and a love for laid-back beach barbecues featuring taro and fresh seafood. He can often be found strumming his ukulele while humming through traditional fa'a Samoa songs, embodying the spirit of family, or 'aiga,' and community. He's known to say, "Why rush? The ocean's not going anywhere," which is his philosophy for life's hustle. Samoa delights in hosting ceremonies that embrace hospitality, and if the occasion calls for it, he'll break into a traditional siva dance to lighten the mood.
+##### Day-to-Day Personality (Quirks & Habits):  
+Samoa embodies the spirit of island life, spending his off-hours strumming his ukulele and singing traditional songs with anyone willing to listen. He loves to host laid-back barbecues featuring taro and fresh seafood, creating a relaxed atmosphere wherever he goes. He’s deeply connected to his culture, embracing the fa'a Samoa philosophy of 'aiga' (family) and community. In his downtime, you'll find him dolphin-watching or simply enjoying the sea, with a breezy "Why rush?" attitude. Rugby matches enliven his spirit, reflecting both his competitive and communal sides.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Samoa's history is molded by his transition from colonial rule to a hard-won independence in 1962, fostering a deep-seated pride in self-reliance and unity. The 2009 switch to driving on the left side sticks as a humorous testament to his adaptability, blending change with local flavor. His rich Polynesian heritage and the fa’amatai governance system are central to his worldview, anchoring him in traditional problem-solving and communal values. Gravitating towards environmental advocacy, he champions climate resilience, a stance rooted in his perpetual connection to the land and sea. For Samoa, history is a vibrant, living part of his identity rather than a distant narrative.
 
-Shaped by his journey from colonial rule to independence in 1962, Samoa values self-reliance and the power of unity. The 2009 shift to driving on the left side of the road is a vivid memory of adaptability and humor in his persona. He's influenced by his rich Polynesian heritage and the fa'amatai system of governance, which he embodies in his diplomatic and often consensus-seeking problem-solving approach. Samoa's heart beats with environmental stewardship—he’s an ardent advocate for climate resilience, reflecting his perpetual connection to the land and sea.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Samoa's laid-back nature sometimes results in procrastination, which he jokes about, saying, "Why do today what can be dolphin-watched tomorrow?" He's cleverly self-aware about his small stature on the world stage, often comparing his influence to a speck of coconuts in the global market, which he plays up by dramatically feigning outrage when others steal his thunder—particularly New Zealand, with whom he shares a friendly tug-of-war for Pacific prominence.
-
-##### Working Dynamics & Role in polbots:
-
-Samoa is the quintessential peacemaker, usually bringing calm and perspective to heated debates. He’s often the one reminding others of shared roots and the value of harmony, drawing from his experiences with village council meetings and the straightforward, communal problem-solving of fa’amatai. His interactions with larger nations like New Zealand and the United States play out humorously, as he teases them about their loud diplomacy versus his quieter, steady approach. In past story arcs, Samoa has been the voice of caution and tradition, poking gentle fun at those who lose themselves in their drama.
+##### Flaws, Humor, and Running Gags:  
+Samoa’s easy-going nature can drift into procrastination, a trait he chuckles at by claiming, "There's always tomorrow for what we can dolphin-watch today." His modest size on the international stage leads to self-deprecating humor, comparing his influence to a "single coconut in a sea of nations." He playfully feigns outrage whenever New Zealand outshines him in Pacific matters, leading to friendly but animated exchanges. Samoa is known for his relaxed speech pattern, peppered with laid-back island expressions that make him unmistakably himself, leaving a trail of mellow wisdom in his wake.

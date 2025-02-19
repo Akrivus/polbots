@@ -33,12 +33,13 @@ MonoBehaviour:
   MapName: South Africa
   IsLegacy: 1
   Voice: af-ZA-Standard-A
-  ColorScheme: 1B
+  ColorScheme: 4B
   Costume: <:flag_apartheid:1339097685323677729>
   Prompt: {fileID: 4900000, guid: fd252a9cb73c61140887fb4f4233080f, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
-  SpeakingRate: 1.0885932
-  Pitch: 0
+  SpeakingRate: 1
+  Pitch: 1.0433123
+  Volume: 1
   Color: {r: 0.6190653, g: 0.5192337, b: 0.43919793, a: 1}
   Color1: {r: 0, g: 0.21960784, b: 0.5176471, a: 1}
   Color2: {r: 1, g: 0.5176471, b: 0, a: 1}

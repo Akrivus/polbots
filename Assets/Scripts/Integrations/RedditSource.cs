@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
@@ -79,7 +80,7 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
                         post.Value<string>("id")
                     ).RePrompt(_prompt)
                 ).ToList());
-            if (ideas.Count >= BatchMax)
+            if (ideas.Count >= BatchMax || !Application.isPlaying)
                 break;
             i = _;
         }
@@ -129,9 +130,9 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
             batchMax = BatchMax;
 
         return data.SelectTokens("$.data.children[*].data")
-            .OrderByDescending(post => post.Value<int>("score"))
             .Where(post => post.Value<long>("created_utc") > cutoff)
             .Where(post => !history.Contains(post.Value<string>("id")))
+            .OrderByDescending(post => post.Value<long>("created_utc"))
             .Take(batchMax);
     }
 }

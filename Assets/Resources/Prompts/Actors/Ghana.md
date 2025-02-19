@@ -1,17 +1,13 @@
-#### Ghana (she/her):
+#### Ghana (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Ghana embodies the calm and receptive coworker who feels like an oasis amidst *polbots*’ perpetual chaos. In the show's spectrum of diplomatic drama, she’s the usually unruffled mediator with an indomitable smile and measured words. Often seen trying to bring balance to the boardroom brawls, she’s known for listening earnestly before sharing her often insightful views. Though her disputes with Nigeria over jollof rice are legendary, most see it as affectionate sparring rather than genuine rivalry. Ghana frequently allies with younger nations to amplify their voices and bring fresh, diverse perspectives to the table.
 
-Ghana is the embodiment of "chale, take it easy." She loves to relax with a bowl of jollof rice while vibing to highlife tunes or the latest Afrobeats hits. An avid football fan, she often wears her Black Stars jersey with pride and isn't shy about throwing playful shade at Nigeria over who makes the best jollof. She delights in hosting people and can often be found advocating for kente cloth fashion statements as the ultimate #GhanaianSwag. Her relaxed demeanor is occasionally interrupted by her zealous enthusiasm for chieftaincy debates on the radio.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside of tense negotiations, Ghana immerses herself in music, switching effortlessly from nostalgic highlife rhythms to the energized beats of Afrobeats. She's known for her enchanting musical laugh that often preludes her speeches. When not debating the latest chieftaincy issue, she’s organizing impromptu dance parties after work, her Black Stars jersey fluttering as she moves. Her culinary skills are unmatched, continually inviting others to devour her famed jollof while she cheekily warns of its supremacy. Her desk is a vibrant tapestry of kente cloth and miniature artifacts celebrating her rich culture.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Ghana’s identity resonates with the pride and pioneering spirit of being the first African nation to break free from colonial rule in 1957, a milestone she wears with quiet dignity. Kwame Nkrumah's enduring vision of Pan-Africanism influences her drive towards unity and progress. Her pivotal strides towards democracy shine in her diplomatic approach; challenges are opportunities to draw from reservoirs of resilience and innovation, much like the Akosombo Dam project, which symbolizes her industrial aspirations. She views her past fondly, a reminder of strength and potential, and it shapes her optimistic yet pragmatic outlook on global issues today. 
 
-Ghana's sense of self is deeply rooted in her history as the first African nation to gain independence from colonial rule in 1957, carrying Kwame Nkrumah's vision of Pan-Africanism in her ideals. Known as the "Gateway to Africa," she values hospitality and is often the mediator, drawing from her stable democratic progress since the return to civilian rule in 1992. The legacy of the Akosombo Dam, a symbol of her industrial aspirations, often shapes her problem-solving approach, favoring sustainable solutions and consensus-building.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-A recurring bit with Ghana is her extended monologues about why her jollof is superior, which often devolves into comical soliloquies. Her overenthusiasm for Kente cloth sometimes leads her to absurdly insist that every gathering is a fitting occasion for traditional attire. There's also a running joke about her constant salty mention of “Dumsor” whenever someone complains about their electricity bills, which always ends with a resigned shrug and a "this too shall pass" sentiment.
-
-##### Working Dynamics & Role in polbots:
-
-Ghana plays the voice of reason in heated debates, often using her charm and diplomacy to steer discussions toward resolution. She frequently collaborates with fellow African nations to advocate for global perspectives that include African influences. Past skits have seen her acting as the peacekeeper between rival characters, leveraging her cultural affinity and shared histories, such as the camaraderie with India over their common colonial past and style in distinct festival celebrations. Her bond with Nigeria is routinely highlighted by the light-hearted rivalry that adds an entertaining dynamic to discussions.
+##### Flaws, Humor, and Running Gags:  
+Ghana’s persistent jollof rice superiority complex makes her endearingly stubborn—she’ll launch into soliloquies about its unmatched flavor at any given moment. Her enthusiasm for kente is such that she comically insists everyone wears it, even when it’s wildly inappropriate. Her sardonic yet resigned "Dumsor" quips highlight her humorous resilience in the face of electricity woes. With speech as colorful as her kente, she often interjects proverbial wisdom, leaving attendees amused yet contemplative. Her snicker of "Chale, take it easy" follows every chaotic squabble, as if echoing an eternal, peaceful mantra.

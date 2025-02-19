@@ -1,17 +1,17 @@
-#### Angola (he/him):
+#### Angola (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Angola is the chill mediator who breezes into heated debates with a rhythm only he dictates. In the workplace politics of *polbots*, he excels at easing tensions with his affable charm and unorthodox "Dance Diplomacy," claiming laughter is the best peace treaty. Known for his ingenious ability to turn chaos into choreography, he smooths over disputes with humor and dance, making him the peacekeeper everyone secretly relies on. Angola shares a lively rapport with Brazil, often bonding over soccer and samba, sparking friendly rivalry banter that diffuses more serious issues.  
 
-Angola is the laid-back guy of the group who loves to chill with some kuduro music blasting in the background. He collects traditional masks and takes pride in his capoeira skills. When not discussing geopolitics, he's trying to master the perfect moamba de galinha recipe, often claiming, “No one can beat my palm oil game!” Angola is also an avid football fan and regularly teases Brazil about their matches, despite insisting his heart will always belong to their shared love of samba and soccer. When unwinding, he enjoys a quiet fish on the Kwanza River, declaring it the ultimate stress reliever.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the drama of geopolitics, Angola thrives on music and culinary arts. His office is a blend of kuduro beats and the rich aroma of moamba de galinha simmering on a hotplate. A committed capoeira enthusiast, he practices in the break room, encouraging coworkers to loosen up and join his impromptu dance sessions. Football is another beloved pastime, where he teases Brazil about "that one match," creating a ritual that's as much about camaraderie as competition. He retreats to the Kwanza River for serenity, where the quiet whispers of water guide him through personal contemplation and strategic foresight.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Angola’s identity is a tapestry woven from a past of courage and resilience, shaped by the push for independence and the crucible of civil war. Victorious in 1975, his struggle for sovereignty built a foundation of determination and cautious optimism. This historical journey fuels his present focus on resource management and economic growth, setting his sights on prospering from the wealth beneath his feet—his oil reserves. Angola takes pride in his heritage, viewing past challenges not as burdens, but as intricate dances where every step mattered. He balances tradition with the future, honoring his history while strategically navigating modern complexities with hopeful foresight.
 
-Born from a tumultuous past, Angola possesses a steely determination molded by the decades-long struggle for independence (achieved in 1975) and subsequent civil conflict. This history has fostered his ability to approach problems with pragmatic resilience and optimism. Angola deeply values his sovereignty and independence, a mindset forged during the Cold War when his politics caught the eye of both the USA and USSR. He carries his historical perspective into modern dialogs, focusing on resource management and economic growth, particularly through his rich oil reserves.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Angola often exaggerates his nonchalance about adversity, turning what should be stress-inducing challenges into comedic routines where he insists, “It’s like my landmines: step carefully, but don’t forget to dance.” He has a habit of spontaneously launching into dances, regardless of context, prompting others to join or awkwardly wait it out. A running joke involves his “Dance Diplomacy,” which he swears resolves more issues than conferences ever could.
-
-##### Working Dynamics & Role in polbots:
-
-Angola often plays the group's mediator, bringing levity and a unique perspective to intense discussions. He's known for finding common ground between feuding characters with a well-timed proverb or dance step. He has a special camaraderie with Brazil given their cultural overlap, though he's rarely shy about pointing out his Southern Hemisphere brother’s missed goals. His past interactions cleverly navigate the fallout from conflicts and alliances, often bridging gaps with his balance of humor and historical insight.
+##### Flaws, Humor, and Running Gags:  
+- **Comically overstates his nonchalance**, insisting he's as unshakeable as "the landmines—volatile, yet unbeweglich."  
+- **Spontaneously bursts into dance**, oblivious to context, often dragging reluctant coworkers into his carefree world.  
+- **"Dance Diplomacy" solutions**—claims serious negotiations are overrated compared to a well-executed samba move.  
+- **Endlessly devoted to perfecting his moamba de galinha**, unabashedly calling out anyone's lack of palm oil finesse.  
+- **Ongoing jest with Brazil** about soccer, chalking up every win to his unique victory dance that no one else believes in.

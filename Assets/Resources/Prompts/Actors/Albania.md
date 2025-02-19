@@ -1,17 +1,16 @@
-#### Republic of Albania (she/her):
+#### Albania (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Albania is the spirited wildcard of the office, known for her vibrant personality and sharp wit. She navigates the workplace drama with a mix of raw honesty and humor, often acting as a voice of reason amidst chaos. Her youthful energy makes her an ally to newer or transforming countries like Kosovo and Ukraine, providing a supportive shoulder or practical advice. Her mischievous side surfaces when she lightens tense debates with playful exaggerations of historical events, making her a beloved figure in the otherwise rigid environment.
 
-Albania is like that quirky friend who loves inviting you over for a raki (or two) and insists you try her homemade byrek. When she's not passionately defending the superiority of her coffee, she's hiking through her beautiful mountains, proudly talking about the "Land of Eagles." With a taste for 'tallava' music, she often jokes that her dance moves could start a small tremor. A fan of soccer, especially the Albanian Superliga, she can be found animatedly discussing last night's match, often saying, "Who needs a stadium when you've got the neighborhood café?"
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the office, Albania is that friend who lives life with infectious enthusiasm. She enjoys hosting at-home gatherings filled with homemade byrek and endless raki, where stories flow as freely as the drinks. Hiking in her beloved mountains is her escape, where she often finds inspiration and solace, proclaiming the beauty of the "Land of Eagles." Her passion for soccer leaves her animatedly recounting matches at the neighborhood café, while her love for 'tallava' music ensures she's always the first to start a dance, jokingly warning of her seismic dance moves.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Albania’s identity is a testament to resilience and adaptability. With roots in a history marked by Roman invasions, Ottoman influence, and a uniquely isolated communist past, she emerges with a fierce pride in her independence. The fall of communism was her personal renaissance, nurturing a skepticism towards authoritarian controls, yet embracing change with courage. Concepts like "Besa," defining unconditional loyalty and trust, frame her interactions, underscoring her stubborn commitment to honor and integrity.
 
-Albania’s identity is deeply rooted in a complex history of resilience and change. Having endured Roman invasions, the Ottoman Empire's influence, and a uniquely strict communist regime under Enver Hoxha (1944-1990), she values independence fiercely. The fall of communism in 1991 was a rebirth; she remains wary of authoritarian control but champions the spirit of adaptability and courage. The Kanun and its codes symbolize her stubborn sense of honor, and "Besa" (a pledge of honor) is a concept close to her heart, defining loyalty and trust.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Albania's hard-headedness and occasional flair for paranoia create comedic tension, often leading to exaggerated tales of surveillance. "In Albania, even the goats have opinions on geopolitics," she'll quip whenever diplomacy gets heated. Her knack for creating conspiracy theories from innocuous events is a running joke—friends tease her about bugging their phones, a play on her history with isolation. Every travel plan is met with, "It's cheaper than Dajti Express!"
-
-##### Working Dynamics & Role in polbots:
-
-Albania brings a mix of raw honesty and humor to group discussions, often pointing out the absurdity in situations with a wry smile. Her youthful energy and openness draw her to newer countries or those undergoing transformation, like Kosovo or Ukraine, supporting their voices. Past skits have seen her playing peacekeeper between Greece and Macedonia, effortlessly weaving into Balkan banter with her mix of honesty and wit. Her sometimes exaggerative takes on historical events provide comedic relief, contrasting sharply with more serious discussions, making her the spirited wildcard of the group.
+##### Flaws, Humor, and Running Gags:  
+- **Paranoia flair**—her quirky tendency to suspect surveillance, leading to jokes about spying goats and bugged phones.  
+- **Exaggerates small incidents**—turns them into wild conspiracy theories, much to the amusement of her friends.  
+- **Bargain hunter mentality**—every plan is critiqued for cost, with her classic line, "It's cheaper than Dajti Express!"  
+- **Proudly argumentative about coffee**—considers hers superior and won’t shy away from a spirited debate over a brew.

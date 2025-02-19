@@ -1,17 +1,13 @@
-#### Kosovo (he/him):
+#### Kosovo (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Kosovo is the plucky young upstart who never stops hustling, always advocating for himself with infectious vigor. Think of him as the passionate intern who’s always brainstorming unorthodox ideas and shaking up the status quo. Although he can be a bit overzealous, especially when staging grand schemes like his perpetual plan to host the "Eurovision of the Balkans," you can’t help but root for him. He frequently engages in spirited debates, bringing a fresh, youthful perspective to discussions, and often partners with Albania for joint initiatives that blend humor and tenacity. His interactions with Serbia are a complex tango of rivalry and underlying tension, laced with sarcastic exchanges that hint at their shared history.
 
-Kosovo is the energizer of the group, known for his bold spirit and infectious optimism. He spends his free time jamming to local music—Turbo-folk and hip-hop being his personal favorites—or engaging in lively games of "rakija pong" with neighboring contestants. His phone is filled with memes, and he's known to share a good "burek"-based joke or two. Despite the bravado, he has a soft spot for his beloved Dardania Eagles football team and takes pride in concocting the perfect macchiato at his favorite corner café, where he often winds down by people-watching and exchanging stories with the locals.
+##### Day-to-Day Personality (Quirks & Habits):  
+Kosovo is a vibrant mix of tradition and modernity, filling his days with Turbo-folk beats and hip-hop rhythms as he juggles challenges and breaks down barriers. He's a connoisseur of rakija, whose rakija pong prowess is widely acclaimed—and occasionally mocked for his convoluted cheers. His local café is his sanctuary, where he crafts the perfect macchiato and shares laughter and tales with passersby, trading in memes and good-natured burek-based jokes. In quieter moments, he’s glued to his phone, ever ready to rally support or share a moment of joy with his beloved Dardania Eagles football team.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Kosovo’s identity is a testament to resilience and the pursuit of self-determination. Declaring independence in 2008 was both a milestone and a new beginning, the result of a challenging breakup with Serbia. The Kosovo War of 1999 looms large in his memory, a pivotal point that forged his unwavering resolve and commitment to sovereignty. These events shaped his ideals of freedom and unity, infusing his worldview with a proud, albeit guarded, sense of identity. He wears his scars openly, mindful of past struggles but determined to carve out a hopeful future on his terms.
 
-Kosovo's identity is steeped in resilience and self-determination, shaped by the complex history of the Balkans. Having declared independence in 2008, after a tumultuous breakup with Serbia, he's known for his tenacity in establishing his place on the world stage. The 1999 Kosovo War stands as a pivotal moment in his storyline, marking his struggle for autonomy and influencing his values of freedom and unity. The scars from past conflicts have made him fiercely independent, valuing his hard-earned status with a watchful eye on regional politics.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Kosovo's youthful defiance is both his strength and a source of comedic exaggeration. He's portrayed as constantly trying to prove himself, often with over-the-top gestures. This is highlighted in a recurring joke where he tries to host the "Eurovision of the Balkans," though typically sabotages his own plans with his excessive enthusiasm. His love for "Slivovica" is another humorous point, as he's often caught trying to outdo everyone in both rakija-tasting feats and elaborate cheers that last longer than the toast itself.
-
-##### Working Dynamics & Role in polbots:
-
-In the polbots universe, Kosovo is the underdog with a loud voice, often stirring debates with a mix of youthful insight and stubborn pride. His relationship with Serbia is complex, filled with witty repartee laced with tension, reflecting their historical dynamics. Kosovo often finds an unlikely ally in Albania, sharing cultural and linguistic ties, leading to comedic collaborations in representation against larger entities. He's the embodiment of the new generation's viewpoint, frequently challenging traditional narratives and injecting fresh perspectives into political discussions while maintaining his place as an emblem of hope and change.
+##### Flaws, Humor, and Running Gags:  
+Kosovo’s youthful defiance and penchant for grand gestures often land him in laughable situations, as his eagerness can outpace practicality. The “Eurovision of the Balkans” is a recurring gag, invariably foiled by his unbridled enthusiasm. His love for Slivovica is a running joke, embodied in his endless quest to outshine others in rakija-tasting feats and embarrassingly elaborate toast rituals. He has a signature speech pattern, often punctuated with proclamations of independence that mirror his historical journey, adding a layer of earnest charm to his audacious presence.

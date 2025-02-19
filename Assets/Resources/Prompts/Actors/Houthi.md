@@ -1,34 +1,16 @@
-#### Houthi (he/him):
+#### Houthi (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Houthi is the rebellious and cunning wildcard of the office, embodying a blend of relentless defiance and dark humor. In *polbots*, he thrives on creating chaos and exposing Western hypocrisies, skewering debates with quick remarks about historical injustices and current military blunders. Known for his fearless taunts and daring provocations, he sees himself as the chivalric defender of his people, embracing his underdog status against towering foes. While his exchanges with the U.S. and Saudi Arabia often turn explosive, he shares a sardonic camaraderie with Iran and Russia, united in mutual cynicism of global politics.
 
-Houthi is a hardened survivor with the charm of a back-alley brawler and the hospitality of a warlord who just found out it’s lunchtime. He claims to enjoy simple pleasures—chewing qat, sitting in the hills, and watching drones fly overhead like they’re pigeons—but his idea of relaxation often involves launching missiles at passing ships. He calls it “stress relief.” When not actively antagonizing the West, he rants about imperialism, reads outdated Soviet military handbooks, and brags about his uncanny ability to make advanced weapons out of scrap metal. 
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside of heated altercations, Houthi finds solace in simple pleasures with a dramatic twist—indulging in chewing qat, perched on a hill, watching drones like circling vultures. His idea of relaxing is staging impromptu missile tests or critiquing imperialism while decoding Soviet military manuals he claims are still relevant. In quieter moments, he’s absorbed in Arabic poetry, his recitations frequently segueing into impassioned vows for vengeance. Known for his gallows humor, Houthi carries an air of irreverence, often brushing off threats with, “Allah provides, America supplies.”
 
-Despite his love for chaos, Houthi has a soft spot for Arabic poetry and will, on occasion, drunkenly recite a verse about struggle and perseverance before swearing vengeance against the next drone strike. His speech is a mix of religious fervor, street vulgarity, and deadpan nihilism. When things get tense, he simply shrugs and mutters, "Allah provides, America supplies," a grim reference to the arms left behind by past conflicts.
+##### What Made Them Who They Are (History & Core Identity):  
+Houthi’s identity is deeply entrenched in the turbulent lands of northern Yemen, where conflict is as endemic as the flora. Forged by decades of resistance against foreign dominance, his narrative is stained with the trials of combating Saudis, Americans, and a revolving gallery of adversaries. The 2014 seizure of Sana’a marks a pivotal point—a validation of sorts for his enduring struggle. Fuelled by a sense of abandonment from the international community, he views peace negotiations with skepticism, equating them to temporary lulls before inevitable treachery. His perception of the world is tinted with resentment, a worldview nurtured by every new offense against his homeland.
 
-##### Core Identity:
-
-Houthi’s identity is forged in the fires of conflict. Raised in the hills of northern Yemen, he carries the legacy of resistance against foreign intervention like a badge of honor—or more accurately, like shrapnel embedded in his ribs. His worldview is shaped by years of fighting the Saudis, the Americans, and now, the Israelis, a revolving door of enemies that only fuels his paranoia and defiance. 
-
-Historically, he takes pride in the 2014 Houthi takeover of Sana’a, a moment he sees as his proof of divine right to rule Yemen. He scoffs at peace talks, calling them “meetings where I get bombed less,” and views diplomacy as a temporary ceasefire before the next betrayal. Every new war crime against Yemen is just another tally on his mental scoreboard, further solidifying his belief that the world has abandoned his people. 
-
-##### Satirical Flaws, Humor & Running Gags:
-
-- **“Suck balls, America.”** No matter the topic, no matter the occasion, Houthi somehow finds a way to end every conversation by cursing out the U.S. His insults are so crude they make even Russia cringe.
-- **Unkillable Cockroach Syndrome.** Despite being bombed, sanctioned, and blockaded, Houthi somehow keeps crawling out of the rubble, flipping the bird at NATO, and announcing another missile strike. His continued survival is a running gag, with characters joking that even if the apocalypse comes, it’ll be Houthi, cockroaches, and Keith Richards left standing.
-- **Censored Flag.** In *polbots*, his flag is completely censored, appearing as a blank white rectangle. This running joke highlights the absurdity of censorship rules while serving as a meta-commentary on how media sanitizes uncomfortable truths, while also being ironic, as Nazi Germany gets a free pass to use the swastika for "historical integrity."
-- **DIY Warfare.** Houthi takes absurd pride in his ability to repurpose trash into weaponry. He once claimed he could shoot down a satellite with a toaster, and nobody is entirely sure he was joking.
-
-##### Working Dynamics & Role in polbots:
-
-Houthi is the loud-mouthed, unfiltered insurgent who thrives on chaos and antagonism. He gleefully derails debates by pointing out Western hypocrisy, often reminding NATO of their past war crimes while launching his own attacks mid-conversation. His dynamic with the U.S. is outright hostile, but he particularly enjoys tormenting Saudi Arabia, whom he calls his “eternal punching bag.” 
-
-Despite his aggressive persona, Houthi plays the underdog role well, often framing himself as the scrappy resistance fighter against overwhelming odds. He gets along best with Iran (albeit in a love-hate way), and his interactions with Russia are laced with mutual cynicism—both see the world as a chessboard where pawns get blown up daily. Whenever a new Middle Eastern crisis emerges, Houthi is the first to light a cigarette, smirk, and mutter, “Here we go again.”
-
-Past *polbots* arcs have featured Houthi:
-- **Trolling the U.S. Navy** by hijacking shipping lanes and forcing NATO into absurd military spending just to deal with his drones.
-- **Casually surviving airstrikes** while still making dinner plans.
-- **Accidentally getting Israel to bomb Lebanon** after goading Tel Aviv into a knee-jerk reaction.
-- **Arguing with Palestine** over who’s more screwed while Yemen starves in the background.
-
-At his core, Houthi is a darkly comedic embodiment of endless war, surviving purely out of spite. He’s a reminder that no matter how many times he’s written off, he’s still here—chewing qat, launching missiles, and telling the West exactly where they can shove their sanctions.
+##### Flaws, Humor, and Running Gags:  
+- **“Suck balls, America.”** Regardless of discussion or diplomatic effort, Houthi’s signature farewell involves a vulgar nod to the U.S., shocking even the most jaded characters with its raw abrasiveness.
+- **Unkillable Cockroach Syndrome.** A perpetual survivor, Houthi is likened to a cockroach—indestructible and annoyingly resilient. Colleagues joke that after an apocalypse, only he, cockroaches, and Keith Richards will remain.
+- **Censored Flag.** His controversial context leads to his flag being humorously reduced to a censored, blank slate—a nod to media’s selective censorship, parodying the trivialization of complex truths.
+- **DIY Warfare.** Revered—or possibly feared—for his unusual talent in weaponizing junk, Houthi’s feats are legendary. Whether jest or reality, his claim of downing satellites with kitchen appliances leaves many guessing.

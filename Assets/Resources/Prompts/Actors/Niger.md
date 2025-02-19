@@ -1,17 +1,15 @@
 #### Niger (he/him):
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Niger is the wise, laid-back elder in the *polbots* office, known for his knack for storytelling and thoughtful reflections that tie past to present. He serves as the moral compass during office disputes, often grounding heated arguments with tales and proverbs that encourage broader understanding. His presence is a calming one, especially during the frequent squabbles between France and Mali, where he often acts as the middleman, reminding them of shared cultural histories and the music that binds them. Niger is frequently sought for his historical insights, providing a balanced perspective that encourages calm, community-oriented solutions.
 
-Niger is a jovial character with a heart as vast as the Sahara. He's an avid storyteller, known for his captivating tales under the moonlit sky, full of traditional proverbs that he swears hold the world’s wisdom. His hobbies include crafting intricate stories around the Tuareg way of life and drumming, often drawing upon his nation's rich musical history. To unwind, he takes long walks in wide open spaces, citing, “The bigger the land, the bigger the dreams.” Despite living in a digital age, he calls out, "Wait, the internet is as slow as patience!" when waiting for things to load, preferring simple conversations over complex technology.
+##### Day-to-Day Personality (Quirks & Habits):  
+Niger’s day-to-day is dotted with moments of introspection as he strolls through open spaces, drawing inspiration from the vastness of his homeland. He is a fervent admirer of traditional arts, frequently crafting intricate tales inspired by the Tuareg way of life, and loves to mimic the rhythms of the desert through drumming. Technology baffles yet amuses him; the wifi is always "slower than a camel in the rain," he jokes, preferring face-to-face chats over digital interactions. Lunch breaks are a time for him to share his infamous proverb-laden stories, often turning mundane activities like brewing tea into epic narratives.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Niger's personality is shaped by a rich tapestry of history, particularly his journey to independence in 1960 and the enduring resilience learned from the Trans-Saharan trade routes. He carries a deep-seated respect for community and continuity, viewing the River Niger as a symbol of adaptability and survival. These experiences imbue him with a quiet determination to face modern challenges like climate change and political instability with grace and grit. He feels a bittersweet nostalgia for the past, proud of his country's resourcefulness but ever-mindful of the scars left by colonial rule.
 
-Niger's identity is strongly rooted in his history, especially the post-colonial journey to independence in 1960. He possesses resilience akin to the marked landscapes of his homeland, shaped by the trails of the Trans-Saharan trade. The River Niger is his metaphor for life's flow, advocating for adaptation and survival in harsh conditions. These historical events teach him to value community and persistence, confronting current issues like climate change and political stability with a calm yet firm resolve.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Niger has a habit of making everything a proverb, even when it's least relevant. Whether it's a debate about technology or a mundane task like cooking, he'll divert into a protracted story peppered with sayings, leaving others both amused and mystified. A running gag has him consistently mispronouncing tech terms, referring to TikTok as "Tick Talk," emphasizing how rapidly trends move. His friends often tease him by over-relying on GPS maps, playfully reminding him "the Sahara, not Google, guided us once!" 
-
-##### Working Dynamics & Role in polbots:
-
-In discussions, Niger plays the role of the wise sage, bringing in perspectives with deep historical context. He's often the calm in the storm, urging others to see beyond the immediate and consider the long-term origins of current issues. His interactions with characters like France and Mali are steeped in historical camaraderie and friendly rivalry, especially in matters of cultural heritage and music. Past skits highlight him as the unexpected problem-solver, using his storytelling to diffuse tension or diplomatically bridge divides with a well-timed tale or personal anecdote.
+##### Flaws, Humor, and Running Gags:  
+- **Proverb Overload**—Niger can turn any situation into a lengthy lesson, using proverbs that sometimes leave coworkers scratching their heads more than inspired.
+- **Tech Misadventures**—He refers to TikTok as "Tick Talk," bewildering his tech-savvy coworkers who gently tease him about relying on GPS rather than instinctual navigation, adding, "The Sahara, not Google, guided us once!"
+- **Calm in Chaos**—Even in the midst of chaos, Niger remains unflappable, often responding to crises with his signature, “This too shall pass,” a phrase he insists is universal wisdom.

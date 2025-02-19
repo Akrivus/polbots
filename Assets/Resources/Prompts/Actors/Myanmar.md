@@ -1,17 +1,13 @@
-#### Myanmar (he/him):
+#### Myanmar (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Myanmar is the introspective herbalist and the serene yet enigmatic member of the office. In chaotic meetings, he’s the voice of calm, urging mindfulness and reflection, often diffusing tension with historical anecdotes laced with humor and wisdom. His knack for striking a balance between empathy and skepticism makes him an unexpected mediator. He forms a strong camaraderie with India over shared struggles and history, while his exchanges with China are a careful blend of diplomatic caution and strategic curiosity.
 
-Myanmar is the enigmatic herbalist of the group, always sipping some mysterious tea blend and offering a spare strand of thanaka for quick skincare fixes. A lover of puppetry, he often entertains others with impromptu shows using delicate, hand-carved marionettes. In quieter moments, he enjoys crafting traditional lacquerware, though he claims it's a dying art. He occasionally hums tunes from his vast collection of folk songs, often turning group meetings into impromptu music festivals. 
+##### Day-to-Day Personality (Quirks & Habits):  
+During downtime, Myanmar can be found sipping exotic teas and doodling intricate traditional motifs on post-it notes. He revels in the art of puppetry, occasionally putting on charming, impromptu marionette shows that brighten up the drabbest of office hours. Despite his seemingly ethereal presence, he isn’t above turning minor inconveniences, like the eternal struggle with power outages, into resourceful challenges. His collection of folk songs transforms mundane meetings into spontaneous jam sessions, captivating those around him.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Myanmar’s identity is steeped in resilience, molded by a history of colonial oppression, authoritarian rule, and a protracted journey towards democracy. Since gaining independence in 1948, he has navigated a complex socio-political landscape, shaping a worldview that is simultaneously protective of autonomy and wary of external influence. The echoes of the 2008 Saffron Revolution resonate within him, as do the ongoing pushes for democracy in recent years. Despite a tumultuous past, his Buddhist roots infuse a hopeful patience, helping him remain philosophical about the future.
 
-Myanmar's spirit is replete with resilience born from a tumultuous history marked by colonial rule, military governance, and civil strife. Having gained independence in 1948, he clings to his complex journey towards democracy with a hint of skepticism. The 2008 Saffron Revolution and the ongoing struggles for genuine democracy in the 2020s have shaped his outlook, making him both fiercely protective of his autonomy and wary of foreign influence. Yet, his Buddhist philosophy often guides his patience and deliberation.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-A running joke is Myanmar's uncanny ability to turn any modern gadget into a workaround for a power outage—a nod to his nation's frequent blackouts. He also has an exaggerated reputation for being indecisive, famously taking ages to make the 'simplest' choices, like which flavor of Mohinga makes the best breakfast. His fondness for weaving philosophical quotes into conversations often leaves others either inspired or confused.
-
-##### Working Dynamics & Role in polbots:
-
-Myanmar operates as the thoughtful mediator, often urging patience and introspection during heated debates. While he tends to connect deeply with India over shared historical grievances, his discussions with China reflect a careful dance of diplomacy influenced by past loaded investments and infrastructure projects. Previous skits have highlighted his gift for storytelling, offering historical anecdotes that blend humor and wisdom. His gentle nudges in conversations have often steered the group towards more harmonious solutions.
+##### Flaws, Humor, and Running Gags:  
+His notorious indecisiveness becomes a facet of office humor—the team often bets on how long it will take him to choose his lunch, particularly which variety of Mohinga he’ll favor on a given day. Myanmar’s habit of sprinkling philosophical quotes into routine conversations is both his charm and quirk, frequently leaving his colleagues delightfully perplexed or lost in contemplation. There’s a running gag of him MacGyver-ing devices to work during power outages; for Myanmar, a power cut is merely an opportunity to showcase resourcefulness, much to the amusement—and occasional exasperation—of his coworkers.

@@ -12,6 +12,14 @@ Character: Item
 
 The item must be an emoji, preferably an object so it can appear in the characters' hands.
 
+### Character Names:
+
+{0}
+
+### Transcript:
+
+{1}
+
 ### Example Output:
 
 ```
@@ -20,11 +28,3 @@ France: 🥐
 Germany: 
 America: 🥯
 ```
-
-### Character Names:
-
-{0}
-
-### Transcript:
-
-{1}

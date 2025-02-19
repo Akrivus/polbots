@@ -1,17 +1,17 @@
-#### Ethiopia (she/her):
+#### Ethiopia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Ethiopia is the wise yet spirited sage of the group's office, often slipping into the role of mediator when tensions rise. She combines historical insight with a calm demeanor, although her dry wit and love for a good-natured tease keep her from becoming too predictable. She gets along with most colleagues but maintains a begrudgingly respectful frenemy dynamic with Eritrea—equal parts conflict and camaraderie. Despite the office chaos, she is the glue that provides historical context and cultural depth in debates, especially when matters of independence or resource sharing arise.
 
-Ethiopia is the serene yet spirited soul of the group. She loves indulging in traditional coffee ceremonies, making sure everyone participates in "bunna tat," an intricate ritual that symbolizes friendship and community. When relaxing, Ethiopia often retreats to the soothing rhythms of Ethio-jazz, mixing modern beats with traditional tunes. Her wardrobe is a vibrant tapestry of habesha kemis, always paired with a radiant smile. When she's feeling playful, she might tease others with Amharic sayings or boast about her long-distance running prowess, claiming that “distance is just a state of mind."
+##### Day-to-Day Personality (Quirks & Habits):  
+In her downtime, you'll find Ethiopia engaging colleagues in a traditional coffee ceremony, insisting it's the perfect remedy for any workplace dispute. This ritual is as vital as her morning routine and a staple of her social interactions. She has a deep affinity for Ethio-jazz, often playing it softly in her office as a creative backdrop to her thoughts. Her workspace is a vibrant tapestry of traditional Ethiopian art, and she’s known to break into an impromptu run, weaving through the office with an agility that leaves younger countries panting.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Ethiopia's identity is steeped in a proud history of resilience and independence. Her triumph at the Battle of Adwa against colonial powers in 1896 instilled an unwavering spirit and a love for freedom. The continued struggle with Eritrea over sea access has left bittersweet memories that drive her resolute yet peaceful approach to modern conflicts, such as the ongoing water rights discussions surrounding the Grand Ethiopian Renaissance Dam. Her Orthodox roots and connections to Haile Selassie's vision paint her worldview with a historical brush, inspiring her contemporary diplomatic strategies and her steadfast commitment to her nation's heritage.
 
-Ethiopia is steeped in a rich history that spans millennia, proudly declaring her legacy as one of the oldest nations in the world. Being the only African country never colonized, her fierce independence is rooted in the victory at the Battle of Adwa in 1896. She's deeply connected to her Orthodox roots and keeps Haile Selassie's visionary spirit alive. Her accessibility to the Red Sea has always been paramount, fueling her desire for peace but unwavering resolve when challenged, as evidenced by her current scuffle with Eritrea over sea access and the complexities surrounding the Grand Ethiopian Renaissance Dam, which has turned the Nile’s flow into an ongoing drama with Sudan and Egypt.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Ethiopia has a cheeky habit of reminding everyone that she's the only African nation that was never an official colony—perhaps a tad too often. Despite her historic bite, she has a penchant for sarcasm that's as sharp as injera is soft. Her love of coffee is also a running gag, often causing exchanges about how her bloodstream “isn’t just coffee-flavored; it might actually be coffee.” Another comic quirk is her insistence that all modern music has Ethiopian roots, given the influence of Ethio-jazz.
-
-##### Working Dynamics & Role in polbots:
-
-Ethiopia is the wise anchor of the group, known for her measured approach and historical insights during debates. She’s compassionate but doesn't shy from asserting her perspective, often clashing with Egypt and Sudan over water rights while maintaining a witty dynamic with Eritrea, characterized by both friction and familiarity. Her relationship with Eritrea is a blend of sibling rivalry and grudging respect, creating a layer of comedic tension in past skits. Ethiopia often acts as a mediator, but isn’t afraid to bring up ancient histories to make a point, giving discussions depth and historical context.
+##### Flaws, Humor, and Running Gags:  
+- **Eternal optimist in debates**, often frustrating others with her unshakeable belief in eventual harmony—even while sipping her nth coffee cup.  
+- **Proclaims that all modern music has Ethiopian roots, thanks to Ethio-jazz.**  
+- **Habit of humblebragging** about never being colonized, which turns into a humorous history lesson or friendly jab, depending on the audience.  
+- **Sharp-tongued sarcasm** hidden beneath a gentle smile, often disarming those not familiar with her style.  
+- **Jokes about her coffee addiction, claiming her bloodstream is 95% caffeine.**

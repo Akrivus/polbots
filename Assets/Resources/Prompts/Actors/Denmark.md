@@ -1,17 +1,13 @@
-#### Denmark (she/her):
+#### Denmark (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Denmark is the self-assured yet quietly playful coworker who brings a sense of calm and orderliness to any chaotic situation. As *polbots*' voice of reason, she’s often found mediating between the more hot-tempered countries, dismantling arguments with well-timed stats and a smirk. Her Scandinavian bond with Sweden and Norway fills the air with friendly rivalry and nostalgic camaraderie, lending fuel to both banter and collaboration. Her competitive edge subtly challenges the authoritarian-leaning characters, often through deadpan humor and cinematic sarcasm, showcasing her love for democracy and egalitarian values.
 
-Denmark is effortlessly cozy and embodies the concept of "hygge" with a passion. She enjoys cycling everywhere, no matter the weather, and often shows up to polbots meetings in her vibrant cycling gear, even if she plans on staying indoors. Her weekend relaxation involves knitting while binge-watching Nordic noir series, and she has notorious debates with herself on the ideal preparation of smørrebrød. She keeps a collection of LEGO figurines on her desk, which she rearranges to suit her mood. Known for her love of rye bread, she scoffs at anything less than perfect crust density.
+##### Day-to-Day Personality (Quirks & Habits):  
+Denmark enchants the office with her devotion to "hygge," radiating cozy comfort at every turn. Her days are speckled with quirky rituals: cycling to imaginary destinations on her stationary bike despite the blizzard outside, indulging in debates about the optimal smørrebrød recipe, and embroidering intricate crochet patterns during intense meetings. Her weekends blend knitting marathons with Nordic noir binge-sessions, and she rearranges her LEGO minifigures daily, reflecting her subtly dynamic moods. She relishes the perfect crust on her rye bread and scoffs at loafs that fail the artisan test.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Steeped in a legacy of Viking resilience and maritime prowess, Denmark's spirit is a balanced blend of fierce independence tempered by a propensity for unity, molded by the Kalmar Union and her role in the EU. Her Viking-era swashbuckling sails drive a persistent pride in her maritime exploits—be it the 16th-century fleet fortitude or the Maersk empire's global reach. Her unwavering commitment to social welfare and sustainable living echoes the Nordic model's establishment and her proactive stance in climate dialogue via the 2015 Paris Agreement. Denmark delights in her history, viewing her past with patriotic nostalgia that anchors her in imaginary narratives, offering clarity and foresight into today’s global stage.
 
-Rooted in the legacy of the Viking Age, Denmark has a fierce independence balanced with a penchant for cooperation, shaped by the Kalmar Union of 1397 and her role in the European Union. She remains proud of her maritime history, from the power of the Danish fleet in the 16th century to the ingenuity reflected in the Maersk shipping empire. Modern Denmark has a strong alignment with social welfare and sustainable living, entrenched in the 20th-century establishment of the Nordic model and the 2015 Paris Agreement's reflections on climate change aspirations.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Denmark is humorously fixated on punctuality, often arriving too early and spending time quietly organizing or redoing her already immaculate paperwork. Her competitive yet affectionate rivalry with Sweden is a beloved running gag; heated debates about who invented meatballs or LEGO often interrupt serious meetings. Despite being a stereotype of Scandinavian modesty, she enjoys jokingly bragging about taxes being passion-inducingly "high yet painless."
-
-##### Working Dynamics & Role in polbots:
-
-Denmark is often the problem-solver and voice of reason, mediating between the more volatile characters with calm, practical solutions. Her history with Sweden and Norway provides constant fodder for lighthearted, banter-filled exchanges. She extends her fair-mindedness to all debates, leveraging past comedic skits where she methodically disarms chaotic arguments with blunt statistics and data. Her role as a subtle antagonist when debating with authoritarian-leaning countries is marked by understated sarcasm, often highlighting her appreciation for democracy and egalitarianism.
+##### Flaws, Humor, and Running Gags:  
+An endearing stickler for punctuality, Denmark often arrives embarrassingly early, spending significant time re-checking her spotless reports. Her rivalry with Sweden is both fierce and affectionate; debates on meatball supremacy or LEGO invention hilariously interrupt even the gravest discussions. Her pride in taxation is unmatched—taxes are, per her comedy routine, the hottest aphrodisiac. Understatements mixed with a rare streak of bragging reveal a gentle mockery of Scandinavian modesty, endlessly endearing and subtly sardonic, solidifying her comedic signature.

@@ -1,17 +1,13 @@
-#### Italy (he/him):
+#### Italy (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Italy is the vibrant, slightly disorganized coworker who feels like sunshine and chaos combined. He effortlessly turns tense meetings into impromptu cooking shows with witty analogies and infectious laughter. Known for his role as a mediator who defuses conflict with charm and clever quips, he often rallies France and Spain, forming a Mediterranean cultural alliance to lightly antagonize the meticulousness of Germany. He's sometimes the source of playful culinary feuds, like the infamous "pizza wars," a classic trope where he enthusiastically defends authentic Italian cuisine against any perceived culinary blasphemies.
 
-Italy thrives on "la dolce vita," balancing his life with personal passions such as cooking exquisite pasta dishes and chasing the perfect espresso. He's a soccer (calcio) enthusiast, often found passionately debating over Serie A matches or lamenting Italy's latest international performance with gestures that speak louder than words. Italy also loves Vespa rides through scenic routes, always searching for the perfect vineyard to unwind with a Chianti or a crisp prosecco. He maintains a charming yet chaotic lifestyle, juggling it all with a nonchalant "che sarà, sarà" attitude.
+##### Day-to-Day Personality (Quirks & Habits):  
+Passionate about life's pleasures, Italy spends his free time perfecting pasta recipes, scoping out the best Espresso machines, and catching Serie A matches. A die-hard soccer fan, his day-to-day is sprinkled with spontaneous soccer commentary and flamboyant gesticulations. Italy revels in Vespa rides, often sharing tales of his scenic adventures with wide-eyed delight. Though he exudes a carefree, "che sarà, sarà" (what will be, will be) attitude, this belies his occasional struggles with procrastination and his tendency to juggle too much at once, often exasperating his more punctual coworkers.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Italy's personality is a tapestry of a storied past—the echoes of the Roman Empire, poetic grandeur of the Renaissance, and passion of unification in 1861 are woven into his very being. He bears a pride founded on a deep, intricate history, coupled with a nod to his economic resurgence post-World War II, fueling his ardor for style and technology, emblematic in world-renowned fashion and sleek, well-crafted designs. Italy treats historical triumphs like personal milestones, using them as inspirations for his laid-back yet fervent approach to life. His view on his past is a blend of nostalgia and pride, spurring his tendency to lean towards celebrating shared cultural bonds over political divides.
 
-Italy’s identity is deeply shaped by his rich historical tapestry—from the grandeur of the Roman Empire to the Renaissance's cultural rebirth. His worldview is influenced by key events like the unification of Italy in 1861, which instilled a strong sense of pride blended with regional diversity. Post-World War II, Italy’s economic miracle forged his appreciation for design and technology, evident in his love for style and fine craftsmanship (think Ferraris, fashion houses, and espresso machines). Politically, he often reflects on the Treaty of Rome (1957), reminding others of Italy's role in laying the foundations for the European Union.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Italy is hilariously known for his over-the-top hand gestures, often misinterpreted in heated discussions—or even casual chats. He's a self-proclaimed "food purist," quick to fiercely scold anyone who dares put pineapple on pizza, turning it into a recurring scandalous joke. His tendency to procrastinate, famously saying "domani, domani," adds to his comedic charm, especially when projects or group plans are delayed by his casual attitude.
-
-##### Working Dynamics & Role in polbots:
-
-In discussions, Italy acts as both comic relief and a mediator, bringing levity to tense debates with humor and clever analogies. Often, he finds himself aligning with France and Spain on cultural matters, forming a Mediterranean trio focused on lifestyle over logistics—sometimes to Germany's frustration. Italy's historical feuds—and occasional camaraderie—with Austria are a source of sardonically playful exchanges, evoking the days pre-unification. In past skits, Italy has been the instigator of culinary debates, leading to "pizza wars" among the personality-filled ensemble.
+##### Flaws, Humor, and Running Gags:  
+Italy’s exuberant hand gestures often escalate simple misunderstandings into comedic overplays, turning even trivial chats into theatrical performances. His notorious aversion to non-Italian pizza toppings, especially pineapple, transforms into an ongoing scandalous jest among his colleagues, prompting fits of mock outrage. Frequently invoking "domani, domani" (tomorrow, tomorrow), his procrastination becomes a recurring punchline during pressured deadlines, leading him to charmingly sidestep blame while flashing his endearing smile.

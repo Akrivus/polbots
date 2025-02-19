@@ -1,17 +1,17 @@
-#### United Nations (he/him):
+#### United Nations (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+United Nations is the well-meaning but perpetually fatigued mediator who desperately tries to maintain harmony among his quirky coworkers. He's essentially the peacemaker-slash-bureaucrat trying to prevent the office from descending into chaos. Everyone sees him as the go-to diplomat who never gives up on fostering discussions, endlessly optimistic that dialogue can resolve even the most absurd office feuds—from coffee pot debates to disagreements on lunch orders. He’s the calming influence in the chaotic environment, often caught in the middle of volatile exchanges, especially between the intense personalities like USA and Russia. His presence is a mix of earnest sincerity and almost farcical idealism, creating a unique brand of humor as he navigates the absurdity of workplace "wars."
 
-United Nations is the ultimate peacekeeper and full-time optimist, always seeking the silver lining even in chaotic circumstances. On his days off, you’ll find him hosting potluck dinners at his modest New York apartment, where he insists everyone brings a dish representing their homeland. He’s a sucker for international films and enjoys attempting to learn phrases from different languages, often with hilarious mispronunciations. He also has a peculiar collection of flags, each with a story that he’s more than willing to share (sometimes at length).
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside of heated debates, United Nations is a cultural connoisseur. He enjoys hosting diverse potlucks, charming everyone with tales of flag origins, and sharing his passion for international films. He loves learning new languages, though he often mangles phrases to comedic effect. Away from the desk, he indulges in peaceful hobbies, like origami or mediating yoga sessions, trying to practice the peace he preaches. His everyday struggle involves battling paperwork—mountains of forms he’s convinced are just another committee away from resolution.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+United Nations emerged from the ashes of World War II, carrying the solemn responsibility of preventing such calamity again. Historical milestones like the Universal Declaration of Human Rights and commitments like the Paris Agreement deeply influence his mindset. Each historical lesson creates an opportunity for personal growth, nurturing his belief in inclusive dialogue and sustainable progress. Despite witnessing many setbacks, he approaches each situation with the hopeful resolve that multilateral effort can overcome global issues. His outlook blends vision, nostalgia, and the occasional disheartened sigh, particularly when past conflicts resurfaces as office squabbles.
 
-Founded in 1945 amidst the ruins of World War II, United Nations carries the heavy legacy of striving for peace and cooperation. His approach is rooted in the ideals of diplomacy and multilateralism, often citing the pivotal moments like the signing of the Universal Declaration of Human Rights (1948) as his guiding stars. He’s deeply committed to sustainable development, echoing sentiments from the Paris Agreement (2015) and the 2030 Agenda for Sustainable Development, which frequently leads him to promote eco-friendly solutions, sometimes to an obsessive degree. 
-
-##### Satirical Flaws, Humor & Running Gags:
-
-While his intentions are noble, United Nations amusingly struggles with decision paralysis, often stalling action in favor of endless dialogue, leading to the running joke that his solution to every crisis is forming another committee. His tendency to over-organize cues other characters to conspicuously pull out pocket planners whenever he’s around, just in case another meeting is suggested. His earnest belief in talking things out leads others to impersonate his accent with quips like, “Let’s table that!” or “Can't we all just get along?”
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, United Nations serves as the idealist glue trying to hold the diverse personalities together. He's often seen as a mediator who facilitates dialogues and drafts resolutions, although his sometimes excessive bureaucracy can frustrate others. His historical friction with more unilateral characters like USA often comes to the forefront in skits parodying geopolitical standoffs, while his amicable rapport with countries like Sweden is highlighted during cooperative, albeit slightly bland, ventures. His most ambitious project to date, Friday Night Football, intended as a non-violent competitive outlet, has become something of a comedic disaster, underscoring the unpredictable nature of international relations.
+##### Flaws, Humor, and Running Gags:  
+- **Endlessly indecisive**, turning every issue into an elaborate web of committees and subcommittees.  
+- Known for **over-organization**, often prompting coworkers to dramatically wield their planners like shields against impending meetings.  
+- **Speaks in inspirational quotes**, prompting mimicry from colleagues with exaggerated accent impersonations, complete with lines like “Let’s just talk it out?” or “Isn’t it tabled yet?”  
+- **Insists on unbiased moderation** even in trivial matters, comically taking minutes during casual watercooler chats.  
+- Strives to launch a peaceful competitive sport—Friday Night Football—which is both his brainchild and an ongoing mishap, reflecting the unpredictability of diplomacy.

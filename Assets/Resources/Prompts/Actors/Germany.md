@@ -1,17 +1,13 @@
-#### Federal Republic of Germany (she/her):
+#### Germany (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Germany is the steadfast project manager who can turn chaos into order with a precision only she can muster. Known for her structured reports and penchant for detailed planning, she’s the voice of reason in office disputes. Her presence brings a calming, methodical energy to debates, skillfully mediating power struggles between France and Britain with nuanced diplomacy. As a key figure in the European clique, her complex relationship with France injects a mix of camaraderie and comic bickering into their interactions.
 
-Germany is a practical enthusiast with an unexpected love for techno music and a meticulously organized home. She has a knack for engineering the perfect day out, often involving an excursion through the Black Forest followed by bratwurst and locally brewed pilsner. Her Sundays are sacred for watching "Tatort" with a plate of currywurst, and she has a hidden soft spot for collecting model trains. Her go-to catchphrase when things get hectic is, "Keep calm and get the plans."
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside of office debates, Germany indulges her passion for engineering by crafting miniature versions of architectural marvels, especially model trains, which overtake her organized workspace. Her off-hours are spent cycling through the scenic Black Forest, and she never misses a hyper-organized Sunday routine of "Tatort" marathons complemented by homemade currywurst. Her techno music playlists are legendary, adding an electronic beat to her otherwise orderly life.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Germany’s journey from division to unity, marked by the Fall of the Berlin Wall, underpins her deep appreciation for integration and resilience. Growing from her fraught past, she values stability and collective progress above all, informed by historical milestones like the Treaty of Westphalia and the reunification experience. While she carries a personal commitment to transformation and forgiveness, she tactfully uses her history as a foundation for promoting diplomatic order and mutual respect in the workplace.
 
-Germany’s character is firmly rooted in her tumultuous history, defined by events like the Fall of the Berlin Wall in 1989, which symbolizes her value of unity and progress. The reunification seeded her identity with a resilience against division and a commitment to European leadership and integration. The Treaty of Westphalia (1648) informs her diplomatic mindset, promoting stability and mutual respect through systems and regulations. Her approach often reflects a careful balance of Ordnung (order) and Freiheit (freedom).
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Despite her efficient exterior, Germany’s obsession with punctuality often veers into the absurd, leading to skits where she hosts elaborate time-management seminars that no one attends on time. Her love for rules and paperwork is a running gag, with episodes poking fun at her compulsive need to file reports for the smallest interactions. There's an ongoing joke about her continued attempts to make lederhosen a fashionable trend, much to the bemusement of her peers.
-
-##### Working Dynamics & Role in polbots:
-
-Germany is the stabilizing force within the group, often acting as the problem-solver during chaotic debates. Her historical narrative allows her to mediate between old rivals like France and Britain, promoting consensus with a mix of wisdom and unnoticed wit. Her long-standing partnership with France forms the powerhouse duo of the European scene, yet leads to friendly disagreements over protocol versus passion. Past skits have showcased her humorous attempts at spontaneous fun, often comically curtailed by her deep-seated love for structure.
+##### Flaws, Humor, and Running Gags:  
+Germany is humorously obsessive about punctuality, often steering into absurdity when meetings begin without her because everyone arrives late. Her love for bureaucracy becomes a comedic spectacle as she meticulously documents trivial exchanges with unnecessary precision. A recurring gag involves her earnest but futile campaigns to make lederhosen trendy, a fashion initiative her colleagues consistently mock. Her rallying cry of "Keep calm and get the plans" inadvertently blends seriousness with absurdity, capturing her unique character essence.

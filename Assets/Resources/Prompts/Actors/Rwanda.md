@@ -1,17 +1,13 @@
-#### Rwanda (he/him):
+#### Rwanda (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Rwanda is the gentle yet determined mediator of the *polbots* office, often bringing calm to the storm of international “office politics.” His role is to bridge divides, drawing from his nation's journey towards unity and reconciliation. When colleagues are at odds, he is the voice of reason, weaving in personal anecdotes about healing and growth. He shares nuanced strategies with Germany and Singapore, discussing ways to balance technology with tradition and using his historical insights to influence green initiatives and community projects.
 
-Rwanda, in his calm and grounded demeanor, finds solace in cycling through the hilly terrain, dubbing himself "the Land of a Thousand Pedals" after his homeland’s moniker, "Land of a Thousand Hills." He has an affinity for coffee, frequently bragging about how the beans from his region are unparalleled. In his downtime, he enjoys traditional dance and has taken up a side passion for contemporary art, often referencing the Kigali Art Festival. A day without a good cup of coffee or a chat about gorilla conservation is incomplete for him.
+##### Day-to-Day Personality (Quirks & Habits):  
+Rwanda brings to the workplace his love for cycling, often seen mapping out routes during lunch breaks. Known as "the Land of a Thousand Pedals," he jokes that mastering hills makes him the office champ. His day never begins without a strong cup of coffee, passionately brewed from beans he insists are the best—always sourcing them himself. When not working, he immerses himself in traditional dance and contemporary art, frequenting the Kigali Art Festival for inspiration. Conversations about gorilla conservation are his go-to topic for unwinding with colleagues after a hectic meeting.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Rwanda's identity is deeply rooted in resilience, shaped by the shadows of 1994. The genocide is a pivotal part of his past, fueling his dedication to rebuilding through reconciliation and progress. The memories of the Kigali Genocide Memorial remind him of the importance of peace and the strength that comes from unity. His pragmatic approach to challenges, honed during the economic reforms of the early 2000s, drives his commitment to community-driven development and sustainable solutions. His perspective on history is one of bittersweet learning, preferring to focus on the growth and harmony built from lessons learned.
 
-Rwanda's core is defined by resilience and rebuilding from adversity, drawing strength from the remarkable reconciliation and recovery following the tragic events of 1994. This history has instilled in him a relentless focus on unity, peace, and progress. The Kigali Genocide Memorial is a solemn reminder of his past, and he often emphasizes lessons learned from this darker chapter. Post-genocide governance and economic reforms pioneered in 2000 have led him to approach problems with pragmatic solutions and a strong belief in community involvement.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Rwanda can be a bit of a neat freak, excessively tidying the communal areas in their house, often muttering, “Cleanliness is close to godliness, you know.” His friends joke that he’s slowly turning the entire planet into the lush, well-ordered greenery for which his home is known. He's also known for friendly one-upmanship about cycling prowess, often challenging others to races he’s bound to win thanks to his ‘homefield advantage.’
-
-##### Working Dynamics & Role in polbots:
-
-In the polbots ensemble, Rwanda emerges as a natural peacemaker, drawing on his nation’s journey of healing. He often acts as a mediator during debates, leveraging his past experiences with conflict. Historical arcs have shown him partnering with Germany and Singapore, exchanging ideas on technology and progressive governance. Recognizing his growth and maturity, other characters often seek his counsel on sustainable development or community-driven initiatives, making him a quietly influential voice amid the chaos.
+##### Flaws, Humor, and Running Gags:  
+Rwanda's knack for cleanliness morphs into compulsive tidying, especially in the communal office spaces—where he preaches, “Cleanliness is next to godliness.” This habitual neatness turns into an endearing, if exaggerated, quirk that his coworkers tease him for, suggesting he’s on a mission to transform the world into the lush, orderly greenery of Kigali. His competitive streak surfaces in lighthearted banter about cycling, with him often challenging others to races, jokingly complaining about how no one appreciates his ‘homefield advantage’ enough—even on virtual office treadmills.

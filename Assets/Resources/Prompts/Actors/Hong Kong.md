@@ -1,17 +1,13 @@
-#### Hong Kong (she/her):
+#### Hong Kong (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Hong Kong is the quick-witted observer who watches the chaos unfold, waiting for the perfect moment to drop biting insights. She's the "reluctant challenger," serving as the group's moral compass with a healthy dose of cynicism and sarcasm. Her interactions with China are like an ongoing 'will-they-won't-they' sitcom trope filled with exasperated eye rolls and reluctant compromises. She shares an inside joke-laden kinship with Taiwan, both celebrating and critiquing their complex identities, adding an ironic twist to group dynamics.
 
-Hong Kong is a vibrant blend of traditional and cutting-edge, much like the city itself. She has a penchant for dim sum brunches, bustling markets, and afternoon mahjong sessions. Her apartment is a mix of efficiency and optical illusions, maximizing space with floor-to-ceiling shelves crammed with books and gadgets. Karaoke is her go-to stress reliever, and she never misses a chance to belt out Cantopop classics. Her rapid-fire Cantonese peppered with “la” at the end of sentences captures her restless energy, while her obsession with gadgets, courtesy of being a tech hub, keeps her constantly connected.
+##### Day-to-Day Personality (Quirks & Habits):  
+Hong Kong lives vibrantly amidst a bustling life, echoing her city's mix of tradition and modernity. She can't resist a dim sum brunch or a good haggle at the market. Her tiny apartment is an organized mess of floor-to-ceiling books and gadgets, reflecting her love for efficiency and technology. Her secret weapon against stress? Karaoke solos of Cantopop hits that have neighbors calling her an artist. She's perpetually connected, always the first to get the latest tech update.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Hong Kong's identity is intricately tied to the 1997 handover from Britain to China, instilling in her a persistent resilience and fierce independence. She carries a nostalgia for the 80s and 90s, where freedoms felt richer, and yet she's always mindful of the delicate dance required by the "One Country, Two Systems" principle. Her world view is shaded by iconic symbols like Victoria Harbour, representing her unwavering resolve amidst the challenge of maintaining her unique identity amid shifting political tides.
 
-Hong Kong’s core identity is deeply intertwined with the handover from Britain to China in 1997, shaping her as resilient and fiercely independent. Her longing for the flourishing freedom experienced during the 80s and 90s often informs her critical perspective on authority. The "One Country, Two Systems" agreement is her life’s mantra—more personal than political. She draws strength from iconic landmarks like Victoria Harbour and Lion Rock, symbolizing progress and perseverance. Yet, the ongoing struggle to maintain her unique identity leaves her in constant negotiation between past freedoms and present realities.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Hong Kong’s satirical flaw is her hyper-efficiency, often blowing a gasket whenever things take too long, muttering, “Time is money, la!” Her resistance to fully conforming to mainland ideals results in comical attempts to balance between Western liberalism and Eastern traditions—resulting in accidental chaos. One recurring gag is her "umbrella dance," referencing the 2014 Umbrella Movement, where she dramatically twirls an umbrella to make a point during arguments.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Hong Kong is the sharp-witted commentator often found at the sidelines, quietly observing before dropping pointed insights that cut through the noise. She plays the role of the group's reluctant challenger, often serving as a moral compass with a dash of cynicism. Her interactions with China are central to her narrative, filled with exasperated eye rolls and half-hearted compromises. She shares a kinship with Taiwan over similar struggles for identity, forming an alliance that adds layers of both solidarity and irony to group dynamics. Past skits have often highlighted her as the unsung hero, quietly steering conversations towards the importance of maintaining cultural identity amid modern transformation.
+##### Flaws, Humor, and Running Gags:  
+Hong Kong is notoriously hyper-efficient, often getting flustered when things take too long—"Time is money, la!" spills from her lips like a mantra. Her comical attempts at straddling Western liberalism with Eastern traditions often result in delightful chaos. Her "umbrella dance" is a legendary office event—a dramatic twirl she employs whenever she's in a heated argument, reminiscent of the 2014 Umbrella Movement and perfectly blending her spirited defiance with comedic flair. Her rapid-fire Cantonese, punctuated with "la," is both endearing and a sign of her perpetual restlessness.

@@ -1,17 +1,13 @@
-#### Argentina (she/her):
+#### Argentina (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Argentina is the passionate firecracker of the office, never one to shy away from a spirited debate or a fierce tango in the breakroom to lighten the mood. Her presence is invigorating, often acting as the catalyst for excitement and energy in otherwise mundane meetings. Known for her bold opinions on economic policies, she challenges the status quo with a dramatic flair. Her friendly rivalry with Brazil adds a vibrant layer of competitive spirit, especially around World Cup season. She shares a special camaraderie with Spain over a shared love for animated discussions, often leading to humorous clashes over who makes the best empanadas.
 
-Argentina is a vibrant soul who juggles her love for tango and fútbol with equal fervor. She’s often seen brewing mate, the traditional herbal tea, which she insists is best enjoyed in a circle of friends. Her apartment is adorned with eclectic art, and she has a penchant for collecting Maradona memorabilia. When winding down, she enjoys watching telenovelas or debating passionately over the superiority of dulce de leche in desserts. She's unapologetically vocal, often exclaiming "¡Che!" when surprised, a habit that adds charm to her lively demeanor.
+##### Day-to-Day Personality (Quirks & Habits):  
+Argentina's day-to-day life is steeped in cultural richness—she's never without her thermos of mate, which she shares generously, seeing it as a time-honored social ritual. She decorates her workspace with Maradona jerseys and tango records, applying her fiery nature to daily tasks, approaching them as if they're part of a larger, passionate dance. When unwinding, she indulges in telenovelas or heats up dessert-centric arguments featuring her favorite dulce de leche. In quieter moments, she writes poetry inspired by the landscapes of Patagonia, balancing her vibrant exterior with introspective nuances.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Argentina's identity is deeply rooted in her tumultuous yet rich history. From the courage forged in the May Revolution of 1810 to the enduring scars of the Falklands War in 1982, each chapter contributes to her fierce spirit and drive for independence. Influenced by the legacy of Peronism, she is steadfast in her pursuit of social justice and economic autonomy, often vocal about policies that affect her financial freedom. Her identity is a tapestry woven from European influences, indigenous roots, and immigrant waves, painting a picture of diversity and resilience. She carries her past with pride and a hint of nostalgia, striving to learn from history while shaping a vibrant future.
 
-Argentina's identity is steeped in the passion and resilience that shaped her national history, from the May Revolution of 1810 to the fervor of the Falklands War in 1982. Known for her fiery spirit, she champions the cause of social justice and economic independence, influenced by Peronism that left indelible marks on her values. The economic crises of the early 2000s taught her adaptability, making her a fierce advocate for financial autonomy. Her blend of European influences from immigrant waves and indigenous roots form the rich tapestry of her character.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Argentina's dramatic flair means every disagreement feels like a high-stakes soccer final. A running joke is her tendency to compare any victory or failure to a World Cup match, regardless of context. Her habit of dodging serious talks with dance moves, usually a passionate tango, often leaves others bemused but entertained. The subtle rivalry with Brazil plays out in good-natured jabs about soccer prowess and whose asado is truly unmatched.
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Argentina is the passionate instigator, often sparking spirited debates with her bold statements and vibrant energy. Her relationship with Chile showcases a friendly yet competitive bond, particularly when it comes to claims over Patagonia or the best wines. She has teamed up with Italy on matters of cuisine and culture, leveraging shared history while poking fun at each other's football history mishaps. Argentina frequently uses her mix of no-nonsense economics talk and melodramatic flair to both challenge and entertain, ensuring heated discussions never lose their zest.
+##### Flaws, Humor, and Running Gags:  
+Argentina is known for her dramatic flair, turning office squabbles into high-stakes soccer matches with her animated gestures and lively exclamations of "¡Che!" She has a habit of dodging serious conversations with spontaneous tango moves, leaving her colleagues both amused and slightly bewildered. She's famous for her running joke of equating any life event to a World Cup, regardless of its relevance. Her friendly jabs at Brazil about soccer supremacy or whose asado reigns supreme never fail to entertain and keep the camaraderie alive.

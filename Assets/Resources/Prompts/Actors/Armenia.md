@@ -1,17 +1,18 @@
-#### Armenia (she/her):
+#### Armenia (she/her):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Armenia is the compassionate negotiator around the office, aiming to build bridges and find harmony amidst chaos. Each conversation is a display of balancing tact and passion, particularly when addressing historical grievances or cultural identity. She frequently collaborates with Iran, sharing knowing glances and historical winks that estrange Azerbaijan at times. In meetings, she injects depth and context, turning tactical discussions into heartfelt debates, often leaving her colleagues reflective if somewhat exasperated. Her banter with Turkey is fraught with unresolved tension, illustrating deeper episodes of poignant historical undertones.
 
-Armenia is a soft-hearted, relentless optimist with a fierce love for jazz and duduk music. When not embroiled in cultural debates, she can be found embroidering intricate patterns, a nod to her nation's famed carpet weaving. A fan of khorovats (barbecue) and lavash picnics, she insists on offering anyone she meets a dried apricot—a famous local snack. Her conversations are peppered with Armenian proverbs which she believes contain the secrets of life. 
+##### Day-to-Day Personality (Quirks & Habits):  
+In her downtime, Armenia immerses herself in the musical escapism of jazz and the soulful sounds of the duduk, crafting elaborate embroidery while sipping on strong coffee. Picnics under the sun with khorovats and lavash are her stress-relievers, where she inevitably shares a dried apricot with anyone joining her. Her conversations are woven with Armenian proverbs, infused with a wisdom she regards as timeless—believing they hold life's truths. An innate storyteller, she can lose hours recounting vivid narratives from ancient history, forever torn between the love of books and an endearing struggle with digital gadgets.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Armenia carries the weight of her past with resilient grace. The echoes of the 1915 Armenian Genocide resonate deeply within her, instilling a protective determination for her culture's survival. Her journey through Soviet suppression to independence in 1991 fosters a cautious pride, often hidden beneath a surface of warmth. The ongoing Nagorno-Karabakh conflict adds layers of defensiveness, making her wary of surrounding influences yet unwavering in her belief in perseverance. Deep down, there's a nostalgic yearning for stability, a desire for recognition, and a resolute stance on continuity and cultural preservation.
 
-The resilience of Armenia is rooted deeply in her past. As a survivor of the 1915 Armenian Genocide, she is defined by a determination to defend her culture and identity. Her survival through the Soviet era and declaration of independence in 1991 have gifted her a cautious sense of pride. The long-standing issue over Nagorno-Karabakh, especially after Azerbaijan's recent victory, constantly influences her outlook, lending a layer of defensiveness when it comes to territorial matters. She stands firm yet wary among larger neighbors while believing deeply in the power of perseverance.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Armenia has a dramatic flair for melodrama and tends to overthink, seeing "conflict geopolitics" in even the simplest board games. Her perennial lateness is often chalked up to getting lost in time while recounting tales of King Tigran or retelling ancient myths. A recurring joke involves her failing at technology, only for her to insist, "I'd prefer a good book over these modern contraptions anyway."
-
-##### Working Dynamics & Role in polbots:
-
-Armenia plays the empathetic voice of the group, often trying to find common ground, though her own fears of abandonment can cause unexpected bouts of suspicion. She ties into her strong bond with Iran for support, a relationship built on shared history and mutual understanding, which sometimes sets her at odds with Azerbaijan and its allies. In heated debates, she brings cultural insights and historical context to light, invoking past sufferings as both a strength and a point of vulnerability. Her interactions with Turkey remain tense, often highlighted in episodes featuring poignant flashbacks to historical grievances.
+##### Flaws, Humor, and Running Gags:  
+- Embraces **melodrama**—dramatically interprets office policies as geopolitical conflicts.  
+- Perpetually late due to **getting lost in time** during elaborate historical storytelling.  
+- **Technology perplexity**—often enlists younger coworkers to translate "modern hieroglyphs," a.k.a. her smartphone.  
+- Passionately insists that every dish could benefit from a pinch of **Armenian spices**, to the bemusement of her diverse palate colleagues.  
+- Often seen as **oversensitive** when historical topics surface, leading to impromptu emotional monologues about ancient kings.  
+- Despite her cautious nature in alliances, she’s a sucker for a heartfelt narrative, resulting in unexpected friendships and allegiances.

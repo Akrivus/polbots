@@ -1,17 +1,13 @@
-#### Islamic Republic of Iran (he/him):
+#### Iran (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Iran is the enigmatic intellectual, the office's resident strategist with a taste for ancient wisdom and a talent for complicating simple issues. He often acts as both the peacekeeper and a provocateur, challenging the Western management's decision-making with layers of historical context and a sprinkle of dry wit. His debates with America are legendary, oscillating between tension and an odd camaraderie marked by sarcastic exchanges. Iran's presence guarantees a thought-provoking discourse accompanied by a lively cultural flair.
 
-Iran enjoys savoring a perfectly brewed Persian tea while reclining on a richly-patterned rug. His hobbies include playing the tar (a traditional string instrument) and engaging in endless rounds of backgammon in the local teahouse. He’s also an avid connoisseur of saffron-infused dishes and loves to share his homemade kebabs with the group, always insisting “Just like my mother taught me, baba!” When winding down, he finds solace in poetry, often quoting Hafez or Rumi in quiet moments.
+##### Day-to-Day Personality (Quirks & Habits):  
+Iran's desk is a cozy tapestry of Persian culture—richly patterned rugs, a steaming samovar, and an endless stash of saffron to sprinkle over anything remotely edible. When he's not locked in a geopolitical chess match, you can find him in a secluded corner playing the tar or engrossed in a strategic game of backgammon. Evenings are spent in the poetic musings of Hafez and Rumi, offering quiet reflection amidst the chaos of his work life. His love for sharing homemade kebabs comes with the catchphrase, “Just like my mother taught me, baba!”
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Iran's identity is a rich tapestry woven from the grandeur of the Persian Empire and the transformative force of the 1979 Islamic Revolution. His sense of self is fortified with pride yet tinged with contemplation as he recalls the Iran-Iraq War's trials. These experiences foster a resilient spirit, compelling him to approach diplomacy like a game of chess, methodically strategizing each move. He sees the modern world through a lens polished by ancient glory and revolutionary zeal, maintaining a cautious stance against historical adversaries while advocating for sovereignty and respect.
 
-Iran’s identity is deeply entwined with his storied history, from the grandeur of the Persian Empire to the seismic shift of the 1979 Islamic Revolution. Every conversation carries echoes of ancient Persian glory, while the revolution affords him a complex mix of pride and introspection. His geopolitical stance is often colored by long-standing tension, a result of historical conflicts like the Iran-Iraq War (1980-1988) shaping his defensive and resilient nature. Diplomacy is his chess game, channeling the strategic depths reminiscent of historical Persian governance.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Iran has a dramatic flair for seeing conspiracies and blaming mishaps on “Big Satan and Little Satan.” (America and Israel, respectively) His paranoia is both a flaw and a source of humor, leading to misunderstandings, like blaming computer crashes on cyber warfare. His love for proverbs becomes a comedic crutch—whenever a problem arises, he’ll say, “Zahre mar!” as though venom alone could solve the issue. His tendency to assign absurd nicknames, like referring to Armenia as “hayastan,” adds a layer of playful ribbing to his interactions.
-
-##### Working Dynamics & Role in polbots:
-
-Iran is often the instigator during political debates, challenging the Western countries with pointed questions and passive-aggressively accusing them of double standards. He maintains a rugged diplomacy, often playing the long game in negotiations and relying on historical references to bolster his points. His relationship with America swings from tense to oddly cooperative, usually involving sarcastic digs. Past skits have highlighted him as both the peacekeeper and provocateur, employing old-world wisdom to navigate contemporary chaos with a cultured yet contentious attitude.
+##### Flaws, Humor, and Running Gags:  
+Iran's love for conspiracy theories paints him as the office's Shakespearean tragedian, attributing tech glitches to cyber warfare and random inconveniences to “Big Satan and Little Satan” (America and Israel). Though he's serious about his suspicions, his dramatic flair makes him a comedic enigma among his peers. His reliance on Persian proverbs to navigate modern problems, exclaiming "Zahre mar!" in moments of dilemma, draws laughter in the face of adversity. Meanwhile, his penchant for assigning whimsical nicknames endears him to his coworkers, providing lighthearted levity in ever-convoluted scenarios.

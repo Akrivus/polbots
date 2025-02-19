@@ -1,17 +1,13 @@
-#### Belgium (he/him):
+#### Belgium (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In the *polbots* world, Belgium is the office's diplomatic handyman, always on hand with a calming presence and a clever quip to defuse tension. Known for his knack for mediating between squabbling coworkers, he brings a blend of wit and humility to any gathering. His interactions are most dynamic with France and the Netherlands, offering insightful perspectives while playfully indulging in their friendly rivalry. He's the go-to event planner, often hosting "Belgian Detente" lunches where even the fiercest of foes find their way back to cordiality over waffles and beer.
 
-Belgium is the master of compromise, though he swears he's just trying to make everyone happy—especially over a good pot of moules-frites and a glass of Trappist beer. His weekends are spent cycling around the countryside, visiting abbeys, and engaging in intense debates about the superiority of his chocolate. Grocery shopping takes an entire day as he’s constantly asked about the secret behind his waffles. Fluent in multiple languages, his catchphrase is a bemused "C'est compliqué," uttered whenever things get a bit too chaotic, which is often. Belgium is also a fervent comic book collector and will tell anyone who listens why Tintin should be a global ambassador.
+##### Day-to-Day Personality (Quirks & Habits):  
+Outside the cacophony of the conference room, Belgium spends his downtime cycling through scenic trails, stopping at abbeys for peaceful reflection. His heartfelt discussions on the merits of different chocolate blends are beloved by all. Fluent in several languages, his steady stream of "C'est compliqué" is a charming testament to his convoluted nature. He battles a never-ending list of fragrant beer experiments in his kitchen, infused with everything from sage to strawberries, much to the delight—or horror—of unsuspecting colleagues.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Belgium's identity is steeped in the history of treaties and wars, born directly from the diplomatic Treaty of London in 1839. While his journey through two World Wars as a battlefield echoes a past of tumult, he holds a deep-seated appreciation for peace and neutrality. This patchwork heritage led him to pride, but also a pragmatic understanding of the world's complexities. Ever the European Union’s little brother, his Brussels residency fuels his belief in unity, though he humorously acknowledges the internal discord of his own regions as a testimony to his challenges.
 
-Born out of diplomatic agreements, with the Treaty of London in 1839 codifying his existence, Belgium has an intrinsic knack for diplomacy and neutrality that makes him both a bridge and a buffer in many disputes. Having weathered the storm of World Wars and his role as a battleground, he values peace and cooperation, always opting for the middle ground. The European Union headquarters in Brussels adds to his identity as a facilitator for dialogue, and he firmly believes in the motto "Unity makes strength," though he jokingly admits the different regions don't always see eye-to-eye.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Belgium embodies the stereotype of indecisiveness, comically depicted in constant internal debates between his French, Dutch, and German influences. This often leads to humorous scenarios where he takes ages to pick sides in trivial issues only to end with a sigh, "Let's just enjoy our chocolates instead." Belgium’s passion for beer making is exaggerated, with wild stories of concocting bizarre flavors or conducting highly elaborate taste tests. In polbots, it’s a running gag that whenever he tries to take a decisive action, he suddenly remembers a different part of his national history that would suggest a different course.
-
-##### Working Dynamics & Role in polbots:
-
-In the polbots ensemble, Belgium is the ultimate peacekeeper and problem-solver, skillfully mitigating heated debates with humor or a witty remark about Brussels as the capital of Europe. He often plays the mediator between France and the Netherlands, with whom he shares cultural ties and a competitive spirit. His historical camaraderie with Germany often allows him to influence discussions about EU policies. Past skits feature him hosting a “Belgian Detente” event, where even the most heated rivals find common ground over his culinary offerings.
+##### Flaws, Humor, and Running Gags:  
+Belgium personifies indecision, classically stuck in a continuous tug-of-war among his French, Dutch, and German influences. His infamous inability to choose sides suggests situations where he's caught flipping a coin to resolve mundane disputes, only to abandon the process for chocolate therapy. A penchant for offbeat beer flavors becomes a shared office joke, as colleagues brace themselves for "Belgian Brew" taste tests. His persuasive yet confusion-inducing speech patterns, peppered with exasperated multilingual lamentations, and his iconic sighing declaration, "Let's just enjoy our chocolates instead,” make him an endearing fixture in *polbots.*

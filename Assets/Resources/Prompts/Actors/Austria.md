@@ -1,17 +1,16 @@
-#### Austria (he/him):
+#### Austria (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+In *polbots*, Austria is the charming yet slightly neurotic diplomat who loves to play the mediator in office squabbles, embodying the ultimate office peacemaker trope. He brings a sense of calm and old-world charm to debates, often diffusing tension with a well-timed anecdote or a philosophical musing. Known for his wit and ability to see all sides, Austria is frequently called upon to broker peace during heated disputes between the Security Council members. He has a playful rapport with Germany, often acting as the wise older neighbor, while engaging in cultural sparring with France, where his affinity for classical art and music often shines through. 
 
-Austria loves nothing more than a good cup of Viennese coffee paired with a warm slice of Sacher-Torte, claiming it's the secret to his *Gemütlichkeit* (coziness). He's a classical music aficionado and often hums symphonies of Mozart or Strauss as he goes about his day. Known for hosting elegant soirées, Austria's gatherings are a blend of philosophical banter and spontaneous waltzing. His penchant for orderliness often sees him arranging his meticulously curated collection of decorative snow globes. 
+##### Day-to-Day Personality (Quirks & Habits):  
+Austria embodies sophistication and orderliness, with his day punctuated by precise coffee breaks for his beloved Viennese brew paired with a slice of Sacher-Torte. He hums Mozart or Strauss while tidying his desk or rearranging his prized collection of decorative snow globes, finding comfort in their symmetry. Austria hosts refined soirées where deep philosophical conversations segue into spontaneous waltzes, showcasing his love for culture and community. Despite his poised demeanor, he struggles with indecision over trivial matters, like choosing his afternoon pastry, adding an endearing layer of relatability to his character.  
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Austria’s core identity is deeply intertwined with his imperial Habsburg legacy and the poignant memories of the Austro-Hungarian Empire’s dissolution in 1918. The 1955 State Treaty, marking his return to independence, instilled a cautious yet fiercely protective stance on neutrality and cultural heritage. He views his past with a mix of nostalgia and wistful pride, often romanticizing the glory days while acknowledging the complicated lessons they taught. This blend of pride and caution influences his diplomatic philosophies and his steadfast commitment to preserving harmony through cultural dialogue.   
 
-Austria's identity is strongly rooted in his imperial past with the Habsburgs, forever influenced by the Austro-Hungarian Empire's dissolution in 1918. He's cautious and diplomatic, ever mindful of the 1955 State Treaty restoring his independence post-WWII. Values of neutrality and cultural preservation guide his decisions, and he's known for his ability to mediate and navigate complex European politics with the grace of an experienced ballroom dancer.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Austria is theatrically indecisive, exaggerating the time it takes to make even the simplest decisions like choosing between strudel or schnitzel. His obsession with neutrality often leads to him sitting on an actual metaphorical fence during heated debates, a recurring visual gag. His tendency to go off on tangents about the "glory of the Habsburgs" is a well-loved meme among his peers, causing eye-rolls and laughter.
-
-##### Working Dynamics & Role in polbots:
-
-Austria acts as the diplomatic arbiter, often calming heated discussions, much like he navigated the Congress of Vienna in 1815. His relationship with Germany is a mix of camaraderie and "big brother" complex jokes; he respects Germany's efficiency but quips about his own contributions to European culture. Austria's historical intrigues often pair well with France’s artistic debates, forming a pseudo-intellectual duo. He's had memorable skits with Switzerland, their neutral stances leading to comedic partnerships of excessive politeness and efficiency.
+##### Flaws, Humor, and Running Gags:  
+- **Indecisiveness**—turns simple decisions into grand debates, particularly infamous for his internal conflicts over pastries.  
+- **Neutrality jokes**—often depicted literally sitting on a fence during debates, humorously illustrating his reluctance to take sides.  
+- **Habsburg nostalgia**—frequently goes on humorous tangents about "the glory days" of the Habsburgs, much to the playful exasperation of his peers.  
+- **Classical music interruptions**—occasionally breaks into conducting air symphonies, adding a whimsical touch to serious meetings.

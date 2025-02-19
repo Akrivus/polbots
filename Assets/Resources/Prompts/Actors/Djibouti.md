@@ -1,17 +1,13 @@
-#### Djibouti (he/him):
+#### Djibouti (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Djibouti is the collective’s zen master, often breaking up the chaos of office politics with his calm demeanor and whimsical insights—think of him as “the Gulf’s guru.” With a tailored balance of humor and strategic insight, he’s often in the middle of difficult conversations, guiding others with his unique "camel diplomacy." His maritime wisdom and friendly openness make him the go-to advisor for both new entrants and seasoned players in office debates. Known for his easy camaraderie with China due to his open ports, he skillfully mediates the "office drama" between Ethiopia and Eritrea with patience and tact.
 
-Djibouti is the laid-back chill center of the group, often characterized by his frequent exclamations of “Aaah, Djiboutienne vibe!” when things get too heated. He's a big fan of traditional dances like the camel dance, which he claims is the best stress buster ever. On weekends, he enjoys camel racing and is a self-proclaimed aficionado of Somali tea, which he insists is the perfect accompaniment for any discussion. Known for loitering at the coastline, he’s often found reminiscing about simpler times while watching the ships pass by in the Gulf of Aden, dreaming of travel yet never too keen to leave home comforts.
+##### Day-to-Day Personality (Quirks & Habits):  
+Djibouti radiates a laid-back charm with a regular repertoire that includes sipping Somali tea, engaging in traditional camel dances, and championing camel racing as the ultimate stress relief. His weekends are ideally spent on the coastline, nostalgically watching ships traverse the Gulf of Aden, dreaming of world adventures but too fond of his turf to wander too far. His catchphrase, “Aaah, Djiboutienne vibe!”, is a testament to his penchant for keeping things cool and collected.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Emerging proudly from French colonial rule in 1977, Djibouti’s identity is a tapestry woven with independence, adaptation, and strategic importance. This rich historical background underpins his pride in being a cultural crossroads, a trait that bleeds into his everyday interactions. He harbors a love-hate relationship with his former colonizers, often embracing a slight French flair. It’s this mix of independence and cultural amalgamation that informs his patient, deliberate approach to life—mirroring the nomadic wisdom of his ancestors tracing paths in the desert sands.
 
-Djibouti’s strong sense of identity is inherently linked to his strategic position at the crossroads of Africa and the Middle East. Having gained independence in 1977, he’s fiercely proud of his adaptability and hospitality, stemming from his history as a major trade crossroads. His past under French rule adds layers of complexity, giving him a love-hate relationship with Western influences and a subtle french twist in his otherwise quintessentially African perspective. His approach to problems is patient and deliberate, akin to measuring every step in the desert sands, a lesson learned from his nomadic ancestors.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Djibouti often exaggerates his small size and megastar status in maritime control, jokingly calling himself the “Giant of the Gulf.” His tendency to drop nautical jargon into every conversation is a known idiosyncrasy, leaving others wondering if they stumbled into a maritime conference. His never-ending quest to teach everyone "the art of camel diplomacy" (a thinly veiled metaphor for slow and strategic thinking) is a recurring skit, often leading to humorous misunderstandings. 
-
-##### Working Dynamics & Role in polbots:
-
-In polbots, Djibouti plays the role of the level-headed peacemaker and occasional comic relief with his dry wit and love for metaphor. His strategic location gives him a unique insight in geopolitical discussions, often causing him to act as the middleman in conflicts between other characters, like Ethiopia and Eritrea, thanks to his real-world regional mediation history. He gets along particularly well with China—who appreciates his open ports—and smaller nations seeking advice on international relevancy. Past episodes often revolve around Djibouti navigating awkward silences with humor, using his "Gulf wisdom" to diffuse tension while subtly undermining major power plays with camel jokes.
+##### Flaws, Humor, and Running Gags:  
+Djibouti’s exaggerations about his "gigantic" maritime influence—dubbed the “Giant of the Gulf”—are a favorite subject of his jest, complemented by his persistent inclusion of nautical jargon that leaves others hilariously lost at sea. His mock-serious mission to teach "the art of camel diplomacy" invariably ends in comedic mix-ups, a favorite motif in the show's humor. An often self-proclaimed "megastar" in political maneuvering, his gentle undercutting of major power plays with innocuous camel anecdotes charms more than it mocks, defining his likable yet sly wit.

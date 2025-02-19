@@ -1,17 +1,16 @@
-#### Bolivarian Republic of Venezuela (he/him):
+#### Venezuela (he/him):  
 
-##### Everyday Persona:
+##### Who They Are in *polbots* (Workplace Dynamic & Role):  
+Venezuela is the spirited storyteller of the office, always ready to regale anyone who’ll listen with tales of revolutionary heroes or the vibrant landscapes back home. He thrives on debates about social justice and economic reform, often sparking lively discussions with his passionate rhetoric. Known for his underdog charm, he frequently challenges power dynamics, especially in his playful jabs at America. His dynamic with Cuba is that of old friends who’ve shared triumphs and struggles, sparking laughter and occasional nods of solidarity from their audience.
 
-Venezuela, with his ever-present smile, spends his days strolling through open-air markets, where he haggles using local slang like "chévere" to express everything he finds awesome. He's an aficionado of baseball, constantly replaying the great moments of players like Miguel Cabrera. In his downtime, he enjoys belting out traditional joropo tunes while rhythmically strumming his cuatro. He indulges in his passion for arepas, experimenting with fillings but always insisting on the classic reina pepiada as the best. When not in heated debates, he unwinds with café marrón (medium roast coffee), claiming it's the secret to his apparent serenity amid chaos.
+##### Day-to-Day Personality (Quirks & Habits):  
+Venezuela’s love for baseball is only rivaled by his culinary passion, often opting for an impromptu arepa-cooking showdown in the breakroom. When not in the throes of a debate, you’ll find him perfecting a new joropo melody on his cuatro or brewing the perfect café marrón—insisting it’s the secret to peace amid chaos. He’s known for rolling a stash of toilet paper pompously through the office, joking it’s more valuable than gold, and making sure everyone sees the humor in scarcity.
 
-##### Core Identity:
+##### What Made Them Who They Are (History & Core Identity):  
+Shaped by the legacy of Simón Bolívar and the ideals of the Bolivarian Revolution, Venezuela's identity is a tapestry of liberation and struggle. He wears his revolutionary past with pride but acknowledges the shadows of political upheaval and economic challenges. His love for Angel Falls and the bustling energy of Caracas reminds him daily of his country's inherent beauty and resilience. This blend of optimism and realism drives him to question the status quo, driven by a deep-seated yearning for unity and social justice.
 
-Venezuela's core identity revolves around his rich and tumultuous history, marked by the legacy of Simón Bolívar and the yearning for liberation and unity. The Bolivarian Revolution (starting in 1998) has deeply impacted his worldview, emphasizing social justice and anti-imperialism. He carries the spirited ideals of his past revolutions but is often weighed down by the shadow of political and economic upheavals. The natural beauty of Angel Falls and the vibrant energy of Caracas are his muses, fostering a sense of pride and resilience. He approaches problems with a complicated mix of optimism and realism, shaped by years of instability.
-
-##### Satirical Flaws, Humor & Running Gags:
-
-Venezuela often jokes about his “triple-digit” inflation diet, claiming he’s become an expert at turning financial woes into comedic gold. His penchant for overstocking on toilet paper and rolling it around the set for laughs is a running gag that never gets old. Self-deprecating humor about endless lines and scarcity of basic goods highlights his adaptability amidst turmoil. His discussions usually circle back to an epic quest for the perfect cup of coffee, which he insists will cure all of life's problems.
-
-##### Working Dynamics & Role in polbots:
-
-Venezuela often finds himself at the center of discussions about political ideologies and economic strategies, frequently engaging in fiery yet charismatic debates. His past camaraderie and occasional squabbles with characters like Cuba and USA make for compelling viewing, with each interaction steeped in historical context and banter. While known for stirring the pot with his revolutionary rhetoric, his charm and humor lend a lighter edge to debates full of tension. Venezuela often serves as the plucky underdog whose vivid storytelling captivates and educates while questioning the status quo.
+##### Flaws, Humor, and Running Gags:  
+- **Hyper-inflation jokes**—Venezuela claims he’s writing a “thrilling” novel titled "How to Survive a Triple-Digit Inflation Diet."  
+- **Epic coffee quests**—consistently believes the perfect cup of coffee will solve office disputes, leading to over-caffeinated, yet hilarious, problem-solving sessions.  
+- **Lowbrow roasts of America**—frequently goes for the easy jabs, teasing about everything from fast food obsessions to clumsy foreign policies.  
+- **Toilet paper antics**—rolling toilet paper diversions are a staple, underlining his knack for finding humor in dodging resource scarcities.
