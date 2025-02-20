@@ -13,8 +13,7 @@ using UnityEngine.SceneManagement;
 
 public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 {
-    public static SoccerGameSource Instance => _instance ?? (_instance = FindAnyObjectByType<SoccerGameSource>());
-    private static SoccerGameSource _instance;
+    public static SoccerGameSource Instance;
 
     private const string GameScene = "3rdParty/FootballSimulator/_StartingScene";
 
@@ -75,15 +74,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         lines = config.Lines;
 
         ChatManager.Instance.AfterIntermission += ToggleGame;
-        ChatManager.Instance.OnChatQueueEmpty += CauseTheSilence;
         RedditSource.Instance.OnBatchEnd += BreakTheSilence;
-    }
-
-    public void CauseTheSilence()
-    {
-        if (!isMatchLoaded || !TooLateForNewChats)
-            return;
-        StartCoroutine(CloseGame());
     }
 
     public void BreakTheSilence()
@@ -96,7 +87,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private void Awake()
     {
-        _instance = this;
+        Instance = this;
         ConfigManager.Instance.RegisterConfig(typeof(SoccerConfigs), "soccer", config => Configure((SoccerConfigs) config));
         RegisterEmissionEvents();
     }
@@ -141,13 +132,10 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         RenameTeam(awayTeam, awayActor);
 
         if (!isSceneLoaded)
-            LoadGameScene();
-    }
-
-    private void LoadGameScene()
-    {
-        SceneManager.sceneLoaded += OnSceneLoaded;
-        SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
+        {
+            SceneManager.sceneLoaded += OnSceneLoaded;
+            SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
+        }
     }
 
     private async void OnSceneLoaded(Scene scene, LoadSceneMode mode)
@@ -168,9 +156,10 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         await MatchEngineLoader.CreateMatch(match);
         await MatchEngineLoader.Current.StartMatchEngine(new UpcomingMatchEvent(match), false, true);
 
-        Emit($"# {Names} challenge each other to a game of soccer!");
         shareScreenUiManager.ShareScreenOn();
         isMatchLoaded = true;
+
+        Emit($"# {Names} challenge each other to a game of soccer!");
     }
 
     private IEnumerator CloseGame()
@@ -187,18 +176,13 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         await MatchEngineLoader.Current.UnloadMatch();
         isMatchLoaded = false;
 
-        shareScreenUiManager.ShareScreenOff();
-
         if (isSceneLoaded)
-            UnloadGameScene();
-    }
+        {
+            SceneManager.sceneUnloaded += OnSceneUnloaded;
 
-    private void UnloadGameScene()
-    {
-        SceneManager.sceneUnloaded += OnSceneUnloaded;
-
-        foreach (var scene in addedScenes)
-            SceneManager.UnloadSceneAsync(scene);
+            foreach (var scene in addedScenes)
+                await SceneManager.UnloadSceneAsync(scene);
+        }
     }
 
     private void OnSceneUnloaded(Scene scene)
@@ -206,11 +190,14 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         if (!GameScene.Contains(scene.name))
             return;
         addedScenes.Remove(scene.name);
-        ChatManager.Instance.ForceRemoveAllActors();
-        OnMatchEnd?.Invoke();
 
         SceneManager.sceneUnloaded -= OnSceneUnloaded;
         isSceneLoaded = false;
+
+        ChatManager.Instance.ForceRemoveAllActors();
+        shareScreenUiManager.ShareScreenOff();
+
+        OnMatchEnd?.Invoke();
     }
 
     private void RegisterEmissionEvents()
