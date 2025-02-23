@@ -31,7 +31,10 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
     private ShareScreenUIManager shareScreenUiManager;
 
     [SerializeField]
-    private TextAsset prompt;
+    private TextAsset prompt1;
+
+    [SerializeField]
+    private TextAsset prompt2;
 
     [SerializeField]
     private TeamEntry[] teams;
@@ -50,39 +53,48 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
     private TeamEntry homeTeam;
     private TeamEntry awayTeam;
     private float volume;
-    private bool isMatchLoaded;
-    private bool isSceneLoaded;
 
-    private float gameStartTime;
+    private bool isSceneLoaded;
+    private bool isGameLoaded;
+
+    private float lastGameTime;
     private string gameEventLog;
 
-    private int matchTimeLimit;
-    private int matchRestLimit;
-    private int matchPushLimit;
-
-    private int pushes;
-
-    private bool TooLateForNewChats => MatchManager.Current.minutes > matchTimeLimit || pushes > matchPushLimit;
+    private SoccerConfigs config;
 
     public void Configure(SoccerConfigs config)
     {
-        MatchManager.MatchTimeLimit = config.MatchTimeLimitExtraTime;
-        matchPushLimit = config.MatchGoalLimit;
-        matchRestLimit = config.MatchRestLimit;
-        matchTimeLimit = config.MatchTimeLimit;
-
+        maxVolume = config.MaxVolume;
         lines = config.Lines;
+        this.config = config;
 
+        MatchManager.MatchTimeLimit = config.MatchTimeLimit;
+
+        ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
         ChatManager.Instance.AfterIntermission += ToggleGame;
-        RedditSource.Instance.OnBatchEnd += BreakTheSilence;
+
+        if (config.GameOnBatchEnd)
+            RedditSource.Instance.OnBatchEnd += BreakTheSilence;
+
+        SceneManager.sceneLoaded += OnSceneLoaded;
+        SceneManager.sceneUnloaded += OnSceneUnloaded;
+
+        if (config.GameOnStart)
+            BreakTheSilence();
     }
 
     public void BreakTheSilence()
     {
-        var time = Time.time - gameStartTime;
-        if (isMatchLoaded || matchRestLimit > time)
-            return;
-        generator.AddIdeaToQueue(prompt.ToIdea());
+        if (isGameLoaded)
+            if (!string.IsNullOrEmpty(gameEventLog))
+                Push();
+        else
+        {
+            var time = Time.time - lastGameTime;
+            if (time < config.TimeBetweenGames)
+                return;
+            generator.AddIdeaToQueue(prompt1.ToIdea());
+        }
     }
 
     private void Awake()
@@ -92,74 +104,82 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         RegisterEmissionEvents();
     }
 
+    private void OnDestroy()
+    {
+        StopAllCoroutines();
+    }
+
     private void Update()
     {
         volume = Mathf.Lerp(volume, 0, Time.deltaTime / fadeOutDuration);
-        teamAudio.volume = isMatchLoaded ? Mathf.Clamp01(volume) * maxVolume : 0;
+        teamAudio.volume = isGameLoaded ? Mathf.Clamp01(volume) * maxVolume : 0;
     }
 
     private void ToggleGame(Chat chat)
     {
-        if (isMatchLoaded || !chat.NewEpisode)
-            return;
+        if (isGameLoaded) return;
 
         var homeName = chat.Topic.Find("Home");
         var awayName = chat.Topic.Find("Away");
 
-        homeActor = Actor.All[homeName];
-        awayActor = Actor.All[awayName];
+        if (config.RequireTextPatternMatch && (homeName == null || awayName == null))
+            return;
 
-        if (homeActor == null || awayActor == null)
-            StartCoroutine(CloseGame());
-        else
-            LoadGame();
+        homeActor = Actor.All[homeName] ?? chat.Actors[0].Reference;
+        awayActor = Actor.All[awayName] ?? chat.Actors[1].Reference;
+
+        if (homeActor != null && awayActor != null)
+            StartCoroutine(LoadGame());
     }
 
-    private void LoadGame()
+    private IEnumerator LoadGame()
     {
-        if (isMatchLoaded)
-            return;
-        MatchManager.MatchShouldContinue = true;
-
-        gameStartTime = Time.time;
-        gameEventLog = string.Empty;
+        if (isGameLoaded)
+            yield break;
 
         homeTeam = teams.Random();
         awayTeam = teams.Except(new[] { homeTeam }).Random();
-        pushes = 0;
 
         RenameTeam(homeTeam, homeActor);
         RenameTeam(awayTeam, awayActor);
 
+        lastGameTime = Time.time;
+        gameEventLog = string.Empty;
+
+        ChatManager.Instance.RemoveActorsOnCompletion = false;
+
+        if (addedScenes.Count > 0)
+            yield return UnloadGameScenes();
         if (!isSceneLoaded)
-        {
-            SceneManager.sceneLoaded += OnSceneLoaded;
-            SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
-        }
+            yield return SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
+        MatchManager.MatchShouldContinue = true;
+
+        if (isSceneLoaded)
+            yield return StartGame();
     }
 
-    private async void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         addedScenes.Add(scene.name);
         if (!GameScene.Contains(scene.name))
             return;
-        await StartGame();
-        OnMatchStart?.Invoke();
-
-        SceneManager.sceneLoaded -= OnSceneLoaded;
         isSceneLoaded = true;
+
+        if (!isGameLoaded)
+            StartCoroutine(StartGame());
     }
 
-    private async Task StartGame()
+    private IEnumerator StartGame()
     {
         var match = new MatchCreateRequest(homeTeam, awayTeam);
-        await MatchEngineLoader.CreateMatch(match);
-        await MatchEngineLoader.Current.StartMatchEngine(new UpcomingMatchEvent(match), false, true);
-
-        shareScreenUiManager.ShareScreenOn();
-        isMatchLoaded = true;
+        yield return MatchEngineLoader.CreateMatch(match).AsCoroutine();
+        yield return MatchEngineLoader.Current.StartMatchEngine(new UpcomingMatchEvent(match), false, true).AsCoroutine();
 
         Emit($"# {Names} challenge each other to a game of soccer!");
+
+        shareScreenUiManager.ShareScreenOn();
+        isGameLoaded = true;
+        OnMatchStart?.Invoke();
     }
 
     private IEnumerator CloseGame()
@@ -171,32 +191,28 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private async Task UnloadGame()
     {
-        if (!isMatchLoaded)
+        if (!isGameLoaded)
             return;
         await MatchEngineLoader.Current.UnloadMatch();
-        isMatchLoaded = false;
 
-        if (isSceneLoaded)
-        {
-            SceneManager.sceneUnloaded += OnSceneUnloaded;
+        if (config.ClearSceneOnGameEnd)
+            await UnloadGameScenes();
+        isGameLoaded = false;
+    }
 
-            foreach (var scene in addedScenes)
-                await SceneManager.UnloadSceneAsync(scene);
-        }
+    private async Task UnloadGameScenes()
+    {
+        for (int i = 0; i < addedScenes.Count; i++)
+            await SceneManager.UnloadSceneAsync(addedScenes[i]);
     }
 
     private void OnSceneUnloaded(Scene scene)
     {
+        addedScenes.Remove(scene.name);
         if (!GameScene.Contains(scene.name))
             return;
-        addedScenes.Remove(scene.name);
-
-        SceneManager.sceneUnloaded -= OnSceneUnloaded;
         isSceneLoaded = false;
-
-        ChatManager.Instance.ForceRemoveAllActors();
         shareScreenUiManager.ShareScreenOff();
-
         OnMatchEnd?.Invoke();
     }
 
@@ -236,6 +252,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
     {
         Emit($"# :soccer: GOAL! {Score} ({e.Scorer.Name}, {Minutes})");
         volume += 1.0f;
+        volume *= Mathf.Clamp01(volume) * maxVolume;
     }
 
     private void Emit(IBaseEvent e, string name = null, bool push = false) {
@@ -260,10 +277,8 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private void Push()
     {
-        if (TooLateForNewChats)
-            return;
-        generator.AddIdeaToQueue(new Idea(gameEventLog));
-        pushes++;
+        var idea = new Idea(gameEventLog);
+        generator.AddIdeaToQueue(idea.RePrompt(prompt2));
         gameEventLog = string.Empty;
     }
 
@@ -285,9 +300,12 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         team.HomeKit.GKColor2 = actor.Color3;
     }
 
-    private string GetName(AbstractPlayerEvent e) => e.Player.MatchPlayer.Player.Name;
+    private string GetName(AbstractPlayerEvent e)
+    {
+        return $"{e.Player.MatchPlayer.Player.Name} ({e.Player.GameTeam.Team.Team.TeamName})";
+    }
 
     public string Names => $"**{homeActor.Name}** {homeActor.Costume} and **{awayActor.Name}** {awayActor.Costume}";
-    public string Score => $"{homeActor.Costume} **{MatchManager.Current.homeTeamScore} - {MatchManager.Current.awayTeamScore}** {awayActor.Costume}";
+    public string Score => $"**{homeActor.Name}** {homeActor.Costume} **{MatchManager.Current.homeTeamScore} - {MatchManager.Current.awayTeamScore}** {awayActor.Costume} **{awayActor.Name}**";
     public string Minutes => $"**{Mathf.CeilToInt(MatchManager.Current.minutes)}’**";
 }

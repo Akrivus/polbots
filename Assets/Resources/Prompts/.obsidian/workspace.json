@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Scenario Generation.md",
+                "file": "Soccer 4. Highlight Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Scenario Generation"
+              "title": "Soccer 4. Highlight Prompt"
             }
           }
         ],
@@ -180,13 +180,17 @@
   },
   "active": "24be86de83479701",
   "lastOpenFiles": [
+    "Soccer 3. Meta-Prompt.md",
+    "Soccer 4. Highlight Prompt.md.meta",
+    "Soccer 4. Highlight Prompt.md",
+    "Soccer 2. Dialogue Generation.md",
+    "1. Scenario Generation.md",
     "4. Dialogue Generation.md",
     "3. Editor Process.md",
     "6. Episode-to-Episode Continuity.md",
     "5. Memory Generation.md",
     "Noise Tagger.md",
     "2. Behavior Generation.md",
-    "1. Scenario Generation.md",
     "Tools/Skin Tones.md",
     "Tools/Actor Refinition.md",
     "Tools/Actor Prompts.md",
@@ -204,17 +208,12 @@
     "Archive/UN Office Hours Prompt.md",
     "Prop Tagger.md",
     "Soccer 1. Scenario Generation.md",
-    "Soccer 2. Dialogue Generation.md",
-    "Soccer 3. Meta-Prompt.md",
     "Sentiment Tagger.md",
     "Actors/Imperial Japan.md",
-    "Actors/Japan.md",
-    "Actors/Jordan.md",
     "Tools/Actor Refinition.md.meta",
     "Backgrounds/Yugoslavia.md.meta",
     "Backgrounds/Apartheid.md.meta",
     "Actors/Yugoslavia.md.meta",
-    "Actors/Apartheid.md.meta",
-    "Actors/Afghanistan.md.meta"
+    "Actors/Apartheid.md.meta"
   ]
 }

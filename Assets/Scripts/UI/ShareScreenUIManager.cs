@@ -14,7 +14,7 @@ public class ShareScreenUIManager : MonoBehaviour
     private int maxVideoScreens = 12;
 
     [SerializeField]
-    private int minVideoScreens = 3;
+    private int minVideoScreens = 4;
 
     private void Start()
     {
@@ -25,10 +25,10 @@ public class ShareScreenUIManager : MonoBehaviour
     {
         ChatManager.Instance.RemoveActorsOnCompletion = false;
         SetShareScreen(
-            GridLayoutGroup.Corner.UpperRight,
-            GridLayoutGroup.Axis.Vertical,
-            TextAnchor.MiddleRight,
-            minVideoScreens);
+            GridLayoutGroup.Corner.UpperLeft,
+            GridLayoutGroup.Axis.Horizontal,
+            TextAnchor.LowerCenter,
+            minVideoScreens, true);
     }
 
     public void ShareScreenOff()
@@ -38,10 +38,10 @@ public class ShareScreenUIManager : MonoBehaviour
             GridLayoutGroup.Corner.UpperLeft,
             GridLayoutGroup.Axis.Horizontal,
             TextAnchor.MiddleCenter,
-            maxVideoScreens);
+            maxVideoScreens, false);
     }
 
-    private void SetShareScreen(GridLayoutGroup.Corner corner, GridLayoutGroup.Axis axis, TextAnchor alignment, int childCount)
+    private void SetShareScreen(GridLayoutGroup.Corner corner, GridLayoutGroup.Axis axis, TextAnchor alignment, int childCount, bool active)
     {
         _gridLayoutGroup.startCorner = corner;
         _gridLayoutGroup.startAxis = axis;
@@ -53,11 +53,11 @@ public class ShareScreenUIManager : MonoBehaviour
         {
             case GridLayoutGroup.Axis.Horizontal:
                 _gridLayoutGroup.SetLayoutHorizontal();
-                _shareScreenPrefab.SetActive(false);
+                _shareScreenPrefab.SetActive(active);
                 break;
             case GridLayoutGroup.Axis.Vertical:
                 _gridLayoutGroup.SetLayoutVertical();
-                _shareScreenPrefab.SetActive(true);
+                _shareScreenPrefab.SetActive(active);
                 break;
         }
     }
