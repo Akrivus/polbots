@@ -147,14 +147,13 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         gameEventLog = string.Empty;
 
         ChatManager.Instance.RemoveActorsOnCompletion = false;
+        MatchManager.MatchShouldContinue = true;
 
         if (addedScenes.Count > 0)
             yield return UnloadGameScenes();
         if (!isSceneLoaded)
             yield return SceneManager.LoadSceneAsync(GameScene, LoadSceneMode.Additive);
-        MatchManager.MatchShouldContinue = true;
-
-        if (isSceneLoaded)
+        else
             yield return StartGame();
     }
 
@@ -194,7 +193,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         if (!isGameLoaded)
             return;
         await MatchEngineLoader.Current.UnloadMatch();
-
+        
         if (config.ClearSceneOnGameEnd)
             await UnloadGameScenes();
         isGameLoaded = false;
@@ -202,8 +201,10 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private async Task UnloadGameScenes()
     {
-        for (int i = 0; i < addedScenes.Count; i++)
-            await SceneManager.UnloadSceneAsync(addedScenes[i]);
+        var queue = new Queue<string>(addedScenes);
+        while (queue.TryDequeue(out var scene))
+            await SceneManager.UnloadSceneAsync(scene);
+        await Resources.UnloadUnusedAssets();
     }
 
     private void OnSceneUnloaded(Scene scene)
@@ -212,6 +213,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         if (!GameScene.Contains(scene.name))
             return;
         isSceneLoaded = false;
+
         shareScreenUiManager.ShareScreenOff();
         OnMatchEnd?.Invoke();
     }

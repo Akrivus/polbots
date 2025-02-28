@@ -27,7 +27,6 @@ public class DiscordManager : MonoBehaviour, IConfigurable<DiscordConfigs>
             narrator.OnNarration += SendNarration;
 
         ChatManager.Instance.OnChatNodeActivated += SendDialogue;
-        ChatManager.Instance.AfterIntermission += SendChatUpdates;
         SoccerGameSource.Instance.OnEmit += SendSportsUpdates;
 
         StartCoroutine(UpdateWebhooks());
@@ -48,17 +47,6 @@ public class DiscordManager : MonoBehaviour, IConfigurable<DiscordConfigs>
             var web = Webhooks[m.Key];
             yield return web.SendAsync(m.Value);
         }
-    }
-
-    private void SendChatUpdates(Chat chat)
-    {
-        PutInQueue("#stream", new DiscordWebhookMessage(
-            new DiscordEmbed
-            {
-                Title = $"Episode: {chat.Title} {(chat.NewEpisode ? "[NEW]" : "")}",
-                Description = chat.Synopsis,
-                Color = ToHex(chat.Actors.First().Reference.Color)
-            }));
     }
 
     private void SendNarration(string text)
