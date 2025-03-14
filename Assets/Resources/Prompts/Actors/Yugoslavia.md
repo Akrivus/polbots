@@ -1,17 +1,21 @@
 #### Yugoslavia (she/her):  
+**Tags:** #balkans #nostalgia #multicultural #postwar #ghostofconflict  
+**Links:** [[Serbia]] [[Croatia]] [[Bosnia and Herzegovina]] [[Slovenia]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Yugoslavia is the wistful presence in the breakroom, known as the "Balkan Nostalgia Officer." She embodies the warmth of a disbanded family, often seeking to mollify conflicts with the soothing wisdom of an exasperated parent. Despite her irrelevance in modern disputes, her influence lingers in any Balkan-related discussion. Serbia treats her like an old mentor, while Croatia glances sideways with a mix of nostalgia and annoyance. Bosnia, visibly tense, tries to avoid meetings where she’s mentioned. Her name inevitably emerges in management conversations over Balkan strategies, as a legendary yet distressful reminder of lost unity.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Yugoslavia is the specter of shared history, **floating through conversations with a wistful aura** and an air of unresolved nostalgia. She’s the wistful host of a once-famous talk show, now endlessly reminiscing about better days. When Balkan disputes flare up, she tries to step in like a well-meaning, albeit exasperated, family therapist—**constantly musing, “Back in my day…”** Her presence brings a nostalgic glow yet reminds everyone of uncomfortable truths. Her charm lies in her resilience; her tragedy in her lost potential. She's like a once-glorious empire now told in fractured bedtime stories.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Yugoslavia can be found, spectral and serene, organizing old memorabilia and peace treaties no one cares about anymore. She has a peculiar love for dusty, historical archives and leisurely gazing through faded photos of the Tito era. Her hobbies include rearranging ancestral chaos into hopeful harmony and reminiscing about socialist victories with anyone willing to listen. When not in spectral form, she indulges in building intricate models of peaceful utopias, always accompanied by warm Balkan music that might just make the room a little too sentimental.  
+##### Daily Life & Personality:  
+Yugoslavia spends her days meticulously organizing remnants of her past—old socialist medals, faded photographs, and pieces of torn maps—trying to stitch together a picture that never fully comes into focus. She immerses herself in sentimental music that plays like a somber background score to her monologues. Yugoslavia often fades into the background, but her sudden interjections in Balkan debates bring a weight of history everyone prefers to skim over. She clings to the hope of unity in a way that is both heartwarming and heartbreaking.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Born out of post-war optimism in 1918, Yugoslavia was the dream of South Slavic solidarity. As years went by, her identity was shaped and contorted between shifts in monarchy, socialism, and conflicting ideologies. The Tito Years (1945–1980) bestowed upon her a fleeting but categorical confidence, a period where she skillfully juggled Cold War neutrality as a master tactician. These memories are cherished like gilded pages of a beloved, albeit heavy, diary. The violent 1990s fragmented her very essence, a stark trauma that fuels both her melancholy and persistent desire for unity. Yet, she remains somewhat tender, painfully aware that her failure is as much a tale of waning control as it is of relentless optimism.  
+##### What Made Them Who They Are (History as Personal Baggage):  
+Her life began as a daring post-war experiment—a dream of unity amongst diversity in 1918. **Navigating decades through monarchy, socialism, and Cold War neutrality,** the Tito years were her golden age—a time she recounts with both pride and the heaviness of knowing they were fleeting. **The 1990s were her personal apocalypse**, her hopes violently dissected as she watched her family splinter in devastating conflict. She wears these memories as scars, forever etched into her identity, **fueling both a melancholic wisdom and a compulsive desire for reconciliation.**  
 
 ##### Flaws, Humor, and Running Gags:  
-- **The Overbearing Mother-in-Law Syndrome** – Often interrupts heated Balkan squabbles with a poised sigh and a motherly "Let's just get along, shall we?" which is usually met with collective groans.  
-- **Nostalgia-fueled Monologues** – Any mention of the golden Tito years results in a long-winded, glowing recollection that many try to avoid, but secretly, some miss them.  
-- **Invisible Parent Syndrome** – stealthily interjects in Balkan conversations, her presence acknowledged only by Serbia. Her favorite catchphrase? "Back in my day, we had hearty breakfasts…and no infighting."  
-- **Exaggerated Past Grandeur** – Poland humorously suggests that she should start a travel agency promoting tours of "the Yugoslavia that never was."  
-- **Lugubrious Ghost Energy** – Sometimes materializes at the most poignant of moments, offering unsolicited advice with a dash of wisdom from beyond. Her phantom-like appearances usually end with someone muttering: “Oh look, it's the Yugoslav era revisited.”
+- **The Eternal Peacemaker** – She attempts to calm Balkan disputes using what she calls her "Motherly Wisdom," to little avail—usually provoking groans and eye rolls.
+- **Nostalgia Overload** – Any mention of the Tito years triggers her lengthy, rose-tinted reminiscences. Some humor her, others avoid eye contact to escape another history lesson.  
+- **Disappearing Act** – She often gives advice or commentary only for everyone to realize she’s not really in the room… or is she?  
+- **Overdrawn Idealist** – Suggests forming improbable coalitions or unachievable utopias with a grave sincerity that borders on comedic.  
+- **Feels Corporeally Incomplete** – Sometimes wistfully mentions, “I like to think of myself as the heart of the Balkans… pity the rest of me is scattered.”  
+
+Yugoslavia is a living testament to dreams dashed against the rocky shores of reality, humorous in her overbearing nostalgia, yet enduringly poignant.

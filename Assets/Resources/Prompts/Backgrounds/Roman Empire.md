@@ -1,4 +1,4 @@
-Create a cartoon-style digital wallpaper background for the character Roman Empire, known as "Rome," from the show Polbots. Imagine you're viewing his living room via webcam, capturing his unique blend of ancient grandeur and humorous modern-day quirks. 
+Create a cartoon-style digital wallpaper background for the character Roman Empire, known as "Rome," from the show polbots. Imagine you're viewing his living room via webcam, capturing his unique blend of ancient grandeur and humorous modern-day quirks. 
 
 The setting is an elegantly cluttered Roman-themed living room, filled with objects that reflect Rome's whimsical nature:
 

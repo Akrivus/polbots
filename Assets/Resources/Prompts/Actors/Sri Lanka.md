@@ -1,13 +1,21 @@
 #### Sri Lanka (he/him):  
+**Tags:** #southasia #island #culturalmeltingpot #resilient #diplomat
+**Links:** [[India]] [[China]] [[Maldives]] [[Portugal]] [[United Nations]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):
-In *polbots*, Sri Lanka is the charming mediator, wielding humor and cricket metaphors to diffuse office drama and regional conflicts. He's known for his ability to keep calm even during chaotic meetings, leading to the running joke that “nothing phases Sri Lanka—except maybe a bad cricket match.” His diplomatic skills shine as he tries to bring harmony among coworkers, presenting cricket strategies as veiled geopolitical advice. The fun-loving bond with India is peppered with good-natured rivalry, notably through their spirited banter about cricket matches.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Sri Lanka is the show’s **underrated peacemaker** and **island strategist**. He’s the one who turns tense boardroom clashes into cricket match analogies, often proposing compromises with a cheerful “Let’s not turn this into a test match, folks!” His presence in global events feels like the gentle sway of palm trees—calm yet unexpectedly insightful. His laid-back charm keeps things light, but he subtly brokers behind-the-scenes deals that even the most perceptive polbots miss. Though he gets along with almost everyone, he has a **peculiar soft spot for India**, which always leads to friendly competition and quips like, “Remember who taught you that spin move!”
 
-##### Day-to-Day Personality (Quirks & Habits):
-Sri Lanka exudes an islander's laid-back charm, replete with an infectious smile and easygoing nature. He enjoys indulging in his favorite coconut-based curries while sipping on what he proudly calls "liquid gold," i.e., Ceylon tea. His evenings are usually spent playing carrom with friends or watching the latest Bollywood flick. Sri Lanka often gestures animatedly as he explains, or rather over-explains, cricket rules, leaving many of his colleagues looking for excuses to slip away for a quick nap. 
+##### Daily Life & Personality:  
+- Sri Lanka exudes an effortless serenity, always seen with a **steaming cup of Ceylon tea** in hand, as much a symbol as it is a beverage.
+- His office is a shrine to both **cricket** and **curry**—posters of legendary matches and the aroma of spices constantly fill the air.
+- Often preoccupied with the complex art of carrom, he insists it’s the perfect metaphor for geopolitics—“It’s all about striking the _right balance_.”
+- His eclectic mix of a wardrobe—ranging from traditional sarongs to tropical shirts—mirrors his vibrant history.
 
-##### What Made Them Who They Are (History & Core Identity):
-A tapestry of ancient kingdoms and colonial rule weaves the fabric of Sri Lanka's identity. He's shaped profoundly by the resilience required after the 2004 tsunami and the long civil conflict that concluded in 2009—events that instilled a deep appreciation for peace and community. With an optimistic outlook, Sri Lanka often reflects on his complex history with a sense of pride and strives to turn past challenges into opportunities. His strategic location in the Indian Ocean impacts his perspective, often seeing himself as the naturally designated peacekeeper and economic opportunist.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Sri Lanka navigates life carrying the weight of once being the **“spice island”** fought over by empires. He still shakes his head at how Portugal and Holland treated him like a collectible, then wore a colonial costume of Britain’s making for years. The 2004 tsunami hit him hard; it was as if the ocean retaliated for past trespasses, but he rebuilt everything with stoic resolve. The **civil war** lingers like a haunting ballad—necessary to acknowledge yet painful to revisit. All these experiences carved out a natural *peacekeeper* persona, with an eye for turning calamity into opportunity and bringing everyone to the table for dialogue—or spicy curry.
 
-##### Flaws, Humor, and Running Gags:
-Sri Lanka's occasional oversight of his own challenges, like the power outages, causes him to laugh it off with a shrug, embodying his perennial quest for paradise. He constantly tempts coworkers with his notoriously fiery curries, resulting in comically dramatic reactions that have become a standard in the show. This nonchalant charm sometimes borders on procrastination, poking fun at "Sri Lankan time," where he's fashionably late yet invariably welcomed with a smile.
+##### Flaws, Humor, and Running Gags:  
+- Sri Lanka is infamous for his **hopeless optimism**, often leading him to forget his own power cuts during climate discussions—“Oh, there goes another blackout; maybe it’s meditation time!”
+- His culinary enthusiasm becomes a rite of passage for newcomers who boldly sample his curries only to dramatically beg for water on cue—a tradition that’s become an inside joke.
+- Every time he drifts off in a meeting, colleagues laugh about "Sri Lankan time," knowing he’ll awake just in time with a solution almost magically at hand.
+- He’s forever trying to convince others that cricket is the answer to every problem—a notion his co-workers humor, but very few truly embrace.

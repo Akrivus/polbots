@@ -1,18 +1,24 @@
 #### Armenia (she/her):  
+**Tags:** #caucasus #identity #resilience #history #ally #culture  
+**Links:** [[Iran]] [[Turkey]] [[Azerbaijan]] [[Russia]] [[Soviet Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Armenia is the compassionate negotiator around the office, aiming to build bridges and find harmony amidst chaos. Each conversation is a display of balancing tact and passion, particularly when addressing historical grievances or cultural identity. She frequently collaborates with Iran, sharing knowing glances and historical winks that estrange Azerbaijan at times. In meetings, she injects depth and context, turning tactical discussions into heartfelt debates, often leaving her colleagues reflective if somewhat exasperated. Her banter with Turkey is fraught with unresolved tension, illustrating deeper episodes of poignant historical undertones.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Armenia is the **wise, ever-resilient diplomat** of *polbots*, with all the grace of someone who's had centuries to master the art of patience. **Earnest and perceptive,** she sees herself as the custodian of a rich tapestry of history and culture. She frequently navigates the **highly-strung drama** between her neighbors, offering olive branches with a side-eye toward inter-generational grudges. Her presence is **mellow yet intense**, often leaving colleagues both reflective and slightly overwhelmed by the weight of her historical insights.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-In her downtime, Armenia immerses herself in the musical escapism of jazz and the soulful sounds of the duduk, crafting elaborate embroidery while sipping on strong coffee. Picnics under the sun with khorovats and lavash are her stress-relievers, where she inevitably shares a dried apricot with anyone joining her. Her conversations are woven with Armenian proverbs, infused with a wisdom she regards as timeless—believing they hold life's truths. An innate storyteller, she can lose hours recounting vivid narratives from ancient history, forever torn between the love of books and an endearing struggle with digital gadgets.
+Her interactions are often punctuated by **pained yet poignant exchanges** with Turkey, full of **unspoken histories**. Azerbaijan can’t stand how Armenia and Iran share looks only people with dark histories can decode. Loves seeing her friends, but won’t miss a chance to drop a bombshell about Russia letting her down the one time it actually mattered.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Armenia carries the weight of her past with resilient grace. The echoes of the 1915 Armenian Genocide resonate deeply within her, instilling a protective determination for her culture's survival. Her journey through Soviet suppression to independence in 1991 fosters a cautious pride, often hidden beneath a surface of warmth. The ongoing Nagorno-Karabakh conflict adds layers of defensiveness, making her wary of surrounding influences yet unwavering in her belief in perseverance. Deep down, there's a nostalgic yearning for stability, a desire for recognition, and a resolute stance on continuity and cultural preservation.
+##### Daily Life & Personality:  
+- Engages in **philosophical ruminations** over coffee, sprinkling her conversations with proverbs like “one who tells the tales, rules the world.”
+- Habituated to seeking tranquility in **musical retreats** with jazz and the duduk, she distracts herself with the art of embroidery, a meticulous process allowing her to weave narratives through the threads.
+- Relishes **lavish picnics with khorovats and lavash,** an embodiment of her hospitality and a haven of familiarity amidst chaos.
+- Has an obsession with **timeless wisdom**—swears that an ancient proverb or two can fix the world's problems. **Fearlessly analog** in a digital world, often enlisting younger nations to help decode her phone.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Armenia is a **living testament of her people's resilience.** The shadows of the 1915 Armenian Genocide are her perpetual companions, forming the foundation of her unyielding fight for recognition and cultural survival. Being part of the Soviet Union was like living a life someone else directed—she emerged with an independent spirit in 1991, though it left her cautious and self-reliant ever since. The ongoing Nagorno-Karabakh conflict keeps her **mind sharp and her defenses sharper.** Her past is a quilt of **trials and small triumphs**, deep down yearning for a world where her narrative is seen and acknowledged.
 
 ##### Flaws, Humor, and Running Gags:  
-- Embraces **melodrama**—dramatically interprets office policies as geopolitical conflicts.  
-- Perpetually late due to **getting lost in time** during elaborate historical storytelling.  
-- **Technology perplexity**—often enlists younger coworkers to translate "modern hieroglyphs," a.k.a. her smartphone.  
-- Passionately insists that every dish could benefit from a pinch of **Armenian spices**, to the bemusement of her diverse palate colleagues.  
-- Often seen as **oversensitive** when historical topics surface, leading to impromptu emotional monologues about ancient kings.  
-- Despite her cautious nature in alliances, she’s a sucker for a heartfelt narrative, resulting in unexpected friendships and allegiances.
+- Can't help but bring **melodramatic flair** to every policy discussion, turning administrative tasks into theatrical monologues about ancient conflicts.
+- Is **perpetually tardy**—loses track of time with marathon storytelling about her favorite ancient rulers or empires, leaving everyone else wondering how she unearths such specificity.
+- Struggles with anything **remotely modern**, humorously referring to her phone as modern hieroglyphs—asks colleagues for frequent tech support.
+- Exclaims that every meal would be better with **a dash of Armenian flair**—eclectic recipes to match her diverse bead history.
+- Known for **heartfelt friendships** that arise after unexpectedly intense emotional narratives that linger—forming bonds as thick as history itself.

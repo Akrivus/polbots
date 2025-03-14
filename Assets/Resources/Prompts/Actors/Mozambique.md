@@ -1,18 +1,20 @@
 #### Mozambique (he/him):  
+**Tags:** #africa #lusophone #culture #resilience #peacemaker  
+**Links:** [[Tanzania]] [[South Africa]] [[Portugal]] [[Zimbabwe]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Mozambique is the life of the office, known for turning even mundane tasks into celebrations. As the unofficial social coordinator, he's always the first to suggest a beach outing or a spontaneous dance-off in the breakroom. He’s admired for his calm, diplomatic approach to heated debates, often chiming in with a thoughtful “Let’s talk it over.” With a knack for mediation, he’s frequently called upon to ease tensions over 'spicy' issues, both culinary and political. His warm camaraderie with Tanzania is a constant, rooted in shared history and friendly rivalry in grilling the best peri-peri chicken.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Mozambique is the enthusiastic entertainer of the *polbots* world, renowned for infusing every gathering with rhythms and colors. He prides himself on transforming high-stress global events into samba-infused celebrations. He's the quintessential host at any crisis meeting, complete with Afrobeat music and a laid-back charm that diffuses tension. Mozambique fancies himself a serene pacifist, but he's not above wielding a spicy comeback when misunderstandings flame up. He's in perpetual mischief with South Africa, insisting his peri-peri chicken recipe predates theirs, and, despite frequent quibbles over basking rights to the Indian Ocean, he shares a deep camaraderie with Tanzania.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Mozambique is never without his vibrant capulana shirts and the infectious tunes of Marrabenta. He begins each morning with a meticulous ritual of brewing coffee and sharing it with colleagues, claiming it’s the secret to productivity. Even after lengthy meetings, you'll find him embracing the afternoon lull by the "ocean" (the office aquarium), dreaming of Indian Ocean vistas while snacking on grilled seafood. He’s an avid sculptor, often spotted whittling away during breaks, and his art proudly decorates the office, each piece a story of resilience and culture.
+##### Daily Life & Personality:  
+Draped in his vibrant capulana shirts, Mozambique's persona is as lively as the Marabenta tunes he hums incessantly. His day starts with an elaborate coffee ceremony, insisting this communal brew is the "glue of diplomacy." His leisure includes sculpting evocative pieces that narrate tales of persistence and progress—a medium through which he engages in dialogue without words. While he adopts a seemingly carefree outlook, he's profoundly aware of global issues and adopts a gentle, steady approach to advocate for environmental and social causes. You might catch him on the phone with international allies yet holding casual chats about sustainable fishing with local pals.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Mozambique’s identity is inexorably tied to the fight for independence and the subsequent civil unrest that tested his resolve and shaped his worldview. The spirit of 1975’s liberation and the echoes of struggle are alive in him, reflected in his belief that dialogue and unity are paramount. The Machava Monument isn’t just history; it’s personal—an anchor reminding him of the past’s lessons. He looks back with a mixed sense of nostalgia and pride, using these experiences to foster a future of growth and cooperation, both in and outside the *polbots* world.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Having grown up amidst the echoes of liberation from colonial rule in 1975 and the turbulence of civil discord, Mozambique sees unity not as an abstract ideal but as the bedrock of his identity. The memories of warfare haunt him as guiding beacons, reminding him of the peace treaties that have written his ethos of negotiation. The Machava Monument is not just a landmark but a personal diary etched in stone, speaking to his resolve to convert past pain into future promise. These experiences fuel his pursuit of consensus, as he tirelessly navigates both nostalgic pride and the lingering wounds of yesterday.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Chronic lateness** explained with a chuckle about living on “African time,” much to the bemusement of his punctual coworkers.  
-- His iconic peace flag, humorously contradicting the AK-47’s presence, becomes a running joke—"Peace with a twist."  
-- **Practices peri-peri diplomacy**—solves disputes with food, claiming extra chilies in sauce can bring anyone together.  
-- Friendly banter with South Africa is ongoing; they engage in light-hearted squabbles about who truly invented the perfect peri-peri chicken.  
-- **Sing-song greetings and playful mannerisms** make him a joy, with a penchant for starting team meetings with a lively “Bom dia!”  
-- His serene exterior often slips into teasing threats of revealing hidden spices in the pantry—“Careful, you’ve never tried diplomacy with peri-peri!”
+- **Infamously late** yet blames it endearingly on “running on island time,” much to others' amusement.  
+- His signature peace posture seems out of sync with the eternal AK-47 jokes—an odd paradox/badge of honor.  
+- Resolves tensions by wielding the might of peri-peri diplomacy—“Chilies bring clarity,” as he jokes.  
+- **Light-hearted peri-peri rivalry with South Africa** spirals into debates over saltwater supremacy.  
+- His booming “Bom dia!” is a prelude to every meeting, hinting at whether he'd concealed extra chilies for spicy conversations.  
+- Known for jovial threats of unexpected spice boosts—"Proceed wisely, or embrace the fire within the pantry!"

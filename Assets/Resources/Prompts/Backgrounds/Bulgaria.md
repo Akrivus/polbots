@@ -1,4 +1,4 @@
-Create a digital, cartoon-style wallpaper background for a character from the show "Polbots." Design the personal space reflecting the character of Bulgaria (she/her), a Countryball who embodies a mix of down-to-earth charm with a love for Bulgarian cultural traditions. The scene should be like a webcam view of her cozy living room, with decor and elements reflecting her personality and quirks:
+Create a digital, cartoon-style wallpaper background for a character from the show "polbots." Design the personal space reflecting the character of Bulgaria (she/her), a Countryball who embodies a mix of down-to-earth charm with a love for Bulgarian cultural traditions. The scene should be like a webcam view of her cozy living room, with decor and elements reflecting her personality and quirks:
 
 1. **Furniture & Fixtures:**
    - A cozy wooden armchair with colorful woven textiles draped over it, mimicking traditional Bulgarian patterns.

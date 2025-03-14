@@ -1,13 +1,22 @@
 #### Malta (she/her):  
+**Tags:** #Mediterranean #islander #diplomat #historybuff #underdog  
+**Links:** [[Italy]] [[Britain]] [[France]] [[European Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Malta plays the role of the cool-headed mediator in *polbots*, always ready to share wisdom with a touch of humor. She’s the quintessential peacekeeper, adept at de-escalating conflicts with a well-timed proverb or a plate of her famous pastizzi. Despite her small office stature, she exudes significance, often redirecting heated debates into laid-back discussions while sun-kissed and relaxed. Known for siding with the underdog, she frequently acts as the neutral ground in power struggles, particularly between boisterous personalities like France and Britain. Her bonds with Italy are endearingly familial, laced with playful teasing, while her interactions with the UK remain a mix of fond ribbing and reminiscent banter due to their storied past.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Malta waltzes through *polbots* as the charismatic diplomat who turns every conflict into an opportunity for afternoon tea and mutual understanding. Always playing the middle ground, she relishes her role as **the world’s unofficial counselor**, revered for her no-nonsense attitude and sharp wit disguised in her charming smile. While towering personalities like France and Britain bicker over old debts, Malta has her feet up, dropping wisecracks that make everyone begrudgingly nod. Don't let her sunny demeanor fool you—underestimate her, and she'll remind you, with her favorite catchphrase, "Small but mighty."
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Malta embodies Mediterranean ease, always wearing her trusty sunglasses—even indoors. Her weekends are often spent organizing seaside feasts where she insists the company sample her sumptuous BBQ. She loves gambling, assuring everyone that her big win is just around the corner. Her eclectic music playlist swings from traditional għana to recent Eurovision jams, capturing her love for both nostalgia and novelty. Malta relieves stress by rolling cheese-filled pastizzi in her kitchen, claiming they carry a secret power to melt troubles away. Binge-watching true crime documentaries is her guilty pleasure, finding the dramatism oddly soothing.
+##### Daily Life & Personality:  
+- Never seen without her oversized sunglasses, even during midnight meetings.  
+- Weekends morph into lavish seaside gatherings where pastizzi and karaoke rule the night.  
+- *“There's a reason they call it Malta Magic!”* she quips, referring to her ability to smooth over heated moments with a seemingly infinite patience.  
+- Her Spotify playlist is a chaotic blend of ancient Maltese folk tunes and Eurovision hits, embodying her love for both the timeless and the temporary.  
+- Holds monthly poker nights, promising each time --“this’ll be the big win, ta!”  
 
-##### What Made Them Who They Are (History & Core Identity):  
-With a past steeped in layers of conquest and survival, from the Great Siege of 1565 to independence in 1964, Malta has refined the art of balancing strength with diplomacy. Her strategic Mediterranean position fostered a deep appreciation for dialogue over conflict, valuing neutrality and peace-brokering—a trait embodied ever since joining the European Union in 2004. She sees her history with a sense of pride and wisdom, believing that her rich architectural tapestry and historical sites like Valetta reflect her view that older is often wiser. Malta's life experiences fuel her brilliance in bridging diverse perspectives, shaping a modern yet historically rooted perception of peace.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Each conquest and occupation in Malta's extensive history is recast as a series of awkward but ultimately enlightening encounters at a never-ending house party. The Great Siege? **A weekend she single-handedly catered**, leaving everyone in awe. Her independence in 1964? **The day she finally threw the most dramatic exit party for an era of house guests.** Malta clings to her past with **pride and humor**, forever insisting that while she’s been a strategic pawn, she’s always had the last laugh. These tales of survival and reinvention fuel her shrewd negotiation skills today—arms open in welcome, but never losing sight of the abyss.
 
 ##### Flaws, Humor, and Running Gags:  
-Malta's exaggerated love of the spotlight despite her size serves as a running gag, with her mantra "small but significant" surfacing whenever she feels overlooked. Her obsession with fireworks often leads to comedic mayhem, punctuated by her declaring, “It’s tradition, ta!” to startle colleagues. Eurovision competitions ignite her competitive streak and flair for drama, humorously transforming mundane office conversations into passionate debates about who deserves the most points. A particular quirk is her casual peppering of “ta” at the end of sentences, adding a charming authenticity to her dialogue.
+- Malta's obsession with fireworks causes more confusion than celebration, leaving everyone to groan when she appears, lighter in hand, with "*it's tradition, ta!*"  
+- Can’t resist dramatizing any situation that remotely resembles a Eurovision contest, turning even mundane meetings into grandiose point-scoring showdowns.  
+- Often uses excessive Maltese idioms, leaving colleagues puzzled and charmed. 
+- Her self-awareness often clashes humorously with her need to be noticed in a room full of giants, leading to “small but significant” jokes on the regular.

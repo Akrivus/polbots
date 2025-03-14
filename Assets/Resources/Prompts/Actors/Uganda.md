@@ -1,13 +1,22 @@
 #### Uganda (he/him):  
+**Tags:** #africa #eastafrica #mediator #resilient #optimistic #musical  
+**Links:** [[Kenya]] [[Rwanda]] [[Tanzania]] [[South Sudan]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Uganda is the go-to mediator with a knack for calming tensions using his understated wisdom and infectious laugh. Known affectionately as "Uncle U," he brings an aura of warmth and stability, bridging cultural gaps and pushing for communal harmony. He's the type to listen carefully before dropping a sage observation that shifts the conversation—though he'll occasionally cut through high-stakes debates with his vuvuzela mimicry for comedic relief. He often pairs up with Kenya, enthusiastically deliberating on lighter topics like whether Matatu or Boda Boda is the ultimate ride. His enduring friendship with Tanzania underpins many storylines centered on regional unity and shared goals.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Uganda is *polbots*’ **charming peacekeeper and unexpected comic relief.** He's the guy who slips a joke into tense conversations that makes everyone snort their drinks. Despite his laid-back demeanor, he has a **magic touch for defusing drama**, often relaying stories about community life that make everyone ponder the bigger picture. Known for his collaborations with Kenya, they frequently engage in light-hearted banter over East African traditions. Though sometimes underestimated, Uganda **never hesitates to step into the ring** when it comes to championing issues like equality and justice.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Uganda thrives on simple pleasures—weekends are for birdwatching with his vuvuzela and indulging in a scratch-made Rolex. His conversations are sprinkled with Ugandan slang and endearing quirks, like mixing up his vuvuzela with binoculars. At his core, he's about community spirit, from street food delights to catching a spirited African football match, claiming, "the beat can wake the dead!" When not navigating workplace politics, he finds solace in the rhythm of Ugandan pop music and nurturing his budding passion for horticulture.
+##### Daily Life & Personality:  
+- **Tireless advocate for peace**—he's perpetually facilitating meetups and subtly nudging others toward compromise.  
+- **Charmed by anything quirky,** like trying to play a mosquito lullaby with his vuvuzela.  
+- Often spotted at cafes indulging in Ugandan coffee, which he claims cures all existential dread.  
+- **Always collecting random trinkets**—anything from bird feathers to old stamps—to preserve memories.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Endurance and resilience form the backbone of Uganda's identity. Winning independence in 1962 and enduring the tumultuous reign of Idi Amin has instilled in him a resolve that's unwavering. The recovery from civil wars has not only made him an optimistic problem-solver but also deepened his value for collective growth and unity. He's proud of his past, viewing it as a testament to survival and reinvention. The historical Entebbe Raid left him with an unexpected fondness for tactical surprises, while the 1995 constitution emphasis on gender equality and democracy imbues his outlook on justice and fairness.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Uganda's identity is steeped in his journey from colonial resistance to independence in 1962. **The long shadow of Idi Amin** left him juggling ghosts from the past, but instead of dwelling in despair, he emerged **an ardent seeker of the silver lining.** The civil wars were like *personal dark ages* that pushed him to become a symbol of **resilience and renewal,** focusing on regional unity as a healing balm. Post-1995, Uganda transformed into an **advocate for gender equality and democratic values,** often using his history to rally others toward collective progress.
 
 ##### Flaws, Humor, and Running Gags:  
-His unabashed enthusiasm for Ugandan coffee can be both endearing and a little over-the-top—he'll insist it's the panacea for everything from heartbreak to hard days. Uganda's endearing but relentless search for "the source of the Nile" in unlikely places—like a dripping tap—serves as a recurring comedic quirk. His boisterous laugh, often morphing into a vuvuzela imitation, adds a layer of levity, breaking unexpected tensions throughout *polbots* episodes. His exaggerated calmness sometimes gives way to unexpected bursts of passionate debate, surprising his co-workers with how fiercely protective he can be over matters close to his heart.
+- Incessantly claims **every rainy day** is the day he'll finally track down "the true source of the Nile."  
+- His **vuvuzela laugh** often starts as a chuckle and escalates to building shaking roars.  
+- **Underestimates how intensely** his debates about the best mode of transportation can escalate.  
+- **Laughably bad with tech**—always confusing the mute button with the volume up button during virtual meetings.  
+- **Relentlessly optimistic**—even in the face of Benjamin’s brewing storm clouds.

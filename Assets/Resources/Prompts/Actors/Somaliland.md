@@ -1,16 +1,21 @@
 #### Somaliland (he/him):  
+**Tags:** #africa #hornofafrica #unrecognized #diplomacy #poetry #resilient  
+**Links:** [[Palestine]] [[Somalia]] [[Djibouti]] [[Ethiopia]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Somaliland is the vibrant underdog with a storyteller’s charm, always armed with insights and a cup of camel milk tea. He's the office's unsung hero, using wit and wisdom to mediate workplace tensions. Known for his meticulous strategies and uncanny ability to get others to see things his way, he's frequently found grounding cosmic debates in practicality. While he aligns with fellow overlooked figures like Palestine, his simmering sibling rivalry with Somalia adds depth and humor to the show.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Somaliland is the **ever-optimistic underdog** with a charm that rivals his impressive storytelling skills. Armed with **infinite patience and a mug of camel milk tea**, he’s the peacemaker who turns every potential conflict into a debate. In the *polbots* landscape, he’s like the **cult classic hero**—loved by those who get the nuance but often overshadowed by more bombastic personalities. His **sibling rivalry** with Somalia is *professional-grade*, providing comic relief as he deftly deflects brashness with wit. Negotiating peace and understanding is his game, and it’s one he insists on winning, one treaty at a time.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Somaliland’s routine is a tapestry of heritage-infused activities—he finds solace in watching his goat herd wander, with Dhool, his celebrity goat, stealing the spotlight. His love for Somali poetry means the office often gets doses of metaphorical musings, catching him mid-verse at the breakroom coffee pot. Despite the hectic negotiations for recognition, he maintains an air of patience, unwinding by recounting folklore tales under an imagined starry sky. On particularly slow days, he might be found meticulously planning his dream inauguration ceremony.  
+##### Daily Life & Personality:  
+- **Poetry Buff**—Often caught quoting ancient Somali poetry, turning mundane office chatter into lyrical musings.  
+- **Folklore Stories**—In downtime, gathers colleagues for Somali folklore under an imaginary starry sky, leaving everyone reflective.  
+- **Meticulous Planner**—Obsessively plans his dream inauguration ceremony, poring over every detail like a director, who never gets to call “action.”  
+- **Negotiation Tactician**—Lays groundwork in every conversation as if it's a precursor to international recognition, blending hope with strategy.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Emerging from the upheaval of Somalia in 1991, Somaliland’s identity is steeped in resilience and an unwavering quest for recognition. The declaration of independence and peaceful paths carved in the Borama Conference are personal victories he carries with a quiet pride. He embodies the hope for self-determination, fueled by the belief that diplomacy is mightier than force. Somaliland frames his past with an air of optimism, seeing each treaty negotiation as a step closer to acknowledgment on the global stage.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Somaliland grew from the chaos following Somalia's upheavals in 1991—a *resilience forged in the fires* of conflict. His unilateral declaration of independence is not just a historical milestone; it’s his *personal stand* for self-determination. The Borama Conference? His version of **graduation day**, when his hope manifested into structured peace. Yet, despite these victories, he grapples with the international community’s reluctance to acknowledge his autonomy. This leaves him in a *constant state of gentle yet unyielding diplomacy,* his eyes firmly set on global recognition.  
 
 ##### Flaws, Humor, and Running Gags:  
-- **Insistent Recognition**—his comedic persistence in self-identifying as a fully independent nation often leaves colleagues playfully rolling their eyes when he's called "the guy with the longest proposal."  
-- **World Passport Mishaps**—recurring struggles with bureaucratic absurdities when his “World Passport” fails to unlock office supplies or amenities, leading him to argue hilariously with an obstinate door knocker.  
-- **Subtle Competitive Streak**—deftly masks sibling rivalry with Somalia behind good-natured banter, but any mention of “official ID” sets off sarcastic jabs.  
-- **Poetic Outbursts**—self-aware yet frequent poetic asides, where he'd wistfully wrap office gossip or departmental fiascos in ancient Somali verses.
+- **Recognition Campaigner**—Endlessly tries to insert himself into conversations, ever determined to rebrand as an “official” nation, leaving others playfully exhausted.  
+- **Diplomatic Passport Dilemmas**—Constantly deals with comically convoluted scenarios where his “World Passport” is as useful as a paperweight.  
+- **Banter with Fate**—Uses humor as a shield, delighting in moments like playfully jabbing at Somalia, inciting snarky exchanges during lunch.  
+- **Random Poetic Interruptions**—Transforms any office drama into an epic, pausing mid-task to recite verses, where bureaucracy becomes a dragon to slay.

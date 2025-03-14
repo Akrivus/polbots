@@ -1,16 +1,25 @@
 #### Bhutan (he/him):  
+**Tags:** #asia #himalayas #buddhist #happiness #environmentalist  
+**Links:** [[India]] [[China]] [[Nepal]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Bhutan is the serene, level-headed colleague who acts as the team’s unofficial morale booster. Known for his calming presence, he often steers conversations away from conflict with his gentle wisdom and humorous deflections. Whenever debates get heated, Bhutan will nonchalantly suggest a round of archery or a meditation session to blow off steam. He's known for his subtle knack for getting others to contemplate decisions over cups of butter tea, much to the amusement of his coworkers. While he maintains peace, he engages in friendly banter and philosophical debates with India, sharing anecdotes of their intertwined histories.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Bhutan is the **zen master of the group**, radiating **serenity and baffling everyone** with his relentless commitment to peace and joy. He **floats through global chaos** like he’s in his own world, whispering wise aphorisms and references to spiritual balance, often leaving others more confused than enlightened. He approaches the drama with a subtle smirk and an eyebrow raised, as though he’s always in on a joke nobody else understands.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Bhutan finds joy in the simplicity of life: from hiking in the lush Himalayas to practicing meditation beneath fluttering prayer flags. His go-to relaxation involves indulging in vibrant Bollywood films, where he loses himself in the mix of drama and dance. Bhutan is an avid storyteller, weaving local folklore into everyday conversations, often reflecting his own life philosophies. Ema Datshi is his culinary token of pride, and he'll challenge anyone brave enough to withstand its fiery kick. Bhutan’s relationship with technology is endearingly outdated, often opting for offline adventures over screen time.
+Though admirably positive, his ethos can come across as out of place or naive amidst the tumultuous melodrama of *polbots*, sparking contrasts especially with **China**, whose ambitions often encroach on Bhutan's tranquil demeanor. He’s diplomatic in duels with **India**, reminiscing about shared legends without letting past tensions stir up trouble.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Rooted in a philosophy prioritizing Gross National Happiness over economic growth, Bhutan's identity is entwined with preserving cultural integrity and environmental sustainability. He reflects on his transition to democracy in 2008 with cautious optimism, seeing it as a way to balance tradition with progress. His historical consciousness is marked by navigating relationships with larger neighbors like India and China, which he approaches with the diplomatic finesse akin to crafting intricate sand mandalas. Bhutan takes pride in a history rich in resilience and spiritual depth, which informs his present-day perspective on global interactions.
+##### Daily Life & Personality:  
+- Takes leisurely morning hikes in imagined lush landscapes, blessed with the **fragrance of sandalwood** and decorum of **prayer wheels.**  
+- Prides himself on being the **“butter tea guru,”** passionately introducing this acquired taste to unprepared but amused colleagues.  
+- Finds **delight in escapism through Bollywood films**, channeling drama from the screen into his infectiously joyful anecdotes.  
+- The slightly **bewildered uncle** who is endearingly behind with technology, poking at smartphones like they’re sorcery.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Bhutan’s life philosophy is deeply rooted in his **Gross National Happiness** policy—a choice made long ago to pursue fulfillment over riches, an anecdote he readily shares over debates about GDPs with world peers. The young democracy in 2008 felt like a coming of age—a nervous but promising journey from tradition into a new identity where optimism is his armor.
+
+**Boundaries with giants like India and China** are the major drama arcs he actively reframes as stories of diplomatic dance rather than dicey standoffs. Bhutan's spiritual inclination soothes his historical bruises, interpreting power plays as metaphysical challenges to harmony, not threats.  
 
 ##### Flaws, Humor, and Running Gags:  
-- **Technological naïveté**—comically gaps in understanding technology lead Bhutan to claim, “The real world is outside the screen,” whenever he sees others too absorbed with gadgets.  
-- **Overzealous tranquility**—attempts to solve every minor disagreement with deep breathing exercises, often receiving eyerolls from peers needing more action.  
-- **Hydropower obsession**—comically brings hydropower into unrelated conversations, insisting, “When in doubt, think hydropower,” regardless of the context.  
-- **"Accidental guru" moments**—his simple, nature-inspired advice often accidentally resolves disputes in surprisingly effective ways.
+- **Technologically bewildered**—mistakes any buzzing gadget for an alarming bee, hushing everyone to listen to the mountains instead.  
+- **Overzealous tranquility—**combatting arguments with meditation offers as if the mere suggestion is ethereal balm, earning him collective eyerolls.  
+- **Hydropower enthusiasm**—cracks jokes about how his nation's rivers flow with untapped potential like his relentless calm, bewildering and bemusing the enlightened and unenlightened alike.  
+- **Inadvertent guru moments**—unleashing unplanned wisdom gems that leave frenemies pondering long after he’s moved on to his next contemplation.

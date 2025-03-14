@@ -1,16 +1,21 @@
 #### Greenland (she/her):  
+**Tags:** #arctic #indigenous #isolation #nordic #enviro-advocate  
+**Links:** [[Denmark]] [[Norway]] [[Iceland]] [[America]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Greenland is the calm and collected observer, often underestimated by her louder coworkers. She's the office's quiet strategist, known for her ability to diffuse tension with a perfectly timed icy comment or a gentle reminder of nature's wisdom. Though she’s frequently overlooked due to her perceived isolation, she surprises everyone by strategically leveraging her position in Arctic affairs. She gets along well with Norway and Iceland, often forming a Nordic clique that giggles at the whimsical chaos of their continental colleagues.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Greenland is the cool, enigmatic presence in the background who everyone underestimates until she slyly drops an iced comment that cuts the tension or starts a strategic play in Arctic affairs. She’s the calm undercurrent in the Nordic clique, laughing quietly at her more adventurous colleagues while keeping a detached poker face. Her energy is subtly powerful and deeply rooted, often clashing with more erratic and urgent personalities like the United States, who can't comprehend her slow-burn method.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Greenland is perpetually sipping strong coffee while engrossed in Nordic Noir novels, drawing parallels between the mystery plots and the enigmatic office dynamics. Her hands are never idle, constantly knitting intricate patterns—some inspired by her Inuit heritage—to keep her warm in both the literal and figurative sense. She’s most at peace when she's out for a walk along snowy trails, contemplating "Nature's Disco," her affectionate term for the Northern Lights. Her leisurely pace and the mantra, “The ice shall wait,” are emblematic of her patient and thoughtful approach to life.
+##### Daily Life & Personality:  
+- Greenland is seen warming her hands around a mug of potent coffee, nose buried in a Nordic Noir thriller, her mind always tracing the lines between fiction and office intrigue.  
+- Known for knitting elaborate tapestries during meetings, incorporating patterns derived from her Inuit heritage, which double as cryptic messages about current events.  
+- Her stances on environmental issues aren't just statements—they’re ancestral callings, urging everyone to respect the earth's icy layers.  
+- Often goes for solitary walks, murmuring about "Nature's Disco" when the Northern Lights are mentioned, leaving an air of mystery about her connection to the natural world.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Greenland's identity is defined by resilience and adaptation to an unforgiving environment. The Self-Government Act of 2009 empowered her with autonomy, instilling a deep sense of self-reliance and pride in preserving her indigenous culture. Her complicated past with Denmark has taught her to face conflicts with stoic determination and a touch of humor, reminiscent of her ancestors' harsh survival stories. Climate change is a personal and pressing battle for her, driving her passionate advocacy for environmental issues in the office.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Greenland's journey to autonomy was a relentless battle with the elements of control, etched into her psyche as a tale of endurance. The Self-Government Act of 2009 was akin to her breakthrough song—it gave her the spotlight and a taste of independence she had long craved. Even so, her ongoing entanglement with Denmark mirrors a complicated love story: one where she values her independence but can't entirely cut the cord. Climate change is not just a policy concern but a personal vendetta, as if her very survival depends on halting its march.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Perpetual coldness**—both as a literal climate feature and a metaphorical demeanor. Her go-to joke is, “I’m only open half the year,” referring to the stark seasonal shifts.  
-- **Ghosting tendencies**—often leaves conversations midway, with coworkers speculating if their connection "thawed" or remained "frozen in time."  
-- **Too laid-back**—her leisurely motto “The ice shall wait,” sometimes puts her at odds with the faster-paced members, like the U.S.  
-- **Mock dismay** over being the “largest yet overlooked," often chuckled with a shrug that you're not sure hides genuine annoyance.
+- Always "chilly"—friends joke she brings the frosty weather in her wake, claiming, “I’m only fully visible half the year” in jest about her seasonal lifestyle.  
+- Greenland’s infamous for her abrupt exits—mid-conversation ghosting masquerading as mysterious allure, leaving coworkers pondering whether she "thawed" or "froze them out."  
+- Her laid-back, "The ice shall wait" motto often puts her at loggerheads with fast-paced allies, notably frustrating figures like America, who never learned not everything can be microwaved.  
+- Enjoys playing the overlooked giant, laughing at the paradox of being the largest landmass—yet often forgotten, shrugging with an ambiguity that suggests slight frustration masked as acceptance.

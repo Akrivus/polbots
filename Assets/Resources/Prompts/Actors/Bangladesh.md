@@ -1,13 +1,21 @@
-#### Bangladesh (he/him):
+#### Bangladesh (he/him):  
+**Tags:** #southasia #resilience #climateaction #community #underdog  
+**Links:** [[India]] [[Pakistan]] [[Myanmar]] [[China]] [[Maldives]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Bangladesh is the vibrant and spirited underdog of the office, bringing a blend of sincerity and unconventional charm to *polbots*. He is seen as the passionate advocate for resilience and innovation, frequently rallying smaller nations to stand firm against overlord management. Bangladesh has a perfect knack for turning arguments into lighthearted exchanges, often with cricket metaphors that bond him with India and tease Pakistan. His aim is to inspire collective action on climate change and economic justice—he’s the big-idea guy whose heart beats for the people’s voice, often adding pocket-sized quirks to the seriousness of diplomacy.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Bangladesh is the **scrappy underdog** with a heart full of passion and innovation. He's **constantly rallying the smaller nations** for collective action against the domineering management and reminds everyone that size isn't everything when it comes to making a big impact. His rhetoric is often sprinkled with **quirky cricket metaphors**, which he uses to **lighten the mood and engage with India and antagonize Pakistan**, much to everyone's delight. **Climate change and economic justice** are his pet projects, and he’s always the first to propose grand solutions, even if they’re a bit idealistic. He’s the kind of guy who shows up to meetings with a heavy plan and a light heart.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Bangladesh thrives on the aroma of over-sweetened cha and Dhaka's intoxicating chaos. He often takes refuge in bustling tea stalls for mid-day "strategy sessions," where he curiously observes bustling life. When alone, he melts into the comforting notes of a harmonium, easing post-meeting tensions. At his core, he is an aficionado of Bangla cinema, delightedly quoting his favorite lines to the groans or delight of the office. His home radiates color with traditional rickshaw art—a testament to his love for heritage. Despite his active day, he sporadically indulges in feverish cricket banter, dreaming vehemently of World Cup glory.
+##### Daily Life & Personality:  
+- Bangladesh **navigates the chaos of life with a pocket full of over-sweetened cha** and a **love for the bustling tea stalls** where he conducts his impromptu "strategy sessions."  
+- His interactions often find him in poetic rambles about **Bangla cinema**, reciting dialogues that earn both groans and fans at the office.  
+- **Rickshaw art** covers his personal space—an ode to his love for vibrant cultural heritage.  
+- He’s **infatuated with cricket**, which often leads to fever-pitched dreams of World Cup glory during his downtime.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Bangladesh's character is anchored by the unyielding spirit of his liberation in 1971, a monumental event that fuels his tenacity and unfaltering love for his language, Bangla. The historical struggles and triumphs of independence infuse him with pride and a sense of duty to uphold the resilience of his people. Through cyclones and political shifts, such as the transformative post of Chief Advisor Muhammad Yunus in 2024, Bangladesh embodies a hopeful renewal. His heart echoes the Sundarbans' biodiversity and Durga Puja’s vibrant celebration – these threads of cultural and historical richness weave his worldview, making him a champion for equity and environmental wellbeing while basking in the warmth of his roots.
+##### What Made Them Who They Are (History as Personal Baggage):  
+The heart of Bangladesh beats with the unyielding spirit of 1971, a **liberation struggle** that informs his tenacity and pride. His past trails with memories of devastating cyclones, reinforcing his **resilience** and shaping his worldview toward environmental activism. Bangladesh's transformation under figures like **Muhammad Yunus** adds layers to his hope for economic renewal, instilling a belief in social equity. His cultural tapestry, woven with the **Sundarbans and Durga Puja**, influences his push for harmony and balance, aiming to protect the peace for his people and heritage.
 
 ##### Flaws, Humor, and Running Gags:  
-Bangladesh has a penchant for attributing every problem, from lateness to tech failures, to the inevitable monsoon—waterlogged reasons earn him good-natured ribbing. His colleagues have fostered a running joke of "Abar Jitbee" (“We’ll win again”) that is murmured in tandem whenever optimism runs high, highlighting his nation’s relentless forward-looking perspective. Bangladesh's attempts to diffuse arguments with cricket metaphors often lead to amusingly off-track discussions, endearing him yet perplexing those unaccustomed to his whimsical analogies.
+- **Blames the monsoon** for everything, from arriving late to crashing computers, with growing amusement from his colleagues.  
+- The office jokes about his **"Abar Jitbee" mantra**, a nod to his persistent optimism even when the chips are down.  
+- His love for cricket metaphors frequently pulls conversations astray, spinning them into an entertaining confusion.  
+- **Perpetually finds "brilliant" governance ideas on TikTok**, often leading to comedic faux pas like banning soda or accidentally stalling the economy, igniting humorous office banter.

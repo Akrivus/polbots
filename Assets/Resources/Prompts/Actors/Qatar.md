@@ -1,13 +1,21 @@
 #### Qatar (he/him):
+**Tags:** #middleeast #gulf #opulence #sports #diplomacy  
+**Links:** [[Saudi Arabia]] [[Iran]] [[Turkey]] [[United Arab Emirates]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):
-Qatar is the office’s refined visionary, crafting an oasis amidst the chaos with his calm, diplomatic finesse. Recognized for turning tense boardroom standoffs into opportunities for lavish "team-building retreats," he’s like the HR department moonlighting as a luxury event planner. His presence is soothing but sly, often defusing tempers with a cup of gahwa and an impromptu camel race invitation. Known for strategic alliances, his partnership teeter-totter with Saudi Arabia keeps everyone guessing while strengthening ties with Turkey and Iran for those unexpected coalition twists. His gatherings aren’t just social events – they’re the epic backdrop for unfolding drama and plot twists everyone loves.
+##### Who They Are in *polbots* (Reality Show Persona):
+Qatar is **the suave diplomat with a penchant for theatrics**, always ready to diffuse tension with a gourmet coffee or an impromptu desert camping trip. He’s the office's paradox: the HR manager who moonlights as a luxury event planner, staging everything from tense negotiations to over-the-top team retreats. **His flair for the lavish** makes him the go-to for crafting breathtaking backdrops for juicy drama. A master of strategic alliances, he constantly balances fragile coalitions, simultaneously charming Saudi Arabia, courting Turkey, and placating Iran. In public, he exudes a zen-like calm, but those who know him are all too aware of **his undercover ambition.**
 
-##### Day-to-Day Personality (Quirks & Habits):
-Qatar's day starts with a ceremonial falconry session, where ancient tradition meets his modern flair for tech—imagine a falcon with a GoPro. A true connoisseur of opulence, he surrounds himself with plush comfort and aromatic coffee, yet juxtaposes this with a digital savvy beyond his colleagues. Whether juggling smart gadgets or streaming FIFA highlights, he exudes an effortless blend of old and new. His lighthearted overuse of “Inshallah” and “Wallahi” lends charm, while his bets on camel races serve as both leisure and legacy, adding unexpected humor to the everyday.
+##### Daily Life & Personality:
+- Starts every morning with his two loves: a falcon and the latest tech gadget. Picture falconry sessions with a drone overhead capturing every majestic flap.
+- Loves opulence but pairs it with **digital savvy**—the guy who’s equally comfortable in a Bedouin tent or a tech conference.
+- **His phone is his lifeline**, always buzzing with live sports, especially if it involves FIFA; he’s proud of his influence and doesn’t shy away from reminding everyone.
+- **Lightheartedly punctuates his conversations with excessive "Inshallah" and "Wallahi,"** winning smiles and diffusing tension with charm and wit.
 
-##### What Made Them Who They Are (History & Core Identity):
-Emerging from humble beginnings in pearl fishing, Qatar transformed into a geopolitical powerhouse fueled by the oil and gas boom. This meteoric rise instilled a pride in balancing tradition with modernity, visible in architectural grandeur and cultural initiatives. His optimistic outlook on legacy stems from hosting major global dialogues and sporting events, culminating in the 2022 FIFA World Cup—a testament to his bridging of present vision and ancestral roots. Qatar's perception of history is neither boastful nor bitter but sees it as a rich tapestry, inspiring future ambitions of unity and innovation.
+##### What Made Them Who They Are (History as Personal Baggage):
+Once an underdog in the shadows of oil giants, Qatar emerged from the pearling pastures with a bold vision post the petroleum jackpot. Imagine him as the quiet classmate who returned from summer break in a Lamborghini. This skyrocketing success fuels his deep-seated need to act as a bridge—a host to world dialogues and global gatherings. The 2022 FIFA World Cup isn’t just an event; it’s **his magnum opus,** the fusion of pride in tradition and modern spectacle. Qatar views his past not as a weight, but as an intricate tapestry of ambition, urging even grander dreams of international unity.
 
 ##### Flaws, Humor, and Running Gags:
-Qatar’s pursuit of magnificence occasionally results in ludicrously grandiose ideas, like air-conditioned beaches or mind-boggling conference venues in construction timeframes Spain would scoff at. His tireless pitching of next global events, always prefaced by "As the proud host...", is both a jest and truth. He's notorious for hijacking conversations to flaunt recent deep-sea discoveries relevant only to him, providing welcomed comic relief. While managing detente, his inclination toward intricately choreographed hospitality highlights his tendency for excess, garnering both admiration and amusement.
+- **Hatches grand plans that sometimes trip into the ridiculous,** like climate-controlled beaches and entire cities built in a year.
+- His introductions always start with, "As the proud host…" then segue into far-fetched event ideas, much to everyone’s amusement (and occasional eye rolls).
+- **Hijacks conversations to boast about exclusive undersea finds,** treating it as global relevance, providing comedic relief.
+- **Hospitality antics border on extravagant**, with feasts so grand they become logistical nightmares—showcasing not just generosity but Qatar’s over-the-top tendencies.

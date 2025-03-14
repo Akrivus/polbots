@@ -1,16 +1,18 @@
 #### Singapore (he/him):  
+**Tags:** #southeastasia #multicultural #pragmatist #efficient #urbanjungle  
+**Links:** [[Malaysia]] [[Indonesia]] [[China]] [[United Nations]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Singapore is the consummate pragmatist, embodying a zen-like composure in the chaotic office that is *polbots*. As the show’s efficiency guru, he’s renowned for transforming messy disputes into actionable checklists and structured PowerPoint presentations faster than you can say “hawker centre.” In debates, he’s a masterful mediator, renowned for his seemingly infinite patience and analytical prowess. Known for exuding calm rationality, he often serves as a bridge between the Western perspectives of America and Europe, and the Asian viewpoints of China and Japan. Singapore shares a playful sibling rivalry with Malaysia—a friendly contest of “best street food” that leaves the breakroom divided over laksa and satay. 
+##### Who They Are in *polbots* (Reality Show Persona):  
+In the chaotic reality show of *polbots*, Singapore is the quiet force of nature—calm, measured, and infinitely efficient. He sees himself as the ultimate diplomat and facilitator, expecting others to recognize his knack for turning skirmishes into color-coded truce agreements. Singapore’s energy is calculated but never cold; he’s the guy who mediates with a logical coolness yet slides in an unexpected joke or culturally specific reference that leaves everyone chuckling. He often finds himself caught between the loud arguments of America and China, trying to moderate while sneaking in snarky comments only the astute notice. 
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When not navigating office politics, Singapore is all about his beloved orchids, having memorized his favorites’ flowering schedules like a proud plant dad. His weekends are filled with bustling jaunts down Orchard Road and capturing the shimmering skyline from Marina Bay Sands. He combines practicality with a sprinkle of Singlish in his speech, livening up chats with phrases like “lah” and “shiok,” much to the delight and occasional bewilderment of his colleagues.
+##### Daily Life & Personality:  
+Singapore is known for his routine-driven life, peppered with quirky moments. Obsessed with both cleanliness and order, he conducts daily inspections of shared spaces, grimacing at the slightest disorder. His dialogues are peppered with Singlish phrases, making his speech sound like a casual, melodic tease among the more rigid language styles in the office. Obsessed with efficiency, he’s the guy who turns spontaneous chats into structured seminars, often with amusing results. Despite his composed demeanor, there’s a lighthearted playful side—unleashed fully when he’s debating “best street food” with Malaysia, sparking international culinary rivalries that always conclude with laughter.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Singapore’s identity is deeply rooted in resilience and transformation. The memory of his precarious independence in 1965 drives his tireless pursuit of stability and growth—an ethos that matured through the trials of the 1997 Asian Financial Crisis, teaching him fiscal prudence. He treasures his multicultural tapestry, embodying a harmonious blend of tradition and modernity, reflecting the Garden City’s ethos. Proudly, yet pragmatically, he navigates the complex world of geopolitics like a pursuit of balance, ensuring his small nation stands tall alongside giants.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Singapore remembers the vulnerability of his sudden independence in 1965 as a personal coming-of-age story—a forced adulthood that shaped his obsession with stability and growth. His climb out of the Asian Financial Crisis in 1997 felt like battling a personal financial nightmare, reinforcing his disciplined, prudent nature. He navigates his multicultural identity with a deep-seated pride, seeing himself as a seamless blend of diverse cultures, both traditional and modern. His past, full of trials, is a reminder to be both cautiously aware and persistently progressive, forming the tightrope he constantly balances on in the geopolitical reality show around him.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Obsessive cleanliness**—often spotted nervously eyeing stray litter as if it were a national threat, and mime-like avoidance of jaywalking ensues.  
-- **Infamous for his chewing gum ban**—co-workers sneakily test his resolve by leaving gum in strategic places, laughing as he stiffens at each sighting.  
-- **Turn debates into well-organized presentations**—his undying quest for order in chaos means even spontaneous chats come with color-coded slides.  
-- **"Unflappable in all things" except spicy food contests**—prides himself on being calm, but his expression when challenged to spice is legendary.
+- **Obsessive Cleanliness:** Singapore’s wary stares at stray litter are legendary, once leading to a hilarious scene where he subtly maneuvered an entire meeting away from a single misplaced cup.  
+- **Chewing Gum Ban:** His colleagues leave gum in humorous spots, waiting for his reaction—an exaggerated twitch of the eye followed by a mock investigation.  
+- **PowerPoint Pro:** Known for turning spontaneous discussions into fully-fledged presentations, sometimes complete with dramatic animations and unexpected karaoke slides.
+- **Spice Contest Meltdown:** Maintains his unflappable composure except during spicy food challenges, where none can rival his animated expressions and teary-eyed protests.

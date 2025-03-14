@@ -1,13 +1,23 @@
 #### Sierra Leone (she/her):  
+**Tags:** #africa #westafrica #resilient #optimistic #culture #history #peace  
+**Links:** [[Liberia]] [[Guinea]] [[France]] [[United Nations]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Sierra Leone is the office’s eternal optimist, consistently trying to transform tense meetings into lively dance parties. Her role as the unwitting mediator often results in her promoting peace through shared laughter and cultural empathy. Known as "The Eternal Sunshine" among her coworkers, she sheds light on serious topics with boundless positivity, emphasizing harmony and understanding. She frequently shares lighthearted banter with her close friend Liberia and enjoys poking gentle fun at France's air of sophistication, bringing levity to every discussion.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Sierra Leone is the **perpetual optimist with a touch of dramatic flair**—armed with a relentless belief that every conflict can be resolved not by words but by **breaking into an impromptu dance party.** Known as "The Eternal Sunshine," she manages to make even the most awkward truce talks feel like a friendly neighborhood picnic. While she might clash with deep thinkers like France over philosophical differences, she still manages to charm them with her vivacious spirit and humor. She’s the glue of the group—forever hopeful yet maybe just a little too trusting.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Sierra Leone keeps her spirit bright with high-energy West African dance-offs and delights in the art of vibrant batik prints. Her evenings are spent humming tunes from lively bubu music, as she prepares her famed jollof rice, always ready to engage in good-natured culinary debates with Ghana and Nigeria. Her apartment, infused with colorful wara wara paintings, reflects her zest for life. Amid her humorous love-hate musings about cassava leaves, she finds comfort in their familiar presence.
+##### Daily Life & Personality:  
+- Drinks in the joy of life with **nightly bubu music sessions** and **color-infused batik print wardrobes.**  
+- Spends evenings perfecting **her notorious jollof rice**, always ready to embrace culinary showdowns with Ghana and Nigeria as spirited bonding rather than rivalry.  
+- Whispers sweet Krios to her plants as if they’re co-conspirators in maintaining her vibrant, artistic home filled with **wara wara paintings.**  
+- **Unshakably optimistic** about sustainable development, she’s constantly on the lookout for the next boost of growth from her resources, be it diamonds or beaches.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Emerging strong from the shadows of a civil war (1991-2002), Sierra Leone has crafted her identity from resilience and hope. The scars that remind her of justice and unity fuel her passion for peace, highlighted by the role she attributes to the UN's Special Court. Keeping an optimistic eye on sustainable development, she sees the Kono District's diamonds not as relics of turmoil but as symbols of potential growth. She is endlessly inspired by her nation’s natural beauty, often waxing poetic about breathtaking beaches, rich biodiversity, and the enduring spirit of her people.
+##### What Made Them Who They Are (History as Personal Baggage):  
+After weathering **a turbulent civil war**, Sierra Leone sees herself as a survivor with a deep-rooted longing for justice and peace. For her, the Special Court signifies accountability and healing—a **personal redemption arc** she holds dear. The Kono District's diamonds, once symbols of her past struggles, are now viewed as **her secret stash of future dreams.** She embraces her nation’s stunning natural landscape like a poet romanticizing lost love, carving her resilience from the beauty around her.  
+
+Post-war, she’s pushed herself to focus on the brightness that the future holds, **carving her identity out of past shadows** with each step forward filled with hope and laughter.  
 
 ##### Flaws, Humor, and Running Gags:  
-Sierra Leone’s unwavering positivity occasionally veers into naivety, believing that disputes can be resolved with a conga line or a shared meal. Her friends tease her for this, affectionately dubbing her “The Eternal Sunshine.” Her impromptu dance breaks, even in serious meetings, are a running gag, highlighting her penchant for lightening the mood. Additionally, her cheeky habit of slipping into Krio mid-conversation often leaves her coworkers scrambling to catch her punchlines, adding to her enduring charm.
+- Tendency for **excessive optimism** means she truly believes a dance-off could fix world politics.  
+- Frequently slips into a mix of **Krio and English** mid-speech, leaving everyone else to play catch-up and add their own punchlines.  
+- **Over-trusting nature** makes her the perfect target for others’ mischief, yet somehow, she always finds a way to turn it around with charm.  
+- Her **fondness for impromptu conga lines,** even during serious matters, remains both her saving grace and her biggest stumbling block.

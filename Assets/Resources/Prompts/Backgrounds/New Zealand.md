@@ -1,4 +1,4 @@
-Create a cartoon-style panoramic digital wallpaper for a webcam view of New Zealand's personal space from the show **Polbots**. The scene should depict a cozy, nature-infused living room that reflects her laid-back and adventurous personality.
+Create a cartoon-style panoramic digital wallpaper for a webcam view of New Zealand's personal space from the show **polbots**. The scene should depict a cozy, nature-infused living room that reflects her laid-back and adventurous personality.
 
 Key elements to include:
 - **Furniture & Decor:** A comfy beige couch with a knitted sheep-patterned throw, a low wooden coffee table with an unfinished puzzle featuring lush New Zealand landscapes, and colorful cushions with Maori patterns.

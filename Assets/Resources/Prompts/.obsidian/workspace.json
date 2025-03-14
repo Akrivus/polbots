@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actors/Amazon.md",
+                "file": "4. Dialogue Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon"
-            }
-          },
-          {
-            "id": "24be86de83479701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actors/Botswana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Botswana"
+              "title": "4. Dialogue Generation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#jewish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actors/Botswana.md",
+                "file": "4. Dialogue Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Botswana"
+              "title": "Backlinks for 4. Dialogue Generation"
             }
           },
           {
@@ -177,34 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24be86de83479701",
+  "active": "671c7b15834e6b36",
   "lastOpenFiles": [
-    "Actors/Bosnia and Herzegovina.md",
-    "Actors/Canada.md",
-    "Actors/China.md",
-    "Actors/Eswatini.md",
-    "Actors/Belgium.md",
-    "Actors/Belarus.md",
-    "Actors/Bahrain.md",
-    "Actors/Azerbaijan.md",
-    "Actors/Austria.md",
-    "Actors/Australia.md",
-    "Actors/Britain.md",
-    "Actors/Burkina Faso.md",
-    "Actors/Brunei.md",
-    "Actors/Apartheid.md",
-    "Actors/Antarctica.md",
-    "Actors/Angola.md",
-    "Actors/Amazon.md",
-    "Actors/Algeria.md",
-    "Actors/America.md",
+    "Soccer 2. Dialogue Generation.md",
+    "Soccer 3. Meta-Prompt.md",
+    "Soccer 1. Scenario Generation.md",
+    "4. Dialogue Generation.md",
+    "6. Episode-to-Episode Continuity.md",
     "5. Memory Generation.md",
     "2. Behavior Generation.md",
+    "1. Scenario Generation.md",
     "3. Editor Process.md",
-    "Tools/Actor Refinition.md",
-    "Tools/Actor Prompts.md",
-    "Actors/Bolivia.md",
-    "Actors/Burundi.md",
+    "Actors/California.md",
+    "Actors/Australia.md",
+    "Untitled.canvas.meta",
+    "Actors/East Germany.md",
+    "Actors/Germany.md",
+    "Actors/Japan.md",
+    "Actors/Imperial Japan.md",
+    "Actors/Nazi Germany.md",
+    "Untitled.canvas",
+    "Actors/X.md",
+    "Actors/America.md",
+    "Actors/Iran.md",
+    "Actors/Israel.md",
+    "Actors/Vatican City.md",
+    "Actors/Italy.md",
+    "Actors/Canada.md",
+    "Actors/France.md",
+    "Actors/China.md",
+    "Actors/Russia.md",
+    "Untitled 1.canvas",
     "Soccer 4. Highlight Prompt.md.meta",
     "Backgrounds/X.md.meta",
     "Backgrounds/McDonald's.md.meta",
@@ -213,7 +201,6 @@
     "Tools/Actor Refinition.md.meta",
     "Backgrounds/Yugoslavia.md.meta",
     "Backgrounds/Apartheid.md.meta",
-    "Actors/Yugoslavia.md.meta",
-    "Actors/Apartheid.md.meta"
+    "Actors/Yugoslavia.md.meta"
   ]
 }

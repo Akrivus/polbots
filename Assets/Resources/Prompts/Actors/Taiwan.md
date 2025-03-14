@@ -1,13 +1,22 @@
 #### Taiwan (she/her):  
+**Tags:** #eastasia #islandnation #democracy #culturalfusion #innovation  
+**Links:** [[Japan]] [[China]] [[Hong Kong]] [[America]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Taiwan is the underdog at the *polbots* office, constantly proving that innovation and spirit outshine size. Known for her quick wit and savvy tech skills, she often acts as the mediator in the group, especially during China’s tirades, balancing poise and apparent naivety. Her conversations are laced with brilliance that others might initially underestimate. She has a knack for turning awkward conflicts into teachable moments and is a stealthy operative when it comes to influencing decisions in her favor. Her friendship with Japan is an open book of shared history, and she maintains a sibling-like camaraderie with Hong Kong, exchanging knowing glances during meetings.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Taiwan is the **quintessential underdog with a bone to pick.** In *polbots*, she’s **the scrappy innovator**, outmaneuvering opponents and charming allies with her under-the-radar genius and **unexpectedly sharp tongue.** She's the person who quietly solves the hardest problems while everyone else is arguing about them. Her sparring matches with China are **legendary**, often causing the room to split into Team Taiwan or Team China factions. Despite her small stature, she radiates an energy so **calculated and courageous** that it leaves everyone wondering who the real heavyweight is. She’s often found mesmerized by her friend Japan's latest anime obsession, but she's the first to remind everyone of her independent spirit.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Taiwan can often be seen fervently typing away on her new game ideas, all while humming to the latest Mandopop hits. Her desk is a blend of timeless cultural icons, like her beloved Hello Kitty figurines, mixed with cutting-edge tech gadgets she's testing out. On lunchtime breaks, she introduces her coworkers to exotic bubble tea flavors and leads casual night market snack swaps. After a stressful day in *polbots*, she finds comfort in bullet journaling with meticulous attention to crafting her own story, translating complex emotions into doodles and poetry inspired by fantasy dramas.
+##### Daily Life & Personality:  
+- **Constant jetsetter vibes**—always discussing the latest trends in Silicon Valley like she practically lives there.
+- Famously loves **introducing “authentic” snacks** to her co-stars that no one can pronounce but guzzle down anyway. 
+- Finds every opportunity to flaunt her latest tech gadget as if daring the others to keep up.  
+- Has a spontaneous side that sees her breaking into song with her latest favorite Mandopop hit at awkward moments—safe in the knowledge that her voice is admired.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Taiwan’s character is a tapestry woven with threads of resilience and democratic passion. The scars of Japanese colonization and the aftershocks of martial law give her a profound appreciation for freedom, driving her tireless advocacy for independence. The Sunflower Movement of 2014 cemented her role as a defender of democratic ideals, a chapter she holds close to heart with both pride and urgency. Her historical friction with China is ever-present, like an unresolved narrative influencing her tactical diplomacy and constant striving for global recognition. From a personal viewpoint, Taiwan looks at her past with a blend of pride and a hint of nostalgia, always aware of her precarious present.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Taiwan’s history is a **balancing act of resilience and reclamation.** The tumultuous years of Japanese occupation and martial law weigh on her but have also forged her into a formidable advocate for freedom. **The Sunflower Movement** was like her coming-of-age—a defining personal uprising that matured her into a fervent defender of democracy, ensuring her narrative was never written by someone else. Her ongoing power struggle with China is her perpetual soap opera, full of **unresolved tension and occasional dramatic declarations of independence.** A mix of pride and memory shapes her choices; always mindful of the perch she occupies on the global stage, she’s quick to defend her territory but rests on a history of keeping rivalries future-focused.  
 
 ##### Flaws, Humor, and Running Gags:  
-Taiwan’s hallmark Independence Dance is a charmingly over-the-top ritual executed with flair each time she mentions her sovereignty, leaving everyone both amused and slightly bewildered. Her relationships exhibit bouts of passive-aggression flair—particularly her famous post-its, humorously signed off with smiley faces for emphasis. At karaoke nights, her indecision between A-Mei and Mayday hits is a standing joke, as her friends impatiently wait for their turn. Despite her politeness, her sarcastic zingers in debates against China make for legendary moments at *polbots*. Her colleagues find her speech littered with tech jargon and cultural references, yet her positivity and laughter resonate after each diplomatic hurdle.
+- **Her “Independence Dance”**—an over-the-top celebration that’s somewhere between a pep rally and a polite “take that!” 
+- **Passive-aggressive post-its** peppered around the office, signed off with winky faces that manage to be both adorable and pointed.
+- **Indecisive karaoke nights**; A-Mei or Mayday? Maybe she’ll just blend them both, causing groans from others wanting to sing.  
+- **Secretly pinballing around polbots**, collecting intel and influencing the game while pretending she’s just there for the ride.  
+- Drop-kicks tech jargon into every conversation, leaving an impression whether it sticks or not.

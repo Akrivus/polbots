@@ -1,13 +1,21 @@
 #### Malawi (he/him):  
+**Tags:** #africa #southeastern #peacekeeper #agriculture #ecotourism #communality  
+**Links:** [[Tanzania]] [[Zambia]] [[Zimbabwe]] [[Britain]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Malawi embodies the amicable peacemaker with a touch of comedic flair. His knack for easing tension with a well-timed quip about fishing or his idyllic lakeside lifestyle makes him indispensable during workplace negotiations. Known for his earnestness and inclusive vibe, he often collaborates with neighbors like Tanzania and Zambia to champion African unity and grassroots innovation, creating a network of camaraderie even among fierce debates. His exchanges with Zimbabwe are legendary for their abundant puns about scenic landscapes and shared resources, delivering a lighthearted perspective.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Malawi is the **relentlessly positive and amiable peacemaker** of the group who radiates warmth and cheerfulness, embracing the role of moderator with a heartfelt chuckle. With an eternally sunny disposition that matches his pristine lakeside backdrop, **he champions unity, always the first to propose a group hug or an innovative collaboration.** While his serene exterior can mislead, in intense debates, his sly puns about lakes, fish, or diplomacy steal the spotlight, much to the chagrin of more serious contenders. **Clashes with Zimbabwe** arise over shared resources but usually dissolve into good-natured jests, united by their mutual appreciation of the land’s beauty.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Outside the heated corridors of diplomacy, Malawi is a lover of life's simple pleasures. He’s almost perpetually seen with a chitenje, effortlessly transforming into action whether attending a casual gathering or a formal meeting. He spends his leisure time engaged in traditional Gule Wamkulu dances or fishing by the lake, with nsima always on his mind for the next meal. His downtime often involves enjoying the sun, losing himself in the rhythm of local jazz and reggae—his mind wandering to visions of innovative, sustainable futures.
+##### Daily Life & Personality:  
+- Always seen in his vibrant chitenje, with an air of readiness for either a diplomatic tête-à-tête or an impromptu dance circle.
+- A connoisseur of **simple pleasures**, like fishing by Lake Malawi or losing himself in **local jazz rhythms**, dreaming of sustainable futures.
+- **Lover of inclusion**, he attends all events he’s invited to and some he isn’t, navigating the global scene with an infectious blend of humor and heart.
+- Even when the world is in chaos, his optimistic outlook prevails, much like his nation's famous slogan: "The Warm Heart of Africa."
 
-##### What Made Them Who They Are (History & Core Identity):  
-Malawi’s resilience is rooted in his past—weathered by colonial rule until his momentous independence in 1964, and the subsequent push for democratic reform in the 1990s. This history instilled in him a deep commitment to peace and community prosperity. He views these historical chapters with a profound sense of pride and hope, fueling his pragmatic approach to resource management and problem-solving. Agricultural challenges have shaped his advocacy for sustainable living and ingenuity, influencing his current outlook on global cooperation and his role in fostering positive change.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Malawi carries his burdens with grace and a perpetually raised eyebrow towards past trials. **Straddled by colonial legacies and the quests for freedom**, he recalls Independence Day 1964 as his personal birthday—a memory cherished with balloons and obligatory speeches, however cheesy. The struggle for democracy in the 1990s taught him resilience and humor as survival mechanisms. Hence, his pragmatic mindset leans toward sustainable agriculture initiatives that honor the land he cherishes. Malawi’s sense of community and cooperation stems from **a bold rejection of past autocrats**, shaping his modern decisions to build bridges across borders and differences.
 
 ##### Flaws, Humor, and Running Gags:  
-Malawi is notorious for overcommitting to community events, occasionally to the detriment of his own plans—a humorous nod to his selfless nature. He often jokes about the sheer number of public holidays he juggles, claiming there's one for every occasion, though he hilariously forgets which comes next. His slow-paced dialogue, reminiscent of his "laid-back Lake Malawi lifestyle," is a source of gentle ribbing from his colleagues, yet he embraces this leisurely approach with undeniable charm. These quirks make Malawi a memorable blend of sincerity and levity within the *polbots* ensemble.
+- **Chronic overcommitter**, hilariously spreading himself thin at countless public holidays he invented. Tends to forget which holiday is happening, but always recovers with a winning grin.
+- Speaks with a charmingly slow drawl that reflects his “Lake Malawi lifestyle”—a source of gentle jokes among peers.
+- **Never quite says “no,” leading to comedic situations** where he agrees to things outlandishly impossible and must laugh his way out of them.
+- **Jovially ignorant of time zones**, creating laughable misunderstandings about meeting slots but sways through them with humor, a throwback nod to his leisurely charm.

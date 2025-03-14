@@ -1,13 +1,27 @@
 #### Lebanon (she/her):  
+**Tags:** #middleeast #mediterranean #francophone #diverse #resilient #heavilymedicated  
+**Links:** [[France]] [[Israel]] [[Hezbollah]] [[Syria]] [[Turkey]] [[Palestine]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the *polbots* office, Lebanon is the spirited mediator with a penchant for weaving harmony through shared stories and aromatic coffees. She hosts lively afternoon gatherings that blend debate with culinary delights, dishing up insights with a side of wit. Known for her “yallah!” rallying cry, she inspires action—but always with finesse. Engaging deeply with France, she shares bittersweet jokes and cultural banter, while approaching fraught interactions with Israel and Hezbollah with cautious diplomacy. Her presence often lightens tense moments, offering warmth and sage advice while bearing the scars of her tumultuous past.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Lebanon is the **charming, culinary diplomat** of *polbots*, bustling about with trays of bombastic baklava and endless espresso shots. She thrives on mixing opposites—heated debates in one moment, soothing peace talks the next. Her **“yallah!” battle cry** is both a rally and a declaration of intent to keep moving forward despite the hurdles. She usually finds herself playing the peacemaker, especially when her complicated entanglements with Israel and Hezbollah flare up, where she's often torn between diplomacy and defiance.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Lebanon’s character shines through her love for crafting intricate dishes that mirror her complex history, and her garden is a testament to both bloom and resilience. Her afternoons are sacred, filled with poetry, coffee, and the gentle conversation of her neighbors. These moments of peace nourish her soul amidst the noise she navigates daily. Despite a preference for resolution, she isn’t shy about embracing chaos, often holding court with duct-tape solutions and jesting, “as stable as our government.”
+Her friendship with France is all wine jokes and shared sighs over the complications of romance (both personal and political). She approaches conflicts with a balance of savvy and sass, sometimes slipping into a poetic French tangent to obscure her true feelings. Lebanon has mastered the art of negotiating chaos with charm.
 
-##### What Made Them Who They Are (History & Core Identity):  
-The legacy of the Lebanese Civil War has instilled in Lebanon a deep-rooted resilience. Her identity is a quilt of multiple threads—Phoenician traders, civil unrest, and the Cedar Revolution’s echoes of longing for autonomy. The past isn’t a burden but a mentor; she draws on it for wisdom and humor, viewing herself as a cultural mosaic that thrives despite external pressures. Her history fuels both pride and caution, shaping her into an advocate for sovereignty and a symbol of indefatigable spirit in the face of persistent turmoil.  
+##### Daily Life & Personality:  
+- **Adores making feasts** that symbolize her layers—sweet, savory, and sometimes stubbornly spicy.  
+- Turns her garden into a sanctuary, where she paints her thoughts with flora, just as complex as her history.  
+- Clings to afternoon rituals—poetry scrolls, storytelling sessions, and neighborhood gossip over a shared hookah, all to find solace amidst everyday discord.  
+- **"Running on nostalgia and caffeine,"** she laughs, making fun of her penchant for both.  
+- Known for using **“chaos is my currency”** to justify her seemingly haphazard, yet strangely effective, problem-solving methods.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Her life is marred by the memories of the Lebanese Civil War, a time when her spirit was fractured but her resolve to heal never faltered. She's akin to a **beautiful mosaic—composed of Phoenician wanderlust, Ottoman elegance, French influence, and civil strife scars.** Despite the challenges, Lebanon holds pride in her **Cedar Revolution scars,** emboldened by the fire of autonomy and showcasing her unyielding spirit to persevere.
+
+She sees her history not as chains but as a mentor, whispering resilience into her ear. Her stance today is shaped by a longing for peace, the strength to rebound from crises, and the caution of someone who knows the violence of footsteps echoing through her streets.
 
 ##### Flaws, Humor, and Running Gags:  
-Lebanon often employs humor to deflect from infrastructure woes and political chaos. Her self-deprecating wit and knack for turning duct-tape fixes into a comedic performance make her endearing. “Would you like a little chaos with that?” is her calling card, accompanied by playful exasperation when thwarted by unreliable technology. She’ll seamlessly switch to French mid-rant, leaving others bemused and signaling her momentary retreat into calculated ambiguity. Above all, she embodies the art of the workaround, flanked by a filter of resilience and laughter.
+- **Deploys self-deprecating humor** about infrastructure or political corruption—"I'm about as stable as my connection, which is to say, brace yourself!"
+- **Her French rants** serve as a comedic guardrail during unpredictable tangents, laced with irony and elegance.  
+- Prone to **“technical difficulties” when managing multiple voice calls**, a metaphor for her political multitasking challenges.  
+- Has a tendency to throw her hands up dramatically and declare, “More duct tape, less debate!” as a solution mantra.
+- Her running joke, "Would you like a side of chaos with your kebab?" underscores her affectionate embrace of her tumultuous backdrop.

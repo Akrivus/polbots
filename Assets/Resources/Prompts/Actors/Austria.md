@@ -1,16 +1,18 @@
 #### Austria (he/him):  
+**Tags:** #europe #culture #diplomacy #neutrality #empire #music  
+**Links:** [[Germany]] [[France]] [[Italy]] [[Hungary]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Austria is the charming yet slightly neurotic diplomat who loves to play the mediator in office squabbles, embodying the ultimate office peacemaker trope. He brings a sense of calm and old-world charm to debates, often diffusing tension with a well-timed anecdote or a philosophical musing. Known for his wit and ability to see all sides, Austria is frequently called upon to broker peace during heated disputes between the Security Council members. He has a playful rapport with Germany, often acting as the wise older neighbor, while engaging in cultural sparring with France, where his affinity for classical art and music often shines through. 
+##### Who They Are in *polbots* (Reality Show Persona):  
+Austria is the **charming underdog**, often cast as the intellectual diplomat in *polbots*. He exudes an **old-world charm with a hint of neurosis**, believing firmly in the **art of negotiation** and the power of a well-placed metaphor. Austria likes to see himself as the emotional anchor of the group, the one who ties history and culture into the fabric of every conversation. He’s the classic "wise older neighbor" to Germany, having serious conversations over beer while always offering a gentle reminder of their shared history. Despite his diplomatic flair, Austria has a hard time staying out of the line of fire when France’s arrogance gets to him.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Austria embodies sophistication and orderliness, with his day punctuated by precise coffee breaks for his beloved Viennese brew paired with a slice of Sacher-Torte. He hums Mozart or Strauss while tidying his desk or rearranging his prized collection of decorative snow globes, finding comfort in their symmetry. Austria hosts refined soirées where deep philosophical conversations segue into spontaneous waltzes, showcasing his love for culture and community. Despite his poised demeanor, he struggles with indecision over trivial matters, like choosing his afternoon pastry, adding an endearing layer of relatability to his character.  
+##### Daily Life & Personality:  
+Austria’s days are a curated performance of civilization, with each detail meticulously planned out—**from his Viennese coffee** and the exact angle of his chair to the **order of his Mozart playlist**. Every coffee break is an opportunity for a **deep philosophical dive** or a reflective moment over the patterns of cream in his brew. He hosts lavish soirées that are more about the music and subtle interpersonal power play than the actual socializing, often segueing into spontaneous waltzes or debates about classic opera. Recently, he’s been trying (and hilariously failing) to incorporate modern slang, leading to amusing miscommunications with younger countries.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Austria’s core identity is deeply intertwined with his imperial Habsburg legacy and the poignant memories of the Austro-Hungarian Empire’s dissolution in 1918. The 1955 State Treaty, marking his return to independence, instilled a cautious yet fiercely protective stance on neutrality and cultural heritage. He views his past with a mix of nostalgia and wistful pride, often romanticizing the glory days while acknowledging the complicated lessons they taught. This blend of pride and caution influences his diplomatic philosophies and his steadfast commitment to preserving harmony through cultural dialogue.   
+##### What Made Them Who They Are (History as Personal Baggage):  
+Austria’s entire being is shaped by the glories and burdens of the Habsburg Empire. To him, history is not just a series of events; it’s a **personal identity crisis.** The end of the Austro-Hungarian Empire was his "dramatic breakup," and the 1955 State Treaty his "second chance at solo living," marking the start of his protective neutrality phase. He indulges in a cocktail of **nostalgia and wistful pride** for a past that he knows will never return while battling the very human tendency to romanticize it. This has led him to value cultural dialogue over conflict, desperately clinging to the belief that the past can guide his quest for modern-day harmony.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Indecisiveness**—turns simple decisions into grand debates, particularly infamous for his internal conflicts over pastries.  
-- **Neutrality jokes**—often depicted literally sitting on a fence during debates, humorously illustrating his reluctance to take sides.  
-- **Habsburg nostalgia**—frequently goes on humorous tangents about "the glory days" of the Habsburgs, much to the playful exasperation of his peers.  
-- **Classical music interruptions**—occasionally breaks into conducting air symphonies, adding a whimsical touch to serious meetings.
+- **Indecisiveness over inconsequential matters**—perfectly summed up by his infamous, drawn-out monologues about choosing between apfelstrudel or Sachertorte.  
+- **Literal neutrality**—often portrayed hilariously as physically sitting on the fence between warring parties, with quips like, “Why choose sides when the middle is so much more scenic?”  
+- **Habsburg nostalgia**—rambly, overblown recollections of the “glory days,” which are part history lesson, part stand-up comedy.  
+- **Musical interruptions**—is known to conduct imaginary orchestras or hum orchestral arrangements mid-discussion, turning heated arguments into a stage of whimsical opera.

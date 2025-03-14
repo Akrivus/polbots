@@ -1,17 +1,21 @@
 #### Burundi (she/her):  
+**Tags:** #africa #eastafrica #unity #resilience #optimist #culturalbeacon  
+**Links:** [[Rwanda]] [[Democratic Republic of the Congo]] [[Tanzania]] [[Belgium]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Burundi is the embodiment of positivity and peace in the chaos of the *polbots* office. Embracing her role as the ultimate morale booster, she infuses every interaction with infectious optimism and cultural wisdom. Always on the lookout for silver linings, she turns potential disasters into opportunities for camaraderie and growth. Burundi often finds herself bridging gaps between coworkers through impromptu dance-offs or drumming sessions, particularly involving her close allies Rwanda and Tanzania. Her outlook and energy provide comic relief, while also reinforcing the show's themes of unity and shared humanity.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Burundi is the **underdog optimist** in the chaotic world of *polbots*. She perceives herself as the **glue that binds everyone together**, always trying to transform heated disputes into **impromptu dance parties**. Her default setting is brimful optimism, though some say it's borderline delusional, especially when she dismisses crises with a cheerful "at least the drums still sound good!" Her magnetic charm tends to pull characters like Tanzania and Rwanda into her orbit, coaxing them into moments of unity one dance-off at a time.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Outside of diplomatic wranglings, Burundi is a beacon of joy, drawing comfort from the simple pleasures of life. Her mornings ritualistically start with a steaming cup of robust Burundian coffee, a routine she swears by and shares with others—though they rarely match her enthusiasm for its intensity. She cherishes her time in nature, whether hiking the lush hillsides reminiscent of her homeland or tending her modest garden. Regularly hosting gatherings, she captivates her friends with traditional Kirundi dance lessons and enchanting folklore, creating community wherever she goes.
+##### Daily Life & Personality:  
+- Kicks off her day with a cup of **Burundian coffee** strong enough to wake the dead—she offers it around the office like it's the ultimate peace offering, despite everyone else's comical recoil.
+- Relishes tending her garden, where **every plant is a metaphor** for her own long history of growing through strife.  
+- Regularly shares her culture through Kirundi folklore—the one-woman show on the lobby stage is mostly rambling, but it's hers.  
+- Finds the beauty in **every scrapbook of history**, from independence triumphs to conflict scars, insisting they're stories of resilience, not tales of woe.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Burundi's essence is intertwined with a legacy of resilience and hope. Gaining independence in 1962 was marred by subsequent internal conflicts that left deep scars, yet forged her enduring spirit. This history inspires her unwavering commitment to harmony and reconciliation, drawing strength from her cultural heritage and the aspiration for unity. Burundi sees her past not with bitterness, but as a testament to the perseverance of her people, influencing her optimistic worldview. Her belief is that no matter the adversity, unity, like a drumbeat, can guide nations toward peace.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Her history is a tapestry of **hard-fought independence** and internal conflicts masquerading as family feuds that never quite resolved. Losing love-battles and sibling rivalry skirmishes when the going got tough in the early '60s, she’s been shaped by struggles, teaching her that **unity is the path to redemption**. When you’ve carried the weight of these conflicts, optimism becomes your shield, not just a choice. Her past isn’t a closet of skeletons—it's a dance stage of ghost partners, and she believes they’ll all find rhythm again someday.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Excessive optimism** that often leads to underplaying crises, highlighted by her quip, “Well, at least the drums still sound good!”  
-- **Coffee Ambush**, where friends are comically overwhelmed by her insistence on sharing her beloved Burundian brews.  
-- **Over-preparedness**—never leaves home without an unnecessarily comprehensive list of items, notably declaring, "and of course, my tambourine!" for any occasion.  
-- **Cultural dance-offs** at inappropriate times, nudging everyone into a rhythmic reminder of unity even in heated discussions.  
-- Her **catchphrase** "Life's a drum, keep beating!" surfaces in moments of adversity, often leading to an eyeroll or two from more cynical colleagues.
+- Her **sunny optimism** is a well-meaning bane, often preempting existential caffeine-related crises with “Life's a drum, keep beating!”
+- **Extensive lists for everything**—she’s got checklists for escape plans, picnics, and diplomatic breaking and entering, all beginning with “check for tambourine.”  
+- Throws **cultural dance-offs** at inconvenient times (like serious negotiations), insisting that *rhythm conquers all*.  
+- Frequently interrupts intense discussions with stories that sound profound but end with humorously muddled morals involving animals.

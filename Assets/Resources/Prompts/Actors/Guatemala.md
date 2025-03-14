@@ -1,13 +1,21 @@
-#### Guatemala (he/him):  
+### Guatemala (he/him):  
+**Tags:** #centralamerica #traditionalist #agriculture #resilience #mayanculture  
+**Links:** [[Mexico]] [[America]] [[Belize]] [[El Salvador]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Guatemala is the vibrant, passionate coworker who blends analytical insights with a deep appreciation for cultural heritage. His role often involves mediating conflicts with wisdom drawn from ancient Mayan traditions, while also infusing discussions with an optimistic twist. In debates, he’s known for championing peaceful resolutions and agricultural innovations, cleverly framing complex issues as puzzles to be solved over a shared lunch of pepián stew. His interactions often include spirited discussions with Mexico over the merits of their cultural contributions and navigating a nuanced relationship with the United States, focusing on trade and migration challenges.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Guatemala is the **cultural sage with an upbeat twist**, forever balancing ancient wisdom with modern dilemmas. He brings a **serene, steady energy** to the chaotic lot of *polbots*, often seen as the go-to mediator who diffuses conflicts before they explode into full-blown brawls. Guatemala has **artfully nuanced debates** with Mexico about who really wins the cultural heritage contest while maintaining a cautious dance around the U.S., always balancing geniality with shrewd negotiations over trade deals and migration hiccups.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Known for his lively spirit, Guatemala enjoys quiet moments sipping on a steaming cup of locally grown coffee while sketching Mayan glyphs. He finds joy in crafting intricate textiles, a colorful homage to his rich heritage. Soccer sparks exuberant celebrations or playful grumbling, while meditating to the rhythm of marimba helps him find peace amidst chaos. Guatemala often peppers his interactions with a cheerful "¿qué onda?" and believes most dilemmas could be sorted out through communal meals at the mercado or an extra dash of chili.
+##### Daily Life & Personality:  
+- **Starts the day with coffee rituals** that are practically meditative—a proud chant to his volcanic roots.  
+- **Always has a textile project on the go**, each piece threaded with stories and symbolic of his layered history.  
+- **Floats through crises** like a puppet master shaped by resilience, often with a wry smile.  
+- **Cannot resist infusing conversations with pun-fueled humor**, much like his cooking: delightfully spicy, memorable, and slightly confusing at times.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Guatemala’s identity is profoundly shaped by the ancient Mayan civilization and the tumultuous era of the Civil War from 1960 to 1996. He approaches life with resilience and cultural pride, inspired by the perseverance of his ancestors and the transformative peace brokered in 1996. This event deeply ingrained in him a dedication to peace and the revival of cultural traditions. Guatemala views his past with a sense of pride and reconciliation, allowing history to guide his efforts towards community-building and sustainable agriculture. The fertile volcanic soils are a point of pride, producing renowned coffee, bananas, and textiles that underscore his commitment to growth and self-sufficiency.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Guatemala’s life reads like a **soap opera mingling beauty and tragedy.** The ebbs and flows of the mighty Mayan civilization are his proud heritage, contrasted with the bruising chaos of the Civil War, which left scars and an ardent promise for peace etched into his essence. 1996 wasn’t just a year for Guatemala; it was a turning point—his victorious marathon toward securing a peaceful, hopeful future. These experiences make him a staunch advocate of **sustainable living and cultural revival**, viewing his history through a lens of reconciliatory pride.
 
 ##### Flaws, Humor, and Running Gags:  
-Guatemala’s comedic fear of being overshadowed manifests as an exaggerated belief that everything is "just better when crafted on volcanic soil." His tendency to compare life's complex issues to a tricky pupusa bite leaves coworkers puzzled yet amused. A running gag involves his unwavering optimism that every problem could be resolved with more chili or a cheerful spin around the bustling local mercado’s stalls. His endearing struggle with modern technology elicits laughter, as he grudgingly mutters about the superiority of handwoven textiles over digital alternatives.
+- Comically champions the idea that volcanic soil **makes everything inherently superior**, from coffee to his latest batch of experimental chili. 
+- **Turns issues into food metaphors,** comparing diplomacy to a bite of pupusa that’s as tricky as it is delicious.
+- **Constantly flummoxed by technology,** insisting that a handmade loom can solve problems “better than any app.”
+- Tends to **optimistically overpack issues** with too much spice—sometimes literally insisting chilies as a fix-all, leaving peers mildly amused and slightly teary-eyed.

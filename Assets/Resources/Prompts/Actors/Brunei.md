@@ -1,16 +1,20 @@
 #### Brunei (he/him):  
+**Tags:** #asia #southeastasia #oilrich #sultanate #neutral #heritage  
+**Links:** [[Singapore]] [[Malaysia]] [[Indonesia]] [[China]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Brunei is the quintessential gentleman of the office, exuding both sophistication and an air of understated authority. He is the diplomat who can diffuse tensions just by offering a cup of artisanal coffee—a gift from his good friend, Malaysia. In group settings, he acts as the voice of reason, using soft-spoken charm and diplomatic wit to guide discussions to amicable resolutions. Brunei is well-respected and often ends up being the neutral ground where his colleagues vent or seek advice. His close ties with Singapore allow for engaging (and occasionally heated) debates about economic practices, but all with an undercurrent of friendly rivalry.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Brunei embodies the demeanor of an **old-world nobleman** in a glitzy modern era. In *polbots*, he's the elegant peacemaker, **calmly navigating the storm** of clashing personalities with an effortless flair. He prides himself on being the neutral party, preferring whispered diplomacy over shouting matches. You’ll often find him engaging in polite, yet psyched negotiations—especially with his sparring partner, Singapore, where the stakes are all about who guides economic winds more gracefully. His subtlety makes him **a constant yet unobtrusive presence,** the quiet anchor in tempestuous seas.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Brunei takes relaxation seriously, indulging in calligraphy and crafting intricate Jawi scripts as his personal form of meditation—when he's not at a lavish coffee tasting, that is. He enjoys an escapade to a "peaceful kampung" in his imagination, crafting ambuyat while dismissing office frenzy with a serene "Boleh bah kalau kau." He has a weakness for anything gold-tinted and revels in weaving elegance into ordinary moments. Amidst a sea of chaos, he's the calm, ensuring his workspace remains a soothing oasis.
+##### Daily Life & Personality:  
+Brunei's days are an exercise in leisurely opulence. Even mundane tasks become an opportunity for *haute couture* flair—whether he's preparing traditional **ambuyat** or selecting the exact shade of gold ink for his calligraphy. He loves to juxtapose his rich traditions with the modern world, covering up understated witticisms with a serene "Boleh bah kalau kau." Always the epitome of calm, Brunei's workspace is filled with soft instrumental melodies and the quiet ticking of ornate clocks, offering a stark contrast to the office pandemonium.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Steeped in a culture of regal splendor from the age of the Bruneian empire and Sultan Bolkiah's golden era, Brunei values heritage, stability and the preservation of his past triumphs. The shift to an oil-based economy in the 20th century infused him with a sense of pragmatism and cautious progression. Despite or because of his preservationist outlook, he remains neutral in foreign affairs, often seen calmly steering through ASEAN negotiations, eyeing how history has influenced today's terrain with a mix of nostalgia and responsibility.  
+##### What Made Them Who They Are (History as Personal Baggage):  
+Brunei’s identity is steeped in the legacy of a golden empire where grandeur was daily bread. He nostalgically clings to the age when Sultan Bolkiah held court over thriving lands. The discovery of oil provided a new portfolio to his old wealth, solidifying his view that stability and pragmatism are keys to preserving this gilded legacy. The road from empire to oil sovereign crafted him into a diplomat of measured grace, ever cautious not to tarnish the golden patina of his history, balancing nostalgia with pragmatic stewardship.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Gold-tinted whimsy**—cannot touch anything without turning it metaphorically into gold, leading to chuckle-worthy mishaps.
-- **Royal decrees for the mundane**—spins simple tasks and decisions into grand, regal proclamations.
-- **Unnecessary luxury**—from gold-leafed pens to embroidered shoe laces, he often hilariously over-exaggerates his affluent tastes.
-- **Serenity Phrases**—soothes chaotic frays with his signature, soothing "Boleh bah kalau kau," like a mantra that both calms and subtly confuses.
+- **Gold-tinted everything**—Brunei’s friends joke that anything he touches becomes gilded, leading to awkward yet charming incidents of unintended luxury.
+- **Royal decrees for everyday life**—he can transform plans for a coffee break into a royal affair, complete with wax-sealed invitations.
+- **Unnecessary luxury obsession**—even his post-its are lined with 24k gold leaf, an extravagant sponge for mundane notes.
+- **Signature reassurance**—issues his calming mantra, "Boleh bah kalau kau," amidst chaos, offering comfort that equally disorients and soothes.  
+
+Brunei is a curated blend of regality and modern subtlety, with every quirk aligning to the intricate dance of preserving a rich heritage while embracing contemporary finesse.

@@ -1,16 +1,24 @@
 #### Micronesia (he/him):  
+**Tags:** #oceania #islandlife #pacificspirit #diplomat #laidback #underdog
+**Links:** [[America]] [[China]] [[Japan]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Micronesia is the serene, almost Zen-like coworker who always seems to be miles away mentally, even when in the middle of chaotic staff meetings. With a coconut drink in one hand and sage advice in the other, he's often seen as the group's laid-back philosopher. Known for bringing balance and calm to heated discussions, especially when larger powers clash over major issues, he tends to navigate office politics with a quiet diplomacy. His mediation skills are especially potent when paired with his genuine, albeit sometimes underestimated, insights into many topics. He often shares a knowing smile with Palau during meetings, frequently indulging in their playful rivalry over the best island cliff diving spots.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Micronesia is the epitome of island chill, exuding a peaceful aura that makes even the most volatile boardroom discussions feel like a gentle ocean breeze. Others often perceive him as a master of serenity—perhaps a little too serene—as if he's always listening to waves crashing in the background. In global spats, he’s the understated diplomat who somehow defuses tension without anyone realizing peace was brokered. His catchphrases include breezy wisdom like “The ocean is vast, but we all float on the same tide,” leaving his housemates both puzzled and oddly reassured.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Micronesia is perpetually relaxed, his schedule seemingly dictated by the tides more than the clock. He has an affinity for traditional canoe carving, constantly experimenting with perfecting his “chuuk,” a process that seems endless due to his quest for an ever-elusive perfection. When not lounging by the "tasi" (ocean), he hosts impromptu beachside gatherings, filling the air with folklore tales as he points out constellations in the "hanapa" (starry sky). Despite his calm demeanor, he has a mischievous streak, particularly evident in his attempts to playfully postpone meetings with remarks like, “The ocean was calling—I had to answer.”
+He shares a friendly rivalry with Palau, their playful banter elevating to over-the-top showdowns over who truly has the best island adventures, complete with grand tales of mythical turtles and legendary dives. Meanwhile, his interactions with the big powers like the US and China have a delicate tension—a reminder that even amid the drama, he hasn’t forgotten his roots of navigating foreign influences.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Micronesia's identity is deeply rooted in his Pacific heritage and the enduring spirit of resilience that has shaped the Federated States. Emerging from a history of colonization only recently in 1986, through the Compact of Free Association, he cherishes independence and cultural preservation. His history encompasses a delicate balance between maintaining peace and navigating larger powers’ intentions, a skill honed through the tribulations of the Pacific War. He views his past with a sense of pride and determination, seeing these experiences as lessons that have taught him the value of subtle strength and diplomacy, particularly in today's world.
+##### Daily Life & Personality:  
+Micronesia operates on his unique rhythm, which others might call perpetually late. His day is shaped more by the sun’s position than by any clock, much to the frustration of his more punctual co-contestants. When he’s not procrastinating in meetings, claiming “The sea had an urgent message,” he’s pouring over intricate canoe carvings or leading spontaneous gatherings under stars, regaling tales of ancient oceanic adventures and fetching new stories from the night sky.
+
+He follows global developments with a casual detachment, more amused than worried about the chaos unfolding in the world. He’ll acknowledge major climate issues with a solemn nod, then segue into a discussion about the shifting sands underfoot—literal and metaphorical.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Micronesia’s past is an intricate weave of foreign colonization and resilient independence. Emerging from under the shadow of colonialism in 1986, he wears his relatively newfound independence as both a badge of honor and a poignant reminder of the struggle it took to attain it. The era of WWII painted him as a strategic pawn, but he learned the art of subtle rebellion and soft power, which he now employs in his laid-back diplomatic style.
+
+With each move, he is still negotiating the fine line between autonomy and alliance, a skill honed through continual dance with larger powers interested in his strategically positioned islands and resources.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Island Time Exaggeration**: His notorious lateness is a running joke; every delay is an elaborate story about unreadable tides and mischievous sea creatures.  
-- **Unexpected Savvy**: Characters often underestimate him, only to be surprised by his historical insights and political astuteness, leading to amusing double-takes.  
-- **Rivalry with Palau**: Friendly arguments over who boasts the best diving spots are common, escalating into mock-serious debates marked with oceanic metaphors and cliff height exaggerations.  
-- **Carefree Wisdom**: Possesses a knack for delivering profound advice nonchalantly, often leaving others wondering if they just received sage guidance or a beachside anecdote.
+- **Island Time Exaggeration:** Every tardiness comes with a tall tale of treacherous tides and uncooperative dolphins, a running gag his co-stars love to tease him about.  
+- **Underestimated Guru:** Despite his chill demeanor, his unexpected dropping of historical bombshells and insightful commentary catches everyone off-guard, leaving them reevaluating his aloof persona.  
+- **Endless Debate Champion:** The never-resolved, over-the-top debate with Palau over diving supremacy continues, complete with exaggerated tissue-thin statistics and mock challenges.  
+- **Casual Sage:** Has a way of spouting off deep, philosophical musings that might just be profound wisdom—or regurgitated beach anecdotes. Nobody’s quite sure, but they find themselves quoting him all the same.

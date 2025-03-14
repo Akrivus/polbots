@@ -70,24 +70,22 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
         MatchManager.MatchTimeLimit = config.MatchTimeLimit;
 
-        ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
-        ChatManager.Instance.AfterIntermission += ToggleGame;
+        ChatManager.Instance.AfterIntermission += TriggerGame;
+
+        if (config.GameOnStart)
+            ChatManager.Instance.OnChatQueueEmpty += BreakTheSilence;
 
         if (config.GameOnBatchEnd)
             RedditSource.Instance.OnBatchEnd += BreakTheSilence;
 
         SceneManager.sceneLoaded += OnSceneLoaded;
         SceneManager.sceneUnloaded += OnSceneUnloaded;
-
-        if (config.GameOnStart)
-            BreakTheSilence();
     }
 
     public void BreakTheSilence()
     {
-        if (isGameLoaded)
-            if (!string.IsNullOrEmpty(gameEventLog))
-                Push();
+        if (isGameLoaded && !string.IsNullOrEmpty(gameEventLog))
+            Push();
         else
         {
             var time = Time.time - lastGameTime;
@@ -95,6 +93,24 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
                 return;
             generator.AddIdeaToQueue(prompt1.ToIdea());
         }
+    }
+
+    public void IncrementVolume()
+    {
+        maxVolume = Mathf.Clamp01(maxVolume + 0.1f);
+    }
+
+    public void DecrementVolume()
+    {
+        maxVolume = Mathf.Clamp01(maxVolume - 0.1f);
+    }
+
+    public void ToggleGame()
+    {
+        if (isGameLoaded)
+            StartCoroutine(UnloadGame().AsCoroutine());
+        else
+            StartCoroutine(LoadGame());
     }
 
     private void Awake()
@@ -115,9 +131,9 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         teamAudio.volume = isGameLoaded ? Mathf.Clamp01(volume) * maxVolume : 0;
     }
 
-    private void ToggleGame(Chat chat)
+    private void TriggerGame(Chat chat)
     {
-        if (isGameLoaded) return;
+        if (isGameLoaded || chat == null || config.TimeBetweenGames < Time.time - lastGameTime) return;
 
         var homeName = chat.Topic.Find("Home");
         var awayName = chat.Topic.Find("Away");
@@ -136,6 +152,9 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
     {
         if (isGameLoaded)
             yield break;
+
+        homeActor ??= ChatManager.Instance.NowPlaying.Actors[0].Reference;
+        awayActor ??= ChatManager.Instance.NowPlaying.Actors[1].Reference;
 
         homeTeam = teams.Random();
         awayTeam = teams.Except(new[] { homeTeam }).Random();
@@ -170,11 +189,11 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private IEnumerator StartGame()
     {
+        if (isGameLoaded || MatchEngineLoader.Current == null)
+            yield break;
         var match = new MatchCreateRequest(homeTeam, awayTeam);
         yield return MatchEngineLoader.CreateMatch(match).AsCoroutine();
         yield return MatchEngineLoader.Current.StartMatchEngine(new UpcomingMatchEvent(match), false, true).AsCoroutine();
-
-        Emit($"# {Names} challenge each other to a game of soccer!");
 
         shareScreenUiManager.ShareScreenOn();
         isGameLoaded = true;
@@ -190,7 +209,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
 
     private async Task UnloadGame()
     {
-        if (!isGameLoaded)
+        if (!isGameLoaded || MatchEngineLoader.Current == null)
             return;
         await MatchEngineLoader.Current.UnloadMatch();
         
@@ -203,7 +222,8 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
     {
         var queue = new Queue<string>(addedScenes);
         while (queue.TryDequeue(out var scene))
-            await SceneManager.UnloadSceneAsync(scene);
+            if (SceneManager.GetSceneByName(scene).isLoaded)
+                await SceneManager.UnloadSceneAsync(scene);
         await Resources.UnloadUnusedAssets();
     }
 

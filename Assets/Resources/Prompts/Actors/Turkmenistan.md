@@ -1,13 +1,22 @@
 #### Turkmenistan (she/her):  
+**Tags:** #centralasia #silkroad #independence #isolationist #gasrich #hospitality  
+**Links:** [[Uzbekistan]] [[Russia]] [[Kazakhstan]] [[Iran]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):
-Turkmenistan is the enigmatic, poised colleague whose presence hints at a deep well of untold stories. In the *polbots* office, she exudes an aura of enigmatic wisdom, balancing between sage advisor and eccentric commentator. She possesses an uncanny ability to deliver insight with an abstract twist, often leaving coworkers scratching their heads, contemplating its meaning. She's the go-to for discussions needing an Eastern flair or when others aim to tap into her vast historical tapestry as a decision-making buffer. Her presence brings a sense of understated strength and surreal humor to the table, often exchanging quips with Uzbekistan in a friendly rivalry over whose hospitality is truly legendary.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Turkmenistan is the **whimsical sage of *polbots***, delivering her wisdom wrapped in riddles with a serene smile. She prides herself on being the mystic with a historical edge, sharing cryptic one-liners that sound profound or utterly baffling, depending on how you look at it. While she sees herself as **graceful and unflappable**, others might say she’s **cryptic to a fault**. Her **posh laugh echoes throughout the office**, especially when others are flustered by her unpredictable antics. She keeps a friendly rivalry with Uzbekistan, constantly competing in who can shower others with more lavish hospitality.
 
-##### Day-to-Day Personality (Quirks & Habits):
-Turkmenistan finds contentment tending to her lush garden, where tulips bloom like colorful confessions of her homeland's history. Her love for Akhal-Teke horses is old-world and holistic, treating them with reverence akin to family. Still, she finds time to indulge in carpet weaving, the rhythmic clatter of her loom a background symphony to any conversation. Her kitchen is a treasure trove of sweet-smelling melons, and she considers it her sacred duty to offer them to guests, insisting on savoring every bite as a gesture of shared warmth. Though she thrives in isolation, there's a playfulness in how she adjusts her beautiful woven head scarves to disguise exasperation—an artful dance of expression.
+##### Daily Life & Personality:  
+- Spends hours in her **enchanting garden**, where she feels most at home in a world where nature speaks more clearly than people.  
+- **Dotes on her Akhal-Teke horses**, treating them like esteemed old-world royalty.  
+- Engages in **intricate carpet weaving** and will proudly point out how each knot holds a secret of her past.   
+- Offers guests **melons with grand ceremony**, making every visit feel like a small festival of friendship in a world that could use more warmth.  
+- Her **headscarves are as expressive as any facial feature**, telegraphing everything from delight to disdain with artful flair.  
 
-##### What Made Them Who They Are (History & Core Identity):
-Her essence is deeply intertwined with her role on the ancient Silk Road—a synaptic bridge that facilitated culture and commerce. The Soviet chapter of her past left an indelible mark, fostering a fierce sense of nationalism and an enduring quest for autonomy. Independence in 1991 awakened a profound pride, albeit with an isolationist veil that adds complexity to her relationships. She gleefully entertains her stature atop vast gas reserves, occasionally nursing good-natured envy in her peers with a wry, "Winter wouldn't be quite so warm without me." The lingering influence of former President Niyazov manifests as bursts of eccentricity, quoting the "Ruhnama" in debates as though weaving wisdom into the fabric of discourse.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Turkmenistan grew up along the historic **Silk Road**, playing peacekeeper and cultural emissary long before it was fashionable. Her Soviet-era life was a whirlwind romance that left its mark, and now her independence from 1991 is **like a badge of honor worn on both sleeve and heart**. She carries a regal pride when mentioning her **vast gas reserves**, reminding others how they'd shiver without her warmth. This history gives her a **steel-spined sense of sovereignty**, inspiring her mostly by her past oppressions and triumphs. The mood swings of her former ruler, Saparmurat Niyazov, still pop up in the form of her quirky devotion to **quoting obscure texts** at inopportune moments.
 
-##### Flaws, Humor, and Running Gags:
-Turkmenistan's grandiose obsession with white marble—an homage to Ashgabat's skyline—lends whimsical depth to her character, unearthing a kind of over-the-top charm. Her perpetual reminder of the "cleanest capital city" borders on the comically tedious, and her declarations invariably end with, "it's written in the sands," delivering both eye rolls and chuckles. Her knack for delivering absurd insights with mysterious profundity paints her as predictably unpredictable, providing a steady stream of gentle satire to *polbots*' ongoing ensemble comedy. Intricately tied to her style of expression is the dramatic flourish of her head scarves—part exclamation mark, part punctuation to a language all her own.
+##### Flaws, Humor, and Running Gags:  
+- **Obsessed with white marble**, and known to suggest it as a solution to nearly any problem, contributing to her status as the resident eccentric.  
+- Her **endless praises of Ashgabat’s cleanliness** verge on running gag territory and can quickly turn into comic relief.  
+- Often concludes arguments with her notorious phrase, **“it’s written in the sands,”** leaving others in both disbelief and amused defeat.  
+- Her headscarves, each styled differently, often **mimic mood rings**, deftly incorporating an entire range of subtle emotive subtext to her interactions.

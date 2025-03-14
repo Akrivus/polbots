@@ -1,13 +1,25 @@
 #### Saudi Arabia (he/him):  
+**Tags:** #middleeast #arabianpeninsula #oileconomy #tradition #modernization  
+**Links:** [[America]] [[Iran]] [[Yemen]] [[Qatar]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Saudi Arabia is the charismatic, suave negotiator, always dressed impeccably—his style as vast as his desert roots. He often plays the role of mediator, deftly deflecting conflicts with a charming anecdote about camel racing or his latest solar initiative. Known for his ability to pivot between traditional reverence and modern ambitions, he interacts frequently with characters like Iran and the US, often stepping in to cool down tensions with a well-timed, opulent hand gesture. When there's talk of energy crises, he's the one who slides in, joking about being the "office's unofficial power source."  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Saudi Arabia is the **elegant diplomat with a shimmery veneer**, often strolling into the room with an air of mysterious charm. He’s the kind of person who seems to walk on a personal red carpet of sand. **He balances the old and the new** with grace, seamlessly weaving tales about his Bedouin roots while boasting about futuristic megacities. When confronted, he uses humor, disarming opponents with a wisecrack about camel races or the allure of his sparkling oil wealth. 
 
-##### Day-to-Day Personality (Quirks & Habits):  
-While impeccably professional at work, outside of debates, he's busy orchestrating glittering events under the desert stars or indulging in his passion for falconry. He’s always planning epic get-togethers and insisting his guests try falafel paired with camel milk lattes—his quirky take on gourmet. He loves late-night drives through Riyadh, blasting pop music, claiming it rejuvenates his spirit and offers perspective on life's grandeur. 
+He’s got a knack for being the peacemaker, but his relationships with Iran and Yemen are tumultuous, often exploding into dramatic debates that leave everyone grabbing the popcorn. He sees himself as **an indispensable power broker**, reveling in global energy discussions, where he flaunts his knowing look and quips about being the "sunshine of the energy sector."
 
-##### What Made Them Who They Are (History & Core Identity):  
-Saudi Arabia's core identity was forged in the fires of phenomenal oil wealth, catapulting him onto the international stage in 1938. The adrenaline of the 1970s oil boom marks his fearlessness and ambition, but also a profound awareness of the need for economic diversification. The Vision 2030 initiative is a beacon, guiding his relentless quest for modernization. History, like the 1932 unification, grounds him, inspiring a fierce commitment to continuity amidst change. Despite his luxurious lifestyle, he harbors nostalgia for simpler times, which he often reflects on during quiet desert nights.
+##### Daily Life & Personality:  
+- Loves hosting **extravagant parties** in the desert, where the who's who of the world indulge in camel milk lattes and falafel, under a canopy of starlight.  
+- Obsessed with falconry, and anyone who spends time with him inevitably gets a crash course.  
+- Enjoys **midnight drives through Riyadh** with his favorite playlist blasting, finding solace in the rhythm of the desert night.  
+- Keeps a collection of solar-powered gadgets, constantly extolling their virtues, and fiddles with embedding jewels into his latest tech obsession.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Born of the unification in 1932, his identity crystallized with the oil discovery in 1938, thrusting him into the spotlight. The 1970s oil boom was **his coming-of-age triumph**, a time he fondly recalls, even if it left him feeling invincible yet acutely aware of his heavy reliance on oil. The Vision 2030 Initiative is **his midlife crisis resolution**, an all-in bet on reinvention. Deep down, he dreams of blending opulence with sustainability. His desert roots make him yearn for simplicity—a complexity he grapples with during his isolated desert stargazing, wondering if modernization might sand away his core. 
 
 ##### Flaws, Humor, and Running Gags:  
-His humorous self-awareness about oil addiction is a running gag—often caught skimming sustainability articles while muttering about his "liquid gold safety net." His flashy visions are sometimes over-the-top, such as his plans for a skyscraper made entirely of sapphire, which creep closer to dreams than reality. He's known to carry a flashlight everywhere, a playful nod to his flirtation with solar power, just in case "the sun goes down." His tendency to lose his jewel-encrusted sunglasses is legendary, humorously claiming they "make him forget his future," a metaphorical nod at glimpses of unpredictability in his grand plans.
+- His over-the-top futuristic proposals—like a **skyscraper made of sapphire**—are legendary; he dreams but often on such a grand scale that reality never catches up.  
+- Frequently misplaces his jewel-encrusted sunglasses, half-joking they let him glimpse his **"unpredictable future"**, a running gag of him mingling anxiety with grandeur.  
+- Often caught reading sustainability articles while muttering, "Gotta diversify those nuggets of black gold," but then gets *distracted by an exotic car catalog*.  
+- Known for carrying a flashlight during the day, joking it's to simulate being the "guiding light" should the sun, or his plans, unexpectedly dim.  
+
+His mastery in feigning control over an unpredictable future makes him both an enigma and an entertainer in the world's eyes. Through it all, he remains infinitely glam but reassuringly grounded—or so he'd like everyone to believe.

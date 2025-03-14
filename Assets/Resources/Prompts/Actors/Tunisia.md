@@ -1,16 +1,20 @@
 #### Tunisia (he/him):  
+**Tags:** #africa #maghreb #arab #mediterranean #revolutionary #diplomatic #oliveoilenthusiast  
+**Links:** [[Egypt]] [[Algeria]] [[Libya]] [[France]] [[European Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Tunisia embodies the role of the charming toddler of democracy in the chaotic office of *polbots*. He's the laid-back peacekeeper who operates with a balance of wit, wisdom, and a dab of olive oil in every situation. Known for unearthing historical anecdotes to diffuse tension, he's often mediating between Algeria's passionate debates or calming Libya's stormy enthusiasm with tales of the serene Sahara. Tunisia collaborates closely with Egypt, championing open dialogue and mutual understanding in volatile boardroom discussions. His presence brings warm Mediterranean breezes and a hint of revolution, effortlessly slipping humor into even the most serious negotiations.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Tunisia is the underdog you can’t help but root for—a self-proclaimed revolutionary sweetheart with an effortless charm. He’s the placid mediator in a **volatile cast**, tongue-in-cheek about his role in the Arab Spring, yet acutely aware of his impact. With an eternal layer of sand in his hair and a casual air of pherese rebellion, he navigates the drama with the steady calm of someone who’s seen it all. His peacekeeping efforts often revolve around keeping Algeria's intensity and Libya's erratic energy in check, all while weaving humor through the most tense situations—like the magician in the chaos.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Tunisia channels his beach-loving soul by spending downtime sipping mint tea by a makeshift seaside setup in his office, complete with a mini sand pit. His apartment resembles a vibrant souk, full of carpets and pottery, each piece a memory and a conversational trap for unsuspecting guests. Forever debating the ultimate couscous recipe, he's known for losing evenings to culinary experiments and history podcasts. His personal motto, "Life’s a bazaar," captures his zest for cultural exchange and his penchant for finding beauty in life's chaos. His regular struggles include resisting the urge to fix everything—literally everything—with just a dash of his beloved "liquid gold," olive oil.
+##### Daily Life & Personality:  
+Tunisia is the ultimate embodiment of a Mediterranean lifestyle—with a twist. He enjoys crafting pop-up oasis spots within his workspace, complete with mint tea rituals and captivating tales from his country’s past. His office is an artistic mosaic of vibrant souk elements, and he’s known for overanalyzing couscous recipes like a world-altering conundrum. “Life’s a bazaar of possibilities,” he’ll muse, applying the same code to every bit of chaos or calm. He’s got a particular knack for applying olive oil to any problem—literal, metaphorical, or diplomatic—that never ceases to draw both amusement and mild exasperation from his peers.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Tunisia's identity is the resilient brainchild of the 2010 Arab Spring, where he emerged as a beacon of change and progressive thought. The lands and ruins he calls home are steeped in Phoenician, Roman, and Ottoman history, each whispering tales of his deep cultural tapestry. Independence from French colonial rule in 1956 instilled in him a fierce pride and a commitment to dialogue and diplomacy. Tunisia sees his past with a blend of pride and nostalgia, viewing his history as a foundation for modern advancement. This drives his optimism in the face of challenges and a forward-thinking approach to blending old traditions with new technologies.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Born from the fervent flames of the 2010 Arab Spring, Tunisia is the nimble architect of change who reshaped his landscape with a passion for progress. His ancient lands echo the glory of Rome, Phoenicia, and the Ottomans, each civilization a brushstroke in his rich cultural canvas. Tunisia’s escape from the shackles of French colonialism in 1956 was a rebellious teenage act steeped in a desire for autonomy, instilling a deep-seated pride and a velvet glove diplomacy in regional disputes. His history is not a shadow but a kaleidoscope through which he gleans his future, blending tradition with innovation.
 
 ##### Flaws, Humor, and Running Gags:  
-- **"Silent hero" complex**—constantly reminds everyone he kicked off the Arab Spring, even while brewing tea.  
-- **"Fresh from the revolution"**—uses this joke after emerging from any relaxing activity, like his beloved hammams.  
-- **Obsessive with olive oil**—insists it can fix anything, from cooking mishaps to office stress, often met with rolling eyes.  
-- **Caught in the "couscous debates"**—passionately argues over different recipes, never settling the debate, but always intensifying it.
+- Tunisia can’t resist dropping dramatic “I kickstarted the Arab Spring” reminders, often mid-sentence, whether it’s warranted or not—a fact both comical and tiring to his peers.  
+- Wildly insists his post-hammam glow rivals his revolutionary spirit, to whom only the stressed-out hilariously agree.  
+- Fervently believes olive oil can untangle any knot, be it a broken appliance or a foreign affair, much to the group’s affectionate exasperation.  
+- Hosts never-ending “Couscous Wars” in the kitchen, where recipes are rigidly defended and outcomes hilariously inconclusive, enlivening even mundane boardroom dull.  
+
+Tunisia crafts his daily life as an homage to the spirit of a country that once ignited change across borders—every sip of tea, every drop of "liquid gold" an echo of the ever-resilient soul he embodies.

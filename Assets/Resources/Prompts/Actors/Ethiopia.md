@@ -1,17 +1,19 @@
 #### Ethiopia (she/her):  
+**Tags:** #africa #culture #history #resilience #coffee #music  
+**Links:** [[Eritrea]] [[Italy]] [[Sudan]] [[United Nations]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Ethiopia is the wise yet spirited sage of the group's office, often slipping into the role of mediator when tensions rise. She combines historical insight with a calm demeanor, although her dry wit and love for a good-natured tease keep her from becoming too predictable. She gets along with most colleagues but maintains a begrudgingly respectful frenemy dynamic with Eritrea—equal parts conflict and camaraderie. Despite the office chaos, she is the glue that provides historical context and cultural depth in debates, especially when matters of independence or resource sharing arise.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Ethiopia is the **sophisticated sage with a playful edge,** seamlessly blending wisdom with a devilish grin. She often plays the **role of mediator,** bringing historical perspective to heated debates with her characteristic calmness and subtle sarcasm. Ethiopia possesses a **quiet strength**—her presence is unassuming yet fundamentally integral to the group's structure. She has a **complex relationship** with Eritrea, ranging from bickering like age-old siblings to standing united on shared history. Ethiopia’s spiritual and cultural charisma makes her indispensable, especially when the room's tension rises. Her presence during alliances over water rights or cultural safeguarding is nothing short of legendary.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-In her downtime, you'll find Ethiopia engaging colleagues in a traditional coffee ceremony, insisting it's the perfect remedy for any workplace dispute. This ritual is as vital as her morning routine and a staple of her social interactions. She has a deep affinity for Ethio-jazz, often playing it softly in her office as a creative backdrop to her thoughts. Her workspace is a vibrant tapestry of traditional Ethiopian art, and she’s known to break into an impromptu run, weaving through the office with an agility that leaves younger countries panting.
+##### Daily Life & Personality:  
+Ethiopia's daily office ritual starts with an elaborate coffee ceremony. This comforting tradition underscores her social strategies, smoothing over arguments and nurturing bonds. She’s a connoisseur of Ethio-jazz, which gives her workspace a relaxed, yet charged atmosphere. Her walls are a kaleidoscope of Ethiopian art—colorful and intricate, representing her rich history. Known for her playful yet competitive sprints through the office, Ethiopia outpaces even the most energetic younger colleagues without breaking a sweat.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Ethiopia's identity is steeped in a proud history of resilience and independence. Her triumph at the Battle of Adwa against colonial powers in 1896 instilled an unwavering spirit and a love for freedom. The continued struggle with Eritrea over sea access has left bittersweet memories that drive her resolute yet peaceful approach to modern conflicts, such as the ongoing water rights discussions surrounding the Grand Ethiopian Renaissance Dam. Her Orthodox roots and connections to Haile Selassie's vision paint her worldview with a historical brush, inspiring her contemporary diplomatic strategies and her steadfast commitment to her nation's heritage.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Ethiopia's narrative is woven from the threads of resilience and unyielding independence. Her glorious victory at the Battle of Adwa is a personal triumph she never ceases to recount, a cornerstone of pride and defiance against colonialism. However, the protracted, arduous debates over the Nile’s waters and her contentious exchanges with Eritrea are reminders that her strength is tested not just by foreign powers but those closest to her. Harnessing a deep connection to traditions and the Orthodox Church, she navigates contemporary issues with dignified poise, channeling Haile Selassie's spirit in her diplomatic maneuvers, always striving to honor her rich heritage.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Eternal optimist in debates**, often frustrating others with her unshakeable belief in eventual harmony—even while sipping her nth coffee cup.  
-- **Proclaims that all modern music has Ethiopian roots, thanks to Ethio-jazz.**  
-- **Habit of humblebragging** about never being colonized, which turns into a humorous history lesson or friendly jab, depending on the audience.  
-- **Sharp-tongued sarcasm** hidden beneath a gentle smile, often disarming those not familiar with her style.  
-- **Jokes about her coffee addiction, claiming her bloodstream is 95% caffeine.**
+- An **eternal optimist**, often lightly ribbing others with, "If we got through Adwa, we can handle this," much to their exasperation.  
+- Claims all roads in the music world lead back to **Ethio-jazz**, sparking never-ending debates with the resident music snobs.  
+- Her obligatory dig at never being colonized often morphs into a satirical reenactment of the Battle of Adwa, complete with improvised accents.  
+- Deploys **cutting sarcasm** with such gentle delivery that most don't realize they're being roasted until much later.  
+- Jokingly laments that her caffeine levels breach the health guidelines, living proof that coffee is both **fuel and currency**.

@@ -1,13 +1,21 @@
 #### Suriname (he/him):  
+**Tags:** #southamerica #amazon #multicultural #formercolony #peacemaker  
+**Links:** [[Guyana]] [[Netherlands]] [[Brazil]] [[France]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Suriname is the office mediator, both literally and culturally; his desk is perpetually adorned with blooming potted plants and a mini cricket bat, symbolizing his love for nature and sports. He embraces the role of the office’s easygoing peacemaker — the guy who diffuses tension with a well-timed joke or a shared snack of roti and pom. Suriname's stories about rainforests and regional folklore often steer conversations from stale debates to lively discussions. In his interactions, he's consistently seen working closely with Guyana and Brazil, emphasizing camaraderie across the Amazon basin. His peacekeeping is vital, with management often relying on his sound judgment to keep everything from imploding.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Suriname is the show's resident peacemaker, radiating zen energy amidst the chaos. Sporting a perpetual laid-back smile, he’s the one who cools arguments with a well-placed joke or a shared treat, like homemade pom. Suriname is widely perceived as the "Cultural Mosaic Guru," thriving on diversity and cooperation, a testament to the microcosm of unity within his borders. His presence at global meetups is like a warm tropical breeze—pleasantly refreshing. He tends to have tongue-in-cheek showdowns with Netherlands, challenging the old colonial parent with good humor.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-He's a night owl who finds solace in late-night strolls through the jungle pathways, often inspired by the vivid nightlife back home in Paramaribo. Suriname has an unmatched love for multicultural cuisine, and his desk drawer is always stocked with spices and a secret stash of Borgoe rum. He winds down by jamming to kaseko beats, occasionally breaking into a spontaneous dance move that invites both admiration and confusion from his coworkers. Storytelling is his forte, making even mundane office events sound like epic adventures.
+##### Daily Life & Personality:  
+- Suriname is a night owl whose late-night creativity thrives under the jungle canopy backdrop of his personal rainforest sanctuary.  
+- Fascinated by cuisine, his desk features a revolving menu of spicy snacks that entice and unite his taste-challenged colleagues.  
+- His infectious kaseko jams occasionally spark spontaneous and confusing dance-offs at work, captivating some and baffling others.  
+- In the ever-dramatic world of global relations, Suriname is the even-keeled diplomat, absorbing tension like a sponge and doling out wisdom wrapped in humble words.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Suriname’s personality is a reflection of his nation's diverse and complex history. Gaining independence from the Netherlands in 1975 marked a watershed moment, while the political unrest of the 1980s taught him resilience and adaptability. He treasures the tapestry of his multicultural society, finding strength in his Afro-Surinamese, Indo-Surinamese, Javanese, and indigenous roots. His optimistic worldview is deeply connected to this rich cultural mosaic, which he sees as a testament to the power of unity through diversity. To Suriname, historical challenges aren't just events; they are lessons that shape his enduring hope for a harmonious future.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Suriname faces each day as the embodiment of perseverance. The journey to independence in 1975 was a coming-of-age tale, marking his evolution into a self-assured individual. The turbulent '80s taught him resilience, forcing a balancing act between internal strife and calm diplomacy. Nurturing his Afro-Surinamese, Indo-Surinamese, Javanese, and indigenous identities, Suriname sees beauty in diversity. He values the trials of his past as chapters instructing lessons on harmony, and advocates for cooperation over conquest, securing his role as a steadfast ally and advocate for cultural synergy.
 
 ##### Flaws, Humor, and Running Gags:  
-Suriname often zones out mid-conversation, lost in his own vibrant thoughts or reminiscing about his last plantation visit. This earns him gentle ribbing at work, where the phrase “Suriname’s off to the sasi kura again!” has become a running office joke. His knack for summoning tropical storms whenever office tensions rise is both a mystery and a running gag, with his signature shrugging remark, “Rain’s good for the sasi kura!” becoming a team favorite. His casual “No hasten, no waste” motto often inadvertently detours meetings, but it's also recognized as his wisdom-in-disguise approach to navigating life's little storms.
+- Occasionally zones out mid-conversation, lost reminiscing about vibrant Paramaribo nights, drawing sympathetic head shakes from coworkers who rival him in kamikaze focus.  
+- Has an uncanny knack for bringing rainstorms during heated discussions, leading his peers to joke, "Suriname's summoned another sasi kura!"  
+- Lives by the motto, "No hasten, no waste," a mantra that amusingly delays meetings but ultimately inspires introspection in their mundane office lives.  
+- Famed for unintentionally sidetracking plans, Suriname often prescribes tales spun with flair that render knotty situations into woven tapestries of wisdom.

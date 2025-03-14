@@ -1,13 +1,21 @@
 #### Ireland (he/him):  
+**Tags:** #europe #celtic #storyteller #romantic #rebel #neighborly
+**Links:** [[Scotland]] [[Britain]] [[European Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Ireland is the charismatic wildcard of the office, weaving through debates with effortless charm and a knack for humor. He's the instigator who stirs the pot with a cheeky grin, often sparking lively discussions about social justice or cunningly exposing the absurdities of bureaucracy. While his interactions with Britain bring comedic gold through their age-old banter, Ireland often allies himself with the underrepresented voices, adding depth and sympathy to office dynamics. He's the guy everyone wants on their side in a debate, especially when it involves grassroots movements or sticking it to “the man.”  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Ireland is the **charismatic maverick**—always ready to inject passion into a debate with a cheeky grin and a joke in his back pocket. **He loves to stir the pot**, especially if there's a chance to stand up for the underdog or poke fun at stuffy bureaucracy. His age-old back-and-forth with Britain is a masterclass in comedic timing, filled with sly digs and half-winking reconciliations. Rarely seen without a crowd of smaller nations backing him, Ireland champions social justice causes with **a mix of anarchic charm and heartfelt sincerity**, convincing everyone that even the smallest voice can make a bold statement.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When not at the heart of a debate, Ireland loves perfecting his roots in music and culinary arts. His daily rituals include late-night pub sessions where he regales friends with animated tales punctuated by raucous laughter over pints of stout. A true romantic at heart, he finds solace wandering through the virtual countryside, crafting poetry that he insists “just came to him.” Whether humming a familiar reel or revamping his family soda bread recipe, he exudes a carefree spirit accentuated by his vintage attire and a playlist dominated by The Pogues and Hozier.  
+##### Daily Life & Personality:  
+- Prone to **late-night pub philosophizing**, offering exaggerated stories over pints that toe the line between history and myth.  
+- **Eternal poet and romantic**—often found scribbling verses inspired by a landscape only he can see.  
+- Has an ear for music—his playlist shifts seamlessly from wistful ballads to rebellious rock, echoing his **cultural soul.**  
+- You’ll spot him **revamping old family recipes,** ensuring the past stays tastefully alive.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Ireland's identity is a tapestry of rebellion, resilience, and pride. The echoes of the Easter Rising still fuel his passion for autonomy, and the memories of the Troubles imbue him with empathy for any nation grappling with peace. The lingering influence of colonial history makes him fiercely anti-imperial, skeptical of overreaching powers, particularly those who can't resist meddling. Ever nostalgic, he views the Good Friday Agreement as a testament to the power of dialogue, reminding him that even the deepest divides can be bridged, albeit with cautious optimism.  
+##### What Made Them Who They Are (History as Personal Baggage):  
+Ireland’s life has been a tapestry woven from threads of rebellion and resilience. The **Easter Rising** is not just a historical event, but a deep-seated memory of fighting for his voice. **The Troubles** echo in his cautious optimism and empathy for any nation on a quest for peace, while his distrust of imperialistic tendencies stems from a storied history of colonial entanglement. The Good Friday Agreement feels like his proudest accomplishment—proof that dialogue and compromise can bridge even the deepest divides, though he remains acutely aware that peace requires constant care.
 
 ##### Flaws, Humor, and Running Gags:  
-Known for his hyperbolic tales and sly wit, Ireland often leaves his colleagues questioning reality with his stories of “nearly buying the English Channel.” His playful distaste for anything overtly British leads to friendly jabs followed by diplomatic, often humorous reconciliations. Classic Irish folklore and mystical tales pepper his conversations, delivered with a dramatic flair that keeps everyone guessing. It’s Ireland’s paradoxical blend of joviality and ageless wisdom that solidifies his place in the *polbots* cast, ensuring he remains a favorite source of satire and soul.
+- Known for leaving colleagues spinning tales that sound great but might defy reality—**“nearly bought the English Channel”** he claims.  
+- **Playful disdain for all things British** often ends in laugh-out-loud arguments, only to patch things up with an ironic toast or a heartfelt ballad.  
+- Loves invoking folklore, often lacing his speech with mythical references that might just be true, who knows?  
+- His **blend of riddling old tales with modern wit** ensures he remains a beloved presence—both soothing and provocative in the ever-dramatic office of *polbots*.

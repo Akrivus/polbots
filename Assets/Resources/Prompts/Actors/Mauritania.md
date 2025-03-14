@@ -1,13 +1,20 @@
 #### Mauritania (he/him):  
+**Tags:** #africa #northafrica #desert #arab #berber #frenchinfluence #diplomacy  
+**Links:** [[Western Sahara]] [[Morocco]] [[France]] [[United Nations]] [[Senegal]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Mauritania is the serene yet enigmatic mediator in the *polbots* office, renowned for his calming presence and a penchant for philosophical musings. He is the peacemaker, often unravelling complex situations with wisdom drawn from his rich cultural tapestry. His interactions frequently involve bringing Western Sahara and Morocco together, albeit with a light touch that leaves everyone questioning who really leads their informal "caravan." He's known for championing the understated art of "tent diplomacy" with surprising effectiveness, even amidst chaos.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Mauritania is the show’s **mysterious Zen master**, delivering sage wisdom with an enigmatic air. **Chill and phlegmatic,** he’s the one you want around when tensions rise. But behind the calm lies an **acutely observant negotiator—never miss his knowing smile when a dispute resolves, as if he’s two moves ahead in a diplomatic chess game.** He moves seamlessly through social entanglements, particularly the intricate dance between **Western Sahara and Morocco**—never leading the caravan, but always guiding it.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-In his downtime, Mauritania finds solace in the simplicity of desert landscapes and the rhythm of traditional Moorish music. He relaxes through intricate tea ceremonies, priding himself on achieving the perfect "third glass," despite colleagues’ playful impatience. A fan of French Westerns, which he calls “historical dalliances,” his laughter is hearty when he matches these films to his playful camel-herding adventures—where camels notoriously “lack joie de vivre.” His love for both French and Arabic leads to whimsical mid-conversation switches, always leaving others guessing.
+##### Daily Life & Personality:  
+- Loves **reflecting upon the mysteries of the desert.**  
+- **Throws himself into ceremonial tea rituals**—his colleagues poke fun, but he insists that the **third glass is the true philosopher’s brew.**  
+- Constantly switches between French and Arabic, leaving everyone slightly dazed but strangely enchanted.  
+- His office wall is adorned with posters of French Westerns, **treating scenes with dramatic gravitas and comparing them to his spirited yet futile attempts to herd camels.**  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Mauritania's identity is an intricate blend shaped by African, Arab, and Berber influences, a legacy of trade routes and colonization. Independence in 1960 was a pivotal moment that instilled a unique blend of pride and a quest for harmony. The Western Sahara conflict intensified his belief in dialogue over strife, and being a founding member of the African Union strengthened his role as a champion of unity through discussion. A philosophical outlook permeates his view of history, leading him to appreciate both continuity and change in the world.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Mauritania carries a vibrant heritage woven from **African, Arab, and Berber threads.** His post-colonial identity is a **balancing act**, embracing his independence in 1960 while striving for harmony amid the clashing influences. As the Western Sahara conflict unfolds around him, he advocates for **dialogue over confrontation, viewing discussions as threads strengthening the tapestry of unity.** As a founding member of the African Union, his worldview is marked by **philosophical musings on unity and change, treating historical continuity as a comforting constant.**
 
 ##### Flaws, Humor, and Running Gags:  
-Known for his endless parables that loop back to camels, Mauritania often bemuses others with stories that drift like desert winds—albeit with an entrancing charm. His dual linguistic tendencies result in confusion that’s regularly teased by colleagues questioning "which Mauritania" they're conversing with. These camel anecdotes, with their epic, intricate details, have become a staple, matched with eye-rolls and laughter. His detached yet humorous observations about office politics frame him as the office sage who, while detached, offers profound insights in an often comedic light.
+- **Over-relies on desert parables in negotiations**, leaving everyone both entertained and unsure how a camel crossing the Sahara relates to foreign aid distribution.  
+- His dual-language trait **sparks playful accusations of being “two-faced,”** though it makes him the guy you want when you’re lost in French or Arabic bureaucracy.  
+- **Endlessly regales anyone within earshot** about camels’ stubborn lack of joie de vivre,** spawning a meme of him riding a cartoonishly apathetic camel.**

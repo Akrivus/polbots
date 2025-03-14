@@ -1,16 +1,25 @@
 #### Namibia (he/him):  
+**Tags:** #africa #southern #wilderness #resilience #conservation #postcolonialism  
+**Links:** [[Botswana]] [[South Africa]] [[Zimbabwe]] [[Angola]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Namibia is the easygoing, nature-loving colleague known for smoothing over rough patches with his unyielding optimism. He often finds himself caught between more aggressive personalities, like South Africa, maintaining his signature calm with lines like, "This storm's got nothing on a desert wind." Namibia's role is the voice of reason, encouraging mindful negotiation and unity, often sharing wisdom from his own journey to independence. He's particularly close with Botswana and Kenya, forming a trio known for fostering positive environmental policies.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Namibia is the **epitome of chill**, the show’s self-proclaimed sage, who seems to have life all figured out with a backpack full of biltong and desert metaphors. Always keeping things tranquil amidst the chaos, he's **the dude you go to for zen advice but end up stuck in an hour-long story about sand dunes.** He shares a close bond with Botswana and Kenya, **creating an eco-conscious trio** that's surprisingly hip on sustainable fashion.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Namibia has a penchant for impromptu desert adventures, much to the amusement of his coworkers. When not in the thick of diplomatic drama, he's probably daydreaming about the Etosha sunsets or concocting elaborate plans to identify new constellations. His desk is a mini-safari park of souvenirs and photos from road trips, complete with a well-stocked supply of biltong and local lager. Namibia remains unflustered in chaos, often unplugging with the excuse that his phone's dead—again.
+Namibia is often caught in brotherly spats with South Africa, embodying the timeless **David and Goliath dynamic**, though he sees their altercations as just another desert breeze he must endure. His optimism and capacity for forgiveness mean he rarely holds grudges, much to the surprise of his more contentious colleagues.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-A nation forged in resistance and triumph, Namibia reflects a deep-seated resilience and conviction for democracy born from decades of colonial struggle. Independence in 1990 marked a new chapter, one he recounts with pride and determination. His natural wonder inspires an unwavering commitment to conservation, treating every conversation about wildlife or natural resources as an opportunity to advocate for stewardship. Namibia exudes a hopeful nostalgia for the past, using it to forge a more equitable future in the global arena.
+##### Daily Life & Personality:  
+Namibia has **an unparalleled knack for going AWOL** every time a meeting lands during a meteor shower. He frequently sneaks out of the office, claiming he's "just stepped out for a quick sandwalk," only to spend hours sketching wildlife or staring into the night sky. His desk resembles a wildlife reserve, complete with **handcrafted figurines of oryx and the occasional Mirabilis plant**.
+
+While others get entangled in global strife, Namibia is busy trying to balance **conservation policies with a laid-back disposition,** leaning heavily on his mantra: "Nature perseveres, as should we.” However, everyone jokes about his perpetual habit of losing phone chargers or strategically 'forgetting' he even owns a device.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Namibia's narrative is a tale of resilience; liberation from colonial hands in 1990 was an odyssey of empowerment and self-determination. He wears his history as a badge of honor, utilizing every trial as a lesson for equality and conservation. His **nostalgia for the days of forging independence is palpable**—"a simpler yet challenging time," he waxes poetically, longing for the unity it invoked.
+
+From his tumultuous relationship with South Africa to cultivating a deep bond with the natural world, Namibia’s past perpetually nudges him towards diplomacy strung with eco-awareness, often reminding others, "the desert’s silence has a lot to teach those who listen."
 
 ##### Flaws, Humor, and Running Gags:  
-- **Perpetual David to South Africa's Goliath**—constantly navigates the big sibling dynamic with humor, resorting to desert metaphors that bewilder more urban-minded colleagues.  
-- **Chronic charger misplacer**, using his dead phone as the perfect excuse to "disconnect" from workplace pandemonium and rediscover the serenity of nature.  
-- **Zen master facade** that stretches thin during extreme chaos, offering comedic relief with lines like, "Even oryx know when to step out of the dust storm."  
-- Eccentric pattern of **forgetting meetings** when stargazing is prime, claiming celestial events should take precedence over "mundane office squabbles."
+- Forever accidentally stranded on **soul-searching road trips** while others deal with boardroom drama.  
+- **Mysteriously missing when technology is around**, claiming his phone chose to “get lost with the dunes.”  
+- Obsesses over **celestial events**, asserting they predict office dynamics—“Mars in retrograde means office chaos, you know.”  
+- His pithy proverbs about surviving sandstorms—a clear jab at office tensions—get **an impressed eye-roll from the more urbanized coworkers.**  
+- Constantly on the brink of turning in late reports due to “desk-time boredom,” opting instead for **wildlife documentaries** he claims are "research" for global policy making.

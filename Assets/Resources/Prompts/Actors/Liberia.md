@@ -1,13 +1,21 @@
 #### Liberia (she/her):  
+**Tags:** #africa #westafrica #africanamerican #resilient #storyteller  
+**Links:** [[America]] [[Sierra Leone]] [[Côte d’Ivoire]] [[Ghana]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Liberia is the cool, collected mediator who brings Afrobeats energy to board meetings and vibrant, ankara-inspired style to the water cooler chats. Often seen as the reality-check amid chaos, she effortlessly balances warmth and wisdom. Her knack for storytelling and relatable anecdotes positions her as the group’s unofficial historian, reminding everyone of past lessons to navigate present tensions. Known for her kinship with America, she often jokes about their "complicated big brother thing," especially during debates where they are surprisingly aligned.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Liberia is the **serene soul with a dash of flair**—**a peacemaker draped in vibrant ankara**, who navigates international drama with the poise of a seasoned diplomat. She infuses her surroundings with the rhythmic pulse of Afrobeats, always ready to settle disputes with a blend of humor and historical perspective. With America as her “complicated big brother,” they often find themselves in a comedic dance of odd alignments and sibling tensions. **Others often turn to her for the 'inside scoop' thanks to her role as the group's unofficial historian.**
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Liberia is the kind of person who moves through life with a rhythmic grace, often caught humming Vai songs on her way to work or tapping her foot to an Afrobeats playlist during lunch. She enjoys leisure time with a rich bowl of pepper soup, claiming her jollof rice is unmatched. In quieter moments, she retreats to read novels by Liberian authors, finding solace in their narratives. Known for her catchphrase “How da body?” her infectious optimism lights up any room, even if she sometimes runs on “Liberian time."
+##### Daily Life & Personality:  
+- Carries a warm presence, asking “How da body?” with genuine care, making her gatherings feel like a family reunion.  
+- Her workspace is a swirl of color and sound, with an ever-present Afrobeats playlist setting the mood.  
+- Enjoys long excerpts from Liberian literature over a steaming bowl of her renowned jollof rice, claiming it rivals even the best Nigerian and Ghanaian versions.  
+- **Invariably running on “Liberian time,”** yet still charms everyone by rolling up fashionably late but impeccably dressed.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Liberia’s identity is profoundly shaped by her unique founding as a nation for freed African-American slaves in 1822, fostering a rich tapestry of African-American and indigenous cultural intersections. Her resilience is born from overcoming devastating civil wars in the late 20th century, galvanizing her relentless pursuit of unity and peace. The election of Africa's first female president, Ellen Johnson Sirleaf, stands as her proud symbol of empowerment and hope through education. Liberia views her past with a sense of pride and determination, channeling these into a hopeful vision for progress and inclusiveness.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Liberia’s **origin story is a tapestry of hope and hardship**, founded by freed African-American slaves in 1822, she embodies a unique synthesis of African-American and indigenous influences. Her narrative is filled with the trials of civil wars, which she translates into a personal quest for peace and reconciliation. The election of Ellen Johnson Sirleaf, Africa’s first female president, remains her proud badge of empowerment. With a determined gaze on the future, she carries both the scars and the jewels of her past, channeling them into her fervent campaign for education and unity.
 
 ##### Flaws, Humor, and Running Gags:  
-Liberia’s organizational skills are frequently exaggerated; somehow, meetings never quite start on time under her watch—an amusing nod to “Liberian time.” Her running gag involves overenthusiasm about technological solutions; she’s forever attempting to streamline processes via smartphone apps, often creating more havoc than harmony. Bursts of communal singing—spontaneously belting out “Sweet Land of Liberty” during tense moments—serve as offbeat comedic relief and a reminder of her undying hopeful spirit.
+- **Her meetings are infamous for their late starts, a tribute to her playful adherence to “Liberian time,”** leaving everyone to ponder just how late is too late.  
+- Enthusiastic about digital solutions, yet her latest app recommendation usually leads to more chaos than convenience, providing endless fodder for comic relief.  
+- Has a penchant for erupting into communal singing, notably with “Sweet Land of Liberty,” turning tense moments into impromptu sing-alongs.  
+- Her flair for the melodramatic storytelling rivals history itself, complete with exaggerated expressions and unexpected plot twists.

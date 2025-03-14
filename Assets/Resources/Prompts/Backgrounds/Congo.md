@@ -1,4 +1,4 @@
-Subject: A digital wallpaper background for Congo's personal space in "Polbots"
+Subject: A digital wallpaper background for Congo's personal space in "polbots"
 
 Prompt: Create a cartoon-style digital wallpaper of Congo's personal space. This room is vibrant and filled with cultural influences reflecting her personality and lifestyle. The perspective is like a webcam view, showing a colorful, lively room without any people present.
 

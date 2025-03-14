@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:Actors  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.796875,
+  "repelStrength": 13.125,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7069024726667162,
+  "close": false
+}

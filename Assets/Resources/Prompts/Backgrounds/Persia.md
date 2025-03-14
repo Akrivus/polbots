@@ -1,5 +1,5 @@
 **DALL-E Prompt:**  
-_A cartoon-style digital wallpaper background for a character in a show called **Polbots**. This is the personal space of Persia (she/her), represented as a Countryball, designed to reflect her personality and history. The setting is a cozy but elegant Persian-style living room with a mix of traditional and modern influences. The perspective is like a webcam shot, capturing a natural view of the space where Persia would be seated, with slight blur in the background to mimic webcam focus. The lighting is neutral, allowing for hue adjustments if needed._
+_A cartoon-style digital wallpaper background for a character in a show called **polbots**. This is the personal space of Persia (she/her), represented as a Countryball, designed to reflect her personality and history. The setting is a cozy but elegant Persian-style living room with a mix of traditional and modern influences. The perspective is like a webcam shot, capturing a natural view of the space where Persia would be seated, with slight blur in the background to mimic webcam focus. The lighting is neutral, allowing for hue adjustments if needed._
 
 ### **Key Details:**
 

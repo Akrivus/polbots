@@ -1,13 +1,21 @@
-#### Bulgaria (she/her):  
+### Bulgaria (she/her):  
+**Tags:** #balkan #slavic #thracia #resilience #folklore #yogurt #mystic  
+**Links:** [[Russia]] [[Greece]] [[Serbia]] [[Turkey]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Bulgaria is the wise yet unpredictable HR rep of the office, often defusing tense meetings with a homespun tale or a cheeky proverb. She’s there when conflicts arise, offering folkloric advice and unorthodox strategies that blend charm and subtle cunning. Her "quiet disruptor" energy is cherished—she may seem agreeable, but watch closely, and you'll find her diverting the conversation with sly humor. With Russia, she has a mix of kinship and cautious independence, while with Greece, their relationship is a delightful cycle of friendly rivalry and cultural tête-à-tête.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Bulgaria exudes an aura of mystical charm and quiet intrigue, like that one contestant who knows everyone’s secrets but reveals none of her own. She’s the peacemaker with a wild card twist, dishing out folksy wisdom with a side of unpredictability. Her energy is a blend of **mysterious optimism and grounded realism**, making her the calm in the chaotic storm. Bulgaria often finds herself in curious debates with Serbia and playful banters with Greece, while maintaining a dance of mutual respect and cautious independence from Russia.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Bulgaria spends her weekends absorbed in creating rose water concoctions, surrounded by the scent of nostalgia. Every morning, she insists on a hearty breakfast of kiselo mlyako, touting it as her secret potion for vitality. Her desk is a quirky sight, adorned with martenitsi and cryptic yogurt art meant to reveal her coworkers' fortunes. When not embroiled in office schemes, she’s immersed in folk dance rehearsals or narrating superstitious tales to anyone who’ll listen.
+##### Daily Life & Personality:  
+- **Start every morning with a bowl of kiselo mlyako**—convinced it’s the source of her everlasting vitality.  
+- Her desk is a treasure trove of homemade rose water creations and cryptic yogurt art to help her suss out her coworkers' day.  
+- **Obsessed with folk dances**; she's either organizing impromptu dance-offs or critiquing others' moves.  
+- Spends time spinning **enchanting tales or superstitions**—half the time leaving everyone spellbound, the other half bewildered.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Bulgaria’s resilience is deeply rooted in her history, marked by the Battle of Shipka Pass and the unwavering fight for liberation. She views her past with a blend of pride for her triumphs and skepticism from her Iron Curtain days. Her identity is intertwined with her Slavic and Thracian heritage, and she carries her Cyrillic pride like a banner, frequently reminding others of the literary debt they owe her. Her past shapes a wary yet optimistic outlook, navigating present-day challenges with a touch of learned skepticism.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Bulgaria’s past is a storied epic of battle scars and cultural renaissance. The trauma of the **Battle of Shipka Pass** fuels her fierce independence, while her **Iron Curtain stint** is a tale of learning skepticism with a pinch of resilience. With pride, she claims cradle status of the **Cyrillic alphabet**, reminding others of the literary riches owed to her. Her Slavic and Thracian roots intertwine her spirit—both skeptical of and optimistic about change, she’s a pastiche of survival and cultural riches, always ready to chuck a proverb when the chips are down.
 
 ##### Flaws, Humor, and Running Gags:  
-Bulgaria’s famed for her comedic stubbornness—going into her “na inat” mode at the slightest pushback. Her yogurt-setting predictions have become legendary, as have the paradoxes of her nodding. Peers find both humor and frustration in her unique way of saying 'yes' when she means 'no,' turning even simple agreements into a guessing game. Her office antics often include light-hearted musings and mischievous nods toward hidden meanings, leaving others bemused yet captivated.
+- Immerses herself in **conversations even when she’s definitely misremembering the proverb**—but with such confidence that no one dares to contradict.  
+- Her “na inat” mode kicks in at the slightest sign of an argument; expect an impromptu folk dance as her form of protest.  
+- The constant guessing game: nodding not always means yes...or no—it’s an experience in Bulgarian communication.  
+- Randomly predicts fortunes using yogurt culture, with results both eerily accurate and hilariously off-the-mark.

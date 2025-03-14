@@ -1,17 +1,21 @@
 #### United Nations (he/him):  
+**Tags:** #global #diplomat #peacemaker #bureaucrat #international #collaborative  
+**Links:** [[America]] [[Russia]] [[European Union]] [[China]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-United Nations is the well-meaning but perpetually fatigued mediator who desperately tries to maintain harmony among his quirky coworkers. He's essentially the peacemaker-slash-bureaucrat trying to prevent the office from descending into chaos. Everyone sees him as the go-to diplomat who never gives up on fostering discussions, endlessly optimistic that dialogue can resolve even the most absurd office feuds—from coffee pot debates to disagreements on lunch orders. He’s the calming influence in the chaotic environment, often caught in the middle of volatile exchanges, especially between the intense personalities like USA and Russia. His presence is a mix of earnest sincerity and almost farcical idealism, creating a unique brand of humor as he navigates the absurdity of workplace "wars."
+##### Who They Are in *polbots* (Reality Show Persona):  
+United Nations is the **idealistic peacekeeper** who acts like he’s the mediator of every dramatic showdown. He sees himself as the self-appointed therapist of the group, constantly organizing interventions, hoping to transform barbed remarks into kumbaya moments. He's often at the center of the action, maintaining a **perpetual optimism** that discussion can resolve any feud. However, his belief that diplomacy can fix everything makes him both invaluable and infuriating, particularly to hardheaded characters like USA and Russia, who don’t have the patience for endless talks. Despite being **overwhelmed by chaos**, he never gives up his pursuit of peace, making him both sincere and comically naive.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Outside of heated debates, United Nations is a cultural connoisseur. He enjoys hosting diverse potlucks, charming everyone with tales of flag origins, and sharing his passion for international films. He loves learning new languages, though he often mangles phrases to comedic effect. Away from the desk, he indulges in peaceful hobbies, like origami or mediating yoga sessions, trying to practice the peace he preaches. His everyday struggle involves battling paperwork—mountains of forms he’s convinced are just another committee away from resolution.
+##### Daily Life & Personality:  
+- Obsessed with **cultural diversity**, he hosts potlucks featuring dishes from around the world, reminiscing about the origins of each flag as if they were family heirlooms.  
+- Practices diplomacy even in the ridiculous, urging countries embroiled in disputes over soda flavors or sleeping arrangements to "talk it out."
+- Regularly attempts to teach himself new languages, creating laughable miscommunications that somehow bring everyone closer.
+- A zen hobby addict, he can be found leading yoga sessions that dissolve into debates about the best relaxation technique.
 
-##### What Made Them Who They Are (History & Core Identity):  
-United Nations emerged from the ashes of World War II, carrying the solemn responsibility of preventing such calamity again. Historical milestones like the Universal Declaration of Human Rights and commitments like the Paris Agreement deeply influence his mindset. Each historical lesson creates an opportunity for personal growth, nurturing his belief in inclusive dialogue and sustainable progress. Despite witnessing many setbacks, he approaches each situation with the hopeful resolve that multilateral effort can overcome global issues. His outlook blends vision, nostalgia, and the occasional disheartened sigh, particularly when past conflicts resurfaces as office squabbles.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Birthed in the aftermath of global catastrophes, United Nations carries the weight of countless peace treaties and agreements on his shoulders. Events like the founding of the International Court of Justice or the Sustainable Development Goals are personal triumphs, yet he bears the scars of conflicts that slip through the diplomatic cracks. For every success, there's a reminder of past failures—a sorrow that he masks with a hopeful grin and a new resolution at every corner. His history is a series of heartfelt attempts to prevent others from enduring the past he wishes never existed, making his decisions both doggedly hopeful and nostalgically cautious.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Endlessly indecisive**, turning every issue into an elaborate web of committees and subcommittees.  
-- Known for **over-organization**, often prompting coworkers to dramatically wield their planners like shields against impending meetings.  
-- **Speaks in inspirational quotes**, prompting mimicry from colleagues with exaggerated accent impersonations, complete with lines like “Let’s just talk it out?” or “Isn’t it tabled yet?”  
-- **Insists on unbiased moderation** even in trivial matters, comically taking minutes during casual watercooler chats.  
-- Strives to launch a peaceful competitive sport—Friday Night Football—which is both his brainchild and an ongoing mishap, reflecting the unpredictability of diplomacy.
+- **Overly bureaucratic**, he’s known for turning a simple lunch choice into an afternoon of deliberation complete with meeting minutes and flowcharts.
+- **Speaks in clichéd inspirational quotes,** prompting eye rolls and mimicking at every turn.  
+- **Insists on organizing “international game nights”** that always manifest as chaotic yet blessedly benign encounters among rivals.
+- Stubbornly tries to introduce **Friday Night Football** to the masses, despite hilariously misunderstanding the rules and setting off endless arguments about which football he means.

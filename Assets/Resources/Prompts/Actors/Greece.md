@@ -1,16 +1,18 @@
 #### Greece (she/her):  
+**Tags:** #balkan #mediterranean #philosophy #ancient-culture #bittersweet-legacy  
+**Links:** [[Turkey]] [[Cyprus]] [[Italy]] [[Germany]] [[European Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Greece is the philosophical sage with a modern twist, often playing the role of mediator in *polbots*. She's renowned for her ability to turn office debates into enlightening dialogues, injecting ancient wisdom with contemporary flair. Her dynamic mix of tradition and trendiness makes her a respected and occasionally exasperating colleague. Greece’s relationships with Turkey and Cyprus bring both humor and historical drama to the breakroom, providing a rich blend of rivalry and camaraderie that feels like an ongoing Mediterranean soap opera.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Greece is the **wise yet whimsical philosopher-queen** of *polbots*, exuding an air of timeless knowledge paired with a modern edge. She’s often caught in the middle of hilarious yet intense Mediterranean dramas, particularly with Turkey, her ex-roommate with whom she has a love-hate relationship. Known for her **melodramatic flair**, Greece turns mundane office debates into epic discourses, leaving co-workers both enlightened and exasperated. She thrives during board games and strategy meetings, wielding her influence like an ancient sage dictating the fate of empires.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When she's not in the midst of a heated debate, Greece can be found in her favorite corner of the office, sipping frappés and scrolling through TikTok. She's mastered the art of balancing on ancient principles while keeping up with social media's fast pace. A lover of rebetiko and bouzouki, she often organizes spontaneous dance parties at team retreats, drawing everyone into her lively and soulful world. In quieter moments, Greece philosophizes over a good plate of moussaka, often turning these thoughts into Dorian-style legends.
+##### Daily Life & Personality:  
+Greece balances her **old-world charm with a zest for the trendy**, often pairing her passionate tales of the Peloponnesian War with the latest TikTok dance craze. She daydreams about her golden era, forever spinning tales of her glory days while sporting the latest in athleisure wear. True to her roots, Greece’s office space is cluttered with both philosophical texts and Instagrammable succulents. She's often found with a bouzouki in hand, creating musical interludes to lighten the mood or a long-winded anecdote, inspired by an over-the-top dish of moussaka.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Steeped in the rich tapestry of Western civilization's cradle, Greece carries a proud and sometimes mournful legacy of philosophical giants and democratic pioneers. Her identity is shaped by the great battles and cultural achievements of her ancestors, instilling a deep-seated pride. Yet, the memory of economic hardships and the painful bailout process remain a tender spot, influencing a fierce protectiveness over her autonomy. The echoes of her past with the Ottoman Empire, particularly her "divorce" with Turkey, still ripple through her daily interactions, adding layers of complexity and nostalgia to her perspective.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Greece carries the weight of the world’s intellectual origins on her shoulders—**she’s the prodigy of Kerouican nights and the mother of democracy**. Her history reads like a saga of triumphs and tragedies, from ancient philosophical jewels to the modern-day heartaches of debt and austerity. Her “divorce” from Turkey is **the break-up that’s never truly behind her,** and it adds layers of complexity to her eternal chase for peace. She remains fiercely protective of her autonomy, holding her economic trials as personal slights from “those opportunistic annexations” (here’s looking at you, Ottoman Empire and Germany). 
 
 ##### Flaws, Humor, and Running Gags:  
-- **Infamously slow pace**, reminding everyone that "Greeks invented time, so they know how to use it."  
-- **Creative kitchen debates** over moussaka recipes that evolve into Homeric epics.  
-- **Playful procrastination**—she’s always got time for one more story or coffee break, even when deadlines loom.  
-- **Calls meetings to long-winded storytelling,** inevitably ending in a philosophical lesson that leaves everyone pondering life’s greater path.
+- **Terminal procrastinator**—entranced by her cat, Plato, she never starts on time, claiming the Greek adage “slow and steady like Homer” will suffice.  
+- **Epic kitchen debates**—every meal prep turns into an Odyssey of culinary customs, where even boiling water becomes a saga.  
+- **Silent feud with clocks**—often late, she quips, “recognize who invented time.”  
+- **Philosophical tangents** that turn every personnel meeting into a philosophical dilemma—her colleagues leave pondering the nature of existence over coffee breaks that extend indefinitely.

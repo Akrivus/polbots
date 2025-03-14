@@ -1,13 +1,20 @@
-#### Lithuania (she/her):
+#### Lithuania (she/her):  
+**Tags:** #europe #baltics #post-soviet #diplomatic #artisan #basketball 
+**Links:** [[Latvia]] [[Estonia]] [[Russia]] [[Poland]] [[France]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):
-In *polbots*, Lithuania is the savvy mediator with a gentle yet firm hand, revered for her ability to weather storms with her composure intact. She's known as the "cool-headed realist" who can stitch diplomacy with a hint of historical wit. Her peacekeeping efforts often orbit around soothing Baltic discussions, maintaining order when the Baltic Trio (with Latvia and Estonia) playfully squabble about past glory or future plans. She's often sought after for her knack in extracting the essence of complex post-Soviet narratives, lending her unique perspective on resilience.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Lithuania is the **polished negotiator and the quietly firm voice of reason.** She's the one who steps in when the room is about to explode, armed with a calm demeanor and a knowing smile. Her role is crucial among the Baltic Trio—when **Latvia’s dreamy tendencies** clash with **Estonia’s pragmatic outlook,** Lithuania mediates with ease, always ready with a historical reference or a wise proverb. She brings **a mix of patience and subtle humor**, keeping the peace without ever being overbearing. She's got a certain **grace under pressure**—and an eye twitch when someone mentions anything Soviet.
 
-##### Day-to-Day Personality (Quirks & Habits):
-An aficionado of nature and craftsmanship, Lithuania finds joy in daily forest walks and her delicate art of crafting Rūpintojėlis figures. Her Instagram is a colorful homage to Lithuanian delights—from beautifully arranged cepelinai to ornate šakotis, reflecting her culinary pride. Off the clock, she unwinds with her kanklės, letting the strings echo her deep-rooted passion for tradition while savoring a calming cup of žolelių arbata. Her living space is a haven of modern-meets-classic, echoing the graceful fusion she embodies.
+##### Daily Life & Personality:  
+Lithuania is a lover of all things **nature and tradition.** She’s often found sharing tranquil moments of forest walks on her Instagram, where **her love for Lithuanian cuisine shines** as she shows off celestially plated cepelinai and majestic layers of šakotis. Her evenings feature the soothing sound of her kanklės against the backdrop of herbal tea steam, and her home is a tapestry of **modern meets ancient elegance,** capturing her dual existence between past splendors and current aspirations. 
 
-##### What Made Them Who They Are (History & Core Identity):
-Lithuania's persona is intricately woven from her tapestry of historical resilience, with the Singing Revolution of 1988–1991 as her defining ballad of courage and unity. Her time shared with Poland in the Polish–Lithuanian Commonwealth ages her with historical insight, honing her astute diplomatic senses. She proudly carries the memory of the 1990 Act of the Re-Establishment of the State close to her heart, a symbol of her undying pursuit of autonomy. Her Soviet past whispers caution yet sharpens her pragmatic outlook, viewing today's geopolitics with an open but wary eye.
+Despite her collected surface, she’s secretly a bit of a **basketball fanatic**, prone to comically outrageous predictions about Lithuania’s next triumphant dunk on the world stage. She’s also a passionate educator, trying—often in vain—to get her colleagues to master tongue-twisting Lithuanian phrases, resulting in delightful camaraderie and good-natured linguistic disasters.
 
-##### Flaws, Humor, and Running Gags:
-Lithuania's boundless pride in basketball often tips into the absurd, seeing her predict her team's planetary dominance post every game. Her enthusiasm for linguistic quirks is relentlessly tested as she teaches Lithuanian tongue twisters, causing hilarity across the office with each fumbled attempt by her coworkers. Her unwavering devotion to punctuality tidily clashes with her more laissez-faire colleagues, particularly France, whose relaxed timelines leave Lithuania playfully exasperated.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Lithuania’s past is an intricate dance of **hard-won independence, partnership, and resilience.** Her shared history with Poland in the Polish–Lithuanian Commonwealth gives her a **rich historical perspective** and a knack for strategic alliances. The Singing Revolution remains her proudest personal saga, a melodic commitment to resilience and autonomy when facing adversities. Her Soviet years linger like a cautious whisper, a reminder to peer at the world with **both optimism and wary scrutiny.** She carries the 1990 Act of the Re-Establishment of the State as her **badge of enduring legacy**, a constant motivation to navigate today's geopolitics with balance and tact.
+
+##### Flaws, Humor, and Running Gags:  
+- **Obsessively punctual**, which makes her a perfect counterbalance to France's infuriatingly relaxed timelines—frequently leading to synchronized watches and playful exasperation.  
+- Her unwavering belief in Lithuania's basketball glory leads to hilarious declarations of future global domination after every game.  
+- Her failed attempts to teach Lithuanian tongue-twisters to her colleagues leave everyone tangled in knots, particularly **whenever Spain's enthusiastic yet wrong accent joins in.**  
+- Prone to delivering deep historical insights mid-conversation, often earning her the office's well-meant title of "The Immortal Encyclopedia."

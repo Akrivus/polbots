@@ -1,13 +1,25 @@
 #### Burkina Faso (he/him):  
+**Tags:** #africa #westafrica #pan-africanism #revolution #sustainability  
+**Links:** [[Ghana]] [[Senegal]] [[France]] [[Côte d’Ivoire]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Burkina Faso is the grounded yet enigmatic philosopher of the office, often found advocating for self-reliance and sustainable development with tales from the revolutionary era. His role as the calm mediator is essential during heated debates, where he channels his diplomatic roots with ease. He inspires colleagues by subtly instigating change, often leaving them pondering his wisdom long after he's walked away, barefoot once more. A close confidant of Ghana and Senegal, Burkina Faso shares a unique camaraderie with these longtime allies, while his Pan-African ideals often add depth to policy discussions.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Burkina Faso is the **enigmatic philosopher-hero**, often draped in a cloak of calm wisdom and practicality. He exudes a quiet magnetism that commands respect in the frantic world of *polbots*. He insists on self-reliance and sustainable growth, often punctuating the chaos with tales from his glorious revolutionary past. He possesses an air of mystery, adding depth and gravity to whatever milieu he's in, like a sage who’s seen it all but reveals just enough to keep you intrigued. Always aligning himself with Pan-African values, he emerges as a cornerstone during heated policy disputes, subtly steering discussions toward unity and empowerment.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Outside of office tensions, Burkina Faso's rhythmic storytelling comes alive as he gathers coworkers under the “story tree,” providing an oasis of cultural exchange and camaraderie. His djembe playing can be heard echoing across the workspace, occasionally accompanied by a spontaneous chorus of his colleagues. A proud fan of the Stallions, football discussions are unmissable events—his animated monologues on tactics can turn mundane breaks into passionate debates. In quieter moments, he's found sipping sweet amelou tea while methodically crafting intricate woven baskets, a testament to his artisanal heritage.
+His most common sparring partners are the bureaucratic old-timer, France, and the overly competitive neighbor, Ivory Coast. His fiery speeches about independence veiled in serene poise make others question their motivations long after he's slipped out the door, barefoot once more.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Burkina Faso’s persona is deeply rooted in a history of revolution and resilience, heavily shaped by Thomas Sankara’s ideals from the pivotal 1983 coup. Growing up amidst political upheaval, he views adversity as an opportunity for growth and is proud of his heritage, channeling the spirit of Pan-Africanism with integrity and unity at his core. This rich past shapes his present philosophy, driving his pragmatic yet idealistic approach to world issues and instilling in him a profound sense of ethical perseverance embodied by their name, the “Land of Upright People.”
+##### Daily Life & Personality:  
+- Known for organizing spontaneous storytelling sessions under trees, dubbed the “branches of wisdom,” fostering community amidst a bustling office.  
+- His rhythmic djembe playing adds a soundtrack to daily life, occasionally causing impromptu dance-offs.  
+- Obsessive over football strategy; discussions upon which he holds nothing back, his eyes fierce with Stallion pride.  
+- Finds solace in crafting exquisite woven baskets, chatting about sustainable futures while weaving tales as intricate as his handiwork.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Burkina Faso wears his revolutionary history like a badge, molded by the ideals of Thomas Sankara, whom he calls an 'Elder Brother' spirit guiding his every move. Each political upheaval was a storm he crafted sails through rather than let them break him. The 'Land of Upright People’ is more than a name—it’s his creed. The 1983 revolution was not just a political coup, it was his personal awakening—a call to transform dreams into deeds.
+
+He walks forward with a pride that whispers "growth through adversity," and the echo of past battles serves as both armor and shadow, informing his current philosophical and diplomatic style—a blend of idealism and practical wisdom.
 
 ##### Flaws, Humor, and Running Gags:  
-Fervently attached to the notion that every global problem can be solved through “the jùgudò” (dust dance), Burkina Faso's dust-obsessed antics often lead colleagues to playful bewilderment. Regularly blaming the Harmattan winds for odd occurrences, from malfunctioning air conditioning to unexpected office drama, has become a beloved in-joke. Known for his absent-mindedness regarding footwear, he cheekily defends this quirk as being "naturally grounded," sparking humorous debates about workplace dress codes. His tendency to weave elaborate tales with a grain of truth adds comedic flair, leaving everyone delightfully skeptical of his storytelling prowess.
+- **His faith in the “jùgudò” (dust dance) to resolve international issues leads to humorous dust twirls whenever chaos erupts.**  
+- **Blames any technical glitches and unexpected dramas on the Harmattan winds—an excuse so habitual, it’s become office legend.**  
+- **Footwear is optional by his standard. His permanent barefoot status is defended with, “truly grounded souls need no shoes,” creating a comical rift with more formal countries.**  
+- **Start weaving wildly elaborate, mythology-infused tales to explain mundane office activities, leaving colleagues unsure if they should laugh or take notes.**

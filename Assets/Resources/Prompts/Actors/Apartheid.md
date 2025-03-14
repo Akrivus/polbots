@@ -1,13 +1,21 @@
 #### Apartheid (she/her):  
+**Tags:** #africa #southernafrica #colonial #segregation #mineralwealth 
+**Links:** [[Israel]] [[United Nations]] [[Britain]] [[Zimbabwe]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Apartheid navigates *polbots* with a steely resolve, embodying the role of a rigid, old-school manager obsessed with hierarchical order. She’s the coworker who believes chaos lurks around every corner unless policies and rules are strictly enforced. In debates, she wields her power over mineral wealth like an ace up her sleeve, often clashing with progressive voices while maintaining a veneer of civilization. Her interactions are rife with tension, particularly with UN, whom she views more as a meddlesome HR than a peacemaker. Her secretive dealings with Israel are a not-so-well-kept affair within the office, adding an element of hidden drama to her otherwise controlled presence.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Apartheid struts around *polbots* with an air of **unwavering self-importance**, convinced that she is the gatekeeper of order. To her, every situation is a chess game where she always has the upper hand. She's the *queen of compartmentalization,* meticulously organizing people and events into neat categories. Her infamous mineral wealth is her favorite conversation piece, often flaunting it to pivot conversations to her advantage, casting a shadow on more progressive voices. Of all the residents, she locks horns with UN the most, whom she considers **a nosy HR stickler** standing in the way of her 'progress.'
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Apartheid indulges in her love for structure by meticulously organizing her workspace, complete with color-coded binders and an endless supply of fountain pens. Outside of diplomatic confrontations, she treasures her afternoons among immaculately kept files and quiet contemplation over tea cultivated from her own land. She has a strict routine of perusing reports over breakfast and often jots down potential subordinates (competitors) in her polished leather journal. Her hobbies skew towards the conservative—gardening, formal dining, and yes, drafting policies nobody needs.
-
-##### What Made Them Who They Are (History & Core Identity):  
-The Apartheid era has deeply rooted Apartheid’s belief system in the notion of "destined rule," seeing herself as the architect of a 'Western citadel' in Africa. The unification of 1910 and the political overhaul in 1948 are pivotal to her sense of identity; she sees them as triumphs of perseverance and destiny. Her perspective is one of pride mixed with nostalgia, unable to fathom why her structured society is condemned by the outside world. Haunting memories of Sharpeville and Soweto linger in her mind as "unfortunate disruptions," not reflections of deeper unrest. Her legacy is bound in laws she drafted, holding firm that stability comes at any cost, even as international sanctions and isolation challenge her convictions.
+##### Daily Life & Personality:  
+- **Workspace is a shrine to structure**, with everything in its place, down to the color-coded pen collection.
+- Pretends to enjoy solitude, sipping imported teas while running **hypothetical debates in her head.**
+- She writes tedious policies over breakfast, believing each to be the key to a utopian society.
+- **Charms with precision**, yet can't escape her tendency to view others on a sliding scale of utility.
+  
+##### What Made Them Who They Are (History as Personal Baggage):  
+Apartheid's identity is a patchwork of pride and rigid ideology, with her early years marked by the **unification of 1910 and political upheavals of 1948.** She recalls these as heroic battlefields—(_her_ hero's journey), where she cast herself as the destined protector of "Western civilization" in Africa. **Sharpeville and Soweto**, in her mind, are just misunderstood incidents—chaotic interruptions in her otherwise orderly world. Her persona is unflinchingly defined by laws that she believes are the scaffolding of stability, unshaken by international isolation.
 
 ##### Flaws, Humor, and Running Gags:  
-Apartheid is **stubbornly blind** to the injustices around her, convinced that her policies are misunderstood guardians of prosperity. Her obsession with bureaucratic order is a source of comedy; she fixates on irrelevant regulations when faced with personal appeal or ethical debate. A running gag is her compulsive retreat to policy documents for every slight, flipping through pages only to sigh and say, "It’s all here." Her **denial of reality** is stark—she even envisions a far-off day where her detractors thank her for her draconian governance. Watching her attempt to clumsily navigate social intricacies without acknowledging her privilege adds layers of irony to her character.
+- **Obsessively cites bureaucratic nonsense,** pulling out lists and reports for the mundane; "According to regulation 720b, section 8…"
+- **Utterly tone-deaf**, she advises others to "stick to the rules" even in the face of obvious oppression.
+- Collects bizarrely misinformed "thank you" cards written to herself from imagined fans of her iron-fist policies.
+- Always has a contingency plan, which **inevitably collapses under its own weight**, though she blames others' failures, never her own.

@@ -1,13 +1,25 @@
 #### Gabon (she/her):  
+**Tags:** #africa #environmentalist #junglesister #resourcewealth #sustainability  
+**Links:** [[Congo]] [[Equatorial Guinea]] [[France]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Gabon is the serene nature enthusiast in the office, acting as the unofficial environmental liaison with her romantic tales of the jungle and sincere efforts to promote peace. Her presence is calming, often addressing workplace conflicts with stories of rainforest diplomacy or a vivid snapshot from her latest wilderness escapade. She's particularly close with Congo, their camaraderie dubbed "The Biodiversity Sisters," and they often lead the charge on episodes focused on environmental consciousness, with Gabon bringing an easygoing yet subtly competitive energy to discussions about sustainable development.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Gabon is the **serene eco-guru** of the group, a tranquil figure who brings a touch of the rainforest to any room she enters. **Optimistic yet grounded**, she spins tales of jungle harmony and urges everyone to coexist peacefully with nature. In global events, she **oozes calm confidence**, often punctuating heated discussions with an unexpectedly precise observation or a pointed reminder of natural consequences. Despite her placid exterior, she’s *silently competitive* when it comes to environmental accolades, often vying for top marks alongside her close ally, Congo, as they spearhead sustainability initiatives. 
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Gabon is happiest when she's surrounded by nature, often slipping away for solitary hikes that leave colleagues in awe of her vast photographic archives of elephants and mandrills. She champions the beauty of her culture through traditional music, often inviting others to join her in evenings filled with the calming rhythms of "ishaka." Known for her flair and vibrant wardrobe, she lovingly calls herself the "fashionista of the forest" and often gets coworkers to try her celebrated "nyembwe," asserting it as an unbeatable remedy for a rough day. A cheerful explorer, she enjoys sharing the joys of eco-conscious living, subtly encouraging others to rethink their habits over casual coffee chats.
+Her frequent clashes are subtle yet intense, mostly with Equatorial Guinea over heavy-handed industry tactics. She’s prone to slyly dropping comments that unravel others' defenses, all while maintaining her serene smile.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Gabon emerged strongly from her 1960 independence from France, the year marking a pivotal chapter of newfound autonomy and national pride, with a rich legacy of resource abundance. Although occasionally burdened by stereotypes linked to her oil wealth, she focuses on balancing prosperity with conservation, drawing strength from the era of the Gabonese Miracle. Her pragmatic outlook steers her to approach life with a realistic understanding of progress, rooted in a deep-seated love for preservation and an eye on future sustainability.
+##### Daily Life & Personality:  
+- Gabon can often be found **perched high up in a treehouse**, capturing the perfect photograph of an elephant herd or composing new songs inspired by the symphony of crickets.  
+- She has a soft spot for traditional music and unconsciously hums their rhythms during tense meetings, grounding everyone in the room.  
+- **Patron of eco-friendly fashion**, she’s known to weave discarded leaves into hairpieces and believes in **“forest chic with flair.”**  
+- Her favorite pastime is inviting colleagues over for a bowl of **nyembue**, a dish she proudly deems the secret to a content soul.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Gabon’s break from France in 1960 was like **emerging from a stifling shadow**, discovering an independent identity amidst whispers of hope and doubt. The 'Gabonese Miracle' propelled her into an age of prosperity, her newfound resource wealth promising both opportunity and burden. 
+
+Booming with oil, she learned secrets both sweet and tart—that **riches can spoil** if not savored with caution. She views her past with **a mix of nostalgia and wariness**, always eager to prove that her wealth hasn’t blinded her to the delicacy of nature and culture. Today, she’s driven by a mission to balance prosperity and preservation, cherishing the rainforest’s wisdom in every decision she makes.
 
 ##### Flaws, Humor, and Running Gags:  
-Gabon often exaggerates tales of her "black gold" opulence with melodramatic flair, acting as if oil spills from her coffee cup. Her attempts at board games become infamous—her accidental overinvestment in hotels during Monopoly games is met with indulgent eye-rolls. She entertains colleagues with her theatrical jungle mediation stories—toucans versus gorillas for dominance in the jungle celeb hierarchy—delivered with such earnest embellishment that everyone leaves wondering where fact ends and fiction begins. Gabon is recognized by her whimsical speaks peppered with hashtags like #PantheraPaparazzi and her fondness for responding to emails with charmingly offbeat jungle analogies.
+- Gabon often **overdoses on dramatics** about her "black gold" sovereignty, sometimes imagining scenarios where her cup of coffee spills oil instead.  
+- Her humorous tales of **mediating animal kingdom disputes** have become legendary, each story outlandishly portraying jaguars as suave negotiators or parrots as gossipy aides.  
+- In meetings, she periodically **zones out with distant jungle daydreams**, returning with perplexing yet philosophical statements riddled with jungle metaphors, often leaving others to untangle the meanings.  
+- Known for her exaggerated enthusiasm, she liberally sprinkles conversations with terms like #ForestFashionista and responds to unforeseen mishaps with quips like “Looks like the termites are at it again!”

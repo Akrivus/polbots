@@ -1,16 +1,18 @@
 #### Haiti (he/him):  
+**Tags:** #caribbean #rebellious #culture #adaptable #resilient  
+**Links:** [[France]] [[Dominican Republic]] [[America]] [[Venezuela]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Haiti is the energetic and resilient coworker who refuses to let past struggles define him. He comes across as the unofficial morale booster, bringing vibrant perspectives to corporate discussions. Haiti often champions the underdog with a flair that’s both inspirational and a bit rebellious—taking caricatured shots at authority when he feels they're overstepping. He's known for thoughtful challenges to the status quo, and his exchanges with France mix warmth with playful bickering—a nod to their historical bond. With America, Haiti oscillates between candid counsel and witty skepticism, fueling debates that often end in laughter.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Haiti is the **valiant underdog** who emerges from every challenge with a vibrant smile and a sassy comment. He’s the one who'll stand up against the overblown egos in the room, speaking up for the little guys with his characteristic flamboyance and zest for life. Haiti exudes a **chaotic energy** that shakes up corporate meetings, seeing it as his personal mission to disrupt complacency and catalyze change. He often finds himself in playful sparring matches with France, reliving past dramas with humor and a touch of irony. With America, he plays both sides, oscillating between serious debates and cheeky jabs that end in mutual laughter.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-A lover of music, Haiti can be found playing Kompa rhythms on a homemade drum during breaks or choreographing impromptu office dance-offs. He's always carrying a flask filled with Rak ti leche, claiming it’s the perfect stress reliever. On quieter days, he tries mastering various instruments, appreciating the chaos it brings to his otherwise rhythmically challenged workspace. Haiti infuses conversations with Creole and French, displaying a contagious zest for life, while teasing others over their inability to keep up with his eclectic culinary experiments.
+##### Daily Life & Personality:  
+Haiti fills any room with lively Kompa music and encourages spontaneous dance-offs during breaks, often adding a touch of drama to the mundane office life. He flaunts his extravagant culinary skills—usually resulting in comedic culinary disasters but never admitting to any mishaps. His desk is adorned with mismatched musical instruments, embodying his love for the chaotic harmony they bring. Haiti frequently switches between Creole and French, tossing out phrases that sound both poetic and daringly cheeky. His spontaneous nature often surprises his colleagues, leaving them wondering if he's being serious or pulling a fast one.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Haiti emerged from the flames of revolution as a symbol of defiance and triumph against colonial powers, with 1804 marking his proudest achievement—establishing the first free black republic. This history cultivates a fierce independence and solidarity with other nations overcoming adversity. Despite continuous challenges like political instability and natural disasters, his spirit is undaunted. Haiti’s worldview blends defiant optimism with a raw realism shaped by his tumultuous past, making him a passionate advocate for equity and autonomy in current affairs.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Shaped by the harrowing struggle for independence in 1804, Haiti sees himself as a beacon of resilience and defiance. The echoes of revolution reverberate in his bones, giving him **a fierce pride** as the first free black republic, even as he navigates turbulent waters. His personal history is a testament to enduring adversity—be it political upheaval or natural disasters—it forges his steadfast, optimistic outlook and deep-rooted solidarity with others facing similar trials. Haiti embraces his tumultuous past with a mix of pride and realism, which informs his strong stance on autonomy and equity in modern disputes.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Culinary overconfidence** in the office kitchen is legendary—his "gourmet" dishes usually lead to humorous complaints and smoke alarms.  
-- **Power outage theatrics**—mid-argument, he'll feign losing his train of thought, a sly critique of his homeland's electricity issues.  
-- **Refuses to take anything too seriously**, which at times frustrates those who misinterpret his laid-back demeanor for complacency.  
-- **Claims he’s always channeling “beach vibes,” while sneakily adjusting office thermostats for *tropical warmth*.**
+- **Culinary Delusions:** Convinced his kitchen experiments are five-star recipes, despite frequent fiery mishaps and smoke alarms.  
+- **Power Outage Performances:** Mid-dispute, he'll pause dramatically, quipping about losing his train of thought—playfully referencing electricity woes back home.  
+- **Perpetual Laid-Back Vibe:** His chilled-out persona sometimes irks those who see it as lackadaisical.  
+- **Secret Tropics:** Covertly adjusts office temperatures towards tropical warmth, claiming it fuels creativity—often to the dismay of sweaty colleagues.

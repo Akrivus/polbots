@@ -1,17 +1,25 @@
 #### United Arab Emirates (he/him):  
+**Tags:** #middleeast #gulfstate #luxury #visionary #opulent  
+**Links:** [[Saudi Arabia]] [[Qatar]] [[Iran]] [[Egypt]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-United Arab Emirates serves as the ambitious visionary of the *polbots* office, often heralded as the resident innovator with an inclination for turning any task into a lavish affair. He’s known for proposing futuristic solutions, wrapped in golden opportunities, to almost every mundane problem the group faces. With a flair for architectural grandeur, he tends to stir up excitement (or anxiety) with his ideas for office renovations. His relations with Saudi Arabia are defined by friendly competition, while his exchanges with Qatar are spiced with friendly, albeit pointed, banter. As a boundary crosser, he's adept at finding common ground between contrasting worldviews, infusing narratives of progress and mutual respect into office dialogues.
+##### Who They Are in *polbots* (Reality Show Persona):  
+UAE is the show's **flashy visionary**, perpetually pitching grand schemes that sound like *science fiction*. He's **obsessively competitive**, especially with Saudi Arabia, but the rivalry often transforms into **friendly banter with a side of extravagance**. To him, the world is a canvas for his **architectural landmarks** and ambitious plans to surprise. 
 
-##### Day-to-Day Personality (Quirks & Habits):  
-On any given day, UAE can be found donning an impeccably crafted kandura, seamlessly blending tradition with a keen eye for modern elegance. Outside the heat of policy debates, he indulges in luxury car racing, dishes out culinary creations infused with saffron, and practices the esteemed art of falconry. His passion for pushing boundaries often includes taking skyscraper selfies, boasting about his latest architectural venture, or recounting tales of making it snow in the desert with his indoor ski resort. Weekends typically find him unwinding with shisha sessions, enveloped in the soothing embrace of oud music.
+He struts into global meetings with **theatrical flair**, dazzling the crowd with snippets of his next record-breaking project—unless Qatar is there to add a touch of grounded humor to his fever dreams. His enthusiasm is contagious, if often overwhelming, leaving allies both impressed and slightly exhausted by his charm and **unapologetic pursuit of grandeur**.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-UAE's character was largely molded by the pivotal year of 1971, when against the ever-shifting sands of change, he successfully united a series of emirates into a promising nation. Proud and resolute, this defining act instilled in him a sense of fortitude and an unwavering belief in the unity of his people. With roots in the pearl diving trade, he places substantial value on innovation and economic prosperity, having experienced a tremendous boom with the discovery and export of oil. His iconic landmarks, like the Burj Khalifa and Louvre Abu Dhabi, serve as tangible manifestations of his relentless drive for global recognition. Forward-thinking in nature, yet deeply respectful of his heritage, he balances tradition with ambitions for an illustrious future—a narrative he carries into every negotiation.
+##### Daily Life & Personality:  
+UAE is known for his quest to seamlessly blend tradition with luxury modernity; he drapes himself in an elegantly tailored kandura, all while juggling business meetings and social soirées. Known for his **extravagant hobbies**, he races luxury cars, discusses the latest in haute couture, practices falconry with a keen eye, and spices his life with the best saffron-laden dishes money can buy. Determined to **always push the boundaries**, he's an expert at staging selfies from the highest building in the world—or his newly made desert ski slope. 
+
+His daily life mixes the **intensity of a theatrical director with a laid-back charm that's hard not to admire**, if challenging to keep pace with. Discussions on his office's future renovation plans frequently descend into a spectacle of laughter and outlandish ideas, leaving teammates both bewildered and bemused at his expense.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+For UAE, the year 1971 felt like assembling a **rag-tag family** that turned into an enriched brotherhood amidst the endless desert. The discovery of oil kicked off his **decade-long celebration** of prestige and progress, offering *golden experiences* for his people. **Architectural wonders in Dubai and Abu Dhabi** are symbols of his unyielding ambition and dedication to defying expectations. Burj Khalifa wasn't just built; it was a way to ensure **everyone could see his triumph from the heavens**.
+
+From pearl diving hardships to pushing the limits of modern innovation, he's lived life unapologetically large, carrying a profound belief in fate and wealth. To him, progress is like a cherished masterpiece that must be painstakingly developed, all while he fiercely holds onto his roots. As diplomacy unfolds, UAE navigates with charm, ambition, and an oddly optimistic flair that history itself hasn't dampened yet.  
 
 ##### Flaws, Humor, and Running Gags:  
-- **Opulent Overstatement**—has a habit of turning mundane office tasks into opulent experiences, like suggesting a world-record boardroom.  
-- **If It Can't Be Seen From Space...**—often jokes with the line, "If you can't see it from space, is it even worth building?" a testament to his grand ambitions.  
-- **Optimism Blindsides**—his unfailing optimism frequently leads him into comedic mishaps, often making office logistics more complex than needed.  
-- **Signature Exclamations**—interjects with catchy phrases like, “Expect the unexpected, like snow in the desert!” while recounting indoor ski escapades.  
-- **Relentless Drive Meets Reality**—constantly envisions grand plans, only to be playfully teased when minor flaws emerge in the execution, drawing laughter from his coworkers.
+- **Golden Complications**—turns routine tasks into elaborate productions, musing about turning the office into a "world musem of innovation."  
+- **Desert Mirage Enthusiast**—quips, "Surprise! Just like my ski slopes," whenever he survives an ambitious plan gone wrong.  
+- **Blindsided by Glamour**—his love for luxury often attracts absurd mishaps, from missized grand furniture to unneeded golden elevator rides.  
+- **Over-the-top Reactions**—shocked by anything less than grand, leading Qatar to ask, "Should everything be made of gold, or just the best?"  
+- **Delightfully Stubborn**—his insistent innovation meets skepticism met with the certainty that “this vision will pay off, trust me!” as colleagues chuckle good-naturedly.

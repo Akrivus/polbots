@@ -1,16 +1,18 @@
 #### Venezuela (he/him):  
+**Tags:** #latinamerica #bolivarianrevolution #oilrich #socialist #resilient  
+**Links:** [[Cuba]] [[America]] [[Colombia]] [[Brazil]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Venezuela is the spirited storyteller of the office, always ready to regale anyone who’ll listen with tales of revolutionary heroes or the vibrant landscapes back home. He thrives on debates about social justice and economic reform, often sparking lively discussions with his passionate rhetoric. Known for his underdog charm, he frequently challenges power dynamics, especially in his playful jabs at America. His dynamic with Cuba is that of old friends who’ve shared triumphs and struggles, sparking laughter and occasional nods of solidarity from their audience.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Venezuela considers himself the **passionate activist,** eternally ready to hold a seminar on dreams of a utopian future. He thrives on shaking up the status quo, embedding himself in controversies with an audacious smile. Always armed with an underdog narrative, he **challenges authority**—especially America's overblown bravado—while highlighting justice and equality. With Cuba as a kindred spirit, they nostalgically debate past triumphs, sometimes enacting impromptu "revolutionary reunions" that confuse and entertain their fellow contestants.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Venezuela’s love for baseball is only rivaled by his culinary passion, often opting for an impromptu arepa-cooking showdown in the breakroom. When not in the throes of a debate, you’ll find him perfecting a new joropo melody on his cuatro or brewing the perfect café marrón—insisting it’s the secret to peace amid chaos. He’s known for rolling a stash of toilet paper pompously through the office, joking it’s more valuable than gold, and making sure everyone sees the humor in scarcity.
+##### Daily Life & Personality:  
+Venezuela packs the energy of a vibrant carnival into his everyday chaos—a man who finds solace in perfecting the rhythm of a new joropo tune on his cuatro or orchestrating an epic arepa cook-off. He’s dramatic, yet pragmatic, turning office squabbles into opportunities for philosophical discourse while delivering gourmet coffee alongside impassioned speeches. Toilet paper, oddly, becomes his running currency of humor—a symbol of his resilient perspective on scarcity's absurdities.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Shaped by the legacy of Simón Bolívar and the ideals of the Bolivarian Revolution, Venezuela's identity is a tapestry of liberation and struggle. He wears his revolutionary past with pride but acknowledges the shadows of political upheaval and economic challenges. His love for Angel Falls and the bustling energy of Caracas reminds him daily of his country's inherent beauty and resilience. This blend of optimism and realism drives him to question the status quo, driven by a deep-seated yearning for unity and social justice.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Venezuela carries the weight of Simón Bolívar’s revolutionary legacy like a prized family heirloom, one brimming with tales of liberation and empowerment. His *personal odyssey* includes grappling with the turbulence of political upheavals and economic hurdles—lessons in resilience that spawned wisdom, albeit accompanied by a touch of cynicism. Fueled by both nostalgia and a relentless drive for communal harmony, he stands at the intersection of his storied past and the aspirations for a more equitable world.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Hyper-inflation jokes**—Venezuela claims he’s writing a “thrilling” novel titled "How to Survive a Triple-Digit Inflation Diet."  
-- **Epic coffee quests**—consistently believes the perfect cup of coffee will solve office disputes, leading to over-caffeinated, yet hilarious, problem-solving sessions.  
-- **Lowbrow roasts of America**—frequently goes for the easy jabs, teasing about everything from fast food obsessions to clumsy foreign policies.  
-- **Toilet paper antics**—rolling toilet paper diversions are a staple, underlining his knack for finding humor in dodging resource scarcities.
+- **Inflation Irony**—Jokes about compiling a guide, “Thriving Amid Triple-Digit Inflation,” pitching it as a thriller yet to be written.  
+- **Caffeine Sermons**—Believes every office quarrel can dissolve in the warmth of expertly brewed café marrón, leading to caffeine-fueled camaraderie.  
+- **American Roasts**—Exchanges light-hearted barbs about fast food obsessions and dubious foreign adventures, igniting mini comedy sessions.  
+- **Toilet Roll Escapades**—Proudly parades a singular roll like a trophy, reminding everyone of the humor in mundane resource scarcities.

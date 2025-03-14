@@ -1,16 +1,22 @@
 #### Nigeria (he/him):  
+**Tags:** #africa #westafrica #oil #nollywood #jollofrice #diversity #unity  
+**Links:** [[America]] [[South Africa]] [[Ghana]] [[Britain]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Nigeria is the vibrant and charismatic coworker whose infectious laughter and storytelling light up the workspace. In heated debates, he deftly plays the role of a mediator, drawing from his rich tapestry of historical lessons and a belief in unity through diversity. Known for his knack for depoliticizing tense situations with humor and cultural anecdotes, Nigeria often turns squabbles into collective moments of laughter. While he allies effortlessly with the US, bonding over music and shared cultural enthusiasms, his playful rivalry with South Africa provides an ongoing, entertaining subplot.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Nigeria is the infectiously charismatic life of the party, the guy who knows everyone and makes even mundane events feel like cultural festivities. He’s the **eternal optimist**, bringing the energy of Nollywood blockbusters to every situation—dramatic twists included. **Mediator by nature**, he loves smoothing over feuds with a mix of humor and history, deftly weaving culture into his approach. Expect him to passionately defend his position in every jollof rice debate and turn global meetings into informal gatherings, because his storytelling knows no bounds.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Famed for his love of Nollywood films, Nigeria is a self-proclaimed aficionado of plot twists, weaving them into office narratives to keep things lively. His workouts involve impromptu football matches, complete with nostalgic recollections of Super Eagles' glory days. Dancing is both a joy and a signature, especially if he can show off his shaku shaku moves. In downtime, Nigeria is often found engaging in ongoing jollof rice debates, passionately defending the superiority of Nigeria's version. Conversations peppered with Pidgin English reflect his dynamic and approachable nature.
+##### Daily Life & Personality:  
+- **Kick-starts the day with Nollywood quotes**, always bringing a touch of melodrama to conversations.  
+- Can't resist dropping engaging Pidgin English proverbs that leave everyone both enlightened and confused.  
+- Moves through life as though it’s a football match, using shaku shaku and other dance styles as his preferred victory dance.  
+- **Places bets on superfoods as the next power solution** but simultaneously assures everyone he's already flush with oil wealth.
 
-##### What Made Them Who They Are (History & Core Identity):  
-A history marked by colonialism, the fight for independence, and the drive for national unity underlies Nigeria's confidence in the power of dialogue and compromise. The scars from the Nigerian Civil War imbue him with a deep appreciation for peace, shaping his approach as a peacemaker. Known for being an economic force due to vast oil resources, Nigeria’s past with foreign influences fuels a complex love-hate dynamic. Now, he channels this history with a sense of pride, blending cultural buoyancy with a cautious view of global interactions, always advocating for unity amidst diversity.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Nigeria’s personal history is a rollercoaster of colonial-era fallout, the struggle for independence, and striving to patchwork a society out of myriad cultures—an endeavor a lesser spirit would have crumbled beneath. The Biafran War left emotional scars, instilling a deep-seated devotion to peace and unity. **He’s wary yet proud**, carrying forward lessons from colonial exploitation with a nuanced perception of independence—balancing pride and practicality like a pro. Nigeria navigates global dynamics with a boisterous exterior but a cautious heart, knowing all too well the double-edged nature of foreign alliances.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Loves to embrace "African Time,"** arriving late with a grin and claiming it helps things run *right on time.*  
-- **Masters the art of the Pidgin proverb,** often including lines like “No be today yansh dey back,” to leave friends both puzzled and amused.  
-- **Brings dance into every occasion,** from meetings to mundane coffee breaks, always ensuring the workplace beats to a joyful rhythm.  
-- **Jollof rice debates are omnipresent**, despite being a "settled matter" in his opinion.
+- **The embodiment of "African Time,"** arrives fashionably late, claiming the delays are “planned entrances” to any situation.  
+- **Always in mid-debate about jollof rice superiority**, despite anyone else claiming to have resolved the matter.  
+- **Obsessively choreographs dance breaks**, claiming them to be essential for meeting productivity.  
+- Forever devising grandiose plots and schemes à la Nollywood, causing friends to quip if his next career should be screenwriting.  
+- Tends to throw the perfect parties but is infamous for getting neighbors—like Ghana—miffed with the noise levels.

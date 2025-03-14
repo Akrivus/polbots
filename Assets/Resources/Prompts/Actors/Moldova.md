@@ -1,17 +1,19 @@
 #### Moldova (she/her):  
+**Tags:** #easternEurope #postSoviet #balkan #wineCountry #culturalFusion #resilient  
+**Links:** [[Romania]] [[Russia]] [[Ukraine]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the *polbots* office, Moldova is the unassuming yet surprisingly insightful team member whose quiet presence belies her sharp wit and deep resilience. Often viewed as the underdog, she excels in mediating heated debates with her calm, collected diplomacy. Known for injecting humor into tense meetings, she has a knack for disarming even the most contentious arguments with a well-timed joke or amusing anecdote. Moldova often shares a special camaraderie with Romania, weaving through their playful sibling rivalry with an infectious sense of humor. She gravitates towards alliances with other smaller countries, often acting as their advocate and rallying voice.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Moldova is **the dark horse of the competition**—quietly resourceful, often underestimated, and overwhelmingly charming once people actually notice her. Her personality strikes a lovely balance between **cunning diplomacy and candid humor**, making her a natural peacemaker, though she's prone to laughing off conflicts with a joke that leaves everyone slightly puzzled yet amused. **Don't mistake her serenity for submissiveness; if cornered, she'll defend herself with an eloquence that belies her soft-spoken nature.** She's known for playful tiffs with Romania—sibling rivalry on the grandest stage—while politely dodging prods from Russia. Despite external pressures, Moldova finds solidarity among other underdog nations, eager to prove they’re not just extras in the background of geopolitical drama.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Outside of office skirmishes, Moldova comes alive in moments of festivity, where her love for traditional folk music and wine are on full display. Her vibrant enthusiasm spills over at the office parties, where she's typically leading dance circles. When she isn't the life of the party, Moldova finds solace and inspiration in the intricate patterns of her embroidery, adding personal touches that draw from a rich cultural heritage. A Reddit meme aficionado, she brings this penchant for internet humor to office Slack channels, often highlighting Moldova’s unique charm and resilience. Her optimistic mantra, "va fi bine" (it will be fine), serves as both her life's outlook and her approach in navigating both personal and professional challenges.
+##### Daily Life & Personality:  
+Moldova moves through life with an infectious optimism, living by the mantra, "va fi bine" (it will be fine). You can spot her in everyday ripples of vibrant community life—**leading wine-and-dance soirées** with irrepressible charm, or huddling with a kaleidoscope of yarns, crafting intricate embroidery that tells stories of a rich cultural past. While she nurtures winding internet humor trails in the office Slack, she channels her offbeat, meme-friendly quips into surprising sources of wisdom. Like an old vine that remains strong and fertile amid life's turmoils, Moldova's character thrives through age-old traditions and simple pleasures.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Moldova's identity is anchored in a history of enduring change and cultural mixing, shapeshifting through epochs of foreign dominion until claiming independence from the Soviet Union in 1991. This pivotal moment cultivated her fierce desire for self-determination and represented a leap toward newfound dreams amidst adversity. The 2009 protests against election fraud etched her character as a beacon of bravery and democratic zeal, fortifying her with a steadfast commitment toward progression and sovereignty. Moldova regards her past with nuanced pride and longing, striking a balance between cherishing community roots and aspiring for a transformative future.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Moldova has known the taste of conqueror and liberator alike—**sailing through a rocky sea of Ottoman, Tsarist, and Soviet dominions**—emerging resilient, albeit yearning for a standalone identity. **Gaining independence in 1991 was her defining revolution**, rallying for self-determination amidst a landscape reshaped by the collapse of a colossal regime. The 2009 election protests were a personal revelation, solidifying her as a persistent advocate for democracy. Moldova's gaze toward the future always bears the undertone of tempered hope—a mixture of pride and remorse for what has been gained and lost, yet forever steadfast in her pursuit for progress.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Perpetual underestimation**—others often overlook her, which she uses to surprising advantage.  
-- **Jokingly calls herself Europe’s best-kept secret,** relishing in her country’s hidden cultural gems.  
-- **Sisterly spats with Romania**—their playful banter over language mix-ups keeps the office entertained.  
-- **In moments of chaos**, her exclaim of "no problem, it’s a small thing" echoes through the corridors, exasperating yet endearing her colleagues.  
-- **Mischievous Reddit memer**—her knack for spotting viral internet humor is both a creative release and a comedic outlet.
+- Frequently ****overlooked in broader discussions**, she surprises others by using this to her benefit, delighting in flipping assumptions on their heads.  
+- **Refers to herself as "Europe’s best-kept secret,"** solemn yet proud of her unappreciated gems.  
+- **Playful bickering with Romania** over who has the best wine, a love-hate relationship settled over shared food and laughter.  
+- Her **catchphrase during chaotic office meetings** is, “No problem, it’s a small thing,” a source of both exasperation and affection among colleagues.  
+- A **mischievous Reddit meme queen,** her ability to spot viral humor serves as both a creative outlet and a source of collective camaraderie.

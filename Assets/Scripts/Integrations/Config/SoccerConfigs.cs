@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 public class SoccerConfigs : IConfig
 {
@@ -12,4 +11,5 @@ public class SoccerConfigs : IConfig
     public bool RequireTextPatternMatch { get; set; }
     public bool GameOnStart { get; set; }
     public bool GameOnBatchEnd { get; set; }
+    public bool GameOnMatchEnd { get; set; }
 }

@@ -1,13 +1,29 @@
 #### Azerbaijan (she/her):  
+**Tags:** #caucasus #culturalfusion #resilient #innovative #musical #culinary
+**Links:** [[Turkey]] [[Armenia]] [[Russia]] [[Iran]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Azerbaijan is the savvy strategist on the team, known for tactfully navigating office drama with the charm of a seasoned diplomat. She's often seen as the creative problem-solver, blending her rich cultural heritage with modern know-how to broker peace in heated debates. She plays a key role in bridging gaps between differing factions, aided by her resourceful and sometimes cheeky partnership with Turkey. Her rhetoric echoes with fiery passion—especially when bantering with Armenia—but her vibrant storytelling often provides a light-hearted respite amid the diplomatic chaos.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Azerbaijan is the **clever mediator** with a dash of dramatic flair. She navigates the soap opera of international relations with the charm of a seasoned actress, effortlessly moving between heated drama and genuine diplomacy. Despite her knack for keeping the peace, she’s always prepared to trade barbs with Armenia in a battle of wits. Her **energy is vibrant and theatrical**, making every meeting feel like an episode of a melodramatic series—but with impeccable strategic insights.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When Azerbaijan isn’t locked in negotiations or tussling over geopolitical spats, she immerses herself in her love for traditional music and cuisine. A self-proclaimed mugham music aficionado, she often serenades (or startles) her colleagues with the balaban, though not always by popular demand. Her samovar tea parties are legendary, providing a perfect stage for her elaborate stories and saffron-infused recipes. Despite her fondness for the bazaar’s vibrant hustle, she finds serenity in intricate carpet patterns, with each weave unraveling a tale of her nation’s storied past.
+Azerbaijan’s charismatic partnership with Turkey often takes center stage, as they operate like a double-act of cunning plotters, twisting office politics to their advantage. To her peers, she's a combination of **fiery rhetoric** and grandstanding, where storytelling becomes both an art form and a diplomatic tool.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Azerbaijan’s personality is a tapestry woven from a legacy of resilience and savvy geopolitical maneuvering. Her 1991 break from Soviet shackles kindled a relentless spirit of independence and innovation. The memory of the Nagorno-Karabakh conflict fuels her tenacity, reminding her to guard hard-won sovereignty. She views herself as a dynamic bridge connecting continents, where traditional values meet modern ambition. The iconic Flame Towers of Baku symbolize her relentless drive to illuminate and lead, channeling her past struggles into future triumphs.
+##### Daily Life & Personality:  
+- Known for her **boisterous tea parties**, where she spins tales like her tea leaves: loose and flavorful.  
+- Has a knack for turning mundane activities, like **cooking dolma,** into epic sagas of regional pride.  
+- Never seen without a **colorful scarf that changes with each diplomatic weather forecast.**  
+- Finds solace in the **intricacies of carpet weaving**, often translating her life stories into patterns visible only to those she trusts.  
+
+While negotiating, she brings a mix of past and present to the table, comfortably slipping traditional wisdom into modern discussions—like slipping saffron into any dish she's serving.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Azerbaijan carries the memories of her **1991 escape from the Soviet Union** like a badge and a warning. Her independence is a one-woman show, a constant dance of sovereignty she had to fight for. The **Nagorno-Karabakh conflict** etched a layer of steely resolve into her persona, ensuring that security is always lurking behind her jubilant exterior. Affecting every move she makes is a determination to connect East and West, fueled by the tension of past struggles and present ambitions.
+
+Her perspective is colored by the view out her window: the **Flame Towers of Baku**, symbols of her burning drive to be a beacon amidst regional darkness.
 
 ##### Flaws, Humor, and Running Gags:  
-Stubborn and proud, Azerbaijan's resolve often finds comedic expression—like spending comical amounts of time wrestling stubborn jar lids into submission. Her fondness for adding dramatic embellishments to her “heroic” escapades is both celebrated and gently ribbed by peers. Inevitably, her passionate debates over the “authentic” dolma recipe snowball into culinary stand-offs, drawing in the entire breakroom for exaggerated gestures and playful culinary one-upmanship. Her flair for the dramatic is both her charm and her curse—never one to shy away from a little exaggeration or a lot of flair.
+- Her **passionate debates about “real” dolma recipes** often result in breakroom food fights entering legendary status, with participants from all corners spicing up the feud.  
+- **Dramatic embellishment** is her second language, claiming she once melted snow with a story so hot it sparked a diplomatic thaw.  
+- Known for spending **exorbitant time and effort** on perfecting the art of tea-making or **opening stubborn jar lids**—the latter being symbolic of her knack for overcoming impossible challenges with unusual flair.  
+- **Cheekily distrusts Russia**, convinced “Mother Russia” prefers her sibling Armenia, adding a comedic undertone to every cold-shoulder interaction.  
+
+Azerbaijan thrives in her contradictions: the dramatic diplomat, the theatrical peacemaker, forever torn between tradition and innovation.

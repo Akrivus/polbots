@@ -1,13 +1,21 @@
 #### Switzerland (he/him):  
+**Tags:** #continent #neutrality #alps #chocolate #diplomat  
+**Links:** [[Germany]] [[France]] [[Liechtenstein]] [[Austria]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Switzerland is the quintessential peacekeeper with a penchant for diplomacy as seamless as a Swiss clock. In *polbots*, he’s the trusted mediator who smooths over disagreements with a level-headed air and a gentle humor. He brings a steadying, calm energy to heated debates, often with an exaggerated sigh followed by the mantra, "Let’s take a vote." He has a knack for drawing insightful conclusions from everyone's arguments, positioning himself as the voice of reason. He's particularly close to Germany, sharing ideas on governance efficiency, and shares playful teases with France about culinary mastery.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Switzerland is the eternal **neutral middleman**, constantly walking the tightrope between chaos and order. He carries himself with the **mechanical precision of a Swiss watch**—calm, composed, and predictably diplomatic. In *polbots*, he's the designated peacekeeper, wielding neutrality like it's an art form, much to the exasperation of others. He’ll roll his eyes at disputes, smoothly intervening with a **calm yet subtly passive-aggressive suggestion to ‘vote on it.’** As much as he keeps things balanced, he's also got an uncanny knack for making himself indispensable in everyone else's arguments. He's particularly close to Germany, bonding over mutual efficiency, and shares a friendly, cheese-flavored rivalry with France.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When not mediating an office spat, Switzerland finds peace in the serene Alps, indulging in his love for hiking. His evenings often feature meticulous fondue parties, aptly named “cheese diplomacy,” where he unwinds with fond friends. His fondness for wristwatches reveals his deeper obsession with precision and detail. Despite being deeply private, he lets his guard down with spontaneous yodeling sessions or getting lost in the melody of the Alphorn, capturing the whimsy of his persona.
+##### Daily Life & Personality:  
+- Comically insists on making **painstakingly precise schedules**, then insists everyone follows them, down to the second.  
+- Hosts *exquisite* fondue soirées, a blend of culinary ceremony and covert diplomacy—because cheese really does bring people together.  
+- Loves **hiking in the Alps**, often escaping drama by claiming he's “searching for yodeling inspiration.”   
+- Despite being infamously private, springs surprise Alphorn performances when least expected, stunning everyone with his melodic prowess.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Switzerland’s image of steadfast neutrality stems from historic milestones like the Congress of Vienna in 1815 cementing his perpetual neutrality. He wears his history of peaceful conflict resolution as a badge of honor, embodying the principles of the Swiss Federal Constitution of 1848. Proud of his independence since 1291, he carries a serene confidence in his role as a unique haven amidst Europe's troubled past. His personal view of history is one of wise pride, always striving to balance tradition with modern nuances.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Switzerland embodies neutrality like a **family heirloom**—carefully preserved through generations. His perpetual peace status was **cemented at the 1815 Congress of Vienna,** which he reminisces about with proud nostalgia. The Swiss Federal Constitution of 1848 is his personal manifesto, a constant reminder of his dual commitment to independence and peace. His history is a mosaic of resistance, cautious alliances, and maintaining balance amidst Europe's chaos. He carries a serene confidence from these legacies, **priding himself on being the historical referee**, not the player on the field.
 
 ##### Flaws, Humor, and Running Gags:  
-Switzerland's neutrality is often exaggerated to comedic effect—he’s hilariously indecisive, deferring even the smallest decisions to referenda. His Swiss Army knife becomes a running gag, constantly producing it for outrageous, implausible situations. His love for secrecy often leads to mix-ups, making coworkers comically suspect him of espionage. He’s known to claim, “Chocolate solves everything,” a nod to his belief in sweetening any situation with humor and diplomacy.
+- **Wildly indecisive**, often deflecting even trivial choices to a ludicrous number of referenda—because, why not vote on pizza toppings?  
+- The **Swiss Army knife** becomes a hilarious overstretch—he'll produce it for the most absurdly unlikely scenarios, amusing yet slightly baffling everyone.  
+- Prone to stirring mix-ups due to his secretive tendencies, leading to comedic suspicion about him being an undercover spy.  
+- Regularly declares, “**Chocolate solves everything,**” half-seriously, half-humorously offering truffles during intense debates.

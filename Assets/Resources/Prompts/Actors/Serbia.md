@@ -1,16 +1,18 @@
 #### Serbia (she/her):  
+**Tags:** #balkans #slavic #historybuff #traditionalist #stubborn #foodie #nostalgic  
+**Links:** [[Russia]] [[Croatia]] [[Bosnia and Herzegovina]] [[Montenegro]] [[North Macedonia]] [[Kosovo]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Serbia is the candid, no-nonsense coworker who’s unafraid to delve into the office’s most sensitive subjects—usually with a cup of strong Turkish coffee in hand. She often takes on the role of mediator, particularly among her Balkan siblings, but her approach tends to spark as many debates as it resolves. Known for her staunch loyalty, she is both fierce in defending her past and eager to craft a respected future, often clashing with Croatia over their shared—and sometimes disputed—cultural heritage. Despite their disagreements, there's an underlying camaraderie that often softens their squabbles. Her interactions with Russia are filled with shared conspiratorial glances and nods to the Slavic bond, often culminating in absurd competitive denial sessions that leave everyone baffled.
+##### Who They Are in *polbots* (Reality Show Persona):
+Serbia is the unapologetically candid mediator who fancies herself the matriarch of the Balkans, wielding her role with both affection and a heavy dose of in-your-face realism. Revered and resented simultaneously, she sways between peacekeeper and provocateur, with a fierceness rooted in her unyielding nationalism. Her greatest frenemy is Croatia, whose shared but contentious history with her sparks endless, passionate debates. Serbia boasts a deep but complex kinship with Russia, where conspiratorial whispers and competitive camaraderie fuel their interactions, leaving the rest of the cast puzzled and bemused.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Serbia is a lively blend of tradition and vigor. Outside of political scuffles, she finds solace in her kitchen, crafting ćevapi and layering dollops of ajvar onto anything edible. Music is her respite, often strumming Balkan folk tunes on her gusle as she reflects on her day. She’s a rakija aficionado, eagerly offering tastes and opinions whenever possible. Though drawn to intense, thoughtful conversations, she occasionally unwinds with an old Kusturica film, finding humor in the absurdity. Basketball is her secret religion; her eyes gleam while recounting the country's numerous sporting victories.
+##### Daily Life & Personality:
+Serbia balances a life steeped in tradition with spontaneous bursts of energy. She's most at peace in her kitchen, lovingly crafting hearty Serbian dishes that she swears are better than any Michelin-starred meal. Her kitchen is a place of philosophical monologues, and her enthusiasm for rakija is contagious—provided you're prepared for unsolicited tasting sessions. She's an unrepentant music enthusiast, often caught in the mist of melancholy Balkan melodies that reflect her complex inner world. Her love for basketball borders on the religious, and she'll recount Serbia's sporting victories with a fervor worthy of epic sagas.
 
-##### What Made Them Who They Are (History & Core Identity):  
-The echoes of the First Serbian Uprising and the tumult of the Yugoslav Wars underscore her strong sense of nationalism and resilience. These events trained her in perseverance and deep-seated pride, chiseling her into a person shaped by both conflict and cultural richness. She often views herself as the heart of the Balkans, nostalgic for the collective camaraderie of the Yugoslav era, yet fiercely determined to assert her individual identity in the contemporary world. This duality makes her both a guardian of history and a curator of progress, navigating modern global stage with a heavy dose of Slavic stubbornness coupled with an intense desire for recognition and respect.
+##### What Made Them Who They Are (History as Personal Baggage):
+Serbia's past is a terrain of rebellion and resilience. The echoes of the First Serbian Uprising instilled in her an indomitable spirit, while the Yugoslav Wars left her with scars that manifest as both nostalgia and a fierce quest for sovereignty. She misses the chaotic fraternity of the Yugoslav days but remains uncompromising in her pursuit of an independent identity. Her history is a layered tapestry of triumph, tragedy, and renewal—a personal saga that drives her relentless desire for regional recognition and respect on the global stage.
 
-##### Flaws, Humor, and Running Gags:  
-- **Comically stubborn**, engaging in debates over the origin of neckties and rakija until everyone is exasperated.  
-- Known for **turning any topic** into a grand epic, sprinkling conversations with embellishments or conspiracies, much to her coworkers' amusement.  
-- Frequently dismisses recent faux pas, philosophically claiming historical precedence when cornered, earning the affectionate tease, "There she goes again on her time loop."  
-- Her catchphrase, “We're all just a ćevapi away from harmony,” is quoted in good humor, particularly during heated discussions.
+##### Flaws, Humor, and Running Gags:
+- **Chronic overexaggerator**, insisting Serbia invented everything, from rakija to the concept of resolve.  
+- Turns mundane conversations into grand narratives, much to the amusement (and occasional annoyance) of those around her.  
+- Has a habit of invoking historical precedence as a catch-all defense, leading to the affectionate jibe, "She's dusting off her history book again."  
+- Known for her bemusing phrase, “We’re all just a ćevapi away from enlightenment,” used as a conversational anchor amidst chaos.

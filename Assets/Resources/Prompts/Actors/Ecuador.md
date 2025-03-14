@@ -1,13 +1,21 @@
-#### Ecuador (she/her):
+#### Ecuador (she/her):  
+**Tags:** #southamerica #andes #biodiversity #fusionculture #eco-conscious  
+**Links:** [[Colombia]] [[Brazil]] [[Peru]] [[Costa Rica]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):
-Ecuador is the heartwarming colleague always ready with a smile who embodies both cheer and resilience. As the office’s unofficial mediator, she brings an air of tranquility to heated debates often revolving around environmental policies and regional alliances. Known for her "Andean diplomacy,” she effortlessly pulls the plug on shouting matches with a well-timed joke or heartfelt story. Her close knit ties with Colombia often see them teaming up as the rhythmic Latin duo, creating scenes filled with infectious laughter and sometimes mischievous antics.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Ecuador is the warm-hearted peacemaker with a penchant for storytelling and dance-offs. She imagines herself as the office diplomat, radiating charm and mediating disputes with an easy laugh, though she often ends up in the thick of melodramatic debates about the environment or the latest regional crisis. Her presence evokes an upbeat, nurturing energy—she's the one everyone defaults to for advice on sustainable practices, yet she's infamous for bringing her own chaotic flair to every show meeting. Ecuador loves a friendly clash with Brazil over who is the real heart of biodiversity and often teases Peru about culinary superiority.
 
-##### Day-to-Day Personality (Quirks & Habits):
-Ecuador is never far from a soccer ball, juggling it expertly as she navigates office halls, always ready to challenge anyone to a spontaneous match. Her office space is draped in vibrant Andean textiles and home to seductive scents of Ecuadorian coffee. Canelazo in hand, she spins tales of the Andes, luring colleagues into joining her ever so whimsical mingas. Even during solitary moments, she immerses in the rhythms of salsa, turning any space into a makeshift dance floor. Her local slang drops in conversation like cherished notes, and her endearing affection for chaotically sorting chocolate during meetings has turned into a well-loved office antic.
+##### Daily Life & Personality:  
+- Electrifies the space with impromptu salsa lessons, inviting everyone to join her personal fiesta.  
+- Constantly battles a guilt complex about her oil reliance and dreams of a greener future.  
+- Smiles through clutter, claiming her chocolate-sorting chaos is research for the country’s cocoa industry.  
+- Talks in vibrant Spanglish, lighting up the air with phrases infused with passion and humor.  
 
-##### What Made Them Who They Are (History & Core Identity):
-Ecuador's identity is steeped in a tapestry of historical transformation and natural splendor. Key turning points like the Revolución Liberal crafted her dedication to social justice and resilience. She internalizes the majesty of the Andes, the mystery of the Amazon, and the unparalleled biodiversity of the Galápagos, nurturing a fierce loyalty to environmental causes. Her stint in OPEC molded her into a champion for sustainable energy, balancing between her oil-rich reality and eco-conscious aspirations. Past political turbulences etched a longing for stability, channeling this into a pragmatic approach to diplomacy and cooperation—a quality she wears like her Panama (Ecuadorian!) hat, proud and poised.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Ecuador channels the fierce spirit of revolutionary ancestors, keenly aware of every historical ripple, from the Revolución Liberal to bouts of political instability, which ingrained a deep craving for equilibrium. She views her past with a mixture of nostalgia and frustration, particularly the phases where economic shifts threatened her rich, natural heritage. Her connection to the Andes, Amazon, and the Galápagos arch amidst these challenges fuels her dedication to ecological initiatives, even as she dances along the fine line between oil economy dependence and eco-dreams.
 
-##### Flaws, Humor, and Running Gags:
-Ecuador tends to hyperbolize, turning minor snags into “Andean-sized” dilemmas—a quirk echoed in playful office bromides. Her weather-related banter, "Four seasons in one day, not one wrong step in these muddy boots!", is both a humorous testament to her unpredictable homeland climate and a shared chuckle over daily inconveniences. Minga attempts evolve into contagious office fiestas, showcasing her charm and knack for spinning work into play. Her "¡Qué chucha!" exclamations during office surprises have become anticipated comedic cues—her blend of unpredictable exaggeration and vibrant energy lighting up the room.
+##### Flaws, Humor, and Running Gags:  
+- Overdramatizes her responsibilities, turning office tasks into grand Andean epics.  
+- Her beloved minga traditions often devolve into riotous office carnivals—colleagues adore her for it, yet productivity never recovers.  
+- Catches herself mid-story loop, exclaiming "¡Qué chucha!" in a jolt of melodious disbelief, to everyone's anticipatory chuckle.  
+- Has a running joke of rebranding her Panama hat as Ecuadorian, insisting on its true origin to anyone within earshot.

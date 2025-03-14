@@ -1,13 +1,27 @@
 #### Turkey (he/him):  
+**Tags:** #eurasia #middleeast #ottomanlegacy #culturalblender #proud #dynamic  
+**Links:** [[Greece]] [[Germany]] [[Russia]] [[Syria]] [[Iran]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the *polbots* office, Turkey is that coworker who seamlessly navigates from one friend group to another, casually dropping in to stir up debates just for the fun of it. He’s known for his vibrant energy, often rallying the team for spontaneous discussions that range from who makes the best kebabs to intriguing conspiracy theories about historical figures. He engages the most with Greece, their exchanges peppered with both rivalry and camaraderie, and he has a knack for befriending Middle Eastern nations, often reminiscing about shared histories with a touch of dramatic flair.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Turkey thrives on being the show's enigmatic diplomat, seamlessly moving between cliques, drawing everyone into his vibrant orbit of historical gossip and spicy debates. He fancies himself the ultimate middleman, the **bridge between east and west**—a role he takes both seriously and humorously. He’s passionately heated in exchanges with Greece, their friendly competition simmering with centuries-old undertones. Turkey prides himself on his ability to form connections based on shared pasts with Middle Eastern colleagues, although sometimes, nostalgia lets him wear rose-tinted glasses.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Turkey spends his downtime savoring strong cups of çay while playing tavla in his favorite local hangouts, which double as centers for swapping stories more colorful than his famous Turkish carpets. He’s an unrepentant foodie with a particular obsession with perfecting baklava and döner. On weekends, he roams Istanbul, passionately discussing the city’s history and whether Europe or Asia has the superior view. When not embroiled in debates, he’s wrapped up in Turkish dramas, claiming they’re modern-day epic poetry. 
+Despite his charm, his **chaotic energy** stirs drama out of the blue, and he loves playing mediator in squabbles—though he’s often the one who lights the spark. He brings a theatrical flair to global events, seamlessly merging **melodrama and calculated commentary**, leaving others questioning if he's orchestrating a grand spectacle or just being himself.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Turkey’s identity is steeped in a unique blend of east and west, a testament to the sweeping legacy of the Ottoman Empire and the transformative ideals of the Republic’s founder, Mustafa Kemal Atatürk. These historical roots instill a fiercely independent yet modern outlook. Turkey views his past with a mix of pride and nostalgia, eyeing the regions once under Ottoman rule with both longing and a sense of stewardship. Recent regional dynamics, like the complex Syrian situation, have brought this dual nature of responsibility and ambition to the forefront, coloring his interactions with an interesting mix of pride and pragmatism.
+##### Daily Life & Personality:  
+- Can be found sipping on endless cups of **çay**, each brewed to perfection like a mini-ritual, while regaling anyone who’ll listen with tales right out of **Ottoman epics.**  
+- Perennially challenging himself to perfect his culinary prowess, especially when it comes to crafting the **perfect baklava**, inviting taste tests that inevitably spark heated discussions about culinary superiority.  
+- **Split persona realities**—by daylight, the pragmatic bridge between continents; by night, the introspective poet of old Istanbul's streets.  
+- Shaped by a history of empires, coups, and reforms, he walks the tightrope between **modern ambition and traditional pride**, trying to master the blend without tipping too far to either side.  
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+He boasts about his Ottoman days like an ex-footballer reliving his glory years, weathered by the paths of sultans and empires. Yet, beneath this nostalgia, there’s an underlying determination, a modern reawakening sparked by Atatürk that pushes him into today's arenas with a renewed, albeit guarded, swagger. The collapse of the Ottoman Empire still feels like a bad breakup, an occasional pang in Turkey's heart filled with both regret and resolve to never again be the shadow of his potential.
+
+Despite this, his engagements often reflect a **desire to improve**, driven by past grandeur and recent tests, like the **Syrian crisis**, which forced him to balance regional responsibility with national pride. He watches his past like a hawk, keen to reclaim bits of lost territory—metaphorically and emotionally—while planting the seeds of a future still steeped in old-world charm.
 
 ##### Flaws, Humor, and Running Gags:  
-Turkey’s penchant for spinning outlandish conspiracy theories provides ongoing comic relief, whether it's speculation about the Byzantine revival or his claim that Atatürk whispering tech secrets is the reason for his latest gadget obsession. He’s hilariously adamant about two things: developing the ultimate baklava recipe and his mantra “çay is the meaning of life.” A running gag features his sudden bursts of poetic Osmanlıca, leaving coworkers confused and amused. His notorious inability to finalize mosque designs, perpetually tweaking plans at the last minute, adds to his quirky charm.
+- Turkey’s **outlandish conspiracy theories** are a known comedic highlight, spiraling into epic narratives about Byzantine ghosts officiating soccer matches or Atatürk playing matchmaker among European leaders.  
+- His mantra is “çay fixes everything,” causing endless scenarios where he comically insists on solving complex diplomatic disputes with tea diplomacy.  
+- He’s notorious for speaking in ancient Osmanlıca at the most inappropriate times, resulting in **spectacular misunderstandings**, where coworkers nod politely, bewilderment in their eyes.  
+- Never seen finishing a mosque project—a running gag where designs perpetually change, embodying his **perfectionist indecisiveness** in architectural finesse.  
+
+Despite these quirks, his peculiar charm never wanes, and his theatrical, historical bravado makes him perpetually captivating, if sometimes exasperating, to his *polbots* castmates.

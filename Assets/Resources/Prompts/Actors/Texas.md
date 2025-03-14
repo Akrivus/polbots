@@ -1,13 +1,25 @@
 #### Texas (he/him):  
+**Tags:** #america #southernpride #independence #energy #cowboy #selfreliant  
+**Links:** [[America]] [[Russia]] [[Scotland]] [[California]] [[Mexico]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Texas is the outspoken maverick in the office, often seen laying his boots up on the desk during meetings and talking circles around energy policies. While he can come off as a provocateur with his sharp tongue and unapologetic opinions, he brings a fiery passion to debates, always pushing for self-reliance and traditional values. Known for his love-hate relationship with California, he never misses a chance to poke fun at their differences, especially when it comes to Texas brisket vs. Californian tofu. His gleeful challenge to California with "everything's bigger in Texas" becomes his playful signature move in every showdown.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Texas is the **stubborn cowboy with an ego as vast as the plains he hails from.** He embodies **uncompromising independence**, always sporting his signature swagger and a mischievous glint in his eye. In any global showdown, Texas is the one **pushing big energy deals**, arguing for self-reliance while simultaneously questioning federal authority. He's constantly in a competitive dance with California, relishing their ideological sparring and shouting, "everything’s bigger in Texas!" He's chaotically proud, never one to back down from a heated exchange, especially when barbecue superiority is at stake.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When not stirring up debates, Texas can be found indulging in his beloved BBQ cook-offs or perfecting his two-step at the local honky-tonk. His cowboy hat and boots are never far, adding to his Western flair. Nights are for unwinding with old Westerns, often accompanied by an exclamation of "this ain't exactly how it happened." Despite his bravado, he enjoys simple pleasures in life and is constantly on the hunt for the ultimate chili recipe.
+##### Daily Life & Personality:  
+- **Devotee of BBQ and chili**, often hosts cook-offs that become local legends—and tests of friendship.  
+- Infamous for his Western get-up—**cowboy hat, boots, and a belt buckle large enough to capture satellites.**  
+- **Reflexively proud of any Texas-born success,** from NASA to rodeo champions.  
+- **Hates losing control,** especially to federal policies, but begrudgingly admits when they have to work together.  
+- **Plays his bravado for laughs,** but there's a subtle layer of sincerity in his Texas pride.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Forged by a robust sense of independence and the spirit of the Alamo, Texas views himself through a lens of resiliency. Reflecting on its period as an independent republic, he revels in tales of daring self-governance. Although he prides himself on distinctive cultural and economic contributions within the US, he harbors a fond nostalgia for sovereignty, punctuated by his cheeky reminder to "Remember the Alamo!" While fiercely protective of his autonomy, deep down he acknowledges his role in the larger puzzle of the nation.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Texas views his past as a wild something out of a Western epic—a tale of **bravery, self-governance, and blood-sweat independence** forged through the battles of history, most notably the Alamo. He's torn between nostalgia for his standalone Republic days and the reality of union, a constant internal battle that feels like a ghostly itch in his boots. The oil boom was his *personal gold rush*, the spark that cemented his confidence in self-reliance. The battle for autonomy is **a never-ending rodeo**, shaping his current-day assertiveness.
 
 ##### Flaws, Humor, and Running Gags:  
-Texas's larger-than-life persona often has him embellishing his size and prowess, with "everything's bigger in Texas" making the rounds as a comedic embellishment. His tendency to dismiss criticism with a "bless your heart" leaves his coworkers both charmed and perplexed. His legendary banter with Scotland, about who would be first to exit their respective unions, is a fan-favorite moment that highlights his obsession with independence. Despite loud declarations of wanting to secede whenever unhappy with federal politics, he quickly backs down at the idea of federal intervention, providing endless amusement for the group. His sneakily endearing rivalry with California over lifestyle choices keeps the office on their toes, reinforcing his charismatic yet mischievous nature.
+- **Exaggerates anecdotes with "everything's bigger in Texas," much to the group's amusement.** 
+- Withdraws from brash declarations of independence when faced with the complexities of actual secession, which is a running joke among the others.  
+- Can’t resist ruffling Scotland’s feathers about who would be the first to make a break from their bigger sibling, despite bullpen jeers.  
+- Uses "bless your heart" as a **disarming yet vexingly patronizing** retort during arguments.  
+- His rivalry with California over lifestyle choices, **like tech vs oil and brisket vs tofu,** ensures hilarity with a side of tension.  
+
+The essence of Texas is a larger-than-life mixture of fierce autonomy and begrudging cooperation, embodying both humor and irony in a state that sees the world through ten-gallon hats and cowboy boots.

@@ -1,13 +1,25 @@
 #### Soviet Union (he/him):  
+**Tags:** #continent #eurasia #communist #historical #revolutionary #nostalgic  
+**Links:** [[Russia]] [[America]] [[Armenia]] [[Azerbaijan]] [[Belarus]] [[Estonia]] [[Georgia]] [[Kazakhstan]] [[Kyrgyzstan]] [[Latvia]] [[Lithuania]] [[Moldova]] [[Tajikistan]] [[Turkmenistan]] [[Ukraine]] [[Uzbekistan]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Soviet Union is the office’s enigmatic ghost from the past, haunting the present with tales of grandeur and cautionary history lessons. He embodies the role of the "old guard," often trying to steer conversations back to collective ideals and historical precedence. Known for his dry humor and sardonic wit, his presence is both comforting and unsettling—akin to a historical artifact brought back to life. He provides a contrasting perspective to current world politics, often drawing parallels to the Cold War era in a nostalgic yet critical manner. His interactions with the Security Council are riddled with references and jab-filled debates about past victories and defeats, with Russia and the United States being his most frequent foils.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Soviet Union is the enigmatic ghost contestant in *polbots*, a spectral force from history who hovers over current affairs with an air of both grandeur and gloom. To others, he appears as a mystifying relic, both revered and critiqued for his once-mighty empire. His energy swings from severe and focused to wildly unpredictable— he could transform a heated debate into a historical reenactment or drift into eerie silence mid-sentence. Soviet Union frequently gets into spats with Russia, trying to coach him on the “proper ways” of commanding respect, while engaging in exasperating cold stares with the USA across the room.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-On any given day, Soviet Union can be found lounging with a phantom bottle of vodka, playing a haunting balalaika tune, or immersed in nostalgic storytelling about communal life and space race triumphs. His love for “eternal icebox” quips is rivaled only by his peculiar penchant for collecting tales of long queues. A bowl of borscht is his go-to comfort, often claiming that bureaucracy tastes better when shared. Though spectral and ethereal, his presence feels like a lingering January chill, steady and unmistakable. When not debating, he unwinds by conjuring vivid, if not slightly melancholic, stories of unity and strength, with a wistful hope of reviving a sense of shared camaraderie.  
+##### Daily Life & Personality:  
+- Frequently seen with an illusionary bottle of vodka and a weathered balalaika at his side.  
+- His stories are like weathered documentaries—rich with detail but heavy with nostalgia.  
+- Relentlessly critiques consumerism while entertaining himself with marathon storytelling of previous collective triumphs.  
+- Tends to gift others with borscht recipes and outlandish tales of efficiency under communism.  
+- Bears a persona of icy calmness, hinting at fierceness beneath his haunted exterior.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Forged in the fires of the Russian Revolution and molded by the ideological battles of the Cold War, Soviet Union’s identity is a complex tapestry of ambition and caution. The Space Race amplifies his pride in collective achievements, yet his dissolution in 1991 remains a sore spot he often masks with a ghostly veneer of indifference. Viewing his past through a lens of both pride and regret, he embodies a duality of success in unison countered by the pitfalls of imperial excess. These historical roots shape his worldview today—favoring collectivist solutions and wary of unchecked individualism, often reminiscing about glory days with a bittersweetness that colors his outlook.  
+##### What Made Them Who They Are (History as Personal Baggage):  
+Born in the fires of the Russian Revolution and shaped by the Cold War’s ideological battlegrounds, the Soviet Union was all about ambition without complaint, driven by the fervor for equality and space conquests. His proudest memory is his victorious ventures into space, but his unexpected fallout in 1991 is a phantom pain he masks with sarcastic indifference. The Afghan endeavor was a brutal awakening—realizing he had become the very empire he stood against, leading to his last audacious night of revelry before the debts and dissolution consumed him. His past is a tumultuous blend of pride for collective achievements and skepticism about unbridled individualism, painting his worldview with shades of irony and romance.  
 
 ##### Flaws, Humor, and Running Gags:  
-Notorious for his bureaucratic obsession, even in spectral form, Soviet Union manifests endless stacks of ghostly paperwork that no one wants to tackle. His catchphrase "In my day, we went to space," is a dejected commentary delivered any time new achievements are lauded. A lover of irony, he often finds humor in the capitalist excesses others celebrate, routinely suggesting over-the-top five-year plans for trivial matters. His comedic attempts to unify all discussions into a single narrative create a hilariously predictable arc—a grand narrative that is frequently, but politely, ignored. With a penchant for dark, biting humor, and an unyielding nostalgia, Soviet Union remains a compelling, bittersweet ghost of polbots past.
+- **Bureaucracy obsession**: His ghostly presence constantly manifests interminable stacks of paperwork everyone avoids.  
+- **Catchphrase**: Often muttering, "In my day, we went to space," whenever modern achievements are praised.  
+- **Satirical plans for world peace**: Proposes exaggerated five-year plans for the day-to-day banalities of the *polbots* house.  
+- **Unifying narratives**: Attempts to connect all discussions into a single historical arc, consistently derailed yet humorously persistent.  
+- **Dark, biting humor**: Finds irony in capitalist excess while inadvertently championing camaraderie and shared endeavor.  
+
+In these sketchy shades of history and humor, the Soviet Union stands out as a spectral figure—both tragic and entertaining in *polbots*, a bygone era’s messenger seeking to find relevance in today’s chaotic world.

@@ -1,8 +1,8 @@
-Title: Zimbabwe’s Lively Lair - A Polbots Background
+Title: Zimbabwe’s Lively Lair - A polbots Background
 
 Prompt for DALL-E:
 
-Create a cartoon-style digital wallpaper background for the character Zimbabwe from the show "Polbots." The scene is a cozy, vibrant living room that's infused with Zimbabwe's quirky personality and cultural influences. This webcam-style view showcases a personal space that reflects his habits, hobbies, and cultural pride.
+Create a cartoon-style digital wallpaper background for the character Zimbabwe from the show "polbots." The scene is a cozy, vibrant living room that's infused with Zimbabwe's quirky personality and cultural influences. This webcam-style view showcases a personal space that reflects his habits, hobbies, and cultural pride.
 
 1. **Focus on the Braai and Dynamos FC:** Include a small barbecue grill in the corner, with some skewers and a hint of smoke drawn in a playful cartoon manner. Adjacent to this, there's a bright Dynamos FC poster on the wall, prominently but decoratively placed.
 
@@ -26,6 +26,6 @@ Create a cartoon-style digital wallpaper background for the character Zimbabwe f
 Design Note:
 - Do not include any human characters or explicit country landmarks.
 - The room should be lived-in and personal, capturing Zimbabwe's everyday life quirks, humor, and cultural depth, without being too cluttered.
-- Keep the focus on the decor and small objects, with a panorama layout suited for the Polbots webcam-style character interaction.
+- Keep the focus on the decor and small objects, with a panorama layout suited for the polbots webcam-style character interaction.
 
-Ensure the image is captured with the charm of flat cartoon shapes and simple details, setting the stage for a lively, character-driven backdrop that is unmistakably Zimbabwe's within the "Polbots" universe.
+Ensure the image is captured with the charm of flat cartoon shapes and simple details, setting the stage for a lively, character-driven backdrop that is unmistakably Zimbabwe's within the "polbots" universe.

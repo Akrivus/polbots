@@ -1,13 +1,22 @@
 #### El Salvador (he/him):  
+**Tags:** #centralamerica #latinamerica #cryptoenthusiast #peacemaker #underdog  
+**Links:** [[America]] [[Mexico]] [[Honduras]] [[Costa Rica]] [[Nicaragua]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-El Salvador is the office's mellow tech guru, always caught between his laid-back Latin vibes and the digital frontier. He’s known for introducing unconventional solutions to workplace dramas, like suggesting blockchain for supply chains or pupusas for team morale. He’s a natural peacemaker and is often the calming presence when disputes flare up between larger nations, like the United States and Mexico. His penchant for nostalgic storytelling adds a layer of warmth, while his digital savvy keeps him relevant in trendy tech circles, often leading humorous sessions on how to use Bitcoin that leave his less tech-savvy peers bewildered.
+##### Who They Are in *polbots* (Reality Show Persona):  
+El Salvador is the show’s **calm tech wizard with a laid-back demeanor** always ready to offer an alternative perspective or quirky solution. Known for hyping up Bitcoin like it’s magic coffee, he **blends a nostalgic love for tradition** with a spirited embrace of the digital frontier. He’s the guy you’d see at both tech meetups and family gatherings, arguing about blockchain in one and offering heartfelt tales in the other. **He acts as the mediator in crossfire debates** between powerhouses like the U.S. and Mexico, trying to keep the peace while sneakily advocating for his unconventional ideas.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-El Salvador’s office space is a fusion of old and new, filled with crypto memorabilia and traditional instruments. Relaxing with a guitar in hand, he often breaks into soulful tunes, inviting others to join in a laid-back jam session. A regular on the football pitch, he embodies the spirit of the underdog, playing with an infectious energy, regardless of the score. Off the clock, he’s likely found plotting his next digital venture—whether practical or not—like trying to start a blockchain-based beach cleanup fund. He champions his beloved pupusas, using them as peace offerings or as part of friendly culinary contests with coworkers.
+##### Daily Life & Personality:  
+- His workspace is a lively clash of **traditional Salvadoran culture and cutting-edge crypto-tech**. He has a habit of strumming soulful tunes on his guitar, inviting everyone into spontaneous jam sessions. 
+- Loves football as much as his **latest tech venture**, passionately playing the underdog role with unyielding energy.  
+- Notoriously attempts post-match gatherings at spots that can accept crypto payments, much to the confusion of his cash-preferring colleagues. 
 
-##### What Made Them Who They Are (History & Core Identity):  
-His resilience is born from the scars of the civil war, teaching him the value of peace and the warmth of reconciliation. The embrace of CAFTA-DR marked his foray into globalization, shaping his open-minded approach in economic discussions. The bold Bitcoin experiment of 2021 stirred his curiosity, catalyzing his transformation into a tech enthusiast. El Salvador views his past with a mix of pride and reflection, often waxing nostalgic about his people’s strength and creativity, while eagerly looking forward to technological progress and global integration. These experiences make him a firm believer in patience and gradual change, encapsulated in his mantra: “Tranquilo, todo en su tiempo.”
+##### What Made Them Who They Are (History as Personal Baggage):  
+El Salvador’s past is woven with a **deep resilience born from civil war scars** that taught him the cost of peace the hard way. The transition post-CAFTA-DR was like being handed a global invite, awakening his cosmopolitan curiosity. Fast-forward to the Bitcoin upheaval of 2021, where he embraced the chaos with wide-eyed enthusiasm, delighting in the new possibilities it presented. **His identity is a tapestry of reconciliation and innovation**, viewing his history with pride and a dash of nostalgia, always eager to learn and adapt. 
 
 ##### Flaws, Humor, and Running Gags:  
-El Salvador’s obsession with Bitcoin leads to endearing yet chaotic antics, such as attempting to tip baristas in satoshis or trying to buy lunch with cryptocurrencies at places that only accept cash. His tendency to mix cumbia with tech-talk creates amusing cultural clashes, leaving his coworkers in affectionate headshakes. Often caught referencing dramatic historical moments for mundane office dilemmas, his colleagues affectionately tease him with the line, "It's not quite El Mozote, is it?" His mixture of chill charisma and tech enthusiasm provides the comedic relief and cultural richness that keep the *polbots* office lively and unpredictable.
+- His **obsession with cryptocurrency** leads to slightly ridiculous antics, like persuading a vendor at the market to accept satoshis or tipping a bartender with crypto stickers.  
+- Frequently mixes cumbia and tech jargon, creating an amusing blend of confusion and laughter among his friends.  
+- Constantly tries to resolve trivial disagreements by referencing historical conflicts with, “This is nothing compared to what we’ve been through.”  
+- Often exclaims, “Tranquilo, todo en su tiempo,” with an exasperated but endearing expression when chaos erupts, which endears him even more to his peers.  
+
+This character blurs cultural richness with modern absurdities, serving as both a beacon of peace and a catalyst for laughter in the unpredictable whirlwind of *polbots*.

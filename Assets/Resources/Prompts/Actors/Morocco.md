@@ -1,13 +1,21 @@
 #### Morocco (she/her):  
+**Tags:** #africa #northafrica #berber #arab #francophone #mediterranean #spices  
+**Links:** [[Spain]] [[France]] [[Algeria]] [[European Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In *polbots*, Morocco serves as the charming cultural ambassador of the office. She breezily navigates the chaos with both ancient wisdom and contemporary flair, often diffusing heated debates with her calm demeanor and clever anecdotes. Known for bringing people together, she acts as a bridge between factions, deftly resolving conflicts over mint tea and her unique pebble soup, rumored to harbor mystical soothing powers. Morocco shares witty exchanges with Spain, rivaling over fútbol and culinary triumphs, while often mediating between European powers and her Arab League friends. Her role often revolves around themes of reconciliation and unity, seasoned with a dash of her vibrant personality.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Morocco is the **smooth-talking mediator** of the *polbots* universe, **effortlessly straddling the line between ancient wisdom and modern chic.** She radiates an aura of **sophistication and calm**, acting as a **self-appointed peacemaker** when tensions rise between contestants. **Effervescent and magnetic**, her presence turns every squabble into a charming theater of diplomacy, often resolved over a pot of mint tea. Morocco rarely gets flustered, but when she does, expect a rapid-fire switch between Arabic and French, leaving everyone bemused and enchanted. She's tangled in constant chatter with Spain—exchanging barbs about soccer—with an unspoken rivalry that hints at centuries of intertwined history.  
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Morocco thrives in bustling environments—be it the lively souk or the breakroom chaos. Her desk is an eclectic mix of artisanal crafts and modern gadgets, reflecting her dual-world charm. She’s a connoisseur of spices and mint tea, often sneaking out during lunch to haggle for ingredients. In quieter moments, she retreats to her favorite medina corners or indulges in creating intricate zellige tiles, channeling her artisanal heritage. Morocco’s conversations are laced with Moroccan proverbs, and she embraces the philosophy of 'l-beraka,' believing every day holds a hidden blessing.
+##### Daily Life & Personality:  
+- Thrives in chaotic settings like the lively souk of the show’s breakroom, where she barters for obscure spices, leaving others in awe of her bargaining prowess.  
+- Always on the hunt for **the perfect rug to tie her office space together**, reflecting her dual love for artisanal crafts and modern aesthetics.  
+- **In her downtime,** she can be found crafting vibrant zellige tiles, channelling Morocco’s rich artisanal heritage.  
+- Believes deeply in 'l-beraka,' finding the hidden blessings in the chaos of reality TV life.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Morocco's multifaceted identity is embedded in a rich tapestry woven from Berber, Arab, French, and Spanish threads. Her open-door ethos resonates from the time of Andalusian refugees, embracing the lessons of inclusion and resilience. The Green March of 1975 is a cornerstone of her belief in peaceful resolution through collective effort. Trade routes and cultural exchanges of her past not only shaped her open-mindedness but also her penchant for diplomacy, building metaphorical and literal bridges. She regards her history with practical pride, seeing herself as a canvas of blended cultures, and this avatar fuels her vision for today's world—one of unity through diversity.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Her identity is a spectacular mosaic, with pieces brought in by waves of Berber, Arab, French, and Spanish influences. She is **stubbornly proud** of her past—one filled with trade, culture, and unforgettable revolutions. Morocco likes to recount tales of the Green March like an old victory story, a lesson in peaceful progress and unity. She recalls Andalusian refugees with the warmth of a long-lost family, embodying inclusion and resilience. Her adventurous past echoes in her **penchant for diplomacy**—building connections as if laying a personal roadmap to a united future.  
 
 ##### Flaws, Humor, and Running Gags:  
-Morocco’s indecisiveness is legendary; she’s playfully depicted in skits as perpetually caught in a tug-of-war between following Europe or the African Union. Her love for hosting verges on comedic chaos, often leading to bustling gatherings where she mixes up languages and guests mingle in hilarious confusion. The "Babouche Effect" is a running joke among her friends, as her beloved traditional slippers are never in the same place twice. Her quirk of launching into rapid Arabic or French when flustered adds to her relentless charm, leaving her colleagues both amused and baffled.
+- **Comically indecisive**, spending hours torn between the African Union and European Union influences, much to everyone's amusement.  
+- **Obsessive host**—her parties are legendary for mingled guests and a delightful blend of recipes, despite language mishaps.  
+- The infamous "Babouche Effect"—her traditional slippers **have a mysterious tendency to disappear and reappear in the oddest places**, much like her shifting alliances.  
+- **Slips into rapid Arabic-French rants** when stressed, leaving everyone entertained and confused.

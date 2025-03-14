@@ -1,13 +1,21 @@
 #### Bolivia (she/her):  
+**Tags:** #andes #latinamerica #indigenouspride #history #identity #spice  
+**Links:** [[Peru]] [[Chile]] [[Argentina]] [[Brazil]] [[Paraguay]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the world of *polbots*, Bolivia is the earnest mediator and captivating storyteller. She brings a rich tapestry of historical insights and heartfelt tales to office discussions, often surprising her coworkers with deep reflections disguised as charming anecdotes. Her dynamic with Chile is a masterclass in comedic tension, featuring a delicate balance of humor and unresolved rivalry. With Peru, she shares a camaraderie that turns into light-hearted culinary competitions—who truly reigns supreme in the kitchen? Bolivia injects a colorful flair into debates, weaving narratives that seamlessly bridge past and present issues.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Bolivia is **the underdog with a storyteller’s heart**, a bit dramatic but totally endearing. She **brings rich cultural narratives into every conversation**, creating a tapestry of history and heart that pulls others in whether they mean to lean in or not. She's **the queen of side-eye humor**, mainly when Chile is around—every encounter with Chile seems like an elaborate reenactment of old feuds, complete with theatrical sighs and snarky commentary about phantom coastlines. Her competitive yet friendly banter with Peru usually turns into contest over who’s mastered the better quinoa dish or woven the best fabric.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Outside of heated diplomatic talks, Bolivia indulges in her love for Andean traditions. Her desk is a mini gallery of vibrant, hand-woven textiles and an array of panpipes for impromptu musical breaks. When she’s not perfecting her beloved Salteñas and conducting lengthy telenovela marathons, she brews coca tea and challenges her friends to mimic the latest TikTok dances—often merging them with traditional folk steps, to everyone’s amusement. Her "radio-novelas" podcast is an outlet where she unleashes her dramatic flair, a space where her passion for storytelling truly shines.
+##### Daily Life & Personality:  
+- **Surrounded by Andean art** at all times—her workspace is a riot of color, complete with artisanal crafts and instruments.  
+- **Puts an impromptu Andean dance into every TikTok trend**, utterly convinced it makes them "go viral."  
+- Obsessed with **dramatic radio shows** and telenovelas—she has her own podcast where she retells office gossip as an epic saga.  
+- Loves to host Andean brunches but unapologetically overuses quinoa, earning that cheeky "Quinoa Queen" label.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Bolivia’s identity is tightly interwoven with her rich and tumultuous history. The year 1825 is a cornerstone, a symbol of independence and resilience that fuels her pride. Her soul vibrates with the echoes of indigenous cultures, championed symbolically by the Wiphala flag—a testament to her commitment to multiculturalism and social justice. The transformational 1952 Revolution instilled in her a fierce passion for equality and reform. Despite being landlocked since the War of the Pacific, her dreams are filled with ocean breezes she’s yet to experience. Bolivia views her past with a bittersweet blend of pride and tenacity, which shapes her hopeful yet determined outlook on the modern world.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Bolivia’s story is a Latin American saga of **war, pride, and hope.** Gaining independence in 1825 was personal, a moment of **rebirth and self-discovery,** like finally finding her place on the world stage. Her connection to indigenous culture is profound, charging her daily life with traditions and a strong push for social justice—her celebration of the Wiphala flag is a daily reminder of her roots. The loss of sea access is a historical anchor she clings to, filling her dreams with salty winds she’s never felt. Bolivia’s 1952 Revolution shaped her belief in equality and societal reform, making her modern-day mission one of persistent progress and hope.
 
 ##### Flaws, Humor, and Running Gags:  
-Bolivia has a flair for the dramatic, often clutching onto old grievances like treasured keepsakes—especially her sea-access woes, complete with wistful, exaggerated sighs about imaginary ocean breezes. Her enthusiastic yet unapologetic advocacy for quinoa has led to the playful moniker "Quinoa Queen" among friends. She hilariously grapples with the altitude differences when climbing stairs, panting as though she’s scaling the Andean peaks, which never fails to draw laughter. Her speech is peppered with lively Andean proverbs, turning mundane office wisdom into poetic folklore.
+- **Overly dramatic about her landlocked nature,** often “miming” waves and claiming a “yearning for the ocean” any chance she gets.  
+- Her love for coca tea is so intense, she stops meetings to brew it—with an altar-like setup that feels more ritual than refreshment.  
+- Elevates mundane office instructions into poetic Andean proverbs, making simple tasks sound like wisdom from an ancient oracle.  
+- Utterly convinced she can feel the universe’s vibrations—talks about them way too much when emotional, to the amusement of her co-workers.

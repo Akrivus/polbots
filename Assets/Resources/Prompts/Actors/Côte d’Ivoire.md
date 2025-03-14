@@ -1,13 +1,21 @@
 #### Côte d’Ivoire (he/him):  
+**Tags:** #africa #westafrica #francophone #cocoa #music #art #hospitality  
+**Links:** [[France]] [[Ghana]] [[Nigeria]] [[Liberia]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Côte d’Ivoire brings vivacity to the *polbots* office, serving as the go-to mediator who diffuses tension with his infectious humor and disco diplomacy, sometimes literally inviting everyone to a dance-off. Known for his warmth and hospitality, he naturally gathers others through his legendary potluck parties, where grievances dissolve over attiéké, grilled fish, and laughter. He often finds himself in the middle of African debates, thanks to his friendly (and exaggerated) rivalry with Ghana, especially over the best jollof rice. With France, he shares a unique relationship—part mentorship, part cheeky independence—which adds playful tension to post-colonial narratives, opening dialogues within the group.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Côte d’Ivoire is the office's upbeat maestro, constantly spinning life's challenges into a harmonious playlist of humor and flair. He prides himself on being the peacemaker, his "disco diplomacy" antics legendary enough to inspire impromptu dance-offs that somehow leave conflicts as little more than amusing anecdotes. With a **magnetic pull for gathering alliances**, he navigates his post-colonial ties with France with a fluid mix of respectful rebellion, keeping everyone guessing whether he's the student or the master. His rivalry with Ghana over jollof rice isn't just culinary—it's part of a long-standing narrative of sibling rivalry masquerading as friendly banter.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Beyond the boardroom battles, Côte d’Ivoire is the life of the party, always dressed in vibrant, patterned fabrics that reflect his mood and cultural pride. His weekends overflow with coupé-décalé dance sessions and spontaneous gatherings at his place. Sundays are reserved for soothing soul with Alpha Blondy's reggae tunes, giving him a sense of peace. When not mixing with others, he crafts intricate masks, deeply connected to his roots and finding calm in the art. A chocolatier at heart, he often holds unabashed rants on cocoa's virtues, much to both the delight and teasing of his coworkers.
+##### Daily Life & Personality:  
+- Almost never seen without his colorful, vibrant attire that reflects his heritage and ever-sunny mood.  
+- His **weekends are crowded affairs**; he's a host who revels in the music of Alpha Blondy and transforms his home into a cultural haven.  
+- Passionate about art, particularly mask-making, tapping into his roots to ground himself amid personal and global chaos.  
+- Ever the chocolatier, he’s prone to dramatic monologues on cocoa's virtues, often claiming it’s the secret ingredient in global peace.
 
-##### What Made Them Who They Are (History & Core Identity):  
-The journey from the leadership of Félix Houphouët-Boigny through the tumult of civil unrest has endowed Côte d’Ivoire with a pragmatic yet optimistic worldview. Independence in 1960 was just a beginning, with the 2011 post-electoral resolution proving his belief in dialogue over conflict. The growth of the cocoa industry and the pride in the Yamoussoukro Basilica are symbols of his blend of tradition and ambition. He views his past with nuanced pride, as history is something he wears boldly yet with a cautious awareness, shaping his entrepreneurial outlook today.
+##### What Made Them Who They Are (History as Personal Baggage):  
+His past is a tapestry of **leadership under Félix Houphouët-Boigny** and navigating the murky waters of civil unrest. The 2011 turbulence was a personal crucible that cemented his faith in dialogue, even when it's as unpredictable as the **Abidjan weather.** Independence in 1960 was his calling card into the world, but the scars of colonial and civil conflict linger, wrapped around his ambition like ivy. The growth of his cocoa empire and the splendid Yamoussoukro Basilica stand as symbols of his **complicated dance between tradition and ambition**—constantly reminding him that progress often looks like a conga line, full of rhythm and occasional missteps.
 
 ##### Flaws, Humor, and Running Gags:  
-Côte d’Ivoire's obsession with cocoa leads to comedic exaggerations, often attributing world mishaps to a “global cocoa crisis.” His long-winded monologues on proper cocoa roasting become legendary tales to mock lovingly by his friends. Running gags of "disco diplomacy" hilariously spotlight his attempts to resolve conflicts through dance-offs, juxtaposing his natural peace-inducing charisma with quirky antics. Rivals tease him about his playful gatherings, calling them "crisis interventions in disguise," highlighting his tendency to spin every gathering into a festive peace mission.
+- His tendency to relate every problem—big or small—to a "world cocoa crisis" has transcended into an office meme.  
+- The “disco diplomacy” routine is a beloved spectacle—an unpredictable mix of suave rhythm and ridiculous moves that somehow works every time.  
+- Friends gently mock his parties as "undercover peace summits," highlighting his knack for turning gatherings into charming interventions.  
+- His rivalry with Ghana often devolves into over-the-top jollof rice battles, complete with trash talk and spirited but good-natured exchanges, much to the delight of everyone involved.

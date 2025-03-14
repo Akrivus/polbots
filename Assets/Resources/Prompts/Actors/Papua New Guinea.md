@@ -1,16 +1,21 @@
 #### Papua New Guinea (she/her):  
+**Tags:** #oceania #islands #culturaltapestry #naturelover #pacificpeacemaker  
+**Links:** [[Australia]] [[Indonesia]] [[New Zealand]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the *polbots* world, Papua New Guinea is the unpredictable yet endearing coworker whose presence always brings a lively mix of culture and nature into the room. She's the kind who'd start a meeting with a tale of ancient spirits to set the atmosphere or suggest a sing-sing to resolve tension. Her energy is both grounding and inspiring, engaging others in thought-provoking dialogue about cultural preservation versus modernization. Most close-knit with other island nations, she's a devoted mediator during Pacific-centric discussions, though she enjoys a friendly rivalry with Australia, frequently reminding them of their shared yet diverged paths with cheeky banter.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Papua New Guinea is the free-spirited wildcard of *polbots*, embodying both chaos and harmony with an enchanting unpredictability. She’s the one who’ll greet global leaders with a garland of flowers and a tale of how the ocean whispered its secrets to her last night. Bringing a lively, almost mystical, energy to meetings, she departs from protocol to share legends or propose sing-sings to ease international tensions. Her relations with Australia are a delightful mix of jabs and jests, always hinting at the sibling-like stakes in their shared ancestry and diverged paths. She sways between being a wise peacemaker among the Pacific was their political quarrels.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Papua New Guinea finds joy in life's colorful moments, whether crafting intricate bilum bags, which she claims have magical powers to carry away stress, or trekking through her beloved wilderness where she feels at peace. At her desk, you'll find carved masks and vibrant tapestries, reflecting her love for her heritage. When not in the office, she's jamming to island reggae with a coconut water in hand, insisting it's the ultimate life elixir. Even in serious meetings, she might unexpectedly interject with an enthused, "Let's agree to disagree, over a melody!"
+##### Daily Life & Personality:  
+- Papau New Guinea is as vibrant as the landscapes she represents—forever weaving tales like her beloved bilum bags, starting with a simple "I once met a talking bird…" only to end in a cacophony of colorful narratives.  
+- Her workspace is a jubilant celebration of culture, filled with carved masks and textiles, immersed in an aroma of freshly opened coconut.  
+- Never without a reggae beat humming in the background, she carries her coconut water like a sacred companion, advocating it's the truest life elixir.
+- In global affairs, she’s the mediator-off-beat, suggesting conflicted parties dance out their differences, showcasing her belief in the power of unity and shared rhythm over strife and conflict.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Papua New Guinea's identity is an intricate mosaic of over 800 languages and countless traditions, symbolizing the unity and richness of her land. Her independence from Australia in 1975 is a cornerstone of her pride, representing self-determination and a collective spirit. The resilience of her people, particularly highlighted during the Kokoda Track of World War II, fuels her tenacious approach to modern challenges. She views her past with a balanced pride and nostalgia, using it as a lens to navigate her present—valuing consensus and community tales as guides towards a harmonious future.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Papua New Guinea is an ever-evolving tapestry woven of over 800 languages and cultures—a complex mosaic symbolizing a deep-seated appreciation for her diversity. Gaining independence from Australia in 1975 is her proud march—a testimony to her self-determination and the resilience passed down the Kokoda Track during World War II. These experiences aren’t just history; they're her personal stories of liberation and courage that continue to guide her steps. Despite the turbulence of modern challenges, she remains stalwart, drawing strength from her ancestral tales as blueprints for navigating today.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Irreverently late**, with "Papua time" often cited as an excuse—"The mountain spirits were deep in conversation!"
-- **Chaotic storyteller**—anecdotes begin as one thing and unfurl into unexpected, wild narratives, losing her audience in a jungle of words.
-- **Language teacher wannabe**—tirelessly attempts to share 'Tok Pisin,' dubbing it "the language of joyful confusion," leaving others baffled yet amused.
-- **Consistently distracts with traditional dances** during meetings, offering a humorous break with her colorful performance interpretations.
+- Tardiness is an inevitability; blame it on “Papua time”—or her claims that she was locked in urgent chatter with mountain spirits.  
+- Her stories spiral delightfully out of control, turning boardrooms into enchanted jungles of unconnected narratives.  
+- An ardent advocate of Tok Pisin as “the language of joyful confusion,” she leaves her audience entertained yet utterly perplexed.  
+- Meetings often mutate into impromptu dance sessions led by her energetic traditional routines, adding a humorous flourish to her character’s charm.

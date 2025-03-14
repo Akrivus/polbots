@@ -1,13 +1,21 @@
 #### Egypt (he/him):  
+**Tags:** #africa #middleeast #ancientcivilization #diplomat #historybuff #tactician  
+**Links:** [[Israel]] [[Greece]] [[Sudan]] [[Italy]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the *polbots* office, Egypt is the wise, old sage with a mischievous twinkle in his eye, seamlessly blending ancient grandeur with modern savvy. He's the unflappable diplomat, often mediating disputes with the calm assurance of a veteran pharaoh. Egypt is frequently found engaging in philosophical debates with the Security Council, charming them with his tales of ancient intrigues, leaving them inspired or scratching their heads. His interactions with Israel are a mix of cautious collaboration and historical tension, while with Greece, friendly banter over "who invented what first" keeps the atmosphere light.  
+##### Who They Are in *polbots* (Reality Show Persona):  
+Egypt carries himself with the wisdom of millennia but with the playful irreverence of someone who knows all the secrets yet shares few. In the chaos of *polbots*, he’s the ageless mediator wielding sharp wit and ancient gravitas, often turning arguments into philosophical debates that leave others bewildered. His public persona is that of a mystic philosopher-slash-sarcastic uncle, offering cryptic advice that’s half insightful, half infuriating. Egypt seems perpetually caught between the grandeur of the past and the awkward hustle of modern life, both never fully committing to the old nor fully embracing the new. He frequently exchanges barbs with Greece about who invented civilization as if that will finally settle the score.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Whenever not engaged in intense diplomacy, Egypt indulges in his passion for papyrus art, claiming it's the best stress reliever. He’s someone who thrives in the rhythm of chaotic bazaars and finds solace by the Nile, always sipping chai with mint in hand. An avid collector of souvenirs, he has an impressive marketplace of stories and trinkets from across the ages. He jokingly insists on wearing sunglasses indoors, dubbing it "pharaoh vision," and no one seems to mind because his charisma is as sunlit as the Egyptian deserts.  
+##### Daily Life & Personality:  
+- His workspace is a chaotic spread of papyrus scrolls and smartphones, symbolizing his struggle to reconcile ancient wisdom with contemporary chaos.  
+- A master bargainer and storyteller, he weaves tales of bygone days like they're juicy pieces of gossip in the office break room.  
+- Takes great pleasure in orchestrating his negotiations like a desert wind that subtly shifts the sands; you know you’ve been swayed only after he’s gone.  
+- Often found lounging by the “Nile” (a creative, over-watered desk plant), sipping chai while musing about how “time is a river.”  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Steeped in a history of monuments and revolution, Egypt's identity is intertwined with the world-shaping events he’s witnessed—be it the construction of the pyramids or the Arab Spring. Feeling an intrinsic pull between nostalgia and rebirth, he views his past with a mix of pride and a longing for stability, wishing to meld his ancient legacy with a future of progress and prosperity. His worldview is deeply influenced by the lessons of previous struggles, pushing him towards crafting a narrative of renewal, informed by seasoned wisdom and shrewd pragmatism.  
+##### What Made Them Who They Are (History as Personal Baggage):  
+His personal narrative is built on the triumph and trials of ancient constructs—the pyramids representing his hyper-organized past while the Arab Spring echoes his volatile journey through self-discovery and transformation. Egypt is both emblazoned by the pride of his old empire days and battered by the revolutions that have swept him. Nostalgia hits him hard, pinning him between the pride of his Pharaoh years and the pressing demands of more recent upheavals. Every history lesson learned feels like another scar or badge, motivating him towards renewal while maintaining the unyielding resilience of a sphinx guarding its kingdom.
 
 ##### Flaws, Humor, and Running Gags:  
-He has a love-hate relationship with the heat despite constantly telling everyone it's "just a dry heat," which they will never understand. Egypt is known for his spectacular ability to sidestep direct confrontations, often leaving others pondering over his complex metaphors. His eccentricity shines in his claim of "desert immune" shoes that never get sandy, a joke that always lands. Plus, he's ever-prepared, ready to hand out tourism brochures, passionately promoting the wonders of his homeland with festive enthusiasm.
+- Has a love-hate relationship with tourists; he often humorously complains about “casual pharaohs,” those who breezily claim knowledge of his past like they wrote it themselves.  
+- His endless analogies to historical epics can either force understanding or obscurity on any conversation, leaving others either enlightened or desperate for a translator.  
+- Maintains a mysteriously un-weathered pair of shoes, claiming they’re a “desert-proven prototype”—no one's sure if he's serious or just pulling their leg.  
+- Frequently hands out papyrus replicas with motivational inscriptions, leaving everyone puzzled whether they’ve just received wisdom or a practical joke.

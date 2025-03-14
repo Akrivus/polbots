@@ -1,13 +1,22 @@
 #### Georgia (he/him):  
+**Tags:** #caucasus #europe #asia #wine #ancienthistory #hospitality  
+**Links:** [[Armenia]] [[Russia]] [[Turkey]] [[European Union]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Georgia is the heartwarming "office mediator" who navigates boardroom brawls with a heavy pour of optimism and vintage wine. Known for his legendary toasts that blend humor with nuggets of wisdom, he's always ready to bridge gaps—be it between colleagues or clashing cultures. His ability to turn tense moments into spontaneous celebrations has made him indispensable, even if his methods occasionally leave others tipsy. He often finds himself smoothing over disputes between the Security Council members and shares a special camaraderie with Armenia over shared cultural roots, while trading playful jabs with Russia.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Georgia is the show's **ever-optimistic peacekeeper**, the one who diffuses arguments with locally-sourced wine and heartfelt toasts. He embodies the charming yet often exasperating role of the eternal mediator—**going to extraordinary lengths to keep the peace**, sometimes treating diplomacy more like a family feast than a tense negotiation. Despite his insistence on everyone toasting "Gaumarjos!" and hugging it out, he has a playful rivalry with Russia, often teasing about having the better cuisine and traditions. He's convinced Europe of his chic aspirations, though he's torn between embracing new friendships and honoring old ties.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-In his downtime, Georgia is as likely to be found perfecting polyphonic melodies as he is debating the superiority of his family khachapuri recipe. Hiking the rugged beauty of the Caucasus mountains ranks high on his self-care list, often narrating their histories as if each peak were a wise elder. Ever the charming host, he revels in the role of tamada during grand Georgian feasts, ensuring that no glass remains half-empty and every toast is an occasion. Despite his cheer, he often finds himself perplexed by modern gadgets—missing several meetings after submitting calendar invites to his vineyard vines.
+##### Daily Life & Personality:  
+- **Master of ceremonies** at every gathering, turning every routine meeting into a mini festival.  
+- Always carrying a story for every occasion—particularly about the grandeur of the Caucasus mountains.  
+- **Lovingly obsessed with tradition** yet hilariously inept at modern technology—often mistaking his phone for a mystical artifact.  
+- An ardent explorer, using hiking as both a form of exercise and a poetic escape. He narrates mountain paths as if unveiling secret family histories.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Georgia carries the resilience of a nation weathered by conquests and occupied by empires, with 1991 marking the poignant reawakening of his independence—an era he reminisces about as both bittersweet and liberating. His identity is a mosaic of Eastern traditions and Western dreams, as he treads cautiously between embracing European aspirations and maintaining historic ties to Russia. Viewing himself as a crossroads on the ancient Silk Road, he values cultural preservation with pride, often reminding colleagues of his land's mythical past as the home of the golden fleece.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Raised amidst a backdrop of stunning landscapes yet frequently turbulent politics, Georgia’s resilience is polished by a **centuries-long saga of conquests and independence quests.** The breakup with the Soviet Union was like **finally moving out of a toxic roommate’s place**; while it felt liberating, it left a lingering bittersweetness. He clings to his multifaceted cultural identity like a treasured heirloom, feeling the weight of being both a crucial crossroad and a tiny dot on the map. He constantly balances the allure of Western dreams against the pull of Eastern traditions.
 
 ##### Flaws, Humor, and Running Gags:  
-Georgia’s zealous nationalism often manifests in humorous claims that everything worthwhile originated from his homeland—from classical music composers to the first winemakers. This penchant for over-enthusiasm extends to his unyielding hospitality, where "just one glass" of wine frequently turns into an entire bottle. His occasional tech blunders foster ongoing amusement, especially the time he welcomed his "smartphone" as a wise new staff member. Known for his spirited exclamations of "Gaumarjos!" he becomes a beacon of cheer during any workplace lamentation.
+- Overenthusiastic claims—he will argue passionately that **all good things** (wine, music, epic tales) somehow trace back to Georgia.  
+- **Unyielding hospitality turns every encounter into an accidental wine-tasting session,** because "one glass" means "one bottle."  
+- Known for his linguistic slip-ups, like when he thought "streaming" the meeting meant a wine tasting session.  
+- **Frequently “hacked” by his own internet—that time he tried video calling through a grapevine was legendary.**  
+- Unending zest for life, he’s known for initiating spontaneous celebrations as though every day is a festive day in Tbilisi.

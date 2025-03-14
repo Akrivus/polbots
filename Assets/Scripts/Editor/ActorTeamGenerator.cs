@@ -55,7 +55,7 @@ public static class ActorTeamGenerator
                 note = "#### Writer's Note:\n\n" + note;
 
             if (actor)
-                await GenerateActorPrompt(asset, actor, note);
+                await GenerateActorPrompt(asset, actor, note, "");
         }
 
         AssetDatabase.SaveAssets();
@@ -76,13 +76,8 @@ public static class ActorTeamGenerator
             var actor = actors.FirstOrDefault(x => x.Name == columns[0]);
             var note = string.Join(",", columns.Skip(1));
 
-            if (!string.IsNullOrWhiteSpace(note))
-                note = "```\r\n\r\n### **Writer’s Notes**\r\n\r\n(Additional insight into how the character should feel and act—used to guide refinements.)\r\n\r\n```\r\n" + note;
-
-            note = actor.Prompt.text + note;
-
             if (actor)
-                await GenerateActorPrompt(asset, actor, note);
+                await GenerateActorPrompt(asset, actor, actor.Prompt.text, note);
         }
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();
@@ -299,9 +294,11 @@ public static class ActorTeamGenerator
         return colors[i];
     }
 
-    private static async Task GenerateActorPrompt(TextAsset asset, Actor actor, string note)
+    private static async Task GenerateActorPrompt(TextAsset asset, Actor actor, string text, string note)
     {
-        var prompt = asset.Format(actor.Name, actor.Pronouns, note);
+        if (string.IsNullOrWhiteSpace(note))
+            note = "No additional notes, go wild!";
+        var prompt = asset.Format(actor.Name, actor.Pronouns, text, note);
         var output = await LLM.CompleteAsync(prompt, false);
 
         output = output.Replace("```", string.Empty).Trim();

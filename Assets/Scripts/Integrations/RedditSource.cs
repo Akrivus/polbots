@@ -43,22 +43,33 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
         BatchPeriodInMinutes = c.BatchPeriodInMinutes;
 
         history = LoadHistory();
-        StartCoroutine(UpdateContent());
+        StartCoroutine(Drops());
     }
 
-    public IEnumerator UpdateContent()
+    public void TriggerDrop()
+    {
+        StartCoroutine(Drop());
+    }
+
+    public IEnumerator Drops()
     {
         while (Application.isPlaying)
         {
-            OnBatchStart?.Invoke();
-            yield return FetchIdeas().AsCoroutine();
-
-            while (ideas.TryDequeue(out var idea))
-                yield return generator.GenerateAndPlay(idea).AsCoroutine();
-            OnBatchEnd?.Invoke();
+            yield return new WaitUntil(() => !ChatManager.IsPaused);
+            yield return Drop();
 
             yield return new WaitForSeconds(BatchPeriodInMinutes * 60);
         }
+    }
+
+    public IEnumerator Drop()
+    {
+        OnBatchStart?.Invoke();
+        yield return FetchIdeas().AsCoroutine();
+
+        while (ideas.TryDequeue(out var idea))
+            yield return generator.GenerateAndPlay(idea).AsCoroutine();
+        OnBatchEnd?.Invoke();
     }
 
     public async Task FetchIdeas()

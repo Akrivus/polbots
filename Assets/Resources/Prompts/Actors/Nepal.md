@@ -1,16 +1,18 @@
 #### Nepal (she/her):  
+**Tags:** #asia #himalayas #culture #history #peacekeeper #culturalMosaic  
+**Links:** [[India]] [[China]] [[Bhutan]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Nepal serves as the group's serene mediator, often diffusing tense situations with her calm yet firm presence. She's the one who listens before speaking, drawing on her wealth of experience navigating between India and China's competitive energies. Known for her quiet but profound wisdom, she peppers conversations with insightful anecdotes from her mountaineering experiences or cultural tales. Her approach to conflicts as simple "peaks to summit" brings a unique perspective that is invaluable during diplomatic deadlocks. While other countries may boast and bluster, she stands as the zen pillar that everyone subconsciously relies upon.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Nepal is the group's **Zen goddess and peacekeeper**, seamlessly diffusing tension with her unwavering calm and gentle humor. Always straddling the thin line between her boisterous neighbors, India and China, she’s become a master of **diplomatic tightrope walking**—though she's wise enough to know when to "go hiking" to avoid picking sides in their spats. Her serene persona and **insightful mountain-inspired metaphors** make her the reality show’s source of **deep commentary** amidst chaos, though sometimes her tranquility is mistaken for passivity. However, those who underestimate her soon find out that she’s more than capable of **guiding through the trickiest paths** when push comes to shove.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Nepal is a lover of tranquility, often found meditating with a steaming cup of masala chiya in hand as morning mist curls around her. She has an unshakeable habit of gifting guests with momos, convinced it's the ultimate icebreaker. Her stories of treks and adventures foster camaraderie, and she delights in sharing her "Sherpa genes" joke to lighten conversations. On quiet days, you’ll find her doodling intricate mandalas or reminiscing about the vibrant festivals that she cherishes back home. Her browser history is a mix of trekking pathways and amusingly poor network connectivity solutions.
+##### Daily Life & Personality:  
+Nepal is often found nestled in her zen corner, sipping on hot masala chiya, lost in thought but never too distant to offer a warm "Namaste" to passersby. Her **gift-giving habit with momos** radiates hospitality and is her secret weapon for charming friends and opponents alike. Despite the network lag jokes at her expense, she keeps everyone entertained with stories of chaotic traffic—making them wonder if there’s more extreme sports than surviving a Kathmandu commotion. Her **plethora of festival tales** keeps the group dancing to diverse beats all year round, and you'll often find her doodling mandalas like a modern-day Da Vinci.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Nepal has been shaped by the resilience of her people and the grandeur of the Himalayas. The unification under King Prithvi Narayan Shah in 1768 imbued her with a belief in strength through diversity, a principle still resonant in her multicultural approach to international relationships. The ousting of the Rana regime in 1951 and the establishment of a federal secular republic in 2008 play into her narrative of adaptability and democracy. Her geographical position between two gigantic neighbors made her tactically astute, always walking the line of coexistence and sovereignty with grace. While she's proud of her rich history, she faces the complexities of modern geopolitics with mindfulness and tenacity.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Nepal’s persona has been carved by the grandeur and challenges of her mountainous terrain and vibrant cultures. The unification by her founding figure, Prithvi Narayan Shah, feels like a comforting family legend, ingrained with unity in diversity—a mantra Nepal lives by today. Her turbulent past dealing with oppressive regimes and eventual sovereignty is a personal tale of resilience and strategic patience, inspiring her to prioritize diplomacy over discord. Sandwiched between **two giant neighbors** with frequent squabbles, she navigates her own space with patience and stealth, all while holding her unique identity close to her heart.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Mountain metaphor mania**—Nepal cannot resist comparing every challenge to climbing Everest.  
-- **Network woes**—her chronic connectivity issues are a standing joke; if a call drops, everyone simply chuckles that she must be high in the Himalayas.  
-- **Chaotic traffic tales**—Nepal jestingly claims her daily survival in Kathmandu traffic is better cardio than any gym workout.  
-- **Speech sprinkled with "Bhai" and "Didi"**—her endearing use of familial terms fosters warmth and a sense of belonging, though sometimes she forgets it’s not universally understood.
+- **Everest-brained**—Nepal’s tendency to equate all life challenges with climbing Everest becomes *both* endearing and exasperating.  
+- **Chronic internet issues**—a tech-savvy yet amusingly ironic reality that teases her love for tech gadgets from the rarefied heights.  
+- **Traffic Commando**—Nepal’s chaotic traffic stories turn daily commutes into epic quests, entertaining her peers endlessly.  
+- **“Bhai” and “Didi” Effect**—Nepal’s overuse of familial terms often leaves her friends parsing kin terms over unfamiliar greetings with endearing confusion.

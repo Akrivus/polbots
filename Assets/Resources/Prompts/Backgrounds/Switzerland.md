@@ -1,4 +1,4 @@
-Create a cartoon-style digital wallpaper background for the character Switzerland in the show "Polbots." Picture his personal living room captured in a relaxed webcam-style view, with a cozy, lived-in atmosphere. 
+Create a cartoon-style digital wallpaper background for the character Switzerland in the show "polbots." Picture his personal living room captured in a relaxed webcam-style view, with a cozy, lived-in atmosphere. 
 
 The room is anchored by a large, inviting sofa with plush cushions adorned with small, alpine mountain patterns. In the corner, a fondue pot simmers gently on a small, traditional-looking wooden table, surrounded by an array of cheeses. A half-finished jigsaw puzzle depicting a scenic Swiss landscape is spread over another table, with a single piece humorously missing.
 

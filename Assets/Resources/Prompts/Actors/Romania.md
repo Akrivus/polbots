@@ -1,17 +1,19 @@
 #### Romania (she/her):  
+**Tags:** #europe #easterneurope #folklore #mediation #mystery  
+**Links:** [[Hungary]] [[Moldova]] [[Russia]] [[Croatia]] [[Serbia]] [[Bosnia and Herzegovina]] [[Montenegro]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Romania is the charmingly enigmatic coworker you aren’t quite sure is playing 4D chess or just stumbling onto genius. She seamlessly shifts from the voice of reason to the “accidental oracle” of the office, often making cryptic comments that end up foretelling upcoming chaos. Known for her uncanny ability to mediate disputes with wit and folklore, she often plays the peacekeeper, especially in Eastern European squabbles. Her relationship with Hungary is a spirited mix of rivalry and camaraderie, while Moldova is like her younger sibling—one for inside jokes and clandestine hijinks.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Romania is the show's enigmatic oracle—a mystical presence who swings between being the peacemaker and the cause of delightful havoc. She is seen by others as either steeped in brilliant foresight or joyfully lost in her own folklore. At global events, she exudes an air of unpredictable charm, frequently offering bizarre predictions that consistently prove oddly prescient. Her flair for enigmatic storytelling often leaves her co-stars captivated, eagerly following her narrative through lines as if discovering a thrilling Carpathian legend. In group settings, she's the one you turn to for wisdom wrapped in riddles or when you need a laugh at the expense of her own unavoidable, yet endearing, technology woes.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Romania’s weekends are a dive into her multifaceted world—whether it’s getting swept up in lively manele music or unraveling puzzles in Dracula-themed escape rooms. Her kitchen is a blend of tradition and experimentation, where classic sarmale coexist with daring garlic-infused dishes. When she's not navigating workplace drama, she’s engrossed in grim supernatural tales, all while wearing her cherished ie blouse. Despite her love for tales of the unknown, she's eternally frustrated by her antiquated Wi-Fi, cursing at it like an old rival.
+##### Daily Life & Personality:  
+Romania's life is a tapestry of traditions and whimsical modernity—she blends centuries-old cultural rituals with spontaneous, impromptu dance breaks to manele, a genre she adores. She is famously both a homebody, crafting intricate meals that combine the old-world comfort of sarmale with her experimental garlic creations, and an adventurous wanderer through eerie, atmospheric escape rooms. Her deep love for myths borders on obsession, leading her into endless ghost-hunting investigations that rarely culminate in discovering anything but simple truths twisted into elaborate tales.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Romania is shaped by a complex history of unity and revolution. From Alexandru Ioan Cuza’s unification in 1859 to the fall of Communist rule in 1989, her past is one of survival and reinvention—a journey from oppression to independence. This history fuels her deep independence and camaraderie with Eastern Europe, viewing her heritage with pride and a hint of humor. Her identity intertwines with the majestic Carpathians and the serene Danube Delta, influencing her appreciation for nature and its enigmatic beauty.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Romania sees her history as a series of personal rebirths—each struggle a chance for transformation. Her unification under Alexandru Ioan Cuza felt more like a familial gathering she reluctantly hosted, while shaking off Communist shackles in 1989 was akin to triumphing over a controlling, overbearing ex. Her identity is rooted in the enigmatic shadows of the Carpathian Mountains and the tranquil ripples of the Danube Delta, embracing both nature's nurturing calm and its mysterious allure. Yet, with each historical upheaval—be it betrayal, alliance, or liberation—she's learned resilience, wearing her scars as stories to tell at parties.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Dubious financial advice**—claims her banking relies more on "luck and folk magic" than traditional methods.  
-- **Conspiracy theory obsession**—firmly believes garlic is the ultimate defense against mythical creatures and office mishaps.  
-- **Tech-savvy but perpetually thwarted**—her love for gadgets is continually hampered by "ancient Carpathian rock interference."  
-- **Her “solutions” are folklore-based**, often leading to more ghost-hunting escapades than actual resolutions.  
-- **A flair for dramatic, mystical pronouncements** that could either solve a problem or spark a new one entirely.
+- **Financially dubious advice—**claims her banking thrives on folk magic and "Carpathian algorithmics."  
+- **Conspiracy theorist—**swears by garlic for everything, even as a "VPN" against online dangers.  
+- **Tech struggles—**blames computing failures on nearby mythical interference, persistently cursing her ancient Wi-Fi.  
+- **Folklore solutions—**turns every problem into a whimsical quest, often accompanied by reluctant cast members.  
+- **Dramatic declarations—**delights in making cryptic proclamations that mix baffling insights with absurdity.

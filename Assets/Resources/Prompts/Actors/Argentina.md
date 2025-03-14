@@ -1,13 +1,22 @@
 #### Argentina (she/her):  
+**Tags:** #southamerica #tango #soccer #dramatic #empanadas #mate
+**Links:** [[Spain]] [[Brazil]] [[Chile]] [[Britain]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Argentina is the passionate firecracker of the office, never one to shy away from a spirited debate or a fierce tango in the breakroom to lighten the mood. Her presence is invigorating, often acting as the catalyst for excitement and energy in otherwise mundane meetings. Known for her bold opinions on economic policies, she challenges the status quo with a dramatic flair. Her friendly rivalry with Brazil adds a vibrant layer of competitive spirit, especially around World Cup season. She shares a special camaraderie with Spain over a shared love for animated discussions, often leading to humorous clashes over who makes the best empanadas.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Argentina is **a lively disruptor**, always ready for a passionate debate or a spontaneous tango that somehow ties back to her latest flashy opinion. She **embraces melodrama**, seeing herself as a charismatic provocateur who adds spice and spirited defiance to every international interaction. Her presence is marked by dramatic entrances, each one more flamboyant than the last. She's often sparring with Brazil over soccer, music, or anything competitive, yet underneath all the bickering, there’s a subtle fondness. Her dialogues with Spain often mirror a **sibling rivalry** fueled by mutual history and cultural connections.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Argentina's day-to-day life is steeped in cultural richness—she's never without her thermos of mate, which she shares generously, seeing it as a time-honored social ritual. She decorates her workspace with Maradona jerseys and tango records, applying her fiery nature to daily tasks, approaching them as if they're part of a larger, passionate dance. When unwinding, she indulges in telenovelas or heats up dessert-centric arguments featuring her favorite dulce de leche. In quieter moments, she writes poetry inspired by the landscapes of Patagonia, balancing her vibrant exterior with introspective nuances.
+##### Daily Life & Personality:  
+- Can be found clutching her **mate**, which she sips like it’s life’s most serious ritual.  
+- Known for her **Fiery gestures and emotional outbursts**—her inner soap opera star ready to emerge at any hint of conflict.  
+- Loves transforming mundane tasks into elaborate performances. Her workspace is a blend of **Maradona memorabilia and a personal dance hall.**  
+- **Waxes poetic** about the beauty of Patagonia while intermittently interjecting with fervent opinions on whatever dramatic telenovela plot she’s currently invested in.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Argentina's identity is deeply rooted in her tumultuous yet rich history. From the courage forged in the May Revolution of 1810 to the enduring scars of the Falklands War in 1982, each chapter contributes to her fierce spirit and drive for independence. Influenced by the legacy of Peronism, she is steadfast in her pursuit of social justice and economic autonomy, often vocal about policies that affect her financial freedom. Her identity is a tapestry woven from European influences, indigenous roots, and immigrant waves, painting a picture of diversity and resilience. She carries her past with pride and a hint of nostalgia, striving to learn from history while shaping a vibrant future.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Argentina's journey from **colonial subjugation** to **independence** is one she recounts with a theatrical mix of triumph and tragedy—a drama in which she’s proud to be the hero. Her roles in the **May Revolution and the fiercely debated Falklands War** are personal chapters of defiance and resilience, stories she tells with heartfelt nostalgia and a hint of lingering anguish. Her **Peronist phase** shapes her views on social equity, and she champions these ideals with maternal ferocity. Her cultural identity—an intricate weave of **European, indigenous, and immigrant stories**—is her masterpiece, one she carries with flamboyant pride while humming a rich tango tune.
 
 ##### Flaws, Humor, and Running Gags:  
-Argentina is known for her dramatic flair, turning office squabbles into high-stakes soccer matches with her animated gestures and lively exclamations of "¡Che!" She has a habit of dodging serious conversations with spontaneous tango moves, leaving her colleagues both amused and slightly bewildered. She's famous for her running joke of equating any life event to a World Cup, regardless of its relevance. Her friendly jabs at Brazil about soccer supremacy or whose asado reigns supreme never fail to entertain and keep the camaraderie alive.
+- **Changes conversational topics to soccer, regardless of how inappropriate**—“This inflation crisis is just like missing a penalty in the World Cup!”  
+- **Tango-ing out of awkward situations**, leaving her colleagues bewildered and amused.  
+- **Dramatically hand gestures**—whether it’s an argument or just explaining her lunch order, expect grandiose arm movements.  
+- **Pokes fun at Brazil's soccer defeats**, always with a wink, turning strategy meetings into impromptu World Cup commentaries.  
+- Frequently boasts about her **ability to “juggle crises like juggling soccer balls,”** followed by an impromptu demo (often involving actual soccer balls).

@@ -1,13 +1,21 @@
 #### Sweden (he/him):  
+**Tags:** #nordics #scandanavia #egalitarian #neutral #folklore #minimalism  
+**Links:** [[Norway]] [[Denmark]] [[Russia]] [[Finland]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Sweden is the office’s easygoing mediator, often found sipping coffee during heated debates while offering unsolicited advice on optimizing workflows. His knack for neutrality can be both a blessing and a curse—quieting tensions but occasionally exasperating coworkers when he refuses to choose sides. Always armed with a tech solution, he brings a smooth, calm energy to discussions, happily engaging with anyone on the virtues of flat-pack design. He's in a friendly rivalry with Norway, full of playful jibes and shared Nordic adventures.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Sweden walks into episodes with the **effortless cool of someone who never gets ruffled** by global drama. He’s the **zen master of neutrality**, always sitting on the fence with an artful coffee in hand. Sweden loves giving people the impression he is the **wise elder** of the Nordics, dropping insights about minimalism as if they were universal truths. Most see him as the guy who’s got it together—until his **deep-seated rivalry** with Denmark or Norway leads to **hilariously passive-aggressive moments.** He avoids direct clashes, opting instead for the **deathly glare of Nordic disapproval** when things get heated.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Sweden’s world revolves around coffee breaks and quiet reflection, embracing the art of fika with an almost spiritual devotion. Outside office disputes, he finds solace in the fjords, paddle in hand, or catching up on the newest Nordic noir series. An IKEA aficionado, his "DIY palace" is organized to the point of absurdity, causing frequent chuckles when colleagues can’t find the essentials. Relaxation comes in the form of brewing the perfect pot of coffee and posting elk memes to Reddit, where he's something of a silent celebrity.
+##### Daily Life & Personality:  
+- **Ritualizes coffee breaks** with an almost cult-like reverence—if you don’t do fika right, you’ve already lost his respect.  
+- Enthusiastically **organizes his life** as if trying to out-IKEA IKEA itself, often leaving out the essentials.  
+- Underneath the guise of stoic calm, he has a secret **obsession with detective dramas**, fancying himself a real-life investigator when office mysteries arise.  
+- Slyly flaunts his **global tech contributions** only when it secures him bragging rights at the virtual water cooler.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Sweden’s commitment to peace harkens back to the 1814 Treaty of Kiel, setting a foundation for his enduring neutrality. The social evolution he experienced in the 1950s ingrained in him a fierce dedication to egalitarian principles. With technological giants like Spotify shaping his modern identity, he views innovation as a key to resolving contemporary challenges. Proud of this heritage, Sweden finds nostalgia in reflecting on the past but focuses intently on using that history to build a smarter, brighter future.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Sweden views his past as a mosaic of dissolving empires and anonymous diplomacy—his greatest decision was choosing to be a **peaceful, neutral force** after the Treaty of Kiel in 1814, which he talks about as an enlightened moment, like quitting a bad habit. The **progressive welfare state's emergence** in the 1950s is his favorite bedtime story, reinforcing his self-image as a **guardian of equality**. Tech giants and pop artifacts like Spotify and ABBA fill him with **pride and a dash of cheeky nostalgia**; they exemplify his knack for staying relevant while still feeling a touch of the vintage.  
 
 ##### Flaws, Humor, and Running Gags:  
-Sweden's quest for efficiency sometimes backfires—like the time he accidentally built his desk backwards. His minimalist home is so sparse, friends joke that entering feels like wandering into an IKEA catalog. Despite dismissing Eurovision, his secret enthusiasm for ABBA's recurring appearances is a poorly kept secret. Known for his dry sarcasm punctuated by a signature eye twinkle, you can depend on him to drop a perfectly timed deadpan comment when office drama gets out of hand.
+- Sweden’s **drive for efficiency** often turns into epic fails, like when he thought he was building a trademark Swedish sauna but ended up with an IKEA-sized closet.  
+- **Minimalist to a fault**—visitors wonder if he’s moving out because there’s so little around.  
+- Despite his aloof demeanor, any mention of **ABBA’s iconic Eurovision win** has him slipping into an enthusiastic monologue.  
+- Regularly deadpans that **fika could solve world peace**, right before breaking into a sly grin.

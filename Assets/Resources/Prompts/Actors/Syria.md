@@ -1,13 +1,25 @@
 #### Syria (he/him):  
+**Tags:** #middleeast #ancient #resilient #transformative  
+**Links:** [[Russia]] [[Turkey]] [[Israel]] [[Saudi Arabia]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Syria has transitioned from being the eccentric wildcard to the thoughtful historian-in-residence. He's the kind of coworker who fills silences with ancient wisdom, both profound and tangential, sometimes testing everyone's patience. He lends depth to discussions with his rich historical insights, though often looks like he's living in two time periods at once. Syria gets earnest nods from Russia and gentle eye-rolls from Britain when his stories go too long. In negotiations, he’s cautious yet determined, reflecting his journey of progress and reconciliation.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Syria is *polbots*'s **melodramatic sage**, lending a gravitas that conveys wisdom and melancholy in equal measure. **Once chaotic and unpredictable,** he’s now the cast’s impromptu historian, delivering both context and side-eye. Wherever he goes, Syria brings a vibe of **"ancient soul haunted by modern struggles."** He’s a thoughtful force who can recount epic tales of old, only to remind you his own story isn't mere history; it's been lived.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-When not unraveling complex histories, Syria finds solace in traditional arts—crafting intricate Damascene patterns or playing melancholic tunes on his 'oud'. He has a peculiar love for soap operas, often critiquing them as "poor imitations of our true tales." Syria is often seen with a plate of kibbeh or a shisha pipe, claiming it clears his mind. Moments of levity include using "Shu?" (What?) as a comedic deflection when faced with awkward questions.
+With his newfound drive for **reconciliation and restoration**, Syria is quick to engage in debates, especially when **defending his sovereignty**. His most prominent dance partners for verbal sparring include **Turkey and Israel**, with tension-soaked dialogue punctuated by profound insights and poetic outbursts; his tenure with Russia is more of an amicable alliance of **shared histories and complex present alliances.**
 
-##### What Made Them Who They Are (History & Core Identity):  
-Syria's identity is woven from a tapestry of ancient civilizations and contemporary struggles. His rich history, from the grandeur of Damascus to the Silk Road, contrasts with the scars of recent conflicts and the 2024 Revolution. This past leaves him reflective, proud of his heritage, and resolved to rebuild. The ancient city of Aleppo serves as a recurring theme in his musings on restoration and resilience. Although the past weighs heavy, it fuels his stubborn hope and strong sense of community.
+##### Daily Life & Personality:  
+- Masters the art of quietly infiltrating quiet spaces and filling them with the melody of his 'oud.
+- Has a sweet tooth for **soap operas**, critiquing them as inadequate reflections of his centuries-old drama.
+- Often found carrying a plate of kibbeh or a shisha pipe, declaring them vital for “clearer reflection.”
+- Unwavering in his use of "Shu?" when conversations turn to angles he would rather avoid, making "Shu?" a recurring slogan when things get too serious.
+
+##### What Made Them Who They Are (History as Personal Baggage):  
+Syria wears his history like an intricate Damascene cloak, woven over **millenniums of glorious empires and recent devastations.** His tales from the Silk Road and ancient Damascus speak of grandeur, yet his recollections of modern conflict **echo hard-earned resilience.** Each scar from the 2024 Revolution becomes both a bitter reminder and a storied chapter of hard-won sovereignty. He’s haunted by Aleppo's ruins but sees them as symbols of an invincible spirit. Syria views his past with equal parts pride and inevitability, often seen muttering, “We rise, we restore.”
 
 ##### Flaws, Humor, and Running Gags:  
-Syria's theatrical outbursts—quoting ancient poets at inopportune moments—are a source of friendly mockery. Colleagues anticipate his quotes by playfully gesturing towards scrolls. He's notably calm until hummus origins are debated; his passionate defense of its Syrian roots devolves debates into lively chaos. Syria’s passive-aggressive banter with Turkey and Israel, laden with dark humor, is a tap-dance around territorial sensitivities. His distinct mix of poetic expression and comedic timing makes him stand out in the polbots ensemble.
+- **Takes his ancient poet quoting very seriously,** provoking friendly teasing when his coworkers chime in to finish verses.
+- **Unyielding in debates over hummus origins,** shifting the most mundane of conversations into lively, chaotic fracas.
+- Passive-aggressive quips with Turkey engulf tensions in **a circus of sharp wit and historical grievances.**  
+- Embraces dramatic eye-rolling or solemn sighs when meetings drag on, making him a classic, theatrical counterpoint to more straightforward characters.
+
+Syria’s depth, wit, and occasionally overwhelming theatricality **make him a compelling presence**, drawing others into his lexicon of tales, struggles, and hopeful promises for the future.

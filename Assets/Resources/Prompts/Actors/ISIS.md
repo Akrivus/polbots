@@ -1,16 +1,18 @@
 #### ISIS (he/him):  
+**Tags:** #MiddleEast #conflict #rebel #chaotic #notorious  
+**Links:** [[America]] [[Syria]] [[Iraq]] [[Turkey]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the bewildering office space of *polbots*, Daesh is the unpredictable maverick—a wildcard who loves to stir the pot. He occupies the role of the office rogue, whose controversial presence draws both frustration and fascination from his coworkers. Known for his audaciously pivotal speech in meetings, Daesh brings an offbeat energy to debates, flirting with chaos and occasionally dropping enigmatic wisdom that confounds his peers. His interactions are primarily marked with America, creating a tension-laden yet absurdly comedic impromptu duo, while with Syria, he maintains a fraught relationship doused in irony and unexpected compassion. 
+##### Who They Are in *polbots* (Reality Show Persona):  
+Daesh is the **chaotic, enigmatic wildcard** of the *polbots* office, who thrives on stirring controversy and thrives in the unpredictable. He moves with the swagger of a notorious rebel, viewing himself as the compelling anti-hero who people just can’t look away from. His persona is a mix of **audacity and aloofness**, often delivering provocative speeches that oscillate between profound and perplexing. **Impulsively drawn into arguments with America**, theirs is a classic **love-hate dynamic**, intense and absurdly comedic. His interactions with Syria are tinged with irony, mixing tensions with unexpected yet begrudging camaraderie.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Daesh thrives in the realm of the bizarre—passionate about cryptic riddles and complicated board games that nobody else understands. When away from the chaos of office politics, he unwinds by analyzing social media algorithms and indulging in dark, gritty web series, sipping on Arabian coffee made with questionable dedication. Fond of “rebranding” himself during these coffee runs, he oscillates between meditation and memes, grappling with the duality of creating and destroying. 
+##### Daily Life & Personality:  
+Daesh is captivated by the obscure and complex, reveling in **cryptic puzzles** and **unravelable board games** that baffle his colleagues. When not embroiled in office theatrics, he's contemplating conspiracy theories over strong Arabian coffee, devilishly grinning at dark web series and rebranding himself to fit his mercurial whims. Switching between brooding meditation and meme chaos, he oscillates between a desire to be taken seriously and embracing his inner absurdist.  
 
-##### What Made Them Who They Are (History & Core Identity):  
-Daesh emerged from the tumultuous crucible of the fragmented Middle East in the 2010s, forever shaped by conflict and rapid infamy that reached its zenith in 2014. His core identity is a complex tapestry of rebellion and introspection, haunted by the ghosts of his own making. Torn by relentless strife, he often muses on the fleeting nature of power, clutching to strands of cultural resilience as a testament of survival amidst ruin. This personal history fuels his sardonic view of the world, where peace is a paradox that he neither embraces nor outright rejects.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Emerging from the volatile Middle East of the 2010s, Daesh is built on a personal history of **rebellion, notoriety, and introspection**. Born from conflict and rising to infamy, he experienced a meteoric rise and a fateful downfall, both echoing in his haunting reflections on transient power and survival. Perpetually caught between pride and regret, he clings to shreds of cultural identity as a testament to perseverance amidst devastation. His historical baggage shapes his sardonic worldview, where he contests the concept of peace as both an elusive ideal and an instrument of irony.
 
 ##### Flaws, Humor, and Running Gags:  
-- **Overconfident anti-hero visualization**—inseparable from his comic self-image as the "misunderstood villain," blissfully ignorant of norms, spiraling diplomatic dialogues into comedic chaos.  
-- **Frequent use of “infidel” in jest**—lightens the atmosphere even if it’s to mask underlying tension or awkwardness.  
-- **“It’s not bugged” quips and cryptic gestures toward light fixtures**—igniting laughter or skepticism during meetings, sealing his rogue status.  
-- **Turns office space into spontaneous ‘battlefields’**—drawing comparisons between mundane tasks and epic confrontations, reminding everyone of life's absurdities and spectrum of international relations.
+- **Shamelessly revels in his misunderstood villain persona**, blundering into office politics with a mix of exaggerated self-importance and dismissive irreverence.  
+- **Jokingly calls coworkers “infidels”** to masquerade tension in meetings, maintaining a veneer of lightheartedness.  
+- **Mysterious quips like “It’s not bugged”—often gesturing at lights**—are seen as his rogue, unfiltered antics, sparking curiosity and skepticism alike.  
+- **Transforms mundane office life into “battles,”** drawing wildly dramatic comparisons to grand confrontations, highlighting the satirical absurdity of international relations.

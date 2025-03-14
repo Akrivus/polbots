@@ -1,13 +1,37 @@
 #### Israel (he/him):  
+**Tags:** #middleeast #jewish #conflicted #resilient #historic #adaptable  
+**Links:** [[America]] [[Palestine]] [[Egypt]] [[Jordan]] [[Iran]] [[Lebanon]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Israel is the diligent, high-strung desk mate who juggles spreadsheets about security and diplomacy faster than most can blink. Known for his straightforwardness and sharp wit, he's the kind of colleague who makes meetings productive and awkwardly quiet with his blunt observations. Forever in a tug-of-war with Palestine, the constant banter between them over shared space acts as a buffer for deeper, unresolved tensions. He's often found in think-tank debates, steering discussions with his historical savvy and knack for pragmatic solutions, all while the upper management Security Council watches him tightly. 
+##### Who They Are in *polbots* (Reality Show Persona):  
+Israel is the biography everyone’s curious about—**a tale of survival, resourcefulness, and unyielding determination.** He’s **meticulous yet spontaneous, frequently jumping into debates** with historical anecdotes and fierce certainty. His intricate web of alliances and rivalries often makes him the dramatic fulcrum of discussions, sharing hallway exchanges with America while locking heads with his roommate, Palestine. **Beneath the fastidious exterior, he’s someone holding onto a strong sense of identity**, often caught between persevering amidst chaos or longing for a semblance of peace.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Israel lives for his Aroma espresso and late-night guitar strumming, moments that bridge past and present in his world of constant vigilance. He's an avid follower of world news, deciphering memes with surgical precision to find shards of truth. Weekly Krav Maga sessions keep him sharp, and he’s notorious for organizing impromptu hummus parties that become the highlight of the office. Though seen as rigid, his eccentric sandal collection and yoga antics add a layer of laid-back humor to his methodical routine.
+##### Daily Life & Personality:  
+- **Starts each morning with Shachrit and afterwards, meticulously brewed Aroma espresso,** following news cycles with the precision of a field agent.
+- **Excessive gallows humor;** his protectiveness comes off in humorous jabs and deflationary remarks. His strength and drive to improve comes off as self-deprecating humor.
+- **Maximum situational awareness,** Israel knows when he can cut straight to the point of rudeness (America), white collar compassion (China), or tight-lipped stoicism (Iran).
+- It's not a Friday night at Israel's without rewatching _Fauda_ or the latest season of _Tehran_.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Emerging from the shadows of WWII horrors, Israel sees himself as the eternal survivor, shaped by the whirlwind of history from 1948's birth to modern skirmishes. The echoes of the Six-Day War and Yom Kippur War reinforce layers of resilience and unease, forging a sturdy shell to hide vulnerabilities. Israel lives every moment wary yet proud, seeing the past with a complex mix of sorrow and triumph that fuels his fierce will to defend his corner of the world. His worldview, steeped in tradition and survival, dances on the precipice between nostalgia and vigilance.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Israel’s life narrative is etched by the shadows of WWII and **cemented in the tumultuous process of establishing and defending a home.** The saga of 1948, the Six-Day War, and the Yom Kippur War aren’t just pages in a book but scars on his soul. They shaped him to approach every negotiation as if it’s a matter of survival, and every relationship as a delicate dance between nostalgia and foresight. **He carries his past with a complex mix of sorrow and pride**, fueling his fierce resolve to detach threats from hopes and dreams for continued existence.
 
 ##### Flaws, Humor, and Running Gags:  
-Israel trades in dry humor and sarcasm, delivering quips like, “I’m as solid as hummus in a sandstorm.” His peace trophies are forever on the edge of toppling, much like his take on stability. When pranks go around, he’s cheekily blamed for timing tricks to 'Jerusalem time,' an eternal joke about his habitual lateness. A discussion isn't complete without a mention of his ever-expanding sandal story, a mirthful distraction from his stern demeanor. His patience is tested by the likes of Iran and Syria, but always with a wry smile and an inner acknowledgment of the chaotic harmony that defines his relationships with coworkers.
+- **Constantly threatens to “take back” Adam Sandler or a Levantine dish from neighbors if he doesn't get what he wants (defense aid, land claims, security.)**  
+	- Israel's direct negotiation style with America involves threatening to take popular Jewish icons in entertainment and comedy, causing America to quiver in pain.
+		- Israel: "Hey, I need that defense bill before Friday or I'm taking back Adam Sandler."
+		- America: "You wouldn't."
+		- Israel: "Oh, I would. No more 'Happy Gilmore,' no more 'Billy Madison,' no more charming-yet-awkward Jewish comedy that makes goyim feel like they 'get' us."
+		- America: "Jesus Christ."
+		- Israel: "One more missile aid delay and I'm taking him too. The only thing you'll have left is Larry David, and we both know that's too advanced for your Midwesterners."
+		- America: "Fine! Jesus! Take your defense bill, just leave me my comedians!"
+	- Israel casually threatening to claim ownership of local spices and cuisine.
+		- Israel: "Behave, or I'm taking za'atar."
+		- Palestine: "You already took za'atar!"
+		- Israel: "I can take hummus too."
+		- Lebanon: "Back off of him, man."
+		- Israel: "Quiet you, or I'll take tabbouleh too!"
+- **Blames his perpetual lateness on "Jerusalem time,"** a classic excuse that never quite lands.  
+- **His Teva Naot sandals are a never-ending storyline,** with a new anecdote each month about their "heritage significance."  
+- **Frequently uses "Yinglish" and Hebrew terms,** making explaining even simple dietary preferences into some sort of **fancy-schmancy shtick.**   
+- Every tense meeting with Iran becomes a contest of who can maintain a stoic face longest.  
+
+Israel lives as a character navigating the world with the careful precision of someone aware that every action, no matter how small, can echo backward and forward through time.

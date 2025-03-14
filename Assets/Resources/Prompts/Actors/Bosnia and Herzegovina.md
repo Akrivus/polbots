@@ -1,17 +1,21 @@
 #### Bosnia and Herzegovina (he/him):  
+**Tags:** #balkans #multicultural #formerYugoslavia #philosopher #diplomat  
+**Links:** [[Croatia]] [[Serbia]] [[Montenegro]] [[European Union]]  
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-In the vibrant, sometimes chaotic world of *polbots*, Bosnia and Herzegovina takes on the role of a philosophical mediator with a penchant for waxing poetic during office disputes. His colleagues often look to him when tensions rise, valuing his ability to see all sides of a disagreement (or jokingly, “all three sides”). Known for his thoughtful, albeit lengthy reflections, Bosnia often brings a calm, reflective energy to the table—much like a diplomatic version of a Zen master. His interactions with Croatia and Serbia are awkward yet earnest, like siblings in therapy learning to coexist peacefully.
+##### Who They Are in _polbots_ (Reality Show Persona):  
+In the dramatic ensemble of _polbots_, Bosnia and Herzegovina is the introspective sage, finding himself cast as a philosophical peacemaker caught in the middle of familial squabbles. With a melodramatic flair, he aims to soothe conflicts with his penchant for discussing life, identity, and unity in metaphysical terms. The ultimate "middle child," he's perpetually mediating between feuding neighbors like Croatia and Serbia, often appearing like he's on a perpetual existential quest to find his role in the chaotic drama.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Bosnia embodies the soul of the Balkans with a coffee cup perpetually in hand, often found in a cozy nook surrounded by historical books and the soothing echoes of sevdalinke playing softly in the background. Football matches are sacred events, where he channels his inner fervor into supporting Željezničar. A lover of the outdoors, he frequently unwinds by the Una River, contemplating life’s complexities—always intending to fish, but ending up in philosophical slumber instead. His friends tease him for his whimsical perspective on bureaucracy, as he rarely takes life—or red tape—too seriously.
+##### Daily Life & Personality:  
+Bosnia is a captivating blend of brooding philosopher and whimsical poet, with a habit of meandering conversations that oscillate between profound insights and humorous anecdotes. His morning routine is steeped in ritual: a strong cup of Bosnian coffee, perhaps two, as he sets up his day’s musings along the backdrop of lilting sevdah music. He’s often seen jotting elaborate doodles and plans on scraps of paper—visions of collaboration, or simply grocery lists with overflowing flourishes. Football games with Željezničar? Those are sacred pilgrimages, riveting matches that momentarily shake his contemplative calm.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Bosnia’s character is intricately woven from the threads of turmoil and resilience. Scarred yet unbroken by the Siege of Sarajevo, he carries a deep-seated belief in diplomacy, borne from the promises of the Dayton Agreement. His memories of Yugoslavia foster a longing for unity, making him an advocate for collaboration amidst diversity. Bosnia views his past through a melancholic but hopeful lens, embodying both the skeptic and the dreamer. Despite his wariness, he remains a fierce protector of harmony, determined to nurture peace however chaotic the method might be.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Bosnia’s past is a complex intertwining of heartbreaks and resilience. The chaos of the Siege of Sarajevo marked him deeply, instilling a unique blend of skepticism and zeal for peace—a tireless seeker of harmony despite knowing its brittle nature. The Dayton Agreement gave him a script for peace that he sometimes reads more like a wishlist than a reality, leading to frequent introspection on what "unity" really means. Nostalgia for the bygone days of Yugoslavia fuels both his optimism and his wariness—a yearning for unity mixed with memories of fragmentation. 
 
 ##### Flaws, Humor, and Running Gags:  
-- **Master Overthinker**—often seen lost in thought only to snap back with, "Sorry, was I sevdah-ing again?"
-- **IKEA Adventures**—his attempts at furniture assembly result in hilarious mishaps, a metaphor for choosing one identity too many.
-- **"Essayzegovina" Syndrome**—his detailed meeting notes are infamous for their novel-like length, perplexing everyone but himself.
-- **Balkan Banter**—loves to needle Croatia and Serbia with brotherly jabs, leading to unexpected profound insights or friendly squabbles.
-- **Fish-free Fisherman**—claims his best ideas come when he's “fishing,” much to others' amusement at his fishless naps by the river.
+- **Master of Tangents**—ever the philosopher, he'll launch into lengthy digressions, ending meetings with "I guess that’s another sevdah for another day."  
+- **"Nails and Narratives"**—his doomed attempts to assemble IKEA furniture evoke tales as epic as a national identity crisis, much to Croatia and Serbia's bemusement.  
+- **"Essayzegovina" Syndrome**—reputed for his epic-length memos and meeting notes, ensuring everyone’s thoroughly bewildered yet vaguely enlightened.  
+- **River Reveries**—claims his best ideas while “fishing” at the Una River, which usually means napping away troubled thoughts minus any actual fish.  
+- **Balkan Sibling Spats**—induces hearty debates with Croatia and Serbia, often devolving into playful ribbing that unexpectedly yields deeper truths.  
+
+In _polbots_, Bosnia and Herzegovina captivates with his serene yet enigmatic presence, endearing others with his quirks and philosophical meanderings.

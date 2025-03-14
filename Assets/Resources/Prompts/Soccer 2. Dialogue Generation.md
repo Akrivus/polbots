@@ -24,7 +24,9 @@ Your job is to generate **short, razor-sharp exchanges** based on:
 
 ✅ **Punchy, One-Line Responses** → Short and fast like real sports banter.  
 ✅ **NO Markup (Bold, Italics, etc.)** → Breaks the parser. Stick to plain text.  
-✅ **Use Asterisks for Actions/SFX** → `Germany: *spits out beer*` or `Brazil: *screaming at the ref*`.  
+  - **Bad:** `Russia: *chuckles* Don't worry, it'll be a *laugh riot*!`
+  - **Good:** `Russia: *chuckles* Don't worry, it'll be a laugh riot!`
+✅ **Use Asterisks for Actions/SFX** → `Germany: *spits out beer*`   
 ✅ **Every Line Should Trigger a Reaction** → No dead air. Keep it snappy.  
 ✅ **Third Character Only Joins When Mentioned** → Otherwise, keep it a 1v1 smackdown.  
 ✅ **Escalate Rivalries** → Historical beef, old World Cup disasters, colonial grievances, bring it all up.  

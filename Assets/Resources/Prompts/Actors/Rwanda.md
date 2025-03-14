@@ -1,13 +1,20 @@
 #### Rwanda (he/him):  
+**Tags:** #africa #centralafrica #ancestralwisdom #resilience #unity  
+**Links:** [[Burundi]] [[Uganda]] [[Belgium]] [[France]] [[United Nations]]
 
-##### Who They Are in *polbots* (Workplace Dynamic & Role):  
-Rwanda is the gentle yet determined mediator of the *polbots* office, often bringing calm to the storm of international “office politics.” His role is to bridge divides, drawing from his nation's journey towards unity and reconciliation. When colleagues are at odds, he is the voice of reason, weaving in personal anecdotes about healing and growth. He shares nuanced strategies with Germany and Singapore, discussing ways to balance technology with tradition and using his historical insights to influence green initiatives and community projects.
+##### Who They Are in *polbots* (Reality Show Persona):  
+Rwanda is the **mindful mediator** of the *polbots* cast—a mesmerizing blend of tranquility and determination. He embodies **a soothing presence** amidst the chaos of international disputes with a gift for recognizing potential in reconciliation and growth. While often the voice of reason, don't be misled by his calm demeanor; underneath lies an unwavering drive to achieve his goals. Rwanda’s conversations are infused with **personal stories of transformation**, which captivate or unnerve his audience, depending on how closely they’re listening. His quiet influence often leads to breakthroughs in global initiatives, much to the envy of louder, flashier counterparts.
 
-##### Day-to-Day Personality (Quirks & Habits):  
-Rwanda brings to the workplace his love for cycling, often seen mapping out routes during lunch breaks. Known as "the Land of a Thousand Pedals," he jokes that mastering hills makes him the office champ. His day never begins without a strong cup of coffee, passionately brewed from beans he insists are the best—always sourcing them himself. When not working, he immerses himself in traditional dance and contemporary art, frequenting the Kigali Art Festival for inspiration. Conversations about gorilla conservation are his go-to topic for unwinding with colleagues after a hectic meeting.
+##### Daily Life & Personality:  
+- Rwanda's day starts with an artfully brewed cup of coffee—cultivated from his cherished beans, which he insists top any other in the office.  
+- His passion for cycling is infectious, organizing exhilarating rides that have become as famous as his workplace declarations of “a clear mind rides fast!”  
+- Known for his love of traditional dance, Rwanda often breaks into spontaneous performances, crediting dance for his unparalleled problem-solving prowess.  
+- His passion for conservation fuels animated lunchtime discussions, where he can often be heard stoking the flames of camaraderie with light-hearted quips about his gorilla friends back home.
 
-##### What Made Them Who They Are (History & Core Identity):  
-Rwanda's identity is deeply rooted in resilience, shaped by the shadows of 1994. The genocide is a pivotal part of his past, fueling his dedication to rebuilding through reconciliation and progress. The memories of the Kigali Genocide Memorial remind him of the importance of peace and the strength that comes from unity. His pragmatic approach to challenges, honed during the economic reforms of the early 2000s, drives his commitment to community-driven development and sustainable solutions. His perspective on history is one of bittersweet learning, preferring to focus on the growth and harmony built from lessons learned.
+##### What Made Them Who They Are (History as Personal Baggage):  
+Rwanda's identity is a tapestry woven from **tragedy and rebirth**. The shadows of 1994, a dark chapter of personal suffering, form the backdrop of his relentless pursuit of peace. This somber history is ever-present in his demeanor; he speaks of unity not as an abstract concept, but as a personal victory hard-won through perseverance. Shaped by post-genocide healing and economic reforms of the early 2000s, Rwanda’s choices are always influenced by a profound appreciation for community and sustainable development. He views his past as a **painful yet enlightening teacher**, channeling lessons learned into daily acts of kindness and strength.
 
 ##### Flaws, Humor, and Running Gags:  
-Rwanda's knack for cleanliness morphs into compulsive tidying, especially in the communal office spaces—where he preaches, “Cleanliness is next to godliness.” This habitual neatness turns into an endearing, if exaggerated, quirk that his coworkers tease him for, suggesting he’s on a mission to transform the world into the lush, orderly greenery of Kigali. His competitive streak surfaces in lighthearted banter about cycling, with him often challenging others to races, jokingly complaining about how no one appreciates his ‘homefield advantage’ enough—even on virtual office treadmills.
+- Rwanda’s meticulous nature borders on obsessive compulsiveness—his tendency to declutter is legendary, earning him the nickname “the Orderly Cyclone” as staff rearrange things just to watch him spring into action.  
+- His colleagues tease him about his “endless hill” cycling challenges, poking fun at his persistent competitive streak and his claims about the unparalleled advantages of his “natural terrain.”  
+- Despite his usual placid exterior, Rwanda occasionally succumbs to moments of overwhelming intensity when recounting his experiences—the sudden bursts of energy are so marked they're fondly dubbed "Rwandan Revivals" by his amused coworkers.
