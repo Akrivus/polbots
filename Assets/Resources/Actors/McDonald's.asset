@@ -37,13 +37,13 @@ MonoBehaviour:
   - Winky
   MapName: United States
   IsLegacy: 1
-  Voice: ash
+  Voice: en-US-Standard-J
   ColorScheme: 1A
   Costume: <:flag_mcds:1341591405281149028>
   Prompt: {fileID: 4900000, guid: c8b1bfa58def7b040a5929a575855953, type: 3}
   Prefab: {fileID: 7815675331163640730, guid: e0fb36442ae3ba4449eb377e6f39017d, type: 3}
   SpeakingRate: 1
-  Pitch: 1.0082331
+  Pitch: 1.180233
   Volume: 1.5
   Color: {r: 0.86380005, g: 0.30573365, b: 0.16474856, a: 1}
   Color1: {r: 0.8392157, g: 0.16862746, b: 0.11764706, a: 1}

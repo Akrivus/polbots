@@ -35,7 +35,7 @@ MonoBehaviour:
   - Justin
   MapName: United States
   IsLegacy: 1
-  Voice: echo
+  Voice: en-US-Standard-I
   ColorScheme: 2B
   Costume: <:flag_amazon:1337172858756927548>
   Prompt: {fileID: 4900000, guid: 156f953c061c1de458306e8702e8a718, type: 3}

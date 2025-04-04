@@ -37,7 +37,7 @@ MonoBehaviour:
   - Elon
   MapName: United States
   IsLegacy: 1
-  Voice: sage
+  Voice: en-US-Standard-H
   ColorScheme: 1A
   Costume: <:flag_x:1341591454606168094>
   Prompt: {fileID: 4900000, guid: 18c2a088757a2e84ea71b4655b01ec2a, type: 3}
