@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Utilities;
 
-public class RemoteControl : MonoBehaviour
+public class PolbotsRemoteControl : MonoBehaviour
 {
     private Dictionary<string, Action> buttonActions;
 
