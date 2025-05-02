@@ -29,6 +29,7 @@ MonoBehaviour:
   - Peter
   - Taika
   - Gareth
+  Neighbor: {fileID: 0}
   MapName: New Zealand
   IsLegacy: 0
   Voice: en-AU-Standard-C

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Claudio
   - "Tom\xE1s"
   - "Mar\xEDa"
+  Neighbor: {fileID: 0}
   MapName: Chile
   IsLegacy: 0
   Voice: es-ES-Standard-C

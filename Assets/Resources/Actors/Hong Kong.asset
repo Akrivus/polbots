@@ -29,6 +29,7 @@ MonoBehaviour:
   - Edward
   - David
   - Lai
+  Neighbor: {fileID: 0}
   MapName: Hong Kong
   IsLegacy: 0
   Voice: yue-HK-Standard-A

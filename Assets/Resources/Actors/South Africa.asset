@@ -29,6 +29,7 @@ MonoBehaviour:
   - Wendy
   - Trevor
   - Angelique
+  Neighbor: {fileID: 0}
   MapName: South Africa
   IsLegacy: 0
   Voice: af-ZA-Standard-A

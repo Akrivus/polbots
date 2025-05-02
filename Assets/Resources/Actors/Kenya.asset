@@ -29,6 +29,7 @@ MonoBehaviour:
   - Juliet
   - Fatuma
   - Ababu
+  Neighbor: {fileID: 0}
   MapName: Kenya
   IsLegacy: 0
   Voice: en-GB-Standard-C

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Gabriel
   - Fintan
   - Ross
+  Neighbor: {fileID: 0}
   MapName: Ireland
   IsLegacy: 0
   Voice: en-US-Standard-B

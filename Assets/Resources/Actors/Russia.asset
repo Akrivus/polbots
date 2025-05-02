@@ -30,6 +30,7 @@ MonoBehaviour:
   - Grigory
   - Svetlana
   - Lyudmila
+  Neighbor: {fileID: 0}
   MapName: Russia
   IsLegacy: 0
   Voice: ru-RU-Standard-C

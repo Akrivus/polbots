@@ -29,6 +29,7 @@ MonoBehaviour:
   - Joanna
   - Marco
   - Julia
+  Neighbor: {fileID: 0}
   MapName: Liechtenstein
   IsLegacy: 0
   Voice: de-DE-Standard-B

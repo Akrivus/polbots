@@ -29,6 +29,7 @@ MonoBehaviour:
   - Nelson
   - Miriam
   - James
+  Neighbor: {fileID: 0}
   MapName: South Sudan
   IsLegacy: 0
   Voice: ar-XA-Standard-C

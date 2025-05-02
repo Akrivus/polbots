@@ -29,6 +29,7 @@ MonoBehaviour:
   - Grace
   - Janette
   - Khemraj
+  Neighbor: {fileID: 0}
   MapName: Guyana
   IsLegacy: 0
   Voice: en-US-Standard-C

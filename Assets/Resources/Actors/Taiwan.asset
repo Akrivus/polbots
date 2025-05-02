@@ -31,6 +31,7 @@ MonoBehaviour:
   - Ko
   - Lai
   - Huang
+  Neighbor: {fileID: 0}
   MapName: Taiwan
   IsLegacy: 0
   Voice: yue-HK-Standard-C

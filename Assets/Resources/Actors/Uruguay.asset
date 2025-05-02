@@ -29,6 +29,7 @@ MonoBehaviour:
   - "Mar\xEDa"
   - "Fabi\xE1n"
   - Jorge
+  Neighbor: {fileID: 0}
   MapName: Uruguay
   IsLegacy: 0
   Voice: pt-BR-Standard-B

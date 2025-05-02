@@ -29,6 +29,7 @@ MonoBehaviour:
   - Kep
   - Sik
   - Seth
+  Neighbor: {fileID: 0}
   MapName: Cambodia
   IsLegacy: 0
   Voice: vi-VN-Standard-B

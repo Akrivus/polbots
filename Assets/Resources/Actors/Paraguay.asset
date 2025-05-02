@@ -29,6 +29,7 @@ MonoBehaviour:
   - Fernando
   - Cecilia
   - Jorge
+  Neighbor: {fileID: 0}
   MapName: Paraguay
   IsLegacy: 0
   Voice: pt-BR-Standard-A

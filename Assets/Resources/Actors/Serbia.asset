@@ -29,6 +29,7 @@ MonoBehaviour:
   - Vlado
   - Roksandra
   - "Nata\u0161a"
+  Neighbor: {fileID: 0}
   MapName: Serbia
   IsLegacy: 0
   Voice: sr-RS-Standard-A

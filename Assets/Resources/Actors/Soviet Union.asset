@@ -32,6 +32,7 @@ MonoBehaviour:
   - Trotsky
   - Krushchev
   - Gorbachev
+  Neighbor: {fileID: 0}
   MapName: Russia
   IsLegacy: 1
   Voice: ru-RU-Standard-D

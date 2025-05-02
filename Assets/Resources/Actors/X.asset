@@ -35,6 +35,7 @@ MonoBehaviour:
   - Elon
   - Elon
   - Elon
+  Neighbor: {fileID: 0}
   MapName: United States
   IsLegacy: 1
   Voice: en-US-Standard-H

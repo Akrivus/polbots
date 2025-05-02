@@ -30,6 +30,7 @@ MonoBehaviour:
   - Anton
   - Stephen
   - Bruno
+  Neighbor: {fileID: 0}
   MapName: South Africa
   IsLegacy: 1
   Voice: af-ZA-Standard-A

@@ -29,6 +29,7 @@ MonoBehaviour:
   - "M\xE1xima"
   - Fernando
   - Gerardo
+  Neighbor: {fileID: 0}
   MapName: Argentina
   IsLegacy: 0
   Voice: es-ES-Standard-D

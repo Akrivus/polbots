@@ -30,6 +30,7 @@ MonoBehaviour:
   - Sanja
   - Aleksandar
   - Mirza
+  Neighbor: {fileID: 0}
   MapName: Bosnia and Herzegovina
   IsLegacy: 0
   Voice: tr-TR-Standard-E

@@ -33,6 +33,7 @@ MonoBehaviour:
   - Kristalina
   - Malala
   - Greta
+  Neighbor: {fileID: 0}
   MapName: United States
   IsLegacy: 0
   Voice: en-US-Standard-D

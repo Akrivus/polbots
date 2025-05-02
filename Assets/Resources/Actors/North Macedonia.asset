@@ -29,6 +29,7 @@ MonoBehaviour:
   - Simona
   - Aleksandar
   - Snezana
+  Neighbor: {fileID: 0}
   MapName: North Macedonia
   IsLegacy: 0
   Voice: bg-BG-Standard-A

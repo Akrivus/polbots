@@ -29,6 +29,7 @@ MonoBehaviour:
   - Tiemoko
   - "Traor\xE9"
   - Ousmane
+  Neighbor: {fileID: 0}
   MapName: Mali
   IsLegacy: 0
   Voice: fr-FR-Standard-B

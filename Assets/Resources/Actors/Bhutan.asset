@@ -29,6 +29,7 @@ MonoBehaviour:
   - Jigme
   - Tashi
   - Chimi
+  Neighbor: {fileID: 0}
   MapName: Bhutan
   IsLegacy: 0
   Voice: hi-IN-Standard-B

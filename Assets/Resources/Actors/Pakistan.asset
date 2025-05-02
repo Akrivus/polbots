@@ -29,6 +29,7 @@ MonoBehaviour:
   - Sajal
   - Adnan
   - Sophie
+  Neighbor: {fileID: 0}
   MapName: Pakistan
   IsLegacy: 0
   Voice: pa-IN-Standard-D

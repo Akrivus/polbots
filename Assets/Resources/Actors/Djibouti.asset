@@ -29,6 +29,7 @@ MonoBehaviour:
   - Moumine
   - Hassouna
   - Omer
+  Neighbor: {fileID: 0}
   MapName: Djibouti
   IsLegacy: 0
   Voice: ar-XA-Standard-B

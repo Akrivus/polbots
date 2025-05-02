@@ -29,6 +29,7 @@ MonoBehaviour:
   - Urpi
   - Julio
   - Gabriela
+  Neighbor: {fileID: 0}
   MapName: Peru
   IsLegacy: 0
   Voice: es-US-Standard-C

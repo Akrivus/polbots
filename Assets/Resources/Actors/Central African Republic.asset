@@ -31,6 +31,7 @@ MonoBehaviour:
   - "M\xE9lanie"
   - Jean-Paul
   - David
+  Neighbor: {fileID: 0}
   MapName: Central African Republic
   IsLegacy: 0
   Voice: fr-FR-Standard-B

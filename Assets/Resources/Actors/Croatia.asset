@@ -29,6 +29,7 @@ MonoBehaviour:
   - Rade
   - Mira
   - Goran
+  Neighbor: {fileID: 0}
   MapName: Croatia
   IsLegacy: 0
   Voice: sr-RS-Standard-A

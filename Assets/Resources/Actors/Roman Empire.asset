@@ -33,6 +33,7 @@ MonoBehaviour:
   - Constantine
   - Scipio
   - Lucius
+  Neighbor: {fileID: 11400000, guid: 169c185d0729ec14ebf6acf50fd72e7c, type: 2}
   MapName: Italy
   IsLegacy: 1
   Voice: it-IT-Standard-D

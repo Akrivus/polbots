@@ -29,6 +29,7 @@ MonoBehaviour:
   - Noomi
   - Avicii
   - Karin
+  Neighbor: {fileID: 0}
   MapName: Sweden
   IsLegacy: 0
   Voice: sv-SE-Standard-E

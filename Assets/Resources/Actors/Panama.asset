@@ -29,6 +29,7 @@ MonoBehaviour:
   - Anelisse
   - Carlos
   - Pedro
+  Neighbor: {fileID: 0}
   MapName: Panama
   IsLegacy: 0
   Voice: es-US-Standard-B

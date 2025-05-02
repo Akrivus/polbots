@@ -29,6 +29,7 @@ MonoBehaviour:
   - Khotso
   - Mokhothu
   - '''Manthabiseng'
+  Neighbor: {fileID: 0}
   MapName: Lesotho
   IsLegacy: 0
   Voice: en-GB-Standard-D

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Edwin
   - Marlon
   - Rogier
+  Neighbor: {fileID: 0}
   MapName: Suriname
   IsLegacy: 0
   Voice: nl-NL-Standard-C

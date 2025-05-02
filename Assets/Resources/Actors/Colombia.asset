@@ -29,6 +29,7 @@ MonoBehaviour:
   - Colombian
   - "C\xE9sar"
   - Nairo
+  Neighbor: {fileID: 0}
   MapName: Colombia
   IsLegacy: 0
   Voice: es-US-Standard-A

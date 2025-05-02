@@ -35,6 +35,7 @@ MonoBehaviour:
   - Elizabeth
   - Benedict
   - David
+  Neighbor: {fileID: 0}
   MapName: United Kingdom
   IsLegacy: 0
   Voice: en-GB-Standard-B

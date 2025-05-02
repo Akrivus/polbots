@@ -29,6 +29,7 @@ MonoBehaviour:
   - Miriam
   - Carlos
   - Walmaro
+  Neighbor: {fileID: 0}
   MapName: Nicaragua
   IsLegacy: 0
   Voice: es-ES-Standard-A

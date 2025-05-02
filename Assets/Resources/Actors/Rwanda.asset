@@ -29,6 +29,7 @@ MonoBehaviour:
   - John
   - Safi
   - Louise
+  Neighbor: {fileID: 0}
   MapName: Rwanda
   IsLegacy: 0
   Voice: fr-FR-Standard-B

@@ -30,6 +30,7 @@ MonoBehaviour:
   - Hj
   - Noraina
   - Liyana
+  Neighbor: {fileID: 0}
   MapName: Brunei
   IsLegacy: 0
   Voice: ms-MY-Standard-B

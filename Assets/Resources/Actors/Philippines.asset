@@ -29,6 +29,7 @@ MonoBehaviour:
   - Antonio
   - Pia
   - Angel
+  Neighbor: {fileID: 0}
   MapName: Philippines
   IsLegacy: 0
   Voice: fil-PH-Standard-C

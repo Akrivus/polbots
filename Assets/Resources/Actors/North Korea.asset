@@ -32,6 +32,7 @@ MonoBehaviour:
   - Hwang
   - O
   - Yang
+  Neighbor: {fileID: 0}
   MapName: North Korea
   IsLegacy: 0
   Voice: ko-KR-Standard-C

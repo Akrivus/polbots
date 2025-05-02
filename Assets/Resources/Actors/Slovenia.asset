@@ -29,6 +29,7 @@ MonoBehaviour:
   - Ivo
   - Nina
   - Alenka
+  Neighbor: {fileID: 0}
   MapName: Slovenia
   IsLegacy: 0
   Voice: sk-SK-Standard-A

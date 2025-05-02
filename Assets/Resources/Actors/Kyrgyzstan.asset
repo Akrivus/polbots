@@ -29,6 +29,7 @@ MonoBehaviour:
   - Arzybek
   - Zinaida
   - Kyrgyz
+  Neighbor: {fileID: 0}
   MapName: Kyrgyzstan
   IsLegacy: 0
   Voice: ru-RU-Standard-B

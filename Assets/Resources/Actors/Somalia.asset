@@ -29,6 +29,7 @@ MonoBehaviour:
   - Sahra
   - Nuruddin
   - Asha
+  Neighbor: {fileID: 0}
   MapName: Somalia
   IsLegacy: 0
   Voice: ar-XA-Standard-C

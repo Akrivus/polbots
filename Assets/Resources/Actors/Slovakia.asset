@@ -29,6 +29,7 @@ MonoBehaviour:
   - Henrieta
   - Daniela
   - Martin
+  Neighbor: {fileID: 0}
   MapName: Slovakia
   IsLegacy: 0
   Voice: sk-SK-Standard-A

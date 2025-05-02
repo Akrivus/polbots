@@ -29,6 +29,7 @@ MonoBehaviour:
   - Iryna
   - Serhiy
   - Anastasia
+  Neighbor: {fileID: 0}
   MapName: Ukraine
   IsLegacy: 0
   Voice: uk-UA-Standard-A

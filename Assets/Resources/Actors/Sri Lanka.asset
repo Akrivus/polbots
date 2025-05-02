@@ -29,6 +29,7 @@ MonoBehaviour:
   - Hakeem
   - Mahatma
   - Dilrukshi
+  Neighbor: {fileID: 0}
   MapName: Sri Lanka
   IsLegacy: 0
   Voice: ta-IN-Standard-B

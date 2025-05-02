@@ -29,6 +29,7 @@ MonoBehaviour:
   - Miriam
   - Amanuel
   - Kjetil
+  Neighbor: {fileID: 0}
   MapName: Ethiopia
   IsLegacy: 0
   Voice: en-IN-Standard-A

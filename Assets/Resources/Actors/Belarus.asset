@@ -29,6 +29,7 @@ MonoBehaviour:
   - Tamar
   - Siarhei
   - Svetlana
+  Neighbor: {fileID: 0}
   MapName: Belarus
   IsLegacy: 0
   Voice: ru-RU-Standard-B

@@ -30,6 +30,7 @@ MonoBehaviour:
   - Amie
   - Alieu
   - Seedy
+  Neighbor: {fileID: 0}
   MapName: Gambia
   IsLegacy: 0
   Voice: en-GB-Standard-D

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Murat
   - Olzhas
   - Zhanarbek
+  Neighbor: {fileID: 0}
   MapName: Kazakhstan
   IsLegacy: 0
   Voice: ru-RU-Standard-B

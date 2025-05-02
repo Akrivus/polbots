@@ -29,6 +29,7 @@ MonoBehaviour:
   - Phyo
   - Aung
   - Mya
+  Neighbor: {fileID: 0}
   MapName: Myanmar
   IsLegacy: 0
   Voice: bn-IN-Standard-D

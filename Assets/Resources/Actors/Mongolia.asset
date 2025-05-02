@@ -29,6 +29,7 @@ MonoBehaviour:
   - Narantsogt
   - Oyun-Erdene
   - Naranbaatar
+  Neighbor: {fileID: 0}
   MapName: Mongolia
   IsLegacy: 0
   Voice: yue-HK-Standard-D

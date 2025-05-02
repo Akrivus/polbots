@@ -30,6 +30,7 @@ MonoBehaviour:
   - Camila
   - Juan
   - Marcelo
+  Neighbor: {fileID: 0}
   MapName: Bolivia
   IsLegacy: 0
   Voice: es-US-Standard-A

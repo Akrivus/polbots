@@ -29,6 +29,7 @@ MonoBehaviour:
   - Abdulai
   - Leymah
   - Dr.
+  Neighbor: {fileID: 0}
   MapName: Sierra Leone
   IsLegacy: 0
   Voice: en-GB-Standard-C

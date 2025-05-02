@@ -35,6 +35,7 @@ MonoBehaviour:
   - Ahed
   - Muna
   - Yasmeen
+  Neighbor: {fileID: 0}
   MapName: Palestine
   IsLegacy: 0
   Voice: ar-XA-Standard-C

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Guntars
   - Ilze
   - "M\u0101rti\u0146\u0161"
+  Neighbor: {fileID: 0}
   MapName: Latvia
   IsLegacy: 0
   Voice: pl-PL-Standard-E

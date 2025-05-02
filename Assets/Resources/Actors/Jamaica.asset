@@ -29,6 +29,7 @@ MonoBehaviour:
   - Marlene
   - P.J.
   - Usain
+  Neighbor: {fileID: 0}
   MapName: Jamaica
   IsLegacy: 0
   Voice: fr-CA-Wavenet-D

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Pansy
   - Wong
   - Alfredo
+  Neighbor: {fileID: 0}
   MapName: Macao
   IsLegacy: 0
   Voice: yue-HK-Standard-B

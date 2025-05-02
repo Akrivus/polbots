@@ -29,6 +29,7 @@ MonoBehaviour:
   - Johan
   - Marina
   - Hadi
+  Neighbor: {fileID: 0}
   MapName: Malaysia
   IsLegacy: 0
   Voice: ms-MY-Standard-A

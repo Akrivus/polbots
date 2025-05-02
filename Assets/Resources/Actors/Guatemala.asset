@@ -29,6 +29,7 @@ MonoBehaviour:
   - "Iv\xE1n"
   - "Mar\xEDa"
   - Pablo
+  Neighbor: {fileID: 0}
   MapName: Guatemala
   IsLegacy: 0
   Voice: es-US-Standard-B

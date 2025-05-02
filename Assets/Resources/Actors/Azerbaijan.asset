@@ -29,6 +29,7 @@ MonoBehaviour:
   - Gulara
   - Rashad
   - Teymur
+  Neighbor: {fileID: 0}
   MapName: Azerbaijan
   IsLegacy: 0
   Voice: tr-TR-Standard-C

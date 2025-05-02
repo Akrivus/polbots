@@ -29,6 +29,7 @@ MonoBehaviour:
   - Rubina
   - Aminata
   - Osman
+  Neighbor: {fileID: 0}
   MapName: Sudan
   IsLegacy: 0
   Voice: ar-XA-Standard-C

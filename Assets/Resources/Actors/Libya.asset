@@ -29,6 +29,7 @@ MonoBehaviour:
   - Hanan
   - Mohamed
   - Ibrahim
+  Neighbor: {fileID: 0}
   MapName: Libya
   IsLegacy: 0
   Voice: it-IT-Standard-B

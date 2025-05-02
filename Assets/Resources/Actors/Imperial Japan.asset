@@ -29,6 +29,7 @@ MonoBehaviour:
   - Kuroda
   - Ishiwara
   - Matsuoka
+  Neighbor: {fileID: 0}
   MapName: Japan
   IsLegacy: 1
   Voice: ja-JP-Standard-D

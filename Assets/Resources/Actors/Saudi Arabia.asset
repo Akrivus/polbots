@@ -29,6 +29,7 @@ MonoBehaviour:
   - Misha'al
   - Hisham
   - Thamir
+  Neighbor: {fileID: 0}
   MapName: Saudi Arabia
   IsLegacy: 0
   Voice: ar-XA-Standard-C

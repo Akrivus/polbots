@@ -29,6 +29,7 @@ MonoBehaviour:
   - Maureen
   - Benson
   - Gwen
+  Neighbor: {fileID: 0}
   MapName: Namibia
   IsLegacy: 0
   Voice: en-GB-Standard-D

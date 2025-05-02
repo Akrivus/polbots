@@ -29,6 +29,7 @@ MonoBehaviour:
   - Katharine
   - Al
   - Wangari
+  Neighbor: {fileID: 0}
   MapName: Antarctica
   IsLegacy: 1
   Voice: en-US-Standard-H

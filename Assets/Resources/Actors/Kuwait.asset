@@ -29,6 +29,7 @@ MonoBehaviour:
   - Dalal
   - Thamer
   - Hadi
+  Neighbor: {fileID: 0}
   MapName: Kuwait
   IsLegacy: 0
   Voice: ar-XA-Standard-A

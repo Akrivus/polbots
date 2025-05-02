@@ -29,6 +29,7 @@ MonoBehaviour:
   - Amit
   - Shashi
   - Priya
+  Neighbor: {fileID: 0}
   MapName: India
   IsLegacy: 0
   Voice: en-IN-Standard-C

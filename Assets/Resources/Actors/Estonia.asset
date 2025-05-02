@@ -29,6 +29,7 @@ MonoBehaviour:
   - Ivari
   - Hennadi
   - Rein
+  Neighbor: {fileID: 0}
   MapName: Estonia
   IsLegacy: 0
   Voice: fi-FI-Standard-A

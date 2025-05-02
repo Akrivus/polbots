@@ -29,6 +29,7 @@ MonoBehaviour:
   - Fouad
   - Najib
   - Toufic
+  Neighbor: {fileID: 0}
   MapName: Lebanon
   IsLegacy: 0
   Voice: he-IL-Standard-C

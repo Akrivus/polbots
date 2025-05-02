@@ -31,6 +31,7 @@ MonoBehaviour:
   - Zhong
   - Hu
   - Liu
+  Neighbor: {fileID: 0}
   MapName: China
   IsLegacy: 0
   Voice: cmn-CN-Standard-B

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Paulette
   - Frantz
   - Magalie
+  Neighbor: {fileID: 0}
   MapName: Haiti
   IsLegacy: 0
   Voice: fr-CA-Standard-D

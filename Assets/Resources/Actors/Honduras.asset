@@ -29,6 +29,7 @@ MonoBehaviour:
   - Rosa
   - Nery
   - "C\xE9sar"
+  Neighbor: {fileID: 0}
   MapName: Honduras
   IsLegacy: 0
   Voice: es-US-Standard-C

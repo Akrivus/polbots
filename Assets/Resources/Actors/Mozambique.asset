@@ -29,6 +29,7 @@ MonoBehaviour:
   - "L\xEDdia"
   - "S\xE9rgio"
   - Carlos
+  Neighbor: {fileID: 0}
   MapName: Mozambique
   IsLegacy: 0
   Voice: pt-PT-Standard-C

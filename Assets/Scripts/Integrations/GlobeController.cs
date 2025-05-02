@@ -26,8 +26,11 @@ public class GlobeController : MonoBehaviour
     private int GetCountryIndex(Actor actor)
     {
         for (var i = 0; i < Globe.countries.Length; i++)
-            if (actor.Aliases.Contains(Globe.countries[i].name))
+        {
+            var aliases = actor.Neighbor == null ? actor.Aliases : actor.Neighbor.Aliases;
+            if (aliases.Contains(Globe.countries[i].name))
                 return i;
+        }
         return -1;
     }
 }

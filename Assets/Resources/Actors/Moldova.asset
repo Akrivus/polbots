@@ -30,6 +30,7 @@ MonoBehaviour:
   - Dorin
   - Victor
   - Oleg
+  Neighbor: {fileID: 0}
   MapName: Moldova
   IsLegacy: 0
   Voice: ro-RO-Standard-B

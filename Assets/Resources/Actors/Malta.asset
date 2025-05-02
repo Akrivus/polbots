@@ -29,6 +29,7 @@ MonoBehaviour:
   - Charlon
   - David
   - Jeffrey
+  Neighbor: {fileID: 0}
   MapName: Malta
   IsLegacy: 0
   Voice: en-GB-Standard-C

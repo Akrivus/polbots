@@ -29,6 +29,7 @@ MonoBehaviour:
   - Robert
   - Agnieszka
   - Wanda
+  Neighbor: {fileID: 0}
   MapName: Poland
   IsLegacy: 0
   Voice: pl-PL-Standard-B

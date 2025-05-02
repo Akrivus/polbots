@@ -30,6 +30,7 @@ MonoBehaviour:
   - Emma
   - "Mar\xEDa"
   - Milagros
+  Neighbor: {fileID: 0}
   MapName: Dominican Republic
   IsLegacy: 0
   Voice: es-ES-Standard-A

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Ousmane
   - Fatou
   - Sicile
+  Neighbor: {fileID: 0}
   MapName: Senegal
   IsLegacy: 0
   Voice: fr-FR-Standard-B

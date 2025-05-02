@@ -29,6 +29,7 @@ MonoBehaviour:
   - Moussa
   - Hadia
   - Mahamadou
+  Neighbor: {fileID: 0}
   MapName: Niger
   IsLegacy: 0
   Voice: fr-FR-Standard-B

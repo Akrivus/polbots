@@ -29,6 +29,7 @@ MonoBehaviour:
   - "\xC1gnes"
   - "Andr\xE1s"
   - "Mikl\xF3s"
+  Neighbor: {fileID: 0}
   MapName: Hungary
   IsLegacy: 0
   Voice: hu-HU-Standard-A

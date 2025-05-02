@@ -29,6 +29,7 @@ MonoBehaviour:
   - Rukia
   - David
   - Moses
+  Neighbor: {fileID: 0}
   MapName: Uganda
   IsLegacy: 0
   Voice: en-GB-Standard-D

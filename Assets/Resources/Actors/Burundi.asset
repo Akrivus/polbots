@@ -29,6 +29,7 @@ MonoBehaviour:
   - Julienne
   - Anastase
   - Aimable
+  Neighbor: {fileID: 0}
   MapName: Burundi
   IsLegacy: 0
   Voice: fr-FR-Standard-A

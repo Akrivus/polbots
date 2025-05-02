@@ -30,6 +30,7 @@ MonoBehaviour:
   - Wangari
   - "D\xE9sir\xE9"
   - "H\xE9l\xE8ne"
+  Neighbor: {fileID: 0}
   MapName: "C\xF4te d\u2019Ivoire"
   IsLegacy: 0
   Voice: fr-FR-Standard-B

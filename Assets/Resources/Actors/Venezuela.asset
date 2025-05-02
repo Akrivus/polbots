@@ -30,6 +30,7 @@ MonoBehaviour:
   - Carmen
   - Antonio
   - Tamara
+  Neighbor: {fileID: 0}
   MapName: Venezuela
   IsLegacy: 0
   Voice: es-US-Standard-C

@@ -138,7 +138,7 @@ public class SoccerGameSource : MonoBehaviour, IConfigurable<SoccerConfigs>
         var homeName = chat.Topic.Find("Home");
         var awayName = chat.Topic.Find("Away");
 
-        if (config.RequireTextPatternMatch && (homeName == null || awayName == null))
+        if (config.RequireTextPatternMatch && (string.IsNullOrEmpty(homeName) || string.IsNullOrEmpty(awayName)))
             return;
 
         homeActor = Actor.All[homeName] ?? chat.Actors[0].Reference;

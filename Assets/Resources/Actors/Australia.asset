@@ -29,6 +29,7 @@ MonoBehaviour:
   - Bert
   - Adam
   - Shane
+  Neighbor: {fileID: 0}
   MapName: Australia
   IsLegacy: 0
   Voice: en-AU-Standard-D

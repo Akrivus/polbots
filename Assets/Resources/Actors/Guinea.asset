@@ -29,6 +29,7 @@ MonoBehaviour:
   - Nasa
   - Bah
   - Nafissatou
+  Neighbor: {fileID: 0}
   MapName: Guinea
   IsLegacy: 0
   Voice: fr-FR-Standard-A

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Julienne
   - Souad
   - Yemi
+  Neighbor: {fileID: 0}
   MapName: Benin
   IsLegacy: 0
   Voice: fr-FR-Standard-A

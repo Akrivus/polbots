@@ -29,6 +29,7 @@ MonoBehaviour:
   - Rudy
   - Dahlan
   - Nadiem
+  Neighbor: {fileID: 0}
   MapName: Indonesia
   IsLegacy: 0
   Voice: id-ID-Standard-A

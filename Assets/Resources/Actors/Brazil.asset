@@ -29,6 +29,7 @@ MonoBehaviour:
   - "S\xE9rgio"
   - Fernanda
   - Chico
+  Neighbor: {fileID: 0}
   MapName: Brazil
   IsLegacy: 0
   Voice: pt-BR-Standard-B

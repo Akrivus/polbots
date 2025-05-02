@@ -33,6 +33,7 @@ MonoBehaviour:
   - Bouchra
   - Fatima
   - Mohamed
+  Neighbor: {fileID: 0}
   MapName: Western Sahara
   IsLegacy: 0
   Voice: ar-XA-Standard-C

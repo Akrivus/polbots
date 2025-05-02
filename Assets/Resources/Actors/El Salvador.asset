@@ -29,6 +29,7 @@ MonoBehaviour:
   - Leonardo
   - Carlos
   - Ana
+  Neighbor: {fileID: 0}
   MapName: El Salvador
   IsLegacy: 0
   Voice: es-US-Standard-C

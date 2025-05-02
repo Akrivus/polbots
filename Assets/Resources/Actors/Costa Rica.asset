@@ -29,6 +29,7 @@ MonoBehaviour:
   - Claudia
   - Rodrigo
   - Gerardo
+  Neighbor: {fileID: 0}
   MapName: Costa Rica
   IsLegacy: 0
   Voice: es-US-Standard-B

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Kylian
   - "\xC9douard"
   - Juliette
+  Neighbor: {fileID: 0}
   MapName: France
   IsLegacy: 0
   Voice: fr-FR-Standard-C

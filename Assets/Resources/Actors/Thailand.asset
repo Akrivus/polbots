@@ -29,6 +29,7 @@ MonoBehaviour:
   - Somkid
   - Chuan
   - Prawit
+  Neighbor: {fileID: 0}
   MapName: Thailand
   IsLegacy: 0
   Voice: th-TH-Standard-A

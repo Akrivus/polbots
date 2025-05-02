@@ -29,6 +29,7 @@ MonoBehaviour:
   - Hanan
   - Kadhim
   - Zaha
+  Neighbor: {fileID: 0}
   MapName: Iraq
   IsLegacy: 0
   Voice: ar-XA-Standard-B

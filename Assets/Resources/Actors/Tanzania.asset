@@ -30,6 +30,7 @@ MonoBehaviour:
   - Fatma
   - Stephen
   - David
+  Neighbor: {fileID: 0}
   MapName: Tanzania
   IsLegacy: 0
   Voice: pt-PT-Standard-C

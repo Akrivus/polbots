@@ -29,6 +29,7 @@ MonoBehaviour:
   - Peter
   - Ruth
   - "K\xE5re"
+  Neighbor: {fileID: 0}
   MapName: Greenland
   IsLegacy: 0
   Voice: da-DK-Standard-D

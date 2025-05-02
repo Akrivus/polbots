@@ -32,6 +32,7 @@ MonoBehaviour:
   - Hassan
   - Ali
   - Sattar
+  Neighbor: {fileID: 11400000, guid: 28d70dbf60a422e4d960718166bb9fc5, type: 2}
   MapName: 
   IsLegacy: 1
   Voice: tr-TR-Standard-D

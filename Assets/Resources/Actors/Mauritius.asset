@@ -29,6 +29,7 @@ MonoBehaviour:
   - Cynthia
   - Sheela
   - Kumar
+  Neighbor: {fileID: 0}
   MapName: Mauritius
   IsLegacy: 0
   Voice: en-GB-Standard-D

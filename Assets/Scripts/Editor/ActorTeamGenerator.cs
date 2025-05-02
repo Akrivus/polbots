@@ -10,22 +10,6 @@ using Utilities.WebRequestRest;
 
 public static class ActorTeamGenerator
 {
-    [MenuItem("Tools/Transfer Map Names")]
-    public static void TransferMapNames()
-    {
-        var actors = Resources.LoadAll<Actor>("Actors");
-        foreach (var actor in actors)
-        {
-            if (actor.Costume.StartsWith(":"))
-                actor.MapName = actor.Name;
-            else
-                actor.IsLegacy = true;
-            EditorUtility.SetDirty(actor);
-        }
-        AssetDatabase.SaveAssets();
-        AssetDatabase.Refresh();
-    }
-
     [MenuItem("Tools/Generate Character Spreadsheet")]
     public static async void GenerateActorSpreadsheet()
     {

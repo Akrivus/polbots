@@ -29,6 +29,7 @@ MonoBehaviour:
   - Michael
   - Senga
   - Brighton
+  Neighbor: {fileID: 0}
   MapName: Malawi
   IsLegacy: 0
   Voice: en-GB-Standard-D

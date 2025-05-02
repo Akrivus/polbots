@@ -29,6 +29,7 @@ MonoBehaviour:
   - Fernando
   - Filomeno
   - "M\xE1rio"
+  Neighbor: {fileID: 0}
   MapName: Angola
   IsLegacy: 0
   Voice: pt-PT-Standard-C

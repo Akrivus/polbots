@@ -29,6 +29,7 @@ MonoBehaviour:
   - Rebecca
   - Benedict
   - Wilhelmina
+  Neighbor: {fileID: 0}
   MapName: Liberia
   IsLegacy: 0
   Voice: en-GB-Standard-C

@@ -31,6 +31,7 @@ MonoBehaviour:
   - Narges
   - Ali
   - Ali
+  Neighbor: {fileID: 0}
   MapName: Iran
   IsLegacy: 0
   Voice: tr-TR-Standard-B

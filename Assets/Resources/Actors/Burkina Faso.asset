@@ -29,6 +29,7 @@ MonoBehaviour:
   - "M\xE9lanie"
   - Moussa
   - Dimitri
+  Neighbor: {fileID: 0}
   MapName: Burkina Faso
   IsLegacy: 0
   Voice: fr-FR-Standard-B

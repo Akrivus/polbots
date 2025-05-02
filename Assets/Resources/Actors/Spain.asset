@@ -29,6 +29,7 @@ MonoBehaviour:
   - Montserrat
   - "Rosal\xEDa"
   - Javier
+  Neighbor: {fileID: 0}
   MapName: Spain
   IsLegacy: 0
   Voice: es-ES-Standard-B

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Haja
   - Patrice
   - Sonia
+  Neighbor: {fileID: 0}
   MapName: Madagascar
   IsLegacy: 0
   Voice: fr-FR-Standard-B

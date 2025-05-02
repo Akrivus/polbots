@@ -29,6 +29,7 @@ MonoBehaviour:
   - Salman
   - Ahsan
   - Jaya
+  Neighbor: {fileID: 0}
   MapName: Bangladesh
   IsLegacy: 0
   Voice: bn-IN-Standard-B

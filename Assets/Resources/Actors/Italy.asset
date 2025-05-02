@@ -29,6 +29,7 @@ MonoBehaviour:
   - Antonio
   - Mario
   - Enrico
+  Neighbor: {fileID: 0}
   MapName: Italy
   IsLegacy: 0
   Voice: it-IT-Standard-D

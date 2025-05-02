@@ -29,6 +29,7 @@ MonoBehaviour:
   - Josephine
   - Allan
   - Louise
+  Neighbor: {fileID: 0}
   MapName: Papua New Guinea
   IsLegacy: 0
   Voice: en-AU-Standard-C

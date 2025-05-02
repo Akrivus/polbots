@@ -29,6 +29,7 @@ MonoBehaviour:
   - Arna
   - "Sigr\xED\xF0ur"
   - "J\xF3hanna"
+  Neighbor: {fileID: 0}
   MapName: Iceland
   IsLegacy: 0
   Voice: nb-NO-Standard-A

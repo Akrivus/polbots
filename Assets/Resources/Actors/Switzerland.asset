@@ -29,6 +29,7 @@ MonoBehaviour:
   - Peter
   - Nicolas
   - Nadia
+  Neighbor: {fileID: 0}
   MapName: Switzerland
   IsLegacy: 0
   Voice: de-DE-Standard-D

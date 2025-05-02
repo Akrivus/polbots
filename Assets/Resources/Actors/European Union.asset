@@ -32,6 +32,7 @@ MonoBehaviour:
   - Antonio
   - Francois
   - Jean-Claude
+  Neighbor: {fileID: 11400000, guid: 7baa82fcec46a1241b1676f1eedd1dcf, type: 2}
   MapName: European Union
   IsLegacy: 0
   Voice: nl-NL-Standard-C

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Nadia
   - Patricia
   - Darell
+  Neighbor: {fileID: 0}
   MapName: Belize
   IsLegacy: 0
   Voice: en-US-Standard-B

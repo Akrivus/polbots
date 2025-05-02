@@ -30,6 +30,7 @@ MonoBehaviour:
   - Liz
   - Barack
   - Jerry
+  Neighbor: {fileID: 11400000, guid: 878c3e70ffb418a4d95899fe3872c1a4, type: 2}
   MapName: United States
   IsLegacy: 1
   Voice: en-US-Standard-H

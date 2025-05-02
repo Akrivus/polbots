@@ -37,6 +37,7 @@ MonoBehaviour:
   - Abu
   - Muhammad
   - Abu
+  Neighbor: {fileID: 11400000, guid: ed77990d59adcb04ca2f47f75101d3f3, type: 2}
   MapName: Iraq
   IsLegacy: 1
   Voice: en-GB-Standard-D

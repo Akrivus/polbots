@@ -29,6 +29,7 @@ MonoBehaviour:
   - Selam
   - Fozia
   - Semhal
+  Neighbor: {fileID: 0}
   MapName: Eritrea
   IsLegacy: 0
   Voice: it-IT-Standard-C

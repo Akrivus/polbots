@@ -29,6 +29,7 @@ MonoBehaviour:
   - "C\xE9cile"
   - "Eug\xE8ne"
   - "Val\xE9rie"
+  Neighbor: {fileID: 0}
   MapName: Gabon
   IsLegacy: 0
   Voice: fr-FR-Standard-A

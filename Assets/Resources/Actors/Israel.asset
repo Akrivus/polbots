@@ -29,6 +29,7 @@ MonoBehaviour:
   - Miri
   - Diana
   - Eran
+  Neighbor: {fileID: 0}
   MapName: Israel
   IsLegacy: 0
   Voice: he-IL-Standard-B

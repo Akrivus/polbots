@@ -29,6 +29,7 @@ MonoBehaviour:
   - Mohammed
   - Aicha
   - Sanaa
+  Neighbor: {fileID: 0}
   MapName: Yemen
   IsLegacy: 0
   Voice: ar-XA-Standard-D

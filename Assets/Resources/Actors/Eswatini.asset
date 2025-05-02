@@ -30,6 +30,7 @@ MonoBehaviour:
   - Tobeka
   - Vusimuzi
   - Mfulu
+  Neighbor: {fileID: 0}
   MapName: Eswatini
   IsLegacy: 0
   Voice: en-GB-Standard-D

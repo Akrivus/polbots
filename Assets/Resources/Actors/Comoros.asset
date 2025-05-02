@@ -29,6 +29,7 @@ MonoBehaviour:
   - Salami
   - "Sa\xEFd"
   - Youssouf
+  Neighbor: {fileID: 0}
   MapName: Comoros
   IsLegacy: 0
   Voice: ar-XA-Standard-C

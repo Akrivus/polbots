@@ -29,6 +29,7 @@ MonoBehaviour:
   - Loukas
   - Irene
   - Demetris
+  Neighbor: {fileID: 0}
   MapName: Cyprus
   IsLegacy: 0
   Voice: he-IL-Standard-A

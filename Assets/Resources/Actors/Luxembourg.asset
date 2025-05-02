@@ -29,6 +29,7 @@ MonoBehaviour:
   - Alex
   - Luc
   - Romain
+  Neighbor: {fileID: 0}
   MapName: Luxembourg
   IsLegacy: 0
   Voice: de-DE-Standard-C

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Zurab
   - Giorgi
   - Elene
+  Neighbor: {fileID: 0}
   MapName: Georgia
   IsLegacy: 0
   Voice: ru-RU-Standard-B

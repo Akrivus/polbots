@@ -29,6 +29,7 @@ MonoBehaviour:
   - Ng
   - Chan
   - Teo
+  Neighbor: {fileID: 0}
   MapName: Singapore
   IsLegacy: 0
   Voice: ms-MY-Standard-B

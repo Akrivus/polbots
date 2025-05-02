@@ -29,6 +29,7 @@ MonoBehaviour:
   - Karin
   - "Bj\xF8rn"
   - Henning
+  Neighbor: {fileID: 0}
   MapName: Norway
   IsLegacy: 0
   Voice: nb-NO-Standard-B

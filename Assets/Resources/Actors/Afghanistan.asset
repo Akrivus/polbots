@@ -29,6 +29,7 @@ MonoBehaviour:
   - Amrullah
   - Yusuf
   - Abdullah
+  Neighbor: {fileID: 0}
   MapName: Afghanistan
   IsLegacy: 0
   Voice: pa-IN-Standard-B

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Youssra
   - Sherif
   - Mohamed
+  Neighbor: {fileID: 0}
   MapName: Egypt
   IsLegacy: 0
   Voice: ar-XA-Standard-B

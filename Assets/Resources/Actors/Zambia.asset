@@ -29,6 +29,7 @@ MonoBehaviour:
   - Catherine
   - Bishop
   - Grace
+  Neighbor: {fileID: 0}
   MapName: Zambia
   IsLegacy: 0
   Voice: de-DE-Standard-H

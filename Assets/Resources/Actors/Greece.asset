@@ -29,6 +29,7 @@ MonoBehaviour:
   - Marios
   - Constantinos
   - Dimitris
+  Neighbor: {fileID: 0}
   MapName: Greece
   IsLegacy: 0
   Voice: el-GR-Standard-A

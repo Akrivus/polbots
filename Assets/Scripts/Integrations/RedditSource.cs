@@ -24,7 +24,7 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
     [SerializeField]
     private TextAsset _prompt;
 
-    public List<string> SubReddits = new List<string>();
+    public Dictionary<string, string> SubReddits = new Dictionary<string, string>();
     public float MaxPostAgeInHours = 24;
     public int BatchMax = 20;
     public float BatchPeriodInMinutes = 60;
@@ -37,7 +37,8 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
 
     public void Configure(RedditConfigs c)
     {
-        SubReddits = c.SubReddits.Shuffle().ToList();
+        SubReddits = c.SubReddits.Shuffle()
+            .ToDictionary(k => k.Key, v => v.Value);
         MaxPostAgeInHours = c.MaxPostAgeInHours;
         BatchMax = c.BatchMax;
         BatchPeriodInMinutes = c.BatchPeriodInMinutes;
@@ -76,7 +77,8 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
     {
         for (var _ = i; _ < SubReddits.Count; _++)
         {
-            var range = await FetchAsync(SubReddits[_]);
+            var subreddit = SubReddits.ElementAt(_);
+            var range = await FetchAsync(subreddit.Key);
             ideas = new Queue<Idea>(range
                 .Take(BatchMax)
                 .Select(post => {
@@ -89,7 +91,7 @@ public class RedditSource : MonoBehaviour, IConfigurable<RedditConfigs>
                         post.Value<string>("author"),
                         post.Value<string>("subreddit_name_prefixed"),
                         post.Value<string>("id")
-                    ).RePrompt(_prompt)
+                    ).RePrompt(_prompt, subreddit.Value)
                 ).ToList());
             if (ideas.Count >= BatchMax || !Application.isPlaying)
                 break;

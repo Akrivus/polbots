@@ -29,6 +29,7 @@ MonoBehaviour:
   - Flaka
   - Artan
   - Nexhmedin
+  Neighbor: {fileID: 0}
   MapName: Kosovo
   IsLegacy: 0
   Voice: he-IL-Standard-D

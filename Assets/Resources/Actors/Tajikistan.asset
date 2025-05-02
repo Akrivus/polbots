@@ -29,6 +29,7 @@ MonoBehaviour:
   - Nozim
   - Muhammadsharif
   - Nematullo
+  Neighbor: {fileID: 0}
   MapName: Tajikistan
   IsLegacy: 0
   Voice: tr-TR-Standard-D

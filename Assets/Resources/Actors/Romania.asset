@@ -29,6 +29,7 @@ MonoBehaviour:
   - Andrei
   - Tudor
   - Emil
+  Neighbor: {fileID: 0}
   MapName: Romania
   IsLegacy: 0
   Voice: ro-RO-Standard-A

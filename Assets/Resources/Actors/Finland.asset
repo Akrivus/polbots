@@ -29,6 +29,7 @@ MonoBehaviour:
   - Kaisa
   - Jari
   - Hanna
+  Neighbor: {fileID: 0}
   MapName: Finland
   IsLegacy: 0
   Voice: fi-FI-Standard-A

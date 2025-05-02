@@ -29,6 +29,7 @@ MonoBehaviour:
   - Gisela
   - Martha
   - Carlos
+  Neighbor: {fileID: 0}
   MapName: Cuba
   IsLegacy: 0
   Voice: es-ES-Standard-A

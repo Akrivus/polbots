@@ -29,6 +29,7 @@ MonoBehaviour:
   - Dame
   - Sir
   - Margaret
+  Neighbor: {fileID: 0}
   MapName: United Kingdom
   IsLegacy: 1
   Voice: en-GB-Standard-B

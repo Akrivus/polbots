@@ -29,6 +29,7 @@ MonoBehaviour:
   - Svetlana
   - Maja
   - Vujica
+  Neighbor: {fileID: 0}
   MapName: Montenegro
   IsLegacy: 0
   Voice: sr-RS-Standard-A

@@ -32,6 +32,7 @@ MonoBehaviour:
   - Michael
   - Uwe
   - Ulrike
+  Neighbor: {fileID: 11400000, guid: bcde4ee57c191c648b5526c13104166f, type: 2}
   MapName: Germany
   IsLegacy: 1
   Voice: de-DE-Standard-E

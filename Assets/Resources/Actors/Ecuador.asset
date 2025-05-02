@@ -29,6 +29,7 @@ MonoBehaviour:
   - Cristina
   - Tatiana
   - "Hern\xE1n"
+  Neighbor: {fileID: 0}
   MapName: Ecuador
   IsLegacy: 0
   Voice: es-US-Standard-A

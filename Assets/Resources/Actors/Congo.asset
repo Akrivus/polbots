@@ -29,6 +29,7 @@ MonoBehaviour:
   - Sidonie
   - "L\xE9on"
   - Justine
+  Neighbor: {fileID: 0}
   MapName: Congo
   IsLegacy: 0
   Voice: fr-FR-Standard-A

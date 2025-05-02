@@ -30,6 +30,7 @@ MonoBehaviour:
   - Ewe
   - Eldrin
   - Daniel
+  Neighbor: {fileID: 0}
   MapName: Micronesia
   IsLegacy: 0
   Voice: en-US-Standard-B

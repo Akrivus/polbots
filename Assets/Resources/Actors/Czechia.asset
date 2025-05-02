@@ -30,6 +30,7 @@ MonoBehaviour:
   - Jana
   - "Ji\u0159\xED"
   - Hana
+  Neighbor: {fileID: 0}
   MapName: Czechia
   IsLegacy: 0
   Voice: de-DE-Standard-D

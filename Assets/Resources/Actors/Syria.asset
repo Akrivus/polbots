@@ -30,6 +30,7 @@ MonoBehaviour:
   - Abdurrahman
   - Hassan
   - Adnan
+  Neighbor: {fileID: 0}
   MapName: 
   IsLegacy: 0
   Voice: ar-XA-Standard-C

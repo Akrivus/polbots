@@ -30,6 +30,7 @@ MonoBehaviour:
   - Bouakham
   - Sisavath
   - Khamphouy
+  Neighbor: {fileID: 0}
   MapName: Laos
   IsLegacy: 0
   Voice: vi-VN-Standard-D

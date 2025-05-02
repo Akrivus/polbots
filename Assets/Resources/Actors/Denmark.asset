@@ -29,6 +29,7 @@ MonoBehaviour:
   - Sacha
   - Viggo
   - Clara
+  Neighbor: {fileID: 0}
   MapName: Denmark
   IsLegacy: 0
   Voice: da-DK-Standard-D

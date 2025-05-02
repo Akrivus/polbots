@@ -33,6 +33,7 @@ MonoBehaviour:
   - Heiko
   - "B\xE4rbel"
   - Hermann
+  Neighbor: {fileID: 0}
   MapName: Germany
   IsLegacy: 0
   Voice: de-DE-Standard-A

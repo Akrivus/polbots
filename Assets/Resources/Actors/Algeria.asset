@@ -29,6 +29,7 @@ MonoBehaviour:
   - Meriem
   - Samira
   - Hassan
+  Neighbor: {fileID: 0}
   MapName: Algeria
   IsLegacy: 0
   Voice: ar-XA-Standard-A

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Aristides
   - Baciro
   - Soraia
+  Neighbor: {fileID: 0}
   MapName: Guinea-Bissau
   IsLegacy: 0
   Voice: pt-PT-Standard-B

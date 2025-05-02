@@ -29,6 +29,7 @@ MonoBehaviour:
   - Catarina
   - Nuno
   - Fado
+  Neighbor: {fileID: 0}
   MapName: Portugal
   IsLegacy: 0
   Voice: pt-PT-Standard-A

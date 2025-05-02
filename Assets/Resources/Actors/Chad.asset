@@ -29,6 +29,7 @@ MonoBehaviour:
   - Kassim
   - Nato
   - Hamadou
+  Neighbor: {fileID: 0}
   MapName: Chad
   IsLegacy: 0
   Voice: ar-XA-Standard-C

@@ -29,6 +29,7 @@ MonoBehaviour:
   - Murod
   - Shahnoza
   - Umida
+  Neighbor: {fileID: 0}
   MapName: Uzbekistan
   IsLegacy: 0
   Voice: ru-RU-Standard-B

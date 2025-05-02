@@ -29,6 +29,7 @@ MonoBehaviour:
   - Nasser
   - Alia
   - Ali
+  Neighbor: {fileID: 0}
   MapName: Qatar
   IsLegacy: 0
   Voice: ar-XA-Standard-B

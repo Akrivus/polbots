@@ -30,6 +30,7 @@ MonoBehaviour:
   - "Nguy\u1EC5n"
   - "Nguy\u1EC5n"
   - "Nguy\u1EC5n"
+  Neighbor: {fileID: 0}
   MapName: Vietnam
   IsLegacy: 0
   Voice: vi-VN-Standard-C

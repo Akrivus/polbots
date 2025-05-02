@@ -30,6 +30,7 @@ MonoBehaviour:
   - "C\xFCneyt"
   - "G\xFCler"
   - Arif
+  Neighbor: {fileID: 0}
   MapName: Turkey
   IsLegacy: 0
   Voice: tr-TR-Standard-E

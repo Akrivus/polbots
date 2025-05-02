@@ -30,6 +30,7 @@ MonoBehaviour:
   - Houthi
   - Ansar
   - Saada
+  Neighbor: {fileID: 11400000, guid: a4682690d26d11549a361903681295c1, type: 2}
   MapName: Yemen
   IsLegacy: 1
   Voice: ar-XA-Standard-C

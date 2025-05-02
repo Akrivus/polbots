@@ -29,6 +29,7 @@ MonoBehaviour:
   - Moussa
   - Chantal
   - Marie-Claire
+  Neighbor: {fileID: 0}
   MapName: Cameroon
   IsLegacy: 0
   Voice: fr-FR-Standard-C

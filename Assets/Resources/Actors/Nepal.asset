@@ -29,6 +29,7 @@ MonoBehaviour:
   - Madhav
   - Pratiksha
   - Puspa
+  Neighbor: {fileID: 0}
   MapName: Nepal
   IsLegacy: 0
   Voice: hi-IN-Standard-A

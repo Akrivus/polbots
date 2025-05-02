@@ -29,6 +29,7 @@ MonoBehaviour:
   - Serdar
   - Maksudova
   - Arslan
+  Neighbor: {fileID: 0}
   MapName: Turkmenistan
   IsLegacy: 0
   Voice: tr-TR-Standard-C

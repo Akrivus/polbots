@@ -29,6 +29,7 @@ MonoBehaviour:
   - Nehemiah
   - Motlalentwa
   - Botswana
+  Neighbor: {fileID: 0}
   MapName: Botswana
   IsLegacy: 0
   Voice: en-GB-Standard-F

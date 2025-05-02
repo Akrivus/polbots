@@ -20,4 +20,9 @@ public class PolbotsRemoteControl : RemoteControl
     {
         ChatManager.SkipToEnd = true;
     }
+
+    private void Start()
+    {
+        ChatManager.Instance.RemoveActorsOnCompletion = false;
+    }
 }

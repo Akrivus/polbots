@@ -29,6 +29,7 @@ MonoBehaviour:
   - Lydia
   - Sibongile
   - Obert
+  Neighbor: {fileID: 0}
   MapName: Zimbabwe
   IsLegacy: 0
   Voice: en-GB-Standard-D

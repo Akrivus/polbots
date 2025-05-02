@@ -29,6 +29,7 @@ MonoBehaviour:
   - Robert
   - Marina
   - Peter
+  Neighbor: {fileID: 0}
   MapName: Austria
   IsLegacy: 0
   Voice: de-DE-Standard-B

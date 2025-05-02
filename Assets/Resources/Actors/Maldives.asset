@@ -29,6 +29,7 @@ MonoBehaviour:
   - Ahmed
   - Ahmed
   - Nazim
+  Neighbor: {fileID: 0}
   MapName: Maldives
   IsLegacy: 0
   Voice: en-IN-Standard-D

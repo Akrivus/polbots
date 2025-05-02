@@ -31,6 +31,7 @@ MonoBehaviour:
   - Badr
   - Fatima
   - Thani
+  Neighbor: {fileID: 0}
   MapName: United Arab Emirates
   IsLegacy: 0
   Voice: ar-XA-Standard-C

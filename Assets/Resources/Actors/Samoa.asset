@@ -29,6 +29,7 @@ MonoBehaviour:
   - Mata'afa
   - Tui
   - Va'aelua
+  Neighbor: {fileID: 0}
   MapName: Samoa
   IsLegacy: 0
   Voice: en-AU-Standard-B

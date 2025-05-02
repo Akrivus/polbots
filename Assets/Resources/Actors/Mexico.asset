@@ -29,6 +29,7 @@ MonoBehaviour:
   - Javier
   - Patricia
   - "L\xF3pez"
+  Neighbor: {fileID: 0}
   MapName: Mexico
   IsLegacy: 0
   Voice: es-US-Standard-C

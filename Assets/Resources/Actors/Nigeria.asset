@@ -29,6 +29,7 @@ MonoBehaviour:
   - Folorunsho
   - Abubakar
   - Africa
+  Neighbor: {fileID: 0}
   MapName: Nigeria
   IsLegacy: 0
   Voice: en-GB-Standard-D

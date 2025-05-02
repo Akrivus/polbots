@@ -29,6 +29,7 @@ MonoBehaviour:
   - Jean-Claude
   - Maxime
   - Fleur
+  Neighbor: {fileID: 0}
   MapName: Belgium
   IsLegacy: 0
   Voice: nl-BE-Standard-B

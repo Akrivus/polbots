@@ -29,6 +29,7 @@ MonoBehaviour:
   - Vigen
   - Ara
   - Sophie
+  Neighbor: {fileID: 0}
   MapName: Armenia
   IsLegacy: 0
   Voice: he-IL-Standard-A

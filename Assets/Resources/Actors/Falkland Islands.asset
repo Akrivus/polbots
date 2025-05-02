@@ -30,6 +30,7 @@ MonoBehaviour:
   - Diana
   - Richard
   - Emma
+  Neighbor: {fileID: 0}
   MapName: Falkland Islands
   IsLegacy: 0
   Voice: en-GB-Standard-F

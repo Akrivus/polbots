@@ -29,6 +29,7 @@ MonoBehaviour:
   - "R\u016Bta"
   - Jonas
   - Dainius
+  Neighbor: {fileID: 0}
   MapName: Lithuania
   IsLegacy: 0
   Voice: pl-PL-Standard-D

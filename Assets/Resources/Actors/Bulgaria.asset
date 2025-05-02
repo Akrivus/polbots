@@ -29,6 +29,7 @@ MonoBehaviour:
   - Maya
   - Ivo
   - Boyko
+  Neighbor: {fileID: 0}
   MapName: Bulgaria
   IsLegacy: 0
   Voice: bg-BG-Standard-A

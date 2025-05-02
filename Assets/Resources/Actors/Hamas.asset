@@ -29,6 +29,7 @@ MonoBehaviour:
   - Hossam
   - Raziq
   - Mounir
+  Neighbor: {fileID: 11400000, guid: 943200c4e952b77419fcc4cf87607322, type: 2}
   MapName: Palestine
   IsLegacy: 1
   Voice: he-IL-Standard-D

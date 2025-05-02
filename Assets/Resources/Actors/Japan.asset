@@ -29,6 +29,7 @@ MonoBehaviour:
   - Shinya
   - Katsunobu
   - Ryu
+  Neighbor: {fileID: 0}
   MapName: Japan
   IsLegacy: 0
   Voice: ja-JP-Standard-D
